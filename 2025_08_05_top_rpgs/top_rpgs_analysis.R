@@ -5,7 +5,9 @@
 
 # Load packages
 library(pacman)
-p_load(sensortowerR, tidyverse, gt, gtExtras, scales, lubridate)
+if (!requireNamespace("devtools", quietly = TRUE)) install.packages("devtools")
+devtools::load_all("../../sensortowerR")
+p_load(tidyverse, gt, gtExtras, scales, lubridate)
 
 # Load cached data
 cache_file <- ".cache/rpg_data_2025-08-05.rds"

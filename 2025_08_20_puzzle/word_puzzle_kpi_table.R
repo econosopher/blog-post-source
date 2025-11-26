@@ -5,40 +5,29 @@
 
 suppressPackageStartupMessages({
   library(pacman)
+  if (!requireNamespace("devtools", quietly = TRUE)) install.packages("devtools")
   devtools::load_all("../../sensortowerR")
   p_load(dplyr, gt, gtExtras, scales, glue, stringr)
 })
 
-# Load theme if available
+# Load theme if available (check both possible paths)
 tryCatch({
-  source("../../dof_theme/dof_gt_theme.R")
+  if (file.exists("../../dof-theme/dof_gt_theme.R")) {
+    source("../../dof-theme/dof_gt_theme.R", chdir = TRUE)
+  } else if (file.exists("../../dof_theme/dof_gt_theme.R")) {
+    source("../../dof_theme/dof_gt_theme.R")
+  }
 }, error = function(e) {
   message("Note: DOF theme not loaded")
 })
 
 message("=== Generating Word Puzzle Games KPI Table ===\n")
 
-# First get the data without enrichment to see raw structure
-raw_apps <- st_top_charts(
-  os = "unified",
-  category = 0,
-  custom_fields_filter_id = "603697f4241bc16eb8570d37",  # Word games filter
-  custom_tags_mode = "include_unified_apps",
-  measure = "DAU",
-  regions = "US",
-  date = "2025-07-21",
-  end_date = "2025-08-19",
-  limit = 10,
-  enrich_response = FALSE,  # Get raw data first
-  deduplicate_apps = FALSE
-)
-
-# Now enrich with full unnesting to get gender data
-# We'll manually control the enrichment to ensure we get demographics
+# Fetch enriched data in a single call (package handles enrichment automatically)
 top_apps <- st_top_charts(
   os = "unified",
   category = 0,
-  custom_fields_filter_id = "603697f4241bc16eb8570d37",
+  custom_fields_filter_id = "603697f4241bc16eb8570d37",  # Word games filter
   custom_tags_mode = "include_unified_apps",
   measure = "DAU",
   regions = "US",
