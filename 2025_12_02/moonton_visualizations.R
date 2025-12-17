@@ -428,8 +428,8 @@ portfolio_table <- gt_data %>%
   cols_label(
     display_name = "Game",
     Rank = "#",
-    subgenre = "Sub-Genre",
-    subgenre_rank = "Genre #",
+    subgenre = "Subgenre",
+    subgenre_rank = "Subgenre rank",
     Revenue_2025 = "2025",
     Revenue_2024 = "2024",
     Revenue_2023 = "2023",
