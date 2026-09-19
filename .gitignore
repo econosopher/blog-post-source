@@ -108,3 +108,5 @@ venv.bak/
 # Claude-specific files
 AGENT.md
 .agent/
+# Reviewed games-employment source data
+!2026-09-07-gaming-crash/employment/data/*.csv
