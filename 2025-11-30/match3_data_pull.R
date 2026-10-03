@@ -60,49 +60,52 @@ cat("=== STEP 1: Searching for apps by name ===\n\n")
 
 app_lookup_results <- map_dfr(games, function(game_name) {
   cat(glue("  Searching: '{game_name}'... "))
-  Sys.sleep(0.3)  # Rate limiting
+  Sys.sleep(0.3) # Rate limiting
 
-  tryCatch({
-    # Search for the app
-    result <- st_app_info(term = game_name, limit = 10)
+  tryCatch(
+    {
+      # Search for the app
+      result <- st_app_info(term = game_name, limit = 10)
 
-    if (nrow(result) > 0) {
-      # Find best match (exact or closest)
-      best_match <- result %>%
-        mutate(
-          name_lower = tolower(unified_app_name),
-          search_lower = tolower(game_name),
-          # Check for exact match or contains
-          exact_match = name_lower == search_lower,
-          contains_match = str_detect(name_lower, fixed(search_lower))
-        ) %>%
-        arrange(desc(exact_match), desc(contains_match)) %>%
-        slice(1)
+      if (nrow(result) > 0) {
+        # Find best match (exact or closest)
+        best_match <- result %>%
+          mutate(
+            name_lower = tolower(unified_app_name),
+            search_lower = tolower(game_name),
+            # Check for exact match or contains
+            exact_match = name_lower == search_lower,
+            contains_match = str_detect(name_lower, fixed(search_lower))
+          ) %>%
+          arrange(desc(exact_match), desc(contains_match)) %>%
+          slice(1)
 
-      found_name <- best_match$unified_app_name[1]
-      cat(glue("Found: '{found_name}'\n"))
+        found_name <- best_match$unified_app_name[1]
+        cat(glue("Found: '{found_name}'\n"))
 
-      tibble(
-        search_term = game_name,
-        app_name = found_name,
-        unified_app_id = best_match$unified_app_id[1]
-      )
-    } else {
-      cat("NOT FOUND\n")
+        tibble(
+          search_term = game_name,
+          app_name = found_name,
+          unified_app_id = best_match$unified_app_id[1]
+        )
+      } else {
+        cat("NOT FOUND\n")
+        tibble(
+          search_term = game_name,
+          app_name = NA_character_,
+          unified_app_id = NA_character_
+        )
+      }
+    },
+    error = function(e) {
+      cat(glue("ERROR: {e$message}\n"))
       tibble(
         search_term = game_name,
         app_name = NA_character_,
         unified_app_id = NA_character_
       )
     }
-  }, error = function(e) {
-    cat(glue("ERROR: {e$message}\n"))
-    tibble(
-      search_term = game_name,
-      app_name = NA_character_,
-      unified_app_id = NA_character_
-    )
-  })
+  )
 })
 
 cat("\n=== App Lookup Results ===\n")
@@ -140,14 +143,14 @@ for (i in seq_len(nrow(found_apps))) {
   cat(glue("[{i}/{nrow(found_apps)}] {app_name}\n"))
 
   for (os in c("ios", "android")) {
-    for (country in countries) {
-      cat(glue("  {os}/{country}... "))
+    cat(glue("  {os}... "))
 
-      tryCatch({
+    tryCatch(
+      {
         sales <- st_sales_report(
           os = os,
           unified_app_id = unified_id,
-          countries = country,
+          countries = countries,
           start_date = start_date,
           end_date = end_date,
           date_granularity = "monthly",
@@ -161,22 +164,22 @@ for (i in seq_len(nrow(found_apps))) {
               across(where(is.numeric) & matches("app_id|id$"), as.character),
               app_name = app_name,
               unified_app_id = unified_id,
-              country = country,
               platform = os
             )
 
-          key <- paste(unified_id, os, country, sep = "_")
+          key <- paste(unified_id, os, sep = "_")
           all_sales_data[[key]] <- sales
-          cat(glue("{nrow(sales)} rows\n"))
+          cat(glue("done ({nrow(sales)} rows)\n"))
         } else {
           cat("no data\n")
         }
-      }, error = function(e) {
+      },
+      error = function(e) {
         cat("error\n")
-      })
+      }
+    )
 
-      Sys.sleep(0.3)  # Rate limiting
-    }
+    Sys.sleep(0.3) # Rate limiting
   }
 }
 
@@ -197,20 +200,23 @@ cat("\n\n=== STEP 3: Fetching MAU/DAU time-series data ===\n\n")
 unified_ids <- found_apps$unified_app_id
 
 # Fetch MAU time-series for US (where most engagement data is available)
-mau_data <- tryCatch({
-  st_batch_metrics(
-    os = "unified",
-    app_list = unified_ids,
-    metrics = c("mau"),
-    date_range = list(start_date = start_date, end_date = end_date),
-    countries = "US",
-    granularity = "monthly",
-    verbose = TRUE
-  )
-}, error = function(e) {
-  cat(glue("Error fetching MAU data: {e$message}\n"))
-  tibble()
-})
+mau_data <- tryCatch(
+  {
+    st_batch_metrics(
+      os = "unified",
+      app_list = unified_ids,
+      metrics = c("mau"),
+      date_range = list(start_date = start_date, end_date = end_date),
+      countries = "US",
+      granularity = "monthly",
+      verbose = TRUE
+    )
+  },
+  error = function(e) {
+    cat(glue("Error fetching MAU data: {e$message}\n"))
+    tibble()
+  }
+)
 
 if (nrow(mau_data) > 0) {
   cat(glue("\nRetrieved MAU time-series: {nrow(mau_data)} rows\n"))
@@ -218,7 +224,8 @@ if (nrow(mau_data) > 0) {
   # Add app names back
   mau_data <- mau_data %>%
     left_join(found_apps %>% select(unified_app_id, app_name),
-              by = c("original_id" = "unified_app_id"))
+      by = c("original_id" = "unified_app_id")
+    )
 } else {
   cat("No MAU time-series data retrieved\n")
 }
@@ -229,16 +236,19 @@ if (nrow(mau_data) > 0) {
 cat("\n\n=== STEP 4: Fetching enriched metrics (retention, demographics) ===\n")
 cat("Note: These are aggregate SNAPSHOTS, not time-series data\n\n")
 
-enriched_data <- tryCatch({
-  st_app_enriched(
-    unified_app_ids = unified_ids,
-    os = "unified",
-    regions = "WW"
-  )
-}, error = function(e) {
-  cat(glue("Error fetching enriched data: {e$message}\n"))
-  tibble()
-})
+enriched_data <- tryCatch(
+  {
+    st_app_enriched(
+      unified_app_ids = unified_ids,
+      os = "unified",
+      regions = "WW"
+    )
+  },
+  error = function(e) {
+    cat(glue("Error fetching enriched data: {e$message}\n"))
+    tibble()
+  }
+)
 
 if (nrow(enriched_data) > 0) {
   cat(glue("Retrieved enriched data for {nrow(enriched_data)} apps\n"))
