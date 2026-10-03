@@ -1,0 +1,26 @@
+[
+  {
+    "country": "Israel",
+    "iso2": "IL",
+    "series_id": "gameis_deloitte_israeli_games_ecosystem_workers_context_only",
+    "year": 2017,
+    "value": 4000,
+    "unit": "workers",
+    "period": "reference year stated in later comparison; publication does not specify point-in-time/date",
+    "url": "https://mlp.startupnationcentral.org/rs/663-SRH-472/images/Israeli%20Video%20games%20industry%20report.pdf",
+    "source_locator": "PDF p. 24 (report pagination); p. 8 methodology/scope; p. 5 social-casino definition",
+    "definition": "Approximately 4,000 workers in a preliminary mapping of 170+ video-games companies operating in Israel. Company-based Israeli ecosystem estimate, not demonstrated Israel-located employment or FTEs. Dataset deliberately includes some cross-sector/supporting companies (data analytics, AR/VR); 2017 narrative says included casino-style games have no monetary payouts. Context only; do not aggregate as domestic jobs."
+  },
+  {
+    "country": "Israel",
+    "iso2": "IL",
+    "series_id": "gameis_deloitte_israeli_games_ecosystem_workers_context_only",
+    "year": 2021,
+    "value": 14000,
+    "unit": "workers",
+    "period": "calendar year 2021 as labelled by report; no count date stated",
+    "url": "https://www.vccafe.com/wp-content/uploads/2022/12/GameIS-Report-2021-0722.pdf",
+    "source_locator": "PDF p. 22 (report pagination); pp. 19-25 scope/examples; p. 23 source note",
+    "definition": "Approximately 14,000 workers in approximately 200 Israeli gaming-ecosystem companies (contemporaneous release states 190). No published employment-count methodology, worker-location rule, FTE definition or payroll geography. Scope includes game publishers/developers plus monetization, ad-tech and supportive technologies; selected firms include global operators and 888 online casino/sport/poker/bingo. Context only; do not aggregate as domestic jobs or as a real-money-gaming-excluded series."
+  }
+]

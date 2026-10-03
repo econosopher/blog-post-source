@@ -1,0 +1,52 @@
+[
+  {
+    "url": "https://www.neogames.fi/wp-content/uploads/2017/04/Finnish-Game-Industry-Report-2016_web_070529.pdf",
+    "title": "Finnish Game Industry Report 2016",
+    "publisher": "Neogames Finland",
+    "years": "end-2016; retrospective end-2015 and end-2014",
+    "methodology": "140 surveyed companies out of 250; all largest companies included; other available sources used for the 2,750 industry estimate.",
+    "assessment": "Authoritative historic total but explicitly includes entrepreneurs and employees working abroad, while excluding interns and freelancers. It gives an overseas share (around 18%), not a precise domestic headcount/FTE.",
+    "access_status": "full PDF downloaded",
+    "next_step": "Retain as a worldwide Finnish-studio total; do not create a precise domestic 2016 observation."
+  },
+  {
+    "url": "https://www.neogames.fi/wp-content/uploads/2019/04/FGIR-2018-Report.pdf",
+    "title": "The Game Industry of Finland Report 2018",
+    "publisher": "Neogames Finland",
+    "years": "end-2018; retrospective end-2016 and end-2014",
+    "methodology": "140 company interviews from October 2018 to February 2019, augmented by other sources; the interviewed companies were 63% of known companies and included all largest companies.",
+    "assessment": "Reports 3,200 FTE total and says totals include entrepreneurs and people employed abroad by Finnish studios. No overseas number, so the domestic total cannot be isolated.",
+    "access_status": "full PDF downloaded",
+    "next_step": "Keep 2018 as worldwide total only; do not derive domestic employment."
+  },
+  {
+    "url": "https://neogames.fi/wp-content/uploads/2021/06/FGIR-2020-Report.pdf",
+    "title": "The Game Industry of Finland Report 2020",
+    "publisher": "Neogames Finland",
+    "years": "end-2020; retrospective end-2018 and end-2016",
+    "methodology": "134 studio interviews conducted October 2020-February 2021, supplemented by other sources. Interviewed studios represented 67% of approximately 200 studios and well over 90% of employment.",
+    "assessment": "Reports a 3,600 FTE total including entrepreneurs and approximately 250 people employed abroad by Finnish studios. A 3,350 domestic figure is arithmetic only, because the overseas component is approximate and no independently stated domestic total appears.",
+    "access_status": "full PDF downloaded",
+    "next_step": "If retained, label 3,350 as an approximate derived domestic FTE, not an explicit count."
+  },
+  {
+    "url": "https://neogames.fi/wp-content/uploads/2023/05/FGIR2022report.pdf",
+    "title": "The Finnish Game Industry Report 2022",
+    "publisher": "Neogames Finland",
+    "years": "end-2022; retrospective end-2020",
+    "methodology": "134 game-development-studio interviews, supplemented by a comprehensive review and other available sources; interviewed studios were approximately 58% of 232 Finnish studios and covered a clear majority of employees and nearly all turnover.",
+    "assessment": "Decisive explicit domestic series point: approximately 3,700 FTE staff in Finland, plus 400 people in Finnish-owned studios abroad, with a 4,100 people total. Totals include entrepreneurs.",
+    "access_status": "full PDF downloaded",
+    "next_step": "Add a domestic 2022 FTE observation and preserve the separate overseas component and worldwide total."
+  },
+  {
+    "url": "https://neogames.fi/wp-content/uploads/2025/08/FinnishGameIndustryReport2024.pdf",
+    "title": "The Game Industry of Finland Report 2024",
+    "publisher": "Neogames Finland",
+    "years": "end-2024; retrospective end-2022/end-2020",
+    "methodology": "71 game-development-studio interviews plus public-source employee data for 185 studios; the interviewees were about 26% of 270 Finnish studios but included all major studios.",
+    "assessment": "Confirms the current explicit domestic point: approximately 3,800 FTE staff in Finland, plus 500 people in Finnish-owned studios abroad; total around 4,300 people. Totals include entrepreneurs.",
+    "access_status": "full PDF downloaded",
+    "next_step": "Use as the preferred current domestic FTE source; do not convert the overseas people count to FTE."
+  }
+]

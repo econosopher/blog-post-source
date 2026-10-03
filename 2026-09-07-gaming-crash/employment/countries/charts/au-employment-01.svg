@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="864pt" height="720pt" viewBox="0 0 864 720" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-10-03T20:20:05.204344</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.11.2, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 720 
+L 864 720 
+L 864 0 
+L 0 0 
+z
+" style="fill: #fbfbf8"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 120.96 468 
+L 786.24 468 
+L 786.24 151.2 
+L 120.96 151.2 
+z
+" style="fill: #fbfbf8"/>
+   </g>
+   <g id="matplotlib.axis_1">
+    <g id="xtick_1">
+     <g id="line2d_1"/>
+     <g id="text_1">
+      <text style="font-size: 11px; font-family: 'DejaVu Sans', 'Arial Unicode MS'; text-anchor: middle; fill: #566670" x="167.458065" y="484.357422" transform="rotate(-0 167.458065 484.357422)">2016</text>
+     </g>
+    </g>
+    <g id="xtick_2">
+     <g id="line2d_2"/>
+     <g id="text_2">
+      <text style="font-size: 11px; font-family: 'DejaVu Sans', 'Arial Unicode MS'; text-anchor: middle; fill: #566670" x="238.993548" y="484.357422" transform="rotate(-0 238.993548 484.357422)">2017</text>
+     </g>
+    </g>
+    <g id="xtick_3">
+     <g id="line2d_3"/>
+     <g id="text_3">
+      <text style="font-size: 11px; font-family: 'DejaVu Sans', 'Arial Unicode MS'; text-anchor: middle; fill: #566670" x="310.529032" y="484.357422" transform="rotate(-0 310.529032 484.357422)">2018</text>
+     </g>
+    </g>
+    <g id="xtick_4">
+     <g id="line2d_4"/>
+     <g id="text_4">
+      <text style="font-size: 11px; font-family: 'DejaVu Sans', 'Arial Unicode MS'; text-anchor: middle; fill: #566670" x="382.064516" y="484.357422" transform="rotate(-0 382.064516 484.357422)">2019</text>
+     </g>
+    </g>
+    <g id="xtick_5">
+     <g id="line2d_5"/>
+     <g id="text_5">
+      <text style="font-size: 11px; font-family: 'DejaVu Sans', 'Arial Unicode MS'; text-anchor: middle; fill: #566670" x="453.6" y="484.357422" transform="rotate(-0 453.6 484.357422)">2020</text>
+     </g>
+    </g>
+    <g id="xtick_6">
+     <g id="line2d_6"/>
+     <g id="text_6">
+      <text style="font-size: 11px; font-family: 'DejaVu Sans', 'Arial Unicode MS'; text-anchor: middle; fill: #566670" x="525.135484" y="484.357422" transform="rotate(-0 525.135484 484.357422)">2021</text>
+     </g>
+    </g>
+    <g id="xtick_7">
+     <g id="line2d_7"/>
+     <g id="text_7">
+      <text style="font-size: 11px; font-family: 'DejaVu Sans', 'Arial Unicode MS'; text-anchor: middle; fill: #566670" x="596.670968" y="484.357422" transform="rotate(-0 596.670968 484.357422)">2022</text>
+     </g>
+    </g>
+    <g id="xtick_8">
+     <g id="line2d_8"/>
+     <g id="text_8">
+      <text style="font-size: 11px; font-family: 'DejaVu Sans', 'Arial Unicode MS'; text-anchor: middle; fill: #566670" x="668.206452" y="484.357422" transform="rotate(-0 668.206452 484.357422)">2023</text>
+     </g>
+    </g>
+    <g id="xtick_9">
+     <g id="line2d_9"/>
+     <g id="text_9">
+      <text style="font-size: 11px; font-family: 'DejaVu Sans', 'Arial Unicode MS'; text-anchor: middle; fill: #566670" x="739.741935" y="484.357422" transform="rotate(-0 739.741935 484.357422)">2024</text>
+     </g>
+    </g>
+    <g id="text_10">
+     <text style="font-size: 11px; font-family: 'DejaVu Sans', 'Arial Unicode MS'; text-anchor: middle; fill: #566670" x="453.6" y="499.358281" transform="rotate(-0 453.6 499.358281)">Observation year; missing years remain gaps</text>
+    </g>
+   </g>
+   <g id="matplotlib.axis_2">
+    <g id="ytick_1">
+     <g id="line2d_10">
+      <path d="M 120.96 468 
+L 786.24 468 
+" clip-path="url(#p33be0e6ca9)" style="fill: none; stroke: #dce2e4; stroke-width: 0.7; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_11"/>
+     <g id="text_11">
+      <text style="font-size: 12px; font-family: 'DejaVu Sans', 'Arial Unicode MS'; text-anchor: end; fill: #566670" x="112.96" y="472.558594" transform="rotate(-0 112.96 472.558594)">0</text>
+     </g>
+    </g>
+    <g id="ytick_2">
+     <g id="line2d_12">
+      <path d="M 120.96 387.675456 
+L 786.24 387.675456 
+" clip-path="url(#p33be0e6ca9)" style="fill: none; stroke: #dce2e4; stroke-width: 0.7; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_13"/>
+     <g id="text_12">
+      <text style="font-size: 12px; font-family: 'DejaVu Sans', 'Arial Unicode MS'; text-anchor: end; fill: #566670" x="112.96" y="392.23405" transform="rotate(-0 112.96 392.23405)">800</text>
+     </g>
+    </g>
+    <g id="ytick_3">
+     <g id="line2d_14">
+      <path d="M 120.96 307.350913 
+L 786.24 307.350913 
+" clip-path="url(#p33be0e6ca9)" style="fill: none; stroke: #dce2e4; stroke-width: 0.7; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_15"/>
+     <g id="text_13">
+      <text style="font-size: 12px; font-family: 'DejaVu Sans', 'Arial Unicode MS'; text-anchor: end; fill: #566670" x="112.96" y="311.909507" transform="rotate(-0 112.96 311.909507)">1,600</text>
+     </g>
+    </g>
+    <g id="ytick_4">
+     <g id="line2d_16">
+      <path d="M 120.96 227.026369 
+L 786.24 227.026369 
+" clip-path="url(#p33be0e6ca9)" style="fill: none; stroke: #dce2e4; stroke-width: 0.7; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_17"/>
+     <g id="text_14">
+      <text style="font-size: 12px; font-family: 'DejaVu Sans', 'Arial Unicode MS'; text-anchor: end; fill: #566670" x="112.96" y="231.584963" transform="rotate(-0 112.96 231.584963)">2,400</text>
+     </g>
+    </g>
+    <g id="text_15">
+     <text style="font-size: 11px; font-family: 'DejaVu Sans', 'Arial Unicode MS'; fill: #566670" transform="translate(44.457441 353.126484) rotate(-90)">Source full-time</text>
+     <text style="font-size: 11px; font-family: 'DejaVu Sans', 'Arial Unicode MS'; fill: #566670" transform="translate(57.660449 380.046406) rotate(-90)">employment, incl. FTEs +</text>
+     <text style="font-size: 11px; font-family: 'DejaVu Sans', 'Arial Unicode MS'; fill: #566670" transform="translate(70.862598 340.934531) rotate(-90)">contractors</text>
+    </g>
+   </g>
+   <g id="patch_3">
+    <path d="M 120.96 468 
+L 786.24 468 
+" style="fill: none; stroke: #dce2e4; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="text_16">
+    <text style="font-size: 11px; font-family: 'DejaVu Sans', 'Arial Unicode MS'; text-anchor: middle; fill: #23313a" x="167.458065" y="371.458418" transform="rotate(-0 167.458065 371.458418)">842</text>
+   </g>
+   <g id="text_17">
+    <text style="font-size: 11px; font-family: 'DejaVu Sans', 'Arial Unicode MS'; text-anchor: middle; fill: #23313a" x="238.993548" y="396.823529" transform="rotate(-0 238.993548 396.823529)">928</text>
+   </g>
+   <g id="text_18">
+    <text style="font-size: 11px; font-family: 'DejaVu Sans', 'Arial Unicode MS'; text-anchor: middle; fill: #23313a" x="382.064516" y="327.982759" transform="rotate(-0 382.064516 327.982759)">1,275</text>
+   </g>
+   <g id="text_19">
+    <text style="font-size: 11px; font-family: 'DejaVu Sans', 'Arial Unicode MS'; text-anchor: middle; fill: #23313a" x="453.6" y="364.994929" transform="rotate(-0 453.6 364.994929)">1,245</text>
+   </g>
+   <g id="text_20">
+    <text style="font-size: 11px; font-family: 'DejaVu Sans', 'Arial Unicode MS'; text-anchor: middle; fill: #23313a" x="525.135484" y="322.761663" transform="rotate(-0 525.135484 322.761663)">1,327</text>
+   </g>
+   <g id="text_21">
+    <text style="font-size: 11px; font-family: 'DejaVu Sans', 'Arial Unicode MS'; text-anchor: middle; fill: #23313a" x="596.670968" y="278.74645" transform="rotate(-0 596.670968 278.74645)">2,104</text>
+   </g>
+   <g id="text_22">
+    <text style="font-size: 11px; font-family: 'DejaVu Sans', 'Arial Unicode MS'; text-anchor: middle; fill: #23313a" x="668.206452" y="209.20284" transform="rotate(-0 668.206452 209.20284)">2,458</text>
+   </g>
+   <g id="text_23">
+    <text style="font-size: 11px; font-family: 'DejaVu Sans', 'Arial Unicode MS'; text-anchor: middle; fill: #23313a" x="739.741935" y="242.5" transform="rotate(-0 739.741935 242.5)">2,465</text>
+   </g>
+   <g id="text_24">
+    <text style="font-weight: 700; font-size: 16px; font-family: 'DejaVu Sans', 'Arial Unicode MS'; text-anchor: start; fill: #23313a" x="120.96" y="134.2" transform="rotate(-0 120.96 134.2)">IGEA full-time employment incl. contractors</text>
+   </g>
+   <g id="PathCollection_1">
+    <defs>
+     <path id="m09108c2f26" d="M 0 3.937004 
+C 1.044106 3.937004 2.045588 3.522176 2.783882 2.783882 
+C 3.522176 2.045588 3.937004 1.044106 3.937004 0 
+C 3.937004 -1.044106 3.522176 -2.045588 2.783882 -2.783882 
+C 2.045588 -3.522176 1.044106 -3.937004 0 -3.937004 
+C -1.044106 -3.937004 -2.045588 -3.522176 -2.783882 -2.783882 
+C -3.522176 -2.045588 -3.937004 -1.044106 -3.937004 0 
+C -3.937004 1.044106 -3.522176 2.045588 -2.783882 2.783882 
+C -2.045588 3.522176 -1.044106 3.937004 0 3.937004 
+z
+" style="stroke: #245b80"/>
+    </defs>
+    <g clip-path="url(#p33be0e6ca9)">
+     <use xlink:href="#m09108c2f26" x="167.458065" y="383.458418" style="fill: #245b80; stroke: #245b80"/>
+    </g>
+   </g>
+   <g id="PathCollection_2">
+    <g clip-path="url(#p33be0e6ca9)">
+     <use xlink:href="#m09108c2f26" x="238.993548" y="374.823529" style="fill: #245b80; stroke: #245b80"/>
+    </g>
+   </g>
+   <g id="PathCollection_3">
+    <g clip-path="url(#p33be0e6ca9)">
+     <use xlink:href="#m09108c2f26" x="382.064516" y="339.982759" style="fill: #245b80; stroke: #245b80"/>
+    </g>
+   </g>
+   <g id="PathCollection_4">
+    <g clip-path="url(#p33be0e6ca9)">
+     <use xlink:href="#m09108c2f26" x="453.6" y="342.994929" style="fill: #245b80; stroke: #245b80"/>
+    </g>
+   </g>
+   <g id="PathCollection_5">
+    <g clip-path="url(#p33be0e6ca9)">
+     <use xlink:href="#m09108c2f26" x="525.135484" y="334.761663" style="fill: #245b80; stroke: #245b80"/>
+    </g>
+   </g>
+   <g id="PathCollection_6">
+    <g clip-path="url(#p33be0e6ca9)">
+     <use xlink:href="#m09108c2f26" x="596.670968" y="256.74645" style="fill: #245b80; stroke: #245b80"/>
+    </g>
+   </g>
+   <g id="PathCollection_7">
+    <g clip-path="url(#p33be0e6ca9)">
+     <use xlink:href="#m09108c2f26" x="668.206452" y="221.20284" style="fill: #245b80; stroke: #245b80"/>
+    </g>
+   </g>
+   <g id="PathCollection_8">
+    <g clip-path="url(#p33be0e6ca9)">
+     <use xlink:href="#m09108c2f26" x="739.741935" y="220.5" style="fill: #245b80; stroke: #245b80"/>
+    </g>
+   </g>
+  </g>
+  <g id="text_25">
+   <text style="font-weight: 700; font-size: 27px; font-family: 'DejaVu Sans', 'Arial Unicode MS'; text-anchor: start; fill: #23313a" x="64.8" y="41.76" transform="rotate(-0 64.8 41.76)">Australia</text>
+  </g>
+  <g id="text_26">
+   <text style="font-size: 15px; font-family: 'DejaVu Sans', 'Arial Unicode MS'; text-anchor: start; fill: #566670" x="64.8" y="75.6" transform="rotate(-0 64.8 75.6)">Employment evidence</text>
+  </g>
+  <g id="text_27">
+   <text style="font-size: 10.4px; font-family: 'DejaVu Sans', 'Arial Unicode MS'; fill: #23313a" transform="translate(64.8 553.74975)">survey sample. Financial years ending 30 June. Changing studio samples; no continuous population estimate or index.</text>
+   <text style="font-size: 10.4px; font-family: 'DejaVu Sans', 'Arial Unicode MS'; fill: #23313a" transform="translate(64.8 568.165125)">Observed: 2016-2024; exact periods and vintages in plotted_values.csv. Sources: IGEA; Bond University (edition 2024).</text>
+  </g>
+  <g id="text_28">
+   <text style="font-size: 9px; font-family: 'DejaVu Sans', 'Arial Unicode MS'; text-anchor: start; fill: #566670" x="64.8" y="691.2" transform="rotate(-0 64.8 691.2)">GAME EMPLOYMENT  ·  SOURCES AVAILABLE BY 9 SEP 2026</text>
+  </g>
+  <g id="text_29">
+   <text style="font-size: 9px; font-family: 'DejaVu Sans', 'Arial Unicode MS'; text-anchor: end; fill: #566670" x="799.2" y="691.2" transform="rotate(-0 799.2 691.2)">au-employment-01</text>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p33be0e6ca9">
+   <rect x="120.96" y="151.2" width="665.28" height="316.8"/>
+  </clipPath>
+ </defs>
+</svg>

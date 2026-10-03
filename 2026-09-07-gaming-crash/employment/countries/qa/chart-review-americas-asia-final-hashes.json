@@ -1,0 +1,82 @@
+[
+  {
+    "chart_id": "gb-composition-01",
+    "sha256": "f7b0bd3ecb433da22f6ee9f1f9d3f59e3e9efbe11cfdd13b03a3dd10e98949e4"
+  },
+  {
+    "chart_id": "gb-composition-02",
+    "sha256": "ffb7a2aa2c8cff96e597c1b9f6f267b6fce52268d10627a4b6fb5fc2e9841073"
+  },
+  {
+    "chart_id": "gb-composition-03",
+    "sha256": "93545f7be6cfb4ed268aa8077a8a02d4eff5038054dbb2cef50f127dd9b10981"
+  },
+  {
+    "chart_id": "gb-employment-03",
+    "sha256": "6ecd7d27833ac5fa36b65cf23c9e518cf567f312521795e2e95592ef233b365e"
+  },
+  {
+    "chart_id": "cn-employment-01",
+    "sha256": "c10d9dd6159144b9773c04daf2cfc1988ba5e71a6b715c0b10e2323478aaa850"
+  },
+  {
+    "chart_id": "jp-employment-01",
+    "sha256": "2b5ef3c27c411a868dc9e7157f4fc7db6ed0f2e107ae0724992a68171c43fa51"
+  },
+  {
+    "chart_id": "jp-composition-02",
+    "sha256": "9fa3c616c34e52ad6f2f9bd685f2dd9ccadc393af8d7303d132b747d2c93281f"
+  },
+  {
+    "chart_id": "jp-composition-03",
+    "sha256": "3506385d3839665ce952a7242c2a2533b5fe14dfe7167cc9ae9394569f683ac0"
+  },
+  {
+    "chart_id": "jp-composition-04",
+    "sha256": "b1cc5f68a01c97db61e121aad2962c69300db933243a059d70d768c88d678385"
+  },
+  {
+    "chart_id": "kr-employment-01",
+    "sha256": "958857ee04e3f372da7968e0b36347f1279d6bd81d5f557e8c90b19187c94b43"
+  },
+  {
+    "chart_id": "kr-composition-01",
+    "sha256": "eca0859c7cfdf80a0037a763d7090de24aaf3bc33b356fba917edbb8e491aa1a"
+  },
+  {
+    "chart_id": "tw-employment-01",
+    "sha256": "d18e450ebcb9f0792088ac5264743f1d594094bb77db86cb52ae4f9a08b00370"
+  },
+  {
+    "chart_id": "ph-employment-01",
+    "sha256": "604e9aa80bfd412638c31414760ae7c22aef3330eb8701bc0d19d796b9c3c01e"
+  },
+  {
+    "chart_id": "us-employment-01",
+    "sha256": "a701120f320cceebc4ab00a1a7a7582e9be406a9c9e998009a6482d077850e97"
+  },
+  {
+    "chart_id": "us-employment-02",
+    "sha256": "d77819e9e070f4dee3b1d34b5ec1b646c4bd8b0fddafd858457e1bd02468d8ef"
+  },
+  {
+    "chart_id": "us-employment-03",
+    "sha256": "cbc4451821dc04ed5d6fba846eb0bdecfa91ad448f2f23558a8834b04fd73c9d"
+  },
+  {
+    "chart_id": "us-employment-04",
+    "sha256": "8dc770d4b91bb9290c0344e764d705697b2e332207659ec2eb1d8ec4f0ca789c"
+  },
+  {
+    "chart_id": "us-employment-05",
+    "sha256": "82bd6f2aa5878528851ee2ed7df3641a41cfa05715d97c9642022f90030757ed"
+  },
+  {
+    "chart_id": "ca-composition-02",
+    "sha256": "c14aea8234107f48fabe1efadc06baa290a4a0446800786113e934a2918cfbb3"
+  },
+  {
+    "chart_id": "br-composition-03",
+    "sha256": "a2e37ebfef3643b4682c4c75b0dd804d4e97c17c0e152cb32a195131ca6e9736"
+  }
+]

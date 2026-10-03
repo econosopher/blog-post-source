@@ -1,0 +1,53 @@
+{
+  "countries_in_inventory": 31,
+  "dated_countries_plotted": 17,
+  "suspended": [
+    "CY"
+  ],
+  "suspended_series_ids": [
+    "CY_local"
+  ],
+  "undated": 3,
+  "gaps": 4,
+  "shared_x_limits": [
+    2006.5,
+    2026.7
+  ],
+  "regional_log_y_limits": {
+    "Europe": [
+      398.1071705534973,
+      39810.71705534969
+    ],
+    "Asia": [
+      25118.864315095823,
+      398107.1705534969
+    ],
+    "Americas": [
+      2511.88643150958,
+      100000.0
+    ],
+    "Oceania": [
+      251.18864315095797,
+      3981.0717055349733
+    ]
+  },
+  "hidden_low_point_countries": [
+    "FI",
+    "IL",
+    "JP",
+    "NO",
+    "SG",
+    "TR"
+  ],
+  "reviewed_segments_integrated": 12,
+  "plotted_observations": 159,
+  "connections": 142,
+  "result": "PASS",
+  "edge_policy_validation": "PASS",
+  "extension_decisions": {
+    "plotted": 49,
+    "withheld by explicit scope decision": 24,
+    "hidden country with two or fewer dated points by user request": 10,
+    "reviewed alternative; omitted to avoid duplicate measure": 1
+  }
+}

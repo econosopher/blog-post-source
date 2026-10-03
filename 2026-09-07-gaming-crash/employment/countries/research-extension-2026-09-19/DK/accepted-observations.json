@@ -1,0 +1,44 @@
+[
+  {
+    "country": "Denmark",
+    "iso2": "DK",
+    "series_id": "DK_core_game_producers_v2009",
+    "year": 2008,
+    "value": 486,
+    "unit": "FTE",
+    "period": "annual, 2008",
+    "url": "https://pro-f.dk/sites/default/files/2021-10/Danske%20Indholdsproducenter%202009_1_1.pdf",
+    "source_locator": "PDF p26 / printed p29, Table8; FTE definition in employment narrative and methodology",
+    "status": "accepted historical payroll FTE vintage",
+    "definition": "Employees in the report's selected core computer-game producer companies, expressed as FTE ('antal medarbejdere'). The report defines games as console, PC, AAA, mobile and browser games; it excludes non-producer support functions and self-employed freelancers.",
+    "method_break": true,
+    "trend_eligible": true,
+    "chart_eligible": true,
+    "allowed_trend_years": [
+      2008,
+      2009
+    ],
+    "trend_review": "Source-native2008/2009 core game-producer payroll FTE pair. Selected company population excludes freelancers/support firms. No joins to later report vintages."
+  },
+  {
+    "country": "Denmark",
+    "iso2": "DK",
+    "series_id": "DK_core_game_producers_v2009",
+    "year": 2009,
+    "value": 552,
+    "unit": "FTE",
+    "period": "annual, 2009",
+    "url": "https://pro-f.dk/sites/default/files/2021-10/Danske%20Indholdsproducenter%202009_1_1.pdf",
+    "source_locator": "PDF p26 / printed p29, Table8; FTE definition in employment narrative and methodology",
+    "status": "accepted historical payroll FTE vintage",
+    "definition": "Employees in the report's selected core computer-game producer companies, expressed as FTE ('antal medarbejdere'). The report identifies 72 computer-game developers and states the count is converted to FTE.",
+    "method_break": true,
+    "trend_eligible": true,
+    "chart_eligible": true,
+    "allowed_trend_years": [
+      2008,
+      2009
+    ],
+    "trend_review": "Source-native2008/2009 core game-producer payroll FTE pair. Selected company population excludes freelancers/support firms. No joins to later report vintages."
+  }
+]

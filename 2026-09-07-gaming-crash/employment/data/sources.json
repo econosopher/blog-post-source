@@ -1,0 +1,51 @@
+{
+  "US_esa2014": {
+    "publisher": "ESA / Stephen Siwek",
+    "title": "Video Games in the 21st Century: The 2014 Report",
+    "url": "https://www.igea.net/wp-content/uploads/2014/11/VideoGames21stCentury_2014.pdf",
+    "locator": "Tables D-1 and D-2",
+    "notes": "Original report preserved by IGEA. Table D-1 labels thresholded count2011; Table D-2 labels all-establishment count2012."
+  },
+  "US_esa2017": {
+    "publisher": "ESA / Stephen Siwek",
+    "title": "Video Games in the 21st Century: 2017 Report",
+    "url": "https://www.theesa.com/wp-content/uploads/2024/02/2017-EIR-National-Report.pdf",
+    "locator": "Tables E-2 and C-2",
+    "notes": "2013-2015 mapping comparison; 2016 wider reporting universe. Some locations do not report employment."
+  },
+  "US_esa2020": {
+    "publisher": "ESA / TEConomy",
+    "title": "2020 Economic Impact Report",
+    "url": "https://www.theesa.com/wp-content/uploads/2024/02/Video-Games-in-the-21st-Century-2020-Economic-Impact-Report-Final.pdf",
+    "locator": "2019 industry employment tables",
+    "notes": "Five-sector broad employment measure; separate from direct developer/publisher-only observations."
+  },
+  "US_esa2024": {
+    "publisher": "ESA / TEConomy",
+    "title": "2024 Economic Impact Report",
+    "url": "https://www.theesa.com/wp-content/uploads/2024/02/EIR_ESA_2024.pdf",
+    "locator": "Executive summary and sector employment tables",
+    "notes": "2023 reference year; software is a subset of broad employment."
+  },
+  "US_esa2026": {
+    "publisher": "ESA / TEConomy",
+    "title": "2026 Economic Impact Report",
+    "url": "https://www.theesa.com/wp-content/uploads/2026/04/EIR_2026_FINAL.pdf",
+    "locator": "Figure ES-1, p4; methodology discussion p7",
+    "notes": "2025 employment, most records captured Nov-Dec. Coverage and tools improved versus2023; not a fixed panel."
+  },
+  "TR_egdf2024": {
+    "publisher": "EGDF / Video Games Europe; Turkey data from TOGED",
+    "title": "2024 European Video Games Industry Insights Report",
+    "url": "https://www.egdf.eu/wp-content/uploads/2026/08/VGE_EGDF-report2024_0821.pdf",
+    "locator": "Turkey panel p58; questionnaire p78",
+    "notes": "Published Aug2026. Questionnaire requests FTE including entrepreneurs/in-house freelancers; remote workers abroad assigned to employer-registration country. Foreign subsidiaries/subcontractor companies excluded."
+  },
+  "TR_tobb2026": {
+    "publisher": "TOBB / TOGED",
+    "title": "Oyun Ekosistemi Değerlendirme Toplantısı Sonuç Raporu",
+    "url": "https://files.toged.org/creative-turkiye-oyun-ekosistemi-toplantisi-sonuc-raporu.pdf",
+    "locator": "PDFpp5,12-13",
+    "notes": "25000direct employment claim; workforce reference date and counting method unresolved. Excluded from dated observations."
+  }
+}

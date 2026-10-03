@@ -1,0 +1,90 @@
+[
+  {
+    "url": "https://www.abs.gov.au/AUSSTATS/abs%40.nsf/mf/8515.0",
+    "title": "ABS 2006-07 digital game development",
+    "publisher": "Australian Bureau of Statistics",
+    "years": "2007",
+    "methodology": "Census of identified businesses primarily developing games; headcount at last June pay period.",
+    "assessment": "Accept 1431 people as source-native snapshot; first ABS games collection.",
+    "access_status": "Primary page inspected with web; local HTML saved",
+    "next_step": "Retain separately from differently defined surveys."
+  },
+  {
+    "url": "https://www.abs.gov.au/AUSSTATS/abs%40.nsf/Lookup/8515.0Explanatory%20Notes12006-07?OpenDocument",
+    "title": "ABS 2007 explanatory notes",
+    "publisher": "Australian Bureau of Statistics",
+    "years": "2007",
+    "methodology": "Industry lists plus research matched to business register; ABN unit.",
+    "assessment": "No sampling error does not remove nonresponse, frame or reporting error.",
+    "access_status": "Primary page inspected with web; local HTML saved",
+    "next_step": "Retain separately from differently defined surveys."
+  },
+  {
+    "url": "https://www.abs.gov.au/AUSSTATS/abs%40.nsf/Previousproducts/8679.0Main%20Features32011-12",
+    "title": "ABS 2011-12 summary",
+    "publisher": "Australian Bureau of Statistics",
+    "years": "2012",
+    "methodology": "Digital game developers; end-June headcount.",
+    "assessment": "Accept 581 people, not FTE.",
+    "access_status": "Primary page inspected with web; local HTML saved",
+    "next_step": "Retain separately from differently defined surveys."
+  },
+  {
+    "url": "https://www.abs.gov.au/AUSSTATS/abs%40.nsf/Lookup/8679.0Explanatory%20Notes12011-12",
+    "title": "ABS 2012 explanatory notes",
+    "publisher": "Australian Bureau of Statistics",
+    "years": "2007,2012",
+    "methodology": "Census of businesses mainly developing games; industry lists and research. Last June pay period.",
+    "assessment": "Excludes support studios and gambling-machine producers. Historical comparisons require caution; not designed for accurate change estimates.",
+    "access_status": "Primary page inspected with web; local HTML saved",
+    "next_step": "Retain separately from differently defined surveys."
+  },
+  {
+    "url": "https://www.abs.gov.au/statistics/industry/technology-and-innovation/film-television-and-digital-games-australia",
+    "title": "ABS release archive",
+    "publisher": "Australian Bureau of Statistics",
+    "years": "2012,2016,2022",
+    "methodology": "Semi-regular industry collection.",
+    "assessment": "2021-22 remains listed latest; earlier film releases do not imply pre2007 games coverage.",
+    "access_status": "Primary page inspected with web; local HTML saved",
+    "next_step": "Retain separately from differently defined surveys."
+  },
+  {
+    "url": "https://igea.net/2016/12/australian-game-development-industry-a-significant-export-opportunity/",
+    "title": "IGEA first development survey",
+    "publisher": "IGEA",
+    "years": "2016",
+    "methodology": "63 qualifying respondents, minimum AUD25000 games-production turnover; online distribution to over225 companies.",
+    "assessment": "Confirms existing842; historical sample is not a complete census.",
+    "access_status": "Primary page inspected with web; local save failed: HTTPError",
+    "next_step": "Retain separately from differently defined surveys."
+  },
+  {
+    "url": "https://igea.net/2018/01/australian-game-developers-march-generating-118-5m-spite-limited-recognition-support/",
+    "title": "IGEA 2017 survey",
+    "publisher": "IGEA",
+    "years": "2017",
+    "methodology": "114 usable responses from distribution over280 companies; source states FTE.",
+    "assessment": "Confirms existing928; changed respondent pool.",
+    "access_status": "Primary page inspected with web; local save failed: HTTPError",
+    "next_step": "Retain separately from differently defined surveys."
+  },
+  {
+    "url": "https://igea.net/2026/03/agds-2025/",
+    "title": "IGEA FY2025 release",
+    "publisher": "IGEA",
+    "years": "2025",
+    "methodology": "Survey plus supplementary sources introduced this edition.",
+    "assessment": "Confirms existing2443 full-time positions; no new accepted row; preserve augmented-series break.",
+    "access_status": "Primary page inspected with web; local save failed: HTTPError",
+    "next_step": "Retain separately from differently defined surveys."
+  },
+  {
+    "url": "https://www.abs.gov.au/AUSSTATS/abs%40.nsf/mf/8515.0",
+    "title": "Main historical marker review",
+    "years": "2007",
+    "methodology": "Source-native employment unit and reference date; changing coverage.",
+    "assessment": "Rechecked original release and period. Isolated markers only; no historical joins.",
+    "access_status": "Primary webpage read"
+  }
+]

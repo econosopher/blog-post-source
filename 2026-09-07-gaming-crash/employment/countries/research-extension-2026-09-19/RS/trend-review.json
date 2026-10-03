@@ -1,0 +1,28 @@
+{
+  "review_date": "2026-09-19",
+  "decision": "Historical SGA estimates retained as isolated contextual markers. Unresolved expansion method and overseas-worker treatment prevent historical joins. Preserve approximate/plus qualifiers; PwC revenue work does not validate workforce estimates.",
+  "original_packets_modified": false,
+  "observations": [
+    {
+      "year": 2021,
+      "series_id": "RS_national_estimate_historical",
+      "chart_eligible": true,
+      "trend_eligible": false,
+      "marker_only": true
+    },
+    {
+      "year": 2022,
+      "series_id": "RS_national_estimate_historical",
+      "chart_eligible": true,
+      "trend_eligible": false,
+      "marker_only": true
+    },
+    {
+      "year": 2023,
+      "series_id": "RS_national_estimate_historical",
+      "chart_eligible": true,
+      "trend_eligible": false,
+      "marker_only": true
+    }
+  ]
+}

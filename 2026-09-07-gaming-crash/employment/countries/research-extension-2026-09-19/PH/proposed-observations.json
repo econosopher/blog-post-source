@@ -1,0 +1,44 @@
+[
+  {
+    "country": "Philippines",
+    "iso2": "PH",
+    "series_id": "PH_dost_2013_current_estimate",
+    "year": 2013,
+    "value": 4000,
+    "display_value": "estimated4,000",
+    "unit": "workers",
+    "period": "Current estimate in DOST release8July2013; precise stock date unstated",
+    "url": "https://www.dost.gov.ph/knowledge-resources/news/33-2013-news/137-ready-set-game-get-to-know-the-game-development-industry-at-the-s-t-week.html",
+    "source_locator": "Published8July2013, paragraph quoting DOST-ICTO deputy executive director Monchito Ibrahim",
+    "definition": "Official contemporary game-development industry estimate; sampling, worker status and contractor treatment unspecified. Later10000 and15000 figures are targets, not observations.",
+    "trend_eligible": false
+  },
+  {
+    "country": "Philippines",
+    "iso2": "PH",
+    "series_id": "PH_boi_ibpap_roadmap2028_historical",
+    "year": 2016,
+    "value": 3000,
+    "display_value": "3,000 (chart rounded)",
+    "unit": "FTE",
+    "period": "2016 historical roadmap baseline",
+    "url": "https://admin.ibpap.org/storage/hub-resources/1fntWJGQKvZg4CfwP4yfXs0Jr1n85DVR1vYXJvSn.pdf",
+    "source_locator": "Original IBPAP Roadmap2028 executive summary PDF/printed p34, headcount chart, FTE thousands; corroborated in BOI profile p1.",
+    "definition": "Game-development services workforce, BOI reproduction of Philippine IT-BPM Roadmap2028. Values3.0 and4.7 thousand; method and remote geography not exposed.2022E and2028F scenario endpoints excluded.",
+    "trend_eligible": false
+  },
+  {
+    "country": "Philippines",
+    "iso2": "PH",
+    "series_id": "PH_boi_ibpap_roadmap2028_historical",
+    "year": 2021,
+    "value": 4700,
+    "display_value": "4,700 (chart rounded)",
+    "unit": "FTE",
+    "period": "2021 historical roadmap baseline",
+    "url": "https://admin.ibpap.org/storage/hub-resources/1fntWJGQKvZg4CfwP4yfXs0Jr1n85DVR1vYXJvSn.pdf",
+    "source_locator": "Original IBPAP Roadmap2028 executive summary PDF/printed p34, headcount chart, FTE thousands; corroborated in BOI profile p1.",
+    "definition": "Game-development services workforce, BOI reproduction of Philippine IT-BPM Roadmap2028. Values3.0 and4.7 thousand; method and remote geography not exposed.2022E and2028F scenario endpoints excluded.",
+    "trend_eligible": false
+  }
+]

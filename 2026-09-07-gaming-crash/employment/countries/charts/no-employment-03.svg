@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="864pt" height="720pt" viewBox="0 0 864 720" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-10-03T20:20:11.014089</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.11.2, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 720 
+L 864 720 
+L 864 0 
+L 0 0 
+z
+" style="fill: #fbfbf8"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 120.96 468 
+L 786.24 468 
+L 786.24 151.2 
+L 120.96 151.2 
+z
+" style="fill: #fbfbf8"/>
+   </g>
+   <g id="matplotlib.axis_1">
+    <g id="xtick_1">
+     <g id="line2d_1"/>
+     <g id="text_1">
+      <text style="font-size: 11px; font-family: 'DejaVu Sans', 'Arial Unicode MS'; text-anchor: middle; fill: #566670" x="308.973913" y="484.357422" transform="rotate(-0 308.973913 484.357422)">2023</text>
+     </g>
+    </g>
+    <g id="xtick_2">
+     <g id="line2d_2"/>
+     <g id="text_2">
+      <text style="font-size: 11px; font-family: 'DejaVu Sans', 'Arial Unicode MS'; text-anchor: middle; fill: #566670" x="598.226087" y="484.357422" transform="rotate(-0 598.226087 484.357422)">2024</text>
+     </g>
+    </g>
+    <g id="text_3">
+     <text style="font-size: 11px; font-family: 'DejaVu Sans', 'Arial Unicode MS'; text-anchor: middle; fill: #566670" x="453.6" y="499.358281" transform="rotate(-0 453.6 499.358281)">Observation year; missing years remain gaps</text>
+    </g>
+   </g>
+   <g id="matplotlib.axis_2">
+    <g id="ytick_1">
+     <g id="line2d_3">
+      <path d="M 120.96 468 
+L 786.24 468 
+" clip-path="url(#pe956216efc)" style="fill: none; stroke: #dce2e4; stroke-width: 0.7; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_4"/>
+     <g id="text_4">
+      <text style="font-size: 12px; font-family: 'DejaVu Sans', 'Arial Unicode MS'; text-anchor: end; fill: #566670" x="112.96" y="472.558594" transform="rotate(-0 112.96 472.558594)">0</text>
+     </g>
+    </g>
+    <g id="ytick_2">
+     <g id="line2d_5">
+      <path d="M 120.96 394.163484 
+L 786.24 394.163484 
+" clip-path="url(#pe956216efc)" style="fill: none; stroke: #dce2e4; stroke-width: 0.7; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_6"/>
+     <g id="text_5">
+      <text style="font-size: 12px; font-family: 'DejaVu Sans', 'Arial Unicode MS'; text-anchor: end; fill: #566670" x="112.96" y="398.722078" transform="rotate(-0 112.96 398.722078)">250</text>
+     </g>
+    </g>
+    <g id="ytick_3">
+     <g id="line2d_7">
+      <path d="M 120.96 320.326969 
+L 786.24 320.326969 
+" clip-path="url(#pe956216efc)" style="fill: none; stroke: #dce2e4; stroke-width: 0.7; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_8"/>
+     <g id="text_6">
+      <text style="font-size: 12px; font-family: 'DejaVu Sans', 'Arial Unicode MS'; text-anchor: end; fill: #566670" x="112.96" y="324.885563" transform="rotate(-0 112.96 324.885563)">500</text>
+     </g>
+    </g>
+    <g id="ytick_4">
+     <g id="line2d_9">
+      <path d="M 120.96 246.490453 
+L 786.24 246.490453 
+" clip-path="url(#pe956216efc)" style="fill: none; stroke: #dce2e4; stroke-width: 0.7; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_10"/>
+     <g id="text_7">
+      <text style="font-size: 12px; font-family: 'DejaVu Sans', 'Arial Unicode MS'; text-anchor: end; fill: #566670" x="112.96" y="251.049047" transform="rotate(-0 112.96 251.049047)">750</text>
+     </g>
+    </g>
+    <g id="ytick_5">
+     <g id="line2d_11">
+      <path d="M 120.96 172.653938 
+L 786.24 172.653938 
+" clip-path="url(#pe956216efc)" style="fill: none; stroke: #dce2e4; stroke-width: 0.7; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_12"/>
+     <g id="text_8">
+      <text style="font-size: 12px; font-family: 'DejaVu Sans', 'Arial Unicode MS'; text-anchor: end; fill: #566670" x="112.96" y="177.212532" transform="rotate(-0 112.96 177.212532)">1,000</text>
+     </g>
+    </g>
+    <g id="text_9">
+     <text style="font-size: 11px; font-family: 'DejaVu Sans', 'Arial Unicode MS'; text-anchor: middle; fill: #566670" x="71.963672" y="309.6" transform="rotate(-90 71.963672 309.6)">People</text>
+    </g>
+   </g>
+   <g id="line2d_13">
+    <path d="M 308.973913 234.676611 
+L 598.226087 220.5 
+" clip-path="url(#pe956216efc)" style="fill: none; stroke: #245b80; stroke-width: 2; stroke-linecap: square"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 120.96 468 
+L 786.24 468 
+" style="fill: none; stroke: #dce2e4; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="text_10">
+    <text style="font-size: 11px; font-family: 'DejaVu Sans', 'Arial Unicode MS'; text-anchor: middle; fill: #23313a" x="308.973913" y="222.676611" transform="rotate(-0 308.973913 222.676611)">790</text>
+   </g>
+   <g id="text_11">
+    <text style="font-size: 11px; font-family: 'DejaVu Sans', 'Arial Unicode MS'; text-anchor: middle; fill: #23313a" x="598.226087" y="208.5" transform="rotate(-0 598.226087 208.5)">838</text>
+   </g>
+   <g id="text_12">
+    <text style="font-weight: 700; font-size: 16px; font-family: 'DejaVu Sans', 'Arial Unicode MS'; text-anchor: start; fill: #23313a" x="120.96" y="134.2" transform="rotate(-0 120.96 134.2)">All respondent employees</text>
+   </g>
+   <g id="PathCollection_1">
+    <defs>
+     <path id="mcf5ca4b294" d="M 0 3.937004 
+C 1.044106 3.937004 2.045588 3.522176 2.783882 2.783882 
+C 3.522176 2.045588 3.937004 1.044106 3.937004 0 
+C 3.937004 -1.044106 3.522176 -2.045588 2.783882 -2.783882 
+C 2.045588 -3.522176 1.044106 -3.937004 0 -3.937004 
+C -1.044106 -3.937004 -2.045588 -3.522176 -2.783882 -2.783882 
+C -3.522176 -2.045588 -3.937004 -1.044106 -3.937004 0 
+C -3.937004 1.044106 -3.522176 2.045588 -2.783882 2.783882 
+C -2.045588 3.522176 -1.044106 3.937004 0 3.937004 
+z
+" style="stroke: #245b80"/>
+    </defs>
+    <g clip-path="url(#pe956216efc)">
+     <use xlink:href="#mcf5ca4b294" x="308.973913" y="234.676611" style="fill: #245b80; stroke: #245b80"/>
+    </g>
+   </g>
+   <g id="PathCollection_2">
+    <g clip-path="url(#pe956216efc)">
+     <use xlink:href="#mcf5ca4b294" x="598.226087" y="220.5" style="fill: #245b80; stroke: #245b80"/>
+    </g>
+   </g>
+  </g>
+  <g id="text_13">
+   <text style="font-weight: 700; font-size: 27px; font-family: 'DejaVu Sans', 'Arial Unicode MS'; text-anchor: start; fill: #23313a" x="64.8" y="41.76" transform="rotate(-0 64.8 41.76)">Norway</text>
+  </g>
+  <g id="text_14">
+   <text style="font-size: 15px; font-family: 'DejaVu Sans', 'Arial Unicode MS'; text-anchor: start; fill: #566670" x="64.8" y="75.6" transform="rotate(-0 64.8 75.6)">Employment evidence</text>
+  </g>
+  <g id="text_15">
+   <text style="font-size: 10.4px; font-family: 'DejaVu Sans', 'Arial Unicode MS'; fill: #23313a" transform="translate(64.8 553.74975)">survey sample. Sample: 30 employment respondents in 2023 and 2024. Sample counts are separately shown as people and FTE;</text>
+   <text style="font-size: 10.4px; font-family: 'DejaVu Sans', 'Arial Unicode MS'; fill: #23313a" transform="translate(64.8 568.30975)">no conversion. Observed: 2023; 2024. Sources: Norsk filminstitutt / Virke Produsentforeningen (2026-02-06).</text>
+  </g>
+  <g id="text_16">
+   <text style="font-size: 9px; font-family: 'DejaVu Sans', 'Arial Unicode MS'; text-anchor: start; fill: #566670" x="64.8" y="691.2" transform="rotate(-0 64.8 691.2)">GAME EMPLOYMENT  ·  SOURCES AVAILABLE BY 9 SEP 2026</text>
+  </g>
+  <g id="text_17">
+   <text style="font-size: 9px; font-family: 'DejaVu Sans', 'Arial Unicode MS'; text-anchor: end; fill: #566670" x="799.2" y="691.2" transform="rotate(-0 799.2 691.2)">no-employment-03</text>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="pe956216efc">
+   <rect x="120.96" y="151.2" width="665.28" height="316.8"/>
+  </clipPath>
+ </defs>
+</svg>

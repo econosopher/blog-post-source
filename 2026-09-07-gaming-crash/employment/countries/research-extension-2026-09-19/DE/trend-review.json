@@ -1,0 +1,57 @@
+{
+  "country": "Germany",
+  "accepted_series_id": "DE_core_revised2026",
+  "reviewed_observations": [
+    {
+      "year": 2025,
+      "value": 12659,
+      "unit": "people",
+      "temporal_reference": "2025 comparator retrospectively restated in the 2026 vintage",
+      "method_break_against_original_series": true
+    },
+    {
+      "year": 2026,
+      "value": 12235,
+      "unit": "people",
+      "temporal_reference": "31 March 2026",
+      "method_break_against_original_series": false
+    }
+  ],
+  "chart_eligible": true,
+  "within_series_trend_eligible": true,
+  "trend_scope": "Only the labelled revised-vintage 2025-to-31-March-2026 pair; the source supports a decline of 424 people, about 3.35%.",
+  "permissible_join": {
+    "target_file": "country/DE.json",
+    "target_series_id": "new separate DE_core_revised2026 series",
+    "operation": "Add as a separate two-observation revised-vintage series or paired comparison panel; preserve the original DE_core observations unchanged.",
+    "required_labels": [
+      "Revised 2025 comparator",
+      "31 March 2026",
+      "gamesmap/Goldmedia revised vintage",
+      "employees at developers and publishers"
+    ]
+  },
+  "forbidden_joins": [
+    "Do not append either observation to DE_core 2015-2025, and do not replace DE_core's original-vintage 2025 value of 12,134 in that trend.",
+    "Do not calculate a 2024-to-revised-2025 change, a 2025-old-to-2026 change, or a 2015-2026 continuous trend/index across the database expansion.",
+    "Do not join Goldmedia's expanded-core 2018/2024 context values, which include games-specific service providers, to either core developer/publisher series.",
+    "Do not treat the 2025 restated comparator as a 31 March 2025 snapshot unless the publisher separately establishes that reference date."
+  ],
+  "evidence": [
+    {
+      "url": "https://www.game.de/marktdaten-unternehmen-und-beschaeftigte-2026/",
+      "locator": "23 April 2026 release, lead employment paragraph; image alt text; Über die Marktdaten",
+      "direct_evidence": "The release says 12,235 people worked at game developers and publishers, gives a 31 March 2026 reference date, and its chart alternative text reports 12,659 in 2025 and 12,235 in 2026. The methodological note says the gamesmap database was expanded and that Goldmedia retrospectively adjusted 2025 for comparability."
+    },
+    {
+      "url": "https://www.gamecampus.de/arbeiten/daten-fakten",
+      "locator": "Employment paragraphs and methodological note",
+      "direct_evidence": "Accepted findings record this association page as independently repeating the 12,659/12,235 revised pair and the revision explanation."
+    }
+  ],
+  "review_result": "accepted_as_isolated_revised_vintage_pair",
+  "allowed_years": [
+    2025,
+    2026
+  ]
+}

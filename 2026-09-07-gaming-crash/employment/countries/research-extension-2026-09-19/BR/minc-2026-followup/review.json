@@ -1,0 +1,23 @@
+{
+  "checked_on": "2026-09-19",
+  "source_url": "https://www.gov.br/cultura/pt-br/centrais-de-conteudo/publicacoes/game-e-cultura-2013-oportunidades/Oportunidadesdedesenvolvimento.pdf",
+  "publication_year": 2026,
+  "landing_publication_date": "2026-02-27",
+  "new_employment_observations": 0,
+  "decision": "methodology context only; no chart addition",
+  "locators": {
+    "61-65": "National section and bibliography still refer to Abragames 2023; company counts and revenue are not employment.",
+    "73-74": "Report discusses lack of games-specific CNAE and planned separate classification. Footnote dates part of this discussion to April 2025; do not interpret it as verified current implementation status.",
+    "108-109": "57,353 authorized course places and hypothetical 50,000 annual graduates are education capacity, not employed workers."
+  },
+  "source_quality_notes": [
+    "Government publication provides policy and measurement context, not a new workforce survey.",
+    "National section regional percentages differ between prose on p62 and map on p63. Avoid extracting regional employment weights from either.",
+    "p65 link labeled I Census 2014 contains II-CENSO in filename; retain previously verified original census PDF rather than trusting this label."
+  ],
+  "pdf_sha256": "28ad656b69d176f9294bc3b19de1fd4beb013c2293b61bc96ca36a2989f6f990",
+  "next_leads": [
+    "Check IBGE/CONCLA implementation and historical coverage before considering administrative workforce data.",
+    "Fortaleza 2024 census is a separate regional lead, not a national replacement: https://cearajogos.com.br/files/2026/06/Censo-Fortaleza-Game-Dev-2024_pagenumber.pdf"
+  ]
+}

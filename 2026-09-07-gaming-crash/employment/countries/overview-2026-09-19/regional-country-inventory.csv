@@ -1,0 +1,32 @@
+﻿region,country,iso2,state,selected_observations,years,selected_series,definition
+Americas,Brazil,BR,dated,3,2018;2022;2023,BR_developer_people,People · developer estimate
+Americas,Canada,CA,dated,10,2013;2014;2015;2016;2017;2018;2019;2020;2021;2022,CA_statcan_ilu,Individual labour units · annual T4 administrative data; provinces only
+Americas,United States,US,dated,8,2019;2023;2025;2009;2012;2013;2014;2015,US_core;US_legacy_siwek_all_establishments;US_mapping_2017,"Separate ESA modeled history, mapping history and later developer/publisher jobs; no cross-method joins"
+Asia,China,CN,dated,5,2021;2022;2023;2024;2025,CN_listed_panel,Listed-company panel · location unresolved
+Asia,India,IN,gap / incompatible evidence,0,,,No comparable estimate plotted
+Asia,Indonesia,ID,undated,1,,ID_official_core_min,People · lower bound
+Asia,Israel,IL,two or fewer dated points; hidden by request,2,2017;2021,IL_ecosystem,Broad company ecosystem · location unresolved
+Asia,Japan,JP,two or fewer dated points; hidden by request,2,2012;2016,JP_census_3914_required_items,Persons engaged · responding JSIC3914 establishments
+Asia,Malaysia,MY,gap / incompatible evidence,0,,,No comparable estimate plotted
+Asia,Philippines,PH,undated,1,,PH_boi2000,People · lower bound
+Asia,Singapore,SG,two or fewer dated points; hidden by request,1,2021,SG_games2021,People · wider games-sector definition
+Asia,South Korea,KR,dated,17,2015;2016;2017;2018;2019;2021;2022;2023;2024;2020;2008;2009;2010;2011;2012;2013;2014,KR_core;KR_core_archive_2008_2009;KR_core_archive_2010_2014,People · development & publishing
+Asia,Taiwan,TW,undated,1,,TW_survey2022,People · 133-company sample
+Asia,Turkey,TR,two or fewer dated points; hidden by request,2,2023;2024,TR_toged;TR_toged_2024_verified,FTE · includes some staff abroad
+Asia,Vietnam,VN,gap / incompatible evidence,0,,,No comparable estimate plotted
+Europe,Cyprus,CY,suspended after source review,0,,CY_local,"Current review: suspend CY_local from domestic games comparisons. CYGMA p15 calls these local tax-paying game-publishing jobs, but the cited Footprint p9 gives identical values as publishing employment and explicitly leaves local/remote worker location unresolved. Scope and geography conflict; values remain archived, not independently validated."
+Europe,Denmark,DK,dated,8,2017;2018;2019;2020;2021;2022;2008;2009,DK_core_game_producers_v2009;DK_payroll_fte,Payroll FTE · one consistent vintage
+Europe,Finland,FI,two or fewer dated points; hidden by request,2,2024;2022,FI_domestic_2024_fte;FI_domestic_explicit_fte,Approximate domestic FTE · entrepreneurs included
+Europe,France,FR,dated,15,2019;2020;2021;2022;2023;2024;2010;2011;2012;2013;2014;2015;2016;2017;2018,FR_dge_pwc_broad_industry_persons;FR_ey_direct_fte,Broad ecosystem persons/jobs 2010-2018; separate employee FTE 2019-2024
+Europe,Germany,DE,dated,13,2015;2016;2017;2018;2019;2020;2021;2022;2023;2024;2025;2025;2026,DE_core;DE_core_revised2026,Developer/publisher workforce; 2025-2026 revised vintage separate from original history
+Europe,Netherlands,NL,dated,6,2018;2021;2023;2015;2011;2020,NL_domestic_broad;NL_domestic_broad_covid_update;NL_domestic_broad_legacy_vintage,Jobs · includes self-employed specialists
+Europe,Norway,NO,two or fewer dated points; hidden by request,2,2023;2024,NO_sample_total,People · 30 responding employers
+Europe,Poland,PL,dated,5,2021;2023;2025;2020;2022,PL_core_workforce;PL_gic_magazine2022,People · game production
+Europe,Romania,RO,dated,5,2024;2022;2023;2021;2020,RO_earlier_benchmark;RO_employees2024;RO_employees_collaborators,People · collaborator coverage changes
+Europe,Serbia,RS,dated,5,2024;2025;2021;2022;2023,RS_national_estimate;RS_national_estimate_historical,People · domestic boundary uncertain
+Europe,Spain,ES,dated,12,2015;2016;2017;2018;2019;2020;2021;2022;2023;2024;2013;2014,ES_direct,People · direct; freelancers separate
+Europe,Sweden,SE,dated,15,2015;2016;2017;2018;2019;2020;2021;2022;2023;2024;2012;2013;2014;2010;2011,SE_domestic;SE_domestic_gdi2020_vintage;SE_domestic_gdi2021_early,Annual-average full-time positions
+Europe,Ukraine,UA,gap / incompatible evidence,0,,,No comparable estimate plotted
+Europe,United Kingdom,GB,dated,6,2018;2020;2023;2024;2025;2017,GB_tiga_people,People · production roles + freelancers
+Oceania,Australia,AU,dated,11,2016;2017;2019;2020;2021;2022;2023;2024;2025;2007;2012,AU_abs_historical_snapshots;AU_igea_augmented;AU_igea_survey,Full-time measure · includes contractors
+Oceania,New Zealand,NZ,dated,15,2015;2016;2017;2018;2019;2020;2021;2022;2023;2024;2025;2011;2012;2013;2014,NZ_fte;NZ_fulltime;NZ_nzgda_historical_snapshots;NZ_workers,Survey · people / full-time roles / FTE

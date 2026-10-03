@@ -1,0 +1,68 @@
+{
+  "date": "2026-09-19",
+  "new_observation": {
+    "year": 2009,
+    "value": 43365,
+    "unit": "people",
+    "period": "reference year 2009; within-year reference date not established",
+    "series_id": "KR_core",
+    "url": "https://m.kocca.kr/knowledge/publication/indu/__icsFiles/afieldfile/2012/10/10/w0uw0G1FcfBw.pdf",
+    "source_locator": "2012 White Paper on Korean Games, Korean summary, PDF p. 8, Table 4, game production and distribution row.",
+    "definition": "KOCCA-reported production/distribution workers, excluding separately reported PC cafes, arcade and video-game venues. Historical source-native observation; frame and worker-status continuity unresolved.",
+    "plot_decision": "Proposed historical marker only; no connected trend approval."
+  },
+  "overlap_checks": {
+    "2010": 48585,
+    "2011": 51859,
+    "result": "Exact matches to existing KOCCA 2013 table"
+  },
+  "primary_provenance_improvement": {
+    "year": 2013,
+    "value": 40541,
+    "url": "https://www.newswire.co.kr/newsRead.php?no=771789",
+    "publication_sample": 226,
+    "sample_interpretation": "Number of production/distribution firms surveyed for publication; cannot infer workforce estimator from release."
+  },
+  "continuity_decision": "Unchanged: no cause established for 2012-2013 decline; no solid trend approval.",
+  "original_archive_lead": "National Archives DM00054095, 2015 White Paper upper volume",
+  "source_pdf_sha256": "ec7c225d002779003c3419e5a80b617964abba5b908f1cdbceb987f5508f78e8",
+  "sources": [
+    {
+      "url": "https://m.kocca.kr/knowledge/publication/indu/__icsFiles/afieldfile/2012/10/10/w0uw0G1FcfBw.pdf",
+      "title": "KOCCA 2012 White Paper summary, Table 4",
+      "years": "2009-2011",
+      "methodology": "People in game production/distribution; venue workers separately tabulated.",
+      "assessment": "2009=43,365 newly recovered; 2010=48,585 and 2011=51,859 match existing later table. Frame continuity unproved; marker-only proposal.",
+      "access_status": "Official PDF downloaded; text and page 8 image checked",
+      "next_step": "Trace 2011 and earlier white papers backward; recover worker-status definitions and estimation method."
+    },
+    {
+      "url": "https://www.newswire.co.kr/newsRead.php?no=771789",
+      "title": "KOCCA-issued 2014 White Paper launch release",
+      "years": "2013",
+      "methodology": "Release reports 40,541 production/distribution workers and 226 surveyed production/distribution firms; does not explain weighting or extrapolation.",
+      "assessment": "Direct issuer confirmation replaces reliance solely on later government reproduction for 2013. Sample size is not population or workforce count. No causal explanation for 2012-2013 decline.",
+      "access_status": "Full press release read; issuer identified as KOCCA",
+      "next_step": "Recover full 2014/2015 methodology; keep historical markers unconnected."
+    },
+    {
+      "url": "https://www.archives.go.kr/next/newsearch/viewDescClassContents.do?businessFunctionId=G00000000950&descClassDiv=G&descFullId=T00000000090%2FT00000000094%2FG00000000950&doctype=M&page=92&sitePage=&viewSel=archive",
+      "title": "National Archives catalog: 2015 White Paper upper volume DM00054095",
+      "years": "2015 publication",
+      "methodology": "Bibliographic inventory only.",
+      "assessment": "Specific original-volume retrieval lead; no document text or employment-method appendix inspected.",
+      "access_status": "Official indexed catalog listing located",
+      "next_step": "Retrieve upper volume DM00054095 and employment chapter; do not treat catalog metadata as methodology evidence."
+    },
+    {
+      "url": "https://tgsi.or.kr/?bmode=view&idx=158701002&q=YToyOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjtzOjQ6InBhZ2UiO2k6MjA7fQ%3D%3D&t=board",
+      "title": "Game Science Institute white-paper archive lead",
+      "years": "2015-2016 publications",
+      "methodology": "Archive link lead only.",
+      "assessment": "No source content recovered.",
+      "access_status": "Web fetch returned 403",
+      "next_step": "Prefer official KOCCA or National Archives retrieval."
+    }
+  ],
+  "accepted_annual_ledger_changed": false
+}

@@ -1,0 +1,28 @@
+[
+  {
+    "country": "Taiwan",
+    "iso2": "TW",
+    "series_id": "game_industry_surveyed_company_employees",
+    "year": 2019,
+    "value": 9047,
+    "unit": "persons",
+    "period": "calendar_year 2019",
+    "url": "https://en.taicca.tw/uploads/userfiles/research/20231228/2020/2020%20Vol%204.pdf",
+    "source_locator": "Section 1.2, 'Taiwan game and esports industry employees'; game industry: 98 firms, 9,047 employees; developers 46 firms/5,062; agents-publishers 52 firms/3,985.",
+    "definition": "Observed employee headcount across 98 surveyed game companies, comprising game development and agency/publishing. Excludes separately reported esports employment. Not FTE and not a national payroll census.",
+    "primary_evidence": "TAICCA report text: '遊戲產業 98 家企業從業人數為 9,047 人'; separate esports figure is 660 people across 19 firms."
+  },
+  {
+    "country": "Taiwan",
+    "iso2": "TW",
+    "series_id": "game_industry_surveyed_company_employees",
+    "year": 2022,
+    "value": 9929,
+    "unit": "persons",
+    "period": "calendar_year 2022",
+    "url": "https://taicca.tw/files/book/1741142752642.pdf",
+    "source_locator": "p. 11 / section 1.4, '我國遊戲產業從業人員概況'; employee distribution N=133; scope and sampling caveat on p. 7.",
+    "definition": "Employee headcount for the 133 game companies responding to the survey, with some missing company responses supplemented from 104 Job Bank public information. Not FTE, not an expanded national estimate, and not directly harmonized with the 2019 frame.",
+    "primary_evidence": "TAICCA report text: '經統計有回覆調查問卷之業者，得員工總人數為9,929人'; footnote: missing company counts were filled from 104 Job Bank public data where available."
+  }
+]

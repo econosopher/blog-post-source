@@ -1,0 +1,56 @@
+{
+  "country": "China",
+  "research_date": "2026-09-19",
+  "proposal": "No new chart-eligible or trend-eligible national employment observations. The source review improves provenance and preserves the existing contextual observations as separate, non-comparable series.",
+  "series_updates": [
+    {
+      "series_id": "CN_listed_panel",
+      "source_id": "CN_cng2025",
+      "producer": "Beijing Gamma New Media Culture Communication Co., Ltd. / Gamma Data (CNG)",
+      "release_venue": "Standalone CNG report; no congress or official GPC venue is identified in the report or contemporaneous CNG-byline release.",
+      "exact_scope": "Personnel scale of major listed game companies, as printed. The report supplies no constituent list, count, selection rule, domestic versus overseas allocation, game-segment allocation, or contractor treatment.",
+      "observations_checked": [
+        {"period": "2021", "value_people": 223000, "status": "reported"},
+        {"period": "2022", "value_people": 215300, "status": "reported"},
+        {"period": "2023", "value_people": 206500, "status": "reported"},
+        {"period": "2024", "value_people": 205800, "status": "reported"},
+        {"period": "2024 H1", "value_people": 203400, "status": "reported"},
+        {"period": "2025 H1", "value_people": 202800, "status": "estimated", "source_marker": "E"}
+      ],
+      "source_locator": "PDF pp. 1-2 (issuer/author) and p. 8 (chart and CNG source footer)",
+      "source_url": "https://pdf.dfcfw.com/pdf/H3_AP202507181711204583_1.pdf?1752858662000.pdf=",
+      "eligibility": "Contextual sample only. It must not be plotted as Chinese national or domestic game-only employment, and the annual values must not be combined with H1 observations."
+    },
+    {
+      "series_id": "CN_broad_2018_claim",
+      "source_id": "CN_cng_perfectworld_2018_talent_research",
+      "period": "2018",
+      "value_people": 1450000,
+      "status": "estimated",
+      "qualifier": "approximately (约)",
+      "producer": "Gamma Data (CNG), in joint talent/education research with Perfect World Education",
+      "source_locator": "China News Service report of 2018 joint salary survey; GameRes and Sina reports of the December CNG talent report",
+      "eligibility": "Contextual only. Original report and national-headcount method not recovered; no comparison with the listed-company panel."
+    }
+  ],
+  "government_series_review": {
+    "finding": "No annual national game-only workforce series verified. NBS classifies game work across multiple small classes, while its readily published employment results are broader aggregates.",
+    "classes": [
+      "6422 互联网游戏服务 (internet game services, including internet esports services)",
+      "6572 动漫、游戏数字内容服务 (animation and game digital-content services)",
+      "6513* 多媒体、游戏动漫和数字出版软件开发 (a partial culture activity within application software development)"
+    ],
+    "official_sources": [
+      "https://www.stats.gov.cn/xxgk/tjbz/gjtjbz/201805/t20180509_1758925.html",
+      "https://www.stats.gov.cn/sj/zxfb/202302/t20230203_1900527.html",
+      "https://www.stats.gov.cn/hd/lyzx/zxgk/202609/t20260903_1965184.html"
+    ],
+    "why_not_used": "The 2018 economic-census release gives 9.951m workers for the entire information-transmission/software/IT-service division, including 1.443m in internet and related services and 6.762m in software/IT services, but not a game-only total. The official culture-new-form grouping combines 16 small industries."
+  },
+  "followup_cng_listed_company_reports": {
+    "2026_definition_source": "https://www.jiemian.com/article/14873199.html",
+    "definition": "For the 2026 report's own panels, major listed game companies are Chinese listed companies in 2025 game-revenue TOP50 whose 2025 game revenue exceeds 30% of total revenue; historical chart coverage is restricted to companies disclosing values in all corresponding periods.",
+    "scope_caveat": "This definition is not printed in the 2025 new-productive-forces report and therefore cannot be assumed to define its p. 8 personnel chart.",
+    "workforce_result": "No personnel/headcount aggregate or historical workforce chart found in the 2026 release or in the inspected 2024 and 2025 full listed/non-listed company reports. No new observations proposed."
+  }
+}

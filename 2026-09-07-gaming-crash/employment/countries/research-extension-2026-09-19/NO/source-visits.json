@@ -1,0 +1,52 @@
+[
+  {
+    "url": "https://www.virke.no/globalassets/3.bransjer/service-og-kultur/produsentforeningen/virke-spillrapporten-2019.pdf",
+    "title": "Virke Spillrapporten2019/2020",
+    "publisher": "Virke",
+    "years": "2017,2018",
+    "methodology": "15 reporting game companies; employees in Norway and abroad explicitly requested in Appendix2 footnote.",
+    "assessment": "Four component counts accepted as sample context. Do not rank as domestic workforce.",
+    "access_status": "Primary PDF downloaded, text extracted and table visually checked.",
+    "next_step": "Determine geography consistency before using later report counts in domestic comparisons."
+  },
+  {
+    "url": "https://www.virke.no/globalassets/rapporter/spillrapporten-2023",
+    "title": "NFI/Virke Spillrapporten2023",
+    "publisher": "NFI/Virke",
+    "years": "2017-2022",
+    "methodology": "p12:32 respondents,24 previously eligible revenue-generating companies; expanded survey from2021 and combined groups in2023 report.",
+    "assessment": "2017-18 overlap confirms values.2022 permanent738/temporary86 differs from newer706/78; keep vintages separate. PDF text7383 means738 plus footnote3.",
+    "access_status": "Full PDF and method/table text inspected.",
+    "next_step": "Explain2022 revision before calculating growth across vintages."
+  },
+  {
+    "url": "https://www.virke.no/globalassets/rapporter/spillrapporten-2020",
+    "title": "Virke Spillrapporten2020",
+    "publisher": "Virke",
+    "years": "2017-2019",
+    "methodology": "Indexed primary table gives2019 permanent314/temporary28.",
+    "assessment": "Differs from later324/32. Not accepted as preferred history; exact methods not inspected.",
+    "access_status": "Indexed primary excerpt only.",
+    "next_step": "Inspect original2020 table/method and revision chain."
+  },
+  {
+    "url": "https://www.nfi.no/nyheter/sp%C3%B8rreunders%C3%B8kelse-spillrapporten-2025",
+    "title": "NFI2025 survey invitation",
+    "publisher": "NFI",
+    "years": "2023,2024",
+    "methodology": "Invitation seeks employment and turnover for2023-24; biennial reporting.",
+    "assessment": "Report label2025 is not2025 employment reference year.",
+    "access_status": "Primary HTML inspected.",
+    "next_step": "Use reference years, not collection/title year."
+  },
+  {
+    "url": "https://www.nfi.no/nyheter/her-er-den-nyeste-spillrapporten",
+    "title": "NFI latest Spillrapporten release",
+    "publisher": "NFI",
+    "years": "2024",
+    "methodology": "Delayed report publication after2025, labelled2024.",
+    "assessment": "Confirms existing latest endpoint; no new2025 employment count recovered.",
+    "access_status": "Primary search excerpt inspected.",
+    "next_step": "Keep existing2024 endpoint; look for subsequent report without assuming annual collection."
+  }
+]

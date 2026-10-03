@@ -1,0 +1,55 @@
+{
+  "date": "2026-09-19",
+  "original_2014_summary_recovered": true,
+  "original_file": "2014-summary.hwp",
+  "sha256": "aaf1c7c0d71099e41cacb58b4f92d9633f38f27afe1cc7cf763ee058ffabc72e",
+  "download": {
+    "method": "POST",
+    "url": "https://www.kocca.kr/common/cmm/fms/FileDown.do",
+    "form_fields": {
+      "atchFileId": "AAGT7YUvqyLAHXomlncO6Cmtse7SE7PwIb4glbzm5QOAuw==",
+      "fileSn": "1",
+      "bbsId": "",
+      "menuNo": "204106"
+    }
+  },
+  "core_row": {
+    "2011": 51859,
+    "2012": 52466,
+    "2013": 40541
+  },
+  "source_interpretation": "Narrative reports a 22.7% reduction; firms 957 to 812; workers per firm 54.8 to 49.9. This is source-reported change, not independently established fixed-frame employment change.",
+  "quality_note": "Extracted employment table carries an apparently copied revenue title; total-row 2012-2013 percent is -0.3% despite totals 95,051 and 91,893 (about -3.3%). Core row -22.7% agrees with counts. Do not use the incorrect total-row rate.",
+  "method_limit": "Summary lacks estimator, weighting, workforce reference date, contractor definition and frame-comparability explanation.",
+  "archive_result": "Full-volume metadata verified; no exposed original-file link on item page; PDF path empty.",
+  "decision": "No new numeric observation or trend approval. Strengthen original-source provenance of existing historical values.",
+  "sources": [
+    {
+      "url": "https://www.kocca.kr/kocca/bbs/view/B0000138/1823385.do?menuNo=204106",
+      "title": "KOCCA 2014 White Paper launch: original HWP summary attachment",
+      "years": "2011-2013",
+      "methodology": "Original issuer attachment, production/distribution people, separate venue row; estimator and contractor treatment absent from summary.",
+      "assessment": "Original 2011=51,859, 2012=52,466, 2013=40,541 overlap confirmed. Narrative explicitly reports 22.7% decline; this is the source interpretation, not proof of unchanged frame.",
+      "access_status": "Official HTML and 147,968-byte HWP downloaded; body paragraph records decompressed and decoded",
+      "next_step": "Recover full employment methodology; retain isolated markers until frame review."
+    },
+    {
+      "url": "https://www.archives.go.kr/next/newsearch/showDetailPopup.do?rc_code=1310377&rc_rfile_no=201607142184&rc_ritem_no=000000000001&sitePage=0-0-0",
+      "title": "National Archives item record DM00054095, upper volume",
+      "years": "2015 publication",
+      "methodology": "Original-volume bibliographic record only.",
+      "assessment": "538 pages, publication 2015-10-01, Seongnam archive. Item page has empty PDF path and no exposed original-file link; no full text retrieved.",
+      "access_status": "Listing, volume detail and item HTML saved and inspected",
+      "next_step": "Do not repeat catalog lookup as if it yields full text; seek other official digital copy."
+    },
+    {
+      "url": "https://m.inven.co.kr/webzine/wznews.php?idx=121637&p=27&searchwhere=writer&svalue=%EA%B9%80%EC%A7%80%EC%97%B0",
+      "title": "Contemporaneous Inven coverage: frame lead only",
+      "years": "2013 survey in 2014 publication",
+      "methodology": "Secondary reporting says 812 registered firms at 2013-12-31, 226 valid respondents, visits/online/fax.",
+      "assessment": "Useful search terms, not accepted as original survey-method proof. Reference date must not be propagated to employment without original confirmation.",
+      "access_status": "Indexed article passage inspected",
+      "next_step": "Locate original Part 1 Chapter 3 and Chapter 4 using these terms."
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "source": "dsb_rapport-01-07_utvecklarindex.pdf",
+  "first_edition_table_page": 4,
+  "observations": [
+    {
+      "value": 715,
+      "original_period": "2004/2005",
+      "later_table_year": 2005
+    },
+    {
+      "value": 812.5,
+      "original_period": "2005/2006",
+      "later_table_year": 2006
+    }
+  ],
+  "decision": "Do not assign a single calendar year; first-edition foreword additionally calls 812.5 the 2005 count. No accepted annual observation."
+}

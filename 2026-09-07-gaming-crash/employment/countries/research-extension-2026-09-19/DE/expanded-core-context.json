@@ -1,0 +1,24 @@
+[
+  {
+    "year": 2018,
+    "value": 12300,
+    "value_qualifier": "approximately",
+    "unit": "people",
+    "series_id": "DE_expanded_core_goldmedia2025",
+    "scope": "Development/publishing plus games-specific service providers",
+    "url": "https://www.game.de/wp-content/uploads/2026/01/Die-Games-Branche-in-Deutschland-2025.pdf",
+    "locator": "p28; employment structure p29",
+    "status": "context only; not accepted into core-only series"
+  },
+  {
+    "year": 2024,
+    "value": 14800,
+    "value_qualifier": "approximately",
+    "unit": "people",
+    "series_id": "DE_expanded_core_goldmedia2025",
+    "scope": "Development/publishing plus games-specific service providers",
+    "url": "https://www.game.de/wp-content/uploads/2026/01/Die-Games-Branche-in-Deutschland-2025.pdf",
+    "locator": "p28; employment structure p29",
+    "status": "context only; not accepted into core-only series"
+  }
+]

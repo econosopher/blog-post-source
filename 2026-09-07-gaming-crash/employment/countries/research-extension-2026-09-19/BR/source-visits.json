@@ -1,0 +1,172 @@
+[
+  {
+    "url": "https://www.abragames.org/links-uteis.html",
+    "title": "Links Úteis",
+    "publisher": "Abragames",
+    "years": "2004, 2005, 2008, 2014, 2018, 2022, 2023, 2024 archive entries; page live in 2026",
+    "methodology": "Publisher archive/index. It links the original Abragames studies, the BNDES/USP I Census and the Ministry of Culture/Homo Ludens II Census, then the 2022/2023 Brazil Games surveys.",
+    "assessment": "Primary archive route rechecked 19 September 2026. Latest listed industry survey remains 2023; later entries include policy/white papers, not a newly measured workforce. This does not rule out material outside the archive.",
+    "access_status": "full HTML page read",
+    "next_step": "Use as the discovery index only; cite the linked original PDFs for observations. Recheck the archive for a future survey edition before claiming a current workforce total."
+  },
+  {
+    "url": "https://www.abragames.org/uploads/5/6/8/0/56805537/pesquisa_2005_-_a_industria_de_desenvolvimento_de_jogos_eletronicos_no_brasil.pdf",
+    "title": "A Indústria de Desenvolvimento de Jogos Eletrônicos no Brasil",
+    "publisher": "Abragames",
+    "years": "fieldwork 21 February-3 April 2005; publication 1 May 2005",
+    "methodology": "First mapping of Brazilian developer companies. The report identifies 55 active developers and says the average number of funcionários at game companies was approximately 15; it does not state a respondent denominator for that average in the extracted employment section.",
+    "assessment": "Useful early context only. The 15 is an average employee count per company, not a national workforce count, and it excludes/does not clarify partners or contractors. No proposed employment-stock observation was created from it.",
+    "access_status": "full PDF read",
+    "next_step": "Retain the exact locator (printed p. 12, section 2.6 Empregabilidade) if an average-company-size series is later added; do not multiply 15 by the 55-company registry."
+  },
+  {
+    "url": "https://www.abragames.org/uploads/5/6/8/0/56805537/pesquisa_2008_-_a_industria_brasileira_de_jogos_eletronicos.pdf",
+    "title": "A indústria brasileira de jogos eletrônicos: Um mapeamento do crescimento do setor nos últimos 4 anos",
+    "publisher": "Abragames",
+    "years": "publication July 2008; contemporaneous employment figure",
+    "methodology": "Abragames mapping focused on domestic game production. The headline reports 560 professionals employed by 42 game-software companies. The final page thanks 32 companies that responded, without explaining the relationship to the 42-company employment scope.",
+    "assessment": "Primary early employment figure, but method and founder/contractor treatment are incomplete. Keep it in a distinct reported-employees series, not the 2018/2022/2023 extrapolated developer-people series.",
+    "access_status": "full PDF read",
+    "next_step": "Use only with its 42-company and 'empregados' qualifier. Do not infer an annual 2005-2008 employment series from revenue graphics."
+  },
+  {
+    "url": "https://www.abragames.org/uploads/5/6/8/0/56805537/i_censo_da_industria_brasileira_de_jogos_digitais_2.pdf",
+    "title": "I Censo da Indústria Brasileira de Jogos Digitais, com Vocabulário Técnico sobre a IBJD",
+    "publisher": "GEDIGames / NPGT Escola Politécnica USP; BNDES-funded; hosted by Abragames",
+    "years": "fieldwork 9-31 January 2014; publication/presentation July 2014; 2013 is a revenue-only reference year",
+    "methodology": "Online open/closed questionnaire distributed through consolidated developer lists, association mailing, social networks and telephone follow-up. 135 complete questionnaires, 133 valid after duplicates. Workforce is a direct sum across those 133 responding developer companies.",
+    "assessment": "Primary, reproducible bridge observation: 1,133 workers = 392 partners + 741 collaborators. Despite its title, this number is a respondent workforce total rather than a national extrapolation. Standalone freelancers and later value-chain roles were outside the stated focus.",
+    "access_status": "full PDF read",
+    "next_step": "Add as a survey-sample series only. Keep partners/founders and collaborators explicit; do not compare mechanically with later national estimates."
+  },
+  {
+    "url": "https://www.abragames.org/uploads/5/6/8/0/56805537/af-iicenso-summary_2.pdf",
+    "title": "II Census of the Brazilian Digital Games Industry: Summary",
+    "publisher": "Brazilian Ministry of Culture / Homo Ludens; hosted by Abragames",
+    "years": "2018 workforce reference and publication",
+    "methodology": "Existing packet records 2,731 people in census respondents and separately derives an estimated developer workforce from formal and informal groups. It is already represented in country/BR.json.",
+    "assessment": "Primary governmental follow-on to the 2014 survey, but it is not a continuation on the same respondent or national-total basis. No duplicate proposal made in this extension.",
+    "access_status": "full summary PDF already present in raw/BR/survey2018.pdf",
+    "next_step": "Retain existing 2018 sample and estimated series with their separate definitions; do not replace either with the 2,731 respondent count."
+  },
+  {
+    "url": "https://brazilgames.org/wp-content/uploads/2025/03/2023-relatorio-final-v4.3.3-ENG.pdf",
+    "title": "Brazilian Gaming Industry Survey 2023",
+    "publisher": "Abragames / ApexBrasil / Homo Ludens",
+    "years": "2023 employment estimate; English PDF upload 2025",
+    "methodology": "Existing packet records a firm-mapping/respondent-mean extrapolation for formal and informal developer groups. The employment section explicitly uses 2023, while other activity measures may use 2022.",
+    "assessment": "Latest located source-native workforce estimate: 13,225 people. This extension does not duplicate the existing observation. Upload year is not the observation year.",
+    "access_status": "full PDF already present in raw/BR/survey2023.pdf",
+    "next_step": "Use 2023 as the latest actual estimate unless a later full survey is published; do not treat any later republication as a new year."
+  },
+  {
+    "url": "https://brazilgames.org/wp-content/uploads/2024/11/nordicity_final-1.pdf",
+    "title": "A Oportunidade de Ouro: Como o Brasil Pode se Tornar um Líder Global em videogames",
+    "publisher": "Nordicity / Jason Della Rocca; distributed by Brazil Games/Abragames",
+    "years": "June 2024 publication; cites 2023 employment and 2022 revenue",
+    "methodology": "Policy white paper cites Abragames (2023) for Brazil's developer and employment figures; it does not conduct a new workforce survey.",
+    "assessment": "Forward trace confirms 13,225 was still being repeated in 2024, not remeasured. Its wording calls outsourcing the predominant regime, but it must not be used to recast the 13,225 estimate as contractor-only or to create a 2024 observation.",
+    "access_status": "full PDF read",
+    "next_step": "Record as a repeat citation only. Seek a post-2023 Abragames/Brazil Games primary survey before adding another national workforce year."
+  },
+  {
+    "url": "https://www.gov.br/cultura/pt-br/centrais-de-conteudo/publicacoes/game-e-cultura-2013-oportunidades/Oportunidadesdedesenvolvimento.pdf",
+    "title": "Game é Cultura: Oportunidades de desenvolvimento após o Marco Legal de Games (2026)",
+    "publisher": "Ministério da Cultura / OEI; Pedro Santoro Zambon and Ana Heloiza Vita Pessotto",
+    "years": "2026 publication; national industry evidence references 2023 survey; portions of policy discussion dated April 2025",
+    "methodology": "Government policy synthesis. National section pp.61-65 references Abragames 2023. Pages73-74 discuss broad software classification and proposed games-specific CNAE; pp.108-109 concern educational capacity.",
+    "assessment": "Useful methodology context, no fresh national employment stock located. Do not turn publication year, company counts, global layoffs or hypothetical graduates into Brazilian workforce observations. Some secondary regional percentages and bibliography labels are inconsistent.",
+    "access_status": "Full original PDF downloaded; national and classification sections read; document-wide employment keyword review; saved in BR/minc-2026-followup",
+    "next_step": "Check IBGE/CONCLA current implementation and historical coverage, then any post-2023 primary survey. Keep regional census leads separate."
+  },
+  {
+    "url": "https://ftp.ibge.gov.br/Informacoes_Gerais_e_Referencia/Classificacoes/CNAE/cnae2_2/cnae2_2_subclasses_20150609.pdf",
+    "title": "CNAE subclasses 2.2: official explanatory notes",
+    "publisher": "IBGE",
+    "years": "Historical CNAE 2.2 documentation, 2015 file",
+    "methodology": "PDF page429 places computer games for all platforms in 6203-1/00 alongside operating systems and general applications. Pages285-286 classify electronic game manufacturing separately and exclude videogame apparatus to2640-0/00.",
+    "assessment": "Do not use total6203-1/00 employment as games employment. Manufacturing label3240-0/01 is not a game-software developer category.",
+    "access_status": "Full original PDF downloaded and relevant pages extracted",
+    "next_step": "Historical code coverage verified; a separate company roster would be needed to isolate software games."
+  },
+  {
+    "url": "https://cnae.ibge.gov.br/?subclasse=6203100&tipo=cnae&versao=&view=subclasse",
+    "title": "IBGE online lookup: 6203-1/00",
+    "publisher": "IBGE/CONCLA",
+    "years": "Current indexed lookup checked 19 September 2026",
+    "methodology": "Games and virtual game items appear among descriptors of a broader non-customizable software subclass.",
+    "assessment": "Descriptors are not separate statistical subclasses; cannot extract a national games workforce from the overall code.",
+    "access_status": "Official search-index text reviewed; direct web and HTTP both failed (403/internal error)",
+    "next_step": "Retain index/full-PDF access distinction; do not claim all current classification revisions audited."
+  },
+  {
+    "url": "https://agenciadenoticias.ibge.gov.br/en/agencia-news/2184-news-agency/news/47252-ibge-e-fiesp-reforcam-parceria-em-seminario-pelos-90-anos-do-instituto-3",
+    "title": "IBGE and Fiesp seminar: CNAE 3.0 implementation timetable",
+    "publisher": "IBGE News Agency",
+    "years": "2026 announcement; implementation planned for2027",
+    "methodology": "Indexed official report quotes IBGE classification coordinator on planned CNAE3.0 implementation in2027.",
+    "assessment": "Planning evidence only: not implemented games-specific codes, historical crosswalk, or employment data.",
+    "access_status": "Official indexed text reviewed; full page returns403",
+    "next_step": "Check final adopted structure and crosswalk when available; do not treat an old strategic target as implementation proof."
+  },
+  {
+    "url": "https://www.gov.br/trabalho-e-emprego/pt-br/noticias-e-conteudo/2026/marco/mte-atualiza-classificacao-brasileira-de-ocupacoes-e-inclui-seis-novas-atividades",
+    "title": "MTE announcement of six new occupations",
+    "publisher": "Ministério do Trabalho e Emprego",
+    "years": "March2026 URL",
+    "methodology": "Original announcement linked by Abragames. Direct access redirects to restricted-content login.",
+    "assessment": "Unverified original instrument; no code, date or employment count accepted from this page.",
+    "access_status": "Restricted-content redirect confirmed",
+    "next_step": "Find public official CBO structure and effective dates; no login required for current research."
+  },
+  {
+    "url": "https://www.linkedin.com/posts/abragames---brazilian-association-of-game-development-companies_gamesdev-jogoseletr%C3%B4nicos-mercadodetrabalho-activity-7442246581761781761-zrHD",
+    "title": "Abragames announcement: three games occupations recognized",
+    "publisher": "Abragames",
+    "years": "2026 announcement; exact date not verified",
+    "methodology": "Association reports recognition of visual game artist, game designer and game narrative designer in CBO; links MTE announcement.",
+    "assessment": "Useful primary association lead. Occupations differ from industry; three roles do not capture whole games workforce or provide historical coverage.",
+    "access_status": "Association post text available in search index; underlying MTE page restricted",
+    "next_step": "Verify CBO codes/effective dates and reporting uptake before considering a separate occupation series."
+  },
+  {
+    "url": "https://cearajogos.com.br/files/2026/06/Censo-Fortaleza-Game-Dev-2024_pagenumber.pdf",
+    "title": "Censo Fortaleza Game Dev 2024",
+    "publisher": "Da Cidade à Tela / CCBJ research laboratory; Instituto Dragão do Mar support",
+    "years": "October2024 questionnaire distribution;2026 publication",
+    "methodology": "Voluntary online community survey with101 responses; channels and limitations documented onpp19-20. Regional sample includes interior residents.",
+    "assessment": "Working-conditions evidence only, not employment stock. Page31:61 zero-games-income respondents overall;56 in89-person five-role subset. No national extrapolation.",
+    "access_status": "Original70MB PDF downloaded; methodology/text reviewed; income chart rendered and inspected",
+    "next_step": "Keep regional context separate; no chart addition."
+  },
+  {
+    "url": "https://cearajogos.com.br/",
+    "title": "Ceará Jogos document archive",
+    "publisher": "Ceará Jogos ecosystem initiative",
+    "years": "2023 mapping and2024 census listed",
+    "methodology": "Archive links state and city plans, statewide MPJ mapping and city-focused census.",
+    "assessment": "Primary discovery route; no later census edition located in bounded check.",
+    "access_status": "Full web page read",
+    "next_step": "Do not interpret absence from this index as proof no successor exists."
+  },
+  {
+    "url": "https://cearajogos.com.br/mpj-ce-mapeamento-2023/",
+    "title": "MPJ-CE mapping2023 PDF route",
+    "publisher": "Ceará Jogos hosting Sebrae/sector mapping",
+    "years": "2023",
+    "methodology": "Web identifies36-page PDF but no extracted text; screenshots time out and local HTTP returns406.",
+    "assessment": "Report contents/numbers not verified; no observation accepted.",
+    "access_status": "PDF metadata only; original download failed",
+    "next_step": "Recover alternative public issuer PDF if regional analysis requires it."
+  },
+  {
+    "url": "https://sebrae.com.br/sites/PortalSebrae/ufs/ce/arquivos/mapeamento-de-profissionais-de-jogos-no-ceara,40c8a8ce8751b810VgnVCM1000001b00320aRCRD",
+    "title": "Mapeamento de Profissionais de Jogos no Ceará: issuer description",
+    "publisher": "Sebrae Ceará",
+    "years": "2023 mapping referenced by census/sector archive",
+    "methodology": "Public description covers businesses, professionals and education initiatives in digital and analog games across Ceará.",
+    "assessment": "Scope differs from Fortaleza digital-games community survey; no comparable employment time series established.",
+    "access_status": "Public landing description read; full report not recovered",
+    "next_step": "Require full methods, denominator and geography before comparing2023 and2024."
+  }
+]

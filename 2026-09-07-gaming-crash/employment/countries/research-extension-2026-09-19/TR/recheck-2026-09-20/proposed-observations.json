@@ -1,0 +1,28 @@
+[
+  {
+    "status": "context_only_not_series_eligible",
+    "country": "Turkey",
+    "publication_date": "2015-11-12 (PDF metadata; exact release date not printed)",
+    "reported_value": 5000,
+    "unit": "people working in game development",
+    "source": "EGDF, How To Enable Digital Growth in Europe?",
+    "url": "https://www.fichier-pdf.fr/2016/01/28/egdf-vision-sep2015/egdf-vision-sep2015.pdf",
+    "source_locator": "PDF p. 4 (printed p. 4), Turkey map label 5,000",
+    "scope": "Undocumented beyond the map title. FTE/headcount, employer category, geography and reference period are absent.",
+    "methodology": "Not stated. The accessible file is a third-party copy of an EGDF-branded publication.",
+    "reason_not_plottable": "Publication is dated but the employment reference year and method are not. It conflicts in availability, not necessarily value, with EGDF's later 2018 Turkey N/A entry."
+  },
+  {
+    "status": "context_only_not_series_eligible",
+    "country": "Turkey",
+    "publication_date": "2026-03-04",
+    "reported_value": 25000,
+    "unit": "directly employed people / qualified employment",
+    "source": "TOBB Türkiye Kreatif Endüstriler Meclisi and TOGED, Oyun Ekosistemi Değerlendirme Toplantısı Sonuç Raporu",
+    "url": "https://files.toged.org/creative-turkiye-oyun-ekosistemi-toplantisi-sonuc-raporu.pdf",
+    "source_locator": "PDF p. 5 executive summary; pp. 12-13 (printed pp. 12-13)",
+    "scope": "Producer-side game-development sector. The report distinguishes it from consumer-side players, publishers, creators, esports and events, but does not define inclusion of publishers, contractors, overseas staff or part-time staff.",
+    "methodology": "Not stated. The report's only described survey is a 15-question live Mentimeter poll of about 52 meeting participants on the proposed law, not employment enumeration (PDF pp. 41-48).",
+    "reason_not_plottable": "The report is dated but the workforce reference date, frame, method, cadence and geographic basis are absent."
+  }
+]

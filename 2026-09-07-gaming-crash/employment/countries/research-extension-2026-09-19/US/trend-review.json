@@ -1,0 +1,37 @@
+{
+  "review_date": "2026-09-19",
+  "decision_scope": "Source-native table comparisons only; not proof of an uninterrupted national series",
+  "series_reviews": [
+    {
+      "series_id": "US_legacy_siwek_all_establishments",
+      "chart_eligible": true,
+      "trend_eligible": true,
+      "allowed_years": [
+        2009,
+        2012
+      ],
+      "allowed_join_series_ids": [
+        "US_legacy_siwek_all_establishments"
+      ],
+      "comparison_label": "Source-reported modeled employment comparison, ESA2014 vintage",
+      "evidence": "ESA2014 printedpp13-14 TableD2 explicitly compares all-worker estimates for2009 and2012. Broader software-employment ratios and gamedevmap locations inform estimates. Preserve reported42975, despite displayed components summing42976.",
+      "limits": "Only this source/vintage pair. Not precise national census; no splice to thresholded TableD1, ESA2017 Mapping or TEConomy."
+    },
+    {
+      "series_id": "US_mapping_2017",
+      "chart_eligible": true,
+      "trend_eligible": true,
+      "allowed_years": [
+        2013,
+        2014,
+        2015
+      ],
+      "allowed_join_series_ids": [
+        "US_mapping_2017"
+      ],
+      "comparison_label": "ESA2017 published mapping-table history, employment/founding-year reporting frame",
+      "evidence": "ESA2017 printedp19 TableE2 gives56712,58963,60031 and source-reported growth comparison. TableE1 reports1296/1522 locations; footnote excludes missing employment/founding-year data.",
+      "limits": "Do not connect2015 to2016(65678), whose reporting universe is wider. No join to older modeled estimates or newer TEConomy. Changing coverage may influence apparent growth."
+    }
+  ]
+}

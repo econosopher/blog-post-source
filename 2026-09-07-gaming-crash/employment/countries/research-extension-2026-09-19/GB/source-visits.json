@@ -1,0 +1,52 @@
+[
+  {
+    "url": "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/534305/Focus_on_Employment_revised_040716.pdf",
+    "title": "Creative Industries Economic Estimates: Focus on Employment",
+    "publisher": "Department for Culture, Media and Sport",
+    "years": "2011-2015",
+    "methodology": "Computer-games estimates use SIC 58.21 and 62.01/1; source says annual variation can partly reflect small sample sizes.",
+    "assessment": "Primary official source with exact 2011-14 rows. It is compatible in concept with the existing DCMS jobs series, subject to later-vintage revision check.",
+    "access_status": "Full PDF downloaded and text-extracted",
+    "next_step": "Main acceptance pass should compare the four rows against the current 2026 ODS before merging."
+  },
+  {
+    "url": "https://tiga.org/news/the-uk-video-games-development-sector-surges-forward",
+    "title": "The UK Video Games Development Sector Surges Forward",
+    "publisher": "TIGA / Games Investor Consulting",
+    "years": "November 2017; November 2018",
+    "methodology": "Public release describes an extensive survey of UK games businesses with Games Investor Consulting analysis; it does not reproduce the complete commercial-report methodology.",
+    "assessment": "Primary public source for two exact 2017 endpoints. It separates creative-staff FTE from total development workforce including contractors and separately lists indirect supported jobs.",
+    "access_status": "Official WordPress API JSON downloaded; browser page returned 502",
+    "next_step": "Add only the 2017 endpoints because the 2018 endpoints already exist in GB.json."
+  },
+  {
+    "url": "https://ukiepedia.ukie.org.uk/index.php/Regional_Economic_Impacts_of_the_UK_Games_Industry",
+    "title": "Think Global, Create Local: Regional Economic Impacts of the UK Games Industry",
+    "publisher": "Ukie / Olsberg SPI / British Film Institute",
+    "years": "2016",
+    "methodology": "Public page says it reuses BFI Screen Business underlying data and Green Book principles; its detailed model inputs were not inspected in this bounded pass.",
+    "assessment": "Usable only as a separately labelled direct-company FTE benchmark. Do not use its 47,620 FTE total supported jobs as direct employment.",
+    "access_status": "Full public HTML inspected; legacy direct PDF link returned 404",
+    "next_step": "Recover and inspect the original BFI Screen Business report before treating contractor coverage or detailed scope as resolved."
+  },
+  {
+    "url": "https://cms.ukie.org.uk/wp-content/uploads/2025/04/Ukie-key-facts-2025_compressed.pdf",
+    "title": "UK Video Games Industry in Numbers",
+    "publisher": "Ukie",
+    "years": "January 2025 fact sheet",
+    "methodology": "No underlying source, reference period, or worker-status treatment supplied in the inspected one-page fact sheet for its 26,000 direct-employment claim.",
+    "assessment": "Current public claim but not sufficiently defined for a proposed observation. It is not evidence of a 2026 reference-year count.",
+    "access_status": "Full one-page PDF inspected",
+    "next_step": "Locate the cited underlying study or a methodological release before considering the 26,000 figure."
+  },
+  {
+    "url": "https://www.gov.uk/government/statistics/economic-estimates-employment-january-2025-to-december-2025-for-dcms-sectors",
+    "title": "Economic Estimates: Employment January 2025 to December 2025 for DCMS sectors",
+    "publisher": "Department for Culture, Media and Sport",
+    "years": "2025 (latest reference year inspected)",
+    "methodology": "Existing packet records APS annual-average filled jobs, small game-sector samples, and 2025 confidence intervals.",
+    "assessment": "Forward sweep found no public 2026 reference-year game-only employment observation. This release is already represented in GB.json and is not duplicated here.",
+    "access_status": "Existing packet's downloaded ODS and source record reviewed",
+    "next_step": "Await the next DCMS employment release; retain uncertainty and accreditation cautions."
+  }
+]

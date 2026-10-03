@@ -1,0 +1,38 @@
+[
+  {
+    "country": "Indonesia",
+    "iso2": "ID",
+    "series_id": "ID_kominfo2020_survey_game_developers_all",
+    "year": 2019,
+    "value": 1286,
+    "unit": "people",
+    "period": "2019 reference coverage explicitly stated on printed p1 and research question on p5; survey conducted2020, report publishedApril2021",
+    "url": "https://www.researchgate.net/publication/394347887_Peta_Ekosistem_Industri_Game_2020",
+    "source_locator": "Peta Ekosistem Industri Game 2020, p. 34 (Sumber Daya Manusia): 1,286 workers in surveyed game developers, consisting of 1,136 at incorporated developers and 150 at unincorporated developers. Reference period: printed p1 and introductory research question; excludes Covid-impact section.",
+    "definition": "Survey-respondent workforce at Indonesian video-game developers. Official study used non-probability collection: census approach for incorporated companies and community-database snowball sampling for unincorporated actors. Not a national employment estimate; worker statuses include permanent, contract and internship but the 1,286 total is not published by status. Publisher-only coverage is not established."
+  },
+  {
+    "country": "Indonesia",
+    "iso2": "ID",
+    "series_id": "ID_kominfo2020_survey_incorporated_game_developers",
+    "year": 2019,
+    "value": 1136,
+    "unit": "people",
+    "period": "2019 study focus; fieldwork and publication process in 2020; report published April 2021",
+    "url": "https://www.researchgate.net/publication/394347887_Peta_Ekosistem_Industri_Game_2020",
+    "source_locator": "Peta Ekosistem Industri Game 2020, p. 34: incorporated game developers had 1,136 workers, average 35-36 per company.",
+    "definition": "Component of the 1,286 survey-respondent developer total: workers at incorporated game developers only. It is the report headline number, but excludes the reported 150 workers at unincorporated developers. Non-probability study, not a national estimate. Do not sum with the all-developer total."
+  },
+  {
+    "country": "Indonesia",
+    "iso2": "ID",
+    "series_id": "ID_interactive_games_policy_subsector_broad",
+    "year": 2013,
+    "value": 23928,
+    "unit": "people",
+    "period": "calendar year 2013",
+    "url": "https://id.scribd.com/doc/294777720/Cetak-Biru-Permainan-Interaktif",
+    "source_locator": "Rencana Pengembangan Permainan Interaktif Nasional 2015-2019, p. 73, contribution summary item c: subsektor permainan interaktif absorbed up to 23,928 workers in 2013.",
+    "definition": "National policy-document estimate for the Indonesian interactive-games creative-economy subsector. Scope is broader than video-game development: the document defines interactive games across electronic, online, physical, card and board media, and says then-available 2009 creative KBLI classifications did not fully fit its proposed scope. Do not compare with game-developer surveys."
+  }
+]

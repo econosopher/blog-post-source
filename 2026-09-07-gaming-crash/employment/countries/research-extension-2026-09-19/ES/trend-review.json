@@ -1,0 +1,21 @@
+{
+  "review_date": "2026-09-19",
+  "decision": "DEV retrospective Figure 16 matches all overlapping 2015-2022 original observations. Extend direct-employment series to 2013; changing annual survey coverage remains a caveat. Exclude forecasts, freelancers and indirect jobs.",
+  "original_packets_modified": false,
+  "observations": [
+    {
+      "year": 2013,
+      "series_id": "ES_direct",
+      "chart_eligible": true,
+      "trend_eligible": true,
+      "marker_only": false
+    },
+    {
+      "year": 2014,
+      "series_id": "ES_direct",
+      "chart_eligible": true,
+      "trend_eligible": true,
+      "marker_only": false
+    }
+  ]
+}

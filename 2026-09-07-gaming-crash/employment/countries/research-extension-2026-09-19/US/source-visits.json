@@ -1,0 +1,32 @@
+[
+  {
+    "url": "https://www.igea.net/wp-content/uploads/2014/11/VideoGames21stCentury_2014.pdf",
+    "title": "Video Games in the 21st Century: The 2014 Report",
+    "publisher": "Entertainment Software Association / Stephen E. Siwek",
+    "years": "2009;2011;2012",
+    "methodology": "The report calls these estimates and combines government software-publishing data with gamedevmap.com locations. Its direct-employment scope is publisher/developer establishments, not the later ESA/TEConomy broad industry total.",
+    "assessment": "Verified source; accepted additions and excluded scope documented in findings.md.",
+    "access_status": "full_source",
+    "next_step": "Keep estimation families separate; no continuous national game-only government series verified."
+  },
+  {
+    "url": "https://www.theesa.com/wp-content/uploads/2024/02/2017-EIR-National-Report.pdf",
+    "title": "Video Games in the 21st Century: 2017 Economic Impact Report",
+    "publisher": "Entertainment Software Association / Stephen E. Siwek",
+    "years": "2013;2014;2015;2016",
+    "methodology": "Already cited by the authoritative packet. This extension exposes the 2013 and 2014 mapping-project rows that the packet did not yet carry.",
+    "assessment": "Verified source; accepted additions and excluded scope documented in findings.md.",
+    "access_status": "full_source",
+    "next_step": "Keep estimation families separate; no continuous national game-only government series verified."
+  },
+  {
+    "url": "https://www.bls.gov/web/empsit/cesseriespub.htm",
+    "title": "CES Published Series and Current Employment Statistics documentation",
+    "publisher": "U.S. Bureau of Labor Statistics",
+    "years": "1990 onward, broader software",
+    "methodology": "A long annual/monthly employment series exists, but it is Software publishers, not game-only publishers. It is deliberately not proposed as a game-employment observation.",
+    "assessment": "Verified source; accepted additions and excluded scope documented in findings.md.",
+    "access_status": "full_source",
+    "next_step": "Keep estimation families separate; no continuous national game-only government series verified."
+  }
+]

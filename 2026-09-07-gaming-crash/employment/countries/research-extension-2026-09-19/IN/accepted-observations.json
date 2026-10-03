@@ -1,0 +1,18 @@
+[
+  {
+    "country": "India",
+    "iso2": "IN",
+    "series_id": "IN_ey_2023_online_gaming_direct_indirect",
+    "year": 2023,
+    "value": 100000,
+    "unit": "people",
+    "period": "FY23 fact-sheet snapshot in EY's December 2023 report; body text also calls it present employment",
+    "url": "https://www.ey.com/content/dam/ey-unified-site/ey-com/en-in/insights/media-entertainment/documents/ey-new-frontier-online-gaming-report.pdf",
+    "source_locator": "PDF p9 factsheet explicitly labels100,000 employees FY23; p13 defines direct and indirect roles and cites TeamLease November2022.",
+    "definition": "EY's broad Indian online-gaming employment estimate, explicitly including direct and indirect roles across core and support functions. The report identifies real-money gaming as 82.8% of FY23 online-gaming market value, so this is not a core video-game-development workforce measure. EY cites TeamLease Digital's November 2022 gaming report for the employment claim; detailed population, sampling and direct/indirect multiplier method are not stated.",
+    "status": "accepted_primary_verified",
+    "trend_eligible": false,
+    "chart_eligible": false,
+    "display_value": "approximately 100,000"
+  }
+]

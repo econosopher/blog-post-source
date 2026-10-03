@@ -1,0 +1,15 @@
+{
+  "series_id": "DK_core_game_producers_v2009",
+  "review_date": "2026-09-19",
+  "allowed_years": [
+    2008,
+    2009
+  ],
+  "allowed_join_series_ids": [
+    "DK_core_game_producers_v2009"
+  ],
+  "chart_eligible": true,
+  "trend_eligible": true,
+  "evidence": "Original report Table8 printedp29; narrative explicitly compares2008/09 and defines FTE. Section1.6 warns against older industry-code reconstructions.",
+  "limits": "Source-native2008/2009 core game-producer payroll FTE pair. Selected company population excludes freelancers/support firms. No joins to later report vintages."
+}

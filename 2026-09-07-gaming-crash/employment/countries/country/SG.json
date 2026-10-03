@@ -1,0 +1,101 @@
+{
+  "country": "Singapore",
+  "iso2": "SG",
+  "priority": "additional",
+  "coverage_status": "usable_snapshot",
+  "summary": "A government parliamentary answer reports nearly 2,000 games-sector employees in 2021. The text places esports within games, and does not isolate a developer/publisher-only denominator. The previously quoted 2,700 is expected manpower demand, explicitly not an achieved employment count.",
+  "preferred_series_ids": [],
+  "search_log": [
+    {
+      "route": "statistical_agency",
+      "query": "Singstat IMDA annual survey infocomm media manpower games employment",
+      "url": "https://www.mddi.gov.sg/newsroom/infocomm-and-media-professionals-required/",
+      "outcome": "Official manpower answer found; broader tech/media totals were not substituted."
+    },
+    {
+      "route": "industry_association",
+      "query": "Singapore Games Association employment survey workforce 2024",
+      "url": "https://www.linkedin.com/posts/singapore-games-association_as-part-of-sggas-support-for-the-games-industry-activity-7181865724779331584-HWL9",
+      "outcome": "SGGA talent-economics survey participation found; MDEC 2024 regional report is a 295-person sample, not a national stock."
+    },
+    {
+      "route": "local_language",
+      "query": "新加坡 游戏产业 从业人员 员工 2000",
+      "url": "https://www.zaobao.com.sg/finance/singapore/story20241018-5179879",
+      "outcome": "Chinese-language industry reporting checked; no better national core count found."
+    }
+  ],
+  "sources": [
+    {
+      "source_id": "SG_mddi2022",
+      "title": "Infocomm and media professionals required: parliamentary answer",
+      "publisher": "Singapore Ministry of Communications and Information (now MDDI)",
+      "url": "https://www.mddi.gov.sg/newsroom/infocomm-and-media-professionals-required/",
+      "publication_date": "2022-08-02",
+      "retrieved_date": "2026-09-09",
+      "source_type": "government",
+      "local_file": "raw/SG/mddi2022-parliament.html",
+      "locator": "Answer paragraphs 3–5",
+      "access_status": "full_source",
+      "notes": "Official parliamentary answer for sitting on 2 August 2022; date read from archived HTML."
+    }
+  ],
+  "series": [
+    {
+      "series_id": "SG_games2021",
+      "label": "Games-sector employees including esports context",
+      "measure": "employment_stock",
+      "unit": "people",
+      "industry_scope": "Games sector; game developers, publishers and esports context",
+      "occupation_scope": "All occupations within covered businesses",
+      "geography_basis": "domestic_workplace",
+      "geography_note": "People working in the country; nationality not implied.",
+      "worker_status": "Source-reported workers; detailed status treatment not specified",
+      "contractor_treatment": "Unknown; not assumed to include independent contractors",
+      "nationality_definition": "Not reported",
+      "method": "Source estimate; detailed methodology not publicly specified",
+      "population_basis": "national_estimate",
+      "sample_size": "unknown",
+      "comparability_group": "SG_games2021",
+      "chart_eligible": true,
+      "trend_eligible": false,
+      "index_2019_eligible": false,
+      "comparison_note": "Approximate snapshot only; domestic core developer/publisher scope not separable. Eligible only for a clearly labelled source-native snapshot, sample or context chart; not a comparable domestic core trend.",
+      "source_native_term": "Games-sector employees including esports context",
+      "term_translation": "Games-sector employees including esports context"
+    }
+  ],
+  "observations": [
+    {
+      "observation_id": "SG_games2021_2021_SG_mddi2022_0",
+      "series_id": "SG_games2021",
+      "source_id": "SG_mddi2022",
+      "observation_period": "2021",
+      "year": 2021,
+      "value": 2000,
+      "value_low": null,
+      "value_high": null,
+      "status": "estimated",
+      "preferred": true,
+      "subgroup": "all",
+      "denominator": "Covered industry workforce",
+      "source_locator": "Answer paragraph 5",
+      "publication_vintage": "SG_mddi2022",
+      "method_break": false,
+      "break_note": "",
+      "derivation": "",
+      "notes": "Source qualifier: nearly 2,000. Rounded approximate count, not exact stock.",
+      "value_qualifier": "nearly"
+    }
+  ],
+  "limitations": [
+    "Single dated broad-sector observation, insufficient for trend or 2019 index.",
+    "Esports context makes sector boundary wider than pure development/publishing.",
+    "No verified nationality or independent contractor shares."
+  ],
+  "review_checks": [
+    "Official answer distinguishes 2,700 projected demand from nearly 2,000 actual 2021 employment.",
+    "2021 is explicitly stated as the observation year."
+  ],
+  "research_complete": true
+}

@@ -1,0 +1,42 @@
+[
+  {
+    "url": "https://www.mddi.gov.sg/newsroom/infocomm-and-media-professionals-required/",
+    "title": "MCI response to PQ on Info Comm and Media Professionals Required to Support Games Sector",
+    "publisher": "Singapore Ministry of Communications and Information, now MDDI",
+    "years": "2019 demand survey; 2021 employment; published 2022",
+    "methodology": "The parliamentary answer says the Annual Survey on Infocomm Media Manpower provides an indicative sense of demand based on companies' growth expectations. It does not publish the realised-employment method for the 2021 nearly-2,000 figure.",
+    "assessment": "Only located national games-sector employment stock: nearly 2,000 people in 2021. The text explicitly distinguishes it from the projected 2,700 demand, and discusses the sector with esports context; it is not a pure developer/publisher series.",
+    "access_status": "full official page",
+    "next_step": "Use only as the existing broad 2021 snapshot unless IMDA releases a games-only realised-employment table."
+  },
+  {
+    "url": "https://www.sgga.org.sg/",
+    "title": "Singapore Games Association home page",
+    "publisher": "Singapore Games Association",
+    "years": "current site claim, checked 2026-09-20",
+    "methodology": "The association says it issues annual data reports on the Singapore games industry, but its public sitemap exposes no report archive or downloadable data report.",
+    "assessment": "This establishes that SGGA is a relevant annual-report lead, but does not itself provide an employment count, methodology, or retrievable annual series.",
+    "access_status": "public home page and sitemap inspected; no public report URL located",
+    "next_step": "Do not infer data availability from the claim. Recheck only if SGGA publishes a report or public methodology/data link."
+  },
+  {
+    "url": "https://sg.linkedin.com/in/kenlimhowguan",
+    "title": "SGGA Townhall update reposted by an SGGA-linked industry participant",
+    "publisher": "Singapore Games Association update, surfaced in LinkedIn public search",
+    "years": "2025",
+    "methodology": "The update says SGGA priorities include refreshing its industry survey and transparency; the data is 'still rough and being refined.'",
+    "assessment": "Corroborates that an industry survey is not a released, stable annual employment series. It offers no count and should not be turned into a time-series observation.",
+    "access_status": "public search snippet",
+    "next_step": "Treat as a publication-status limitation, not quantitative evidence."
+  },
+  {
+    "url": "https://www.imda.gov.sg/about-imda/research-and-statistics/tech-and-media-talent",
+    "title": "Tech and Media Talent",
+    "publisher": "Infocomm Media Development Authority",
+    "years": "2020-2025 workbook series reviewed in prior archive pass",
+    "methodology": "IMDA public workbook has tech/media totals and sector/sex breakdowns, but no games-specific workforce row or industry-class series.",
+    "assessment": "Not usable for games employment. A broad technology/media total cannot be allocated to games.",
+    "access_status": "official public portal and linked workbook previously inspected",
+    "next_step": "Seek a released table for SSIC 58201 and 62012 or a games-specific realised-employment disclosure."
+  }
+]

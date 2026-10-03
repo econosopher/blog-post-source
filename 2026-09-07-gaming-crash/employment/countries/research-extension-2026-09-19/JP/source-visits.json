@@ -1,0 +1,380 @@
+[
+  {
+    "url": "https://www.stat.go.jp/data/e-census/2012/kakuho/pdf/service.pdf",
+    "title": "2012 Economic Census for Business Activity: results overview, construction and service industries",
+    "publisher": "Statistics Bureau of Japan / Ministry of Internal Affairs and Communications and Ministry of Economy, Trade and Industry",
+    "years": "2012 survey; published 2014-02-26",
+    "methodology": "National Economic Census, establishment tabulation; Table I-1 reports establishment count, workers and sales by detailed industry. Necessary-item respondents only; management/support establishments excluded from this establishment tabulation.",
+    "assessment": "Primary public source. Exact national 3914 game-software-industry worker count recovered: 9,452. Strongest dated observation in this pass.",
+    "access_status": "Primary researcher downloaded official PDF and visually checked Table I-1; archived economic-census-2012-services.pdf.",
+    "next_step": "Recover equivalent2016 and2021 rows with matching coverage."
+  },
+  {
+    "url": "https://www.e-stat.go.jp/dbview?sid=0003215380",
+    "title": "2016 Economic Census for Business Activity, Service Industries B, detailed industry table 1-1",
+    "publisher": "Government Statistics Portal (e-Stat)",
+    "years": "2016 survey; public database updated 2018-06-28",
+    "methodology": "Official national establishment table with worker count by detailed industry, including 3914 Game software industry.",
+    "assessment": "Primary and directly relevant; catalogue confirms 3914 and workers. Exact national row was not recovered from the interactive surface in this bounded pass.",
+    "access_status": "public interactive database; API requires application ID and direct HTML request timed out.",
+    "next_step": "Use browser/table download to obtain CSV/XLSX, then visually verify 3914 row and survey date."
+  },
+  {
+    "url": "https://www.e-stat.go.jp/classifications/terms/10/04/3914",
+    "title": "Japan Standard Industrial Classification 3914: Game software industry",
+    "publisher": "Government Statistics Portal (e-Stat)",
+    "years": "2023 classification revision",
+    "methodology": "Official industry-classification definition.",
+    "assessment": "Primary scope authority: game-software creation and related research/analysis/advice for console, portable and PC systems; disc/cartridge manufacturing excluded.",
+    "access_status": "public HTML",
+    "next_step": "Use as scope note for every Census/METI observation."
+  },
+  {
+    "url": "https://www.meti.go.jp/statistics/tyo/joho/result-2/r03/2021kakunews.pdf",
+    "title": "2021 Information and Communications Industry Basic Survey (FY2020 results) news release",
+    "publisher": "Ministry of Economy, Trade and Industry and Ministry of Internal Affairs and Communications",
+    "years": "FY2020 results; released 2022-03-29",
+    "methodology": "Annual Information and Communications Industry Basic Survey; information-service companies are classified by largest-sales business activity (main-industry basis).",
+    "assessment": "Primary government longitudinal route, but distinct from establishment census. Release confirms the game-software-industry category and annual comparison but not the exact worker total extracted here.",
+    "access_status": "public PDF",
+    "next_step": "Collect common worker-status table from each annual release and verify survey universe/method breaks before constructing a separate annual series."
+  },
+  {
+    "url": "https://www.meti.go.jp/statistics/tyo/joho/result-2/h23sokugaikyo.pdf",
+    "title": "Information and Communications Industry Basic Survey: FY2010 results, Chapter 5 information services",
+    "publisher": "Ministry of Economy, Trade and Industry",
+    "years": "FY2009–FY2010 comparison; published 2011",
+    "methodology": "Annual survey table reports company count, regular workers, worker status and dispatched workers by information-service company category.",
+    "assessment": "Primary source demonstrating annual employment fields and game-software-company category. It reports a 20.8% rise in game-software companies' average regular workforce, but the absolute game category total was not extracted in this pass.",
+    "access_status": "public PDF indexed by METI; direct command-line download returned 403.",
+    "next_step": "Retrieve through a normal public browser and transcribe the game-software-company row with all column headings."
+  },
+  {
+    "url": "https://www.cesa.or.jp/uploads/2025/release_game_industry_report2025.pdf",
+    "title": "CESA Game Industry Report 2025 release",
+    "publisher": "Computer Entertainment Supplier's Association (CESA)",
+    "years": "published 2025-12-15; employment observation year not stated",
+    "methodology": "Public summary of paid 462-page industry report; detailed employment estimation method not in release.",
+    "assessment": "Source-native context only: 58,000–83,000 core-company workers including console hardware, and about 200,000 with broad related sectors. Not a dated series observation.",
+    "access_status": "public PDF; existing project raw copy inspected",
+    "next_step": "Do not buy or infer timing unless the full report is explicitly authorised; retain existing contextual treatment."
+  },
+  {
+    "url": "https://www.cesa.or.jp/assets/images/information/release_game_industry_report2024.pdf",
+    "title": "CESA Game Industry Report 2024 release",
+    "publisher": "CESA",
+    "years": "published 2024-12-20; employment observation year not stated",
+    "methodology": "Public release of paid 360-page report, expressly described as the first rebuilt report after the White Paper series.",
+    "assessment": "Public release calls game-related total industrial population around 200,000 but gives no dated stock, scope diagram or public method. Not evidence of 2024 employment.",
+    "access_status": "public PDF downloaded to raw/cesa-2024-release.pdf",
+    "next_step": "Keep as corroborating origin of CESA context estimate only."
+  },
+  {
+    "url": "https://www.cesa.or.jp/uploads/info_081128.pdf",
+    "title": "Survey report on analysis and spillover effects of the game software industry",
+    "publisher": "CESA; research commissioned to Japan Research Institute",
+    "years": "published 2008-11; economic model uses 2007 calendar-year domestic market",
+    "methodology": "Input-output analysis of direct and peripheral demand. Employment-inducement count uses the employment table accompanying the input-output table; includes employees, paid officers, proprietors and family workers.",
+    "assessment": "Primary public report but not workforce stock. It calculates 63,863 induced workers from about JPY1tn economic effect and explicitly warns the effect need not create additional jobs.",
+    "access_status": "public PDF downloaded to raw/cesa-2008-economic-impact.pdf",
+    "next_step": "Use only if analysing economic multiplier methodology; exclude from employment trend."
+  },
+  {
+    "url": "https://www.cesa.or.jp/information/info6/001169/release20230731.html",
+    "title": "2023 CESA Games White Paper release",
+    "publisher": "CESA",
+    "years": "published 2023-07-31",
+    "methodology": "Paid home-console game-industry annual report; public release describes manufacturer shipment data, consumer-survey extracts and assisted overseas market estimates.",
+    "assessment": "No public workforce total recovered. Confirms predecessor report scope differs from post-2024 industry report.",
+    "access_status": "public HTML release; full report paid",
+    "next_step": "Exclude from workforce series absent authorised full-edition inspection."
+  },
+  {
+    "url": "https://www.cesa.or.jp/information/info6/001168/release20220829.html",
+    "title": "2022 CESA Games White Paper release",
+    "publisher": "CESA",
+    "years": "published 2022-08-29",
+    "methodology": "Paid home-console game-industry annual report; public release foregrounds hardware and packaged software market estimates.",
+    "assessment": "No public workforce total recovered.",
+    "access_status": "public HTML release; full report paid",
+    "next_step": "Exclude from workforce series absent authorised full-edition inspection."
+  },
+  {
+    "url": "https://www.cesa.or.jp/uploads/disclosure2023-report_01.pdf",
+    "title": "CESA FY2022 business report",
+    "publisher": "CESA",
+    "years": "FY2022; published 2023",
+    "methodology": "Association annual activity report.",
+    "assessment": "Primary publication-history evidence: delayed 2021 White Paper issued April 2022, then 2022 White Paper in August 2022. It does not supply workforce data.",
+    "access_status": "public PDF",
+    "next_step": "Use only to date the predecessor release, not as employment evidence."
+  },
+  {
+    "url": "https://www.stat.go.jp/english/data/e-census/2012/note.html",
+    "title": "2012 Census statistical-table notes",
+    "publisher": "Statistics Bureau of Japan",
+    "years": "2012-02-01",
+    "methodology": "Employment reference date differs from financial-year reference.",
+    "assessment": "Confirms persons-engaged date1February2012; source-table scope restrictions still apply.",
+    "access_status": "full HTML inspected",
+    "next_step": "Apply equivalent date and coverage checks to later censuses."
+  },
+  {
+    "url": "https://www.e-stat.go.jp/stat-search/file-download?statInfId=000031674378&fileKind=1",
+    "title": "2016 Economic Census Activity Survey, establishment industry tabulation (Service Industries B), Table 1",
+    "publisher": "Statistics Bureau of Japan / e-Stat",
+    "years": "2016 reference date 2016-06-01; published 2018-03-28",
+    "methodology": "National privately owned establishment tabulation by detailed class: establishments, persons engaged, sales and Service Industries B activity income.",
+    "assessment": "Primary-download verification: row 3914 Game software industry gives 256 establishments and 18,216 persons engaged. The companion official overview documents the required-item and management/support exclusion rule, making this a candidate extension of the accepted 2012 series.",
+    "access_status": "public direct download; CP932 CSV saved locally as economic-census-2016-serviceb-table1.xls and decoded raw/economic-census-2016-serviceb-table1.txt",
+    "next_step": "Keep supplemental pending main integration review; do not replace it with a broader series."
+  },
+  {
+    "url": "https://www.stat.go.jp/data/e-census/2016/kekka/pdf/r_serviceb.pdf",
+    "title": "2016 Economic Census Activity Survey: Service Industries B results overview",
+    "publisher": "Statistics Bureau of Japan",
+    "years": "2016 reference date 2016-06-01; published 2018",
+    "methodology": "Official results-overview methodology notes for the establishment industry tabulation.",
+    "assessment": "Page 2, item 4 says the industry tabulations exclude establishments conducting only management/support activities and establishments without values for industry-specific survey items. This is the critical coverage evidence for the 2016 detailed-class row.",
+    "access_status": "public PDF downloaded and text-inspected",
+    "next_step": "Cite with the Table 1 download if admitting the 2016 value."
+  },
+  {
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/zuhyou/s_searchtable.xlsx",
+    "title": "2021 Economic Census Activity Survey final-results table catalogue",
+    "publisher": "Statistics Bureau of Japan",
+    "years": "2021 reference date 2021-06-01; final results published 2023",
+    "methodology": "Official catalogue of published Census final-result tables and their industry-classification levels.",
+    "assessment": "The cross-industry workers table is labelled middle classification. The service-industry worker publication is a separate route and excludes G Information and Communications, so neither provides a comparable 3914 game-software worker row. No 2021 value proposed.",
+    "access_status": "public XLSX downloaded and inspected",
+    "next_step": "If needed, identify a separately published official detailed-class 3914 table before adding a 2021 point."
+  },
+  {
+    "url": "https://www.e-stat.go.jp/stat-search/file-download?statInfId=000040032976&fileKind=0",
+    "title": "2021 Economic Census Activity Survey, service-related industries, Table 1",
+    "publisher": "Statistics Bureau of Japan / e-Stat",
+    "years": "2021 reference date 2021-06-01; published 2023-03-28",
+    "methodology": "Service-related-industry establishments and persons engaged by classification and branch status.",
+    "assessment": "Official worksheet explicitly defines its service-related-industry universe as K, L, M, N, O2 and R2, excluding G Information and Communications. It is therefore not a valid source for JSIC 3914 game-software employment.",
+    "access_status": "public XLSX downloaded and inspected",
+    "next_step": "Exclude from this series; retain only as bounded negative evidence for 2021."
+  },
+  {
+    "url": "https://www.kkr.mlit.go.jp/kokudokeikaku/program/data/2024/pub_20241025/07_.pdf",
+    "title": "Kinki regional plan data appendix, October 2024, printed p12",
+    "publisher": "MLIT Kinki Regional Development Bureau",
+    "years": [
+      2016,
+      2021,
+      2024
+    ],
+    "methodology": "Adjacent charts cite different census years: film employment uses2021; game-software establishments and workers use2016.",
+    "assessment": "Reject as2021 game-employment evidence. Downloaded full PDF and checked chart-specific footnotes. Confirms continued official use of older2016 games detail, not a new year.",
+    "access_status": "PDF downloaded and text inspected",
+    "next_step": "Continue detailed census or METI enterprise table route; do not assign neighboring source date."
+  },
+  {
+    "url": "https://www.meti.go.jp/statistics/tyo/joho/result-2/h23sokugaikyo.pdf",
+    "title": "平成23年情報通信業基本調査速報",
+    "publisher": "Ministry of Internal Affairs and Communications and Ministry of Economy, Trade and Industry",
+    "years": [
+      2010
+    ],
+    "methodology": "Enterprise survey; Chapter 5 reports development/production division employment by enterprise industry. FY22 data are fiscal-year-end counts.",
+    "assessment": "Direct values, but explicitly a preliminary rapid release. Valid responses are accumulated by item and respondent counts vary by table.",
+    "access_status": "downloaded; decisive table extracted to 2011.txt",
+    "next_step": "Locate the FY2010 final-release workbook/PDF before replacing the preliminary observation."
+  },
+  {
+    "url": "https://www.e-stat.go.jp/stat-search/file-download?fileKind=0&statInfId=000031813847",
+    "title": "平成30年情報通信業基本調査 H30-5 第5章 情報サービス業",
+    "publisher": "Statistics Bureau of Japan e-Stat / Ministry of Internal Affairs and Communications",
+    "years": [
+      2017
+    ],
+    "methodology": "Published table workbook. Table 7 is industry-by-employment in the development/production division. The associated H30 questionnaire specifies FY2017 end; scope is JSIC division 39 enterprises with capital/investment of JPY30m or more.",
+    "assessment": "Direct table total and direct respondent-company denominator; do not present as census coverage.",
+    "access_status": "downloaded and converted for inspection",
+    "next_step": "Use as a survey-series point only."
+  },
+  {
+    "url": "https://www.e-stat.go.jp/stat-search/file-download?fileKind=0&statInfId=000031925314",
+    "title": "2019年情報通信業基本調査 2019-5 第5章 情報サービス業",
+    "publisher": "Statistics Bureau of Japan e-Stat / Ministry of Internal Affairs and Communications",
+    "years": [
+      2018
+    ],
+    "methodology": "Published table workbook. Table 7 is industry-by-employment in the development/production division; the 2019 questionnaire specifies FY2018 end; scope is JSIC division 39 enterprises with capital/investment of JPY30m or more.",
+    "assessment": "Direct table total and direct respondent-company denominator; comparable in construct to FY2017 and FY2020 subject to response composition.",
+    "access_status": "downloaded and converted for inspection",
+    "next_step": "Use as a survey-series point only."
+  },
+  {
+    "url": "https://www.e-stat.go.jp/stat-search/file-download?fileKind=0&statInfId=000032181020",
+    "title": "2021年情報通信業基本調査 2021-5 第5章 情報サービス業",
+    "publisher": "Statistics Bureau of Japan e-Stat / Ministry of Internal Affairs and Communications",
+    "years": [
+      2020
+    ],
+    "methodology": "Published table workbook. 7表 reports development/production division employment by enterprise industry; related tables explicitly use 2020年度. The direct workforce-field reference-date instruction remains to be retrieved.",
+    "assessment": "Direct table total 14,519 and respondent-company denominator 70. This is the requested FY2020 enterprise source, not a derived estimate; fiscal-year label remains proposed pending direct field-date text.",
+    "access_status": "downloaded and converted for inspection",
+    "next_step": "Retrieve the workforce-field instruction/reference date before promoting this candidate; a guessed questionnaire URL returned HTML, retained locally as a failed response."
+  },
+  {
+    "url": "https://www.meti.go.jp/statistics/tyo/joho/result-5/h30/30joho_kinyutebiki_5.pdf",
+    "title": "平成30年情報通信業基本調査⑤ 調査票の記入手引（情報サービス業）",
+    "publisher": "Ministry of Internal Affairs and Communications and Ministry of Economy, Trade and Industry",
+    "years": [
+      2017
+    ],
+    "methodology": "Questionnaire guide: asks for development/production division employees at FY2017 end and defines 常時従業者.",
+    "assessment": "Method/reference-date corroboration for the H30 result workbook.",
+    "access_status": "web-indexed and inspected",
+    "next_step": "Retain with the result workbook for methodology traceability."
+  },
+  {
+    "url": "https://www.meti.go.jp/statistics/tyo/joho/result-5/2021/2021joho_chosa_5.pdf",
+    "title": "2021 questionnaire5 workforce field5301",
+    "years": "FY2020 end",
+    "methodology": "Development/production workers of respondents; paid directors and contract/freelance workers included; temporary and incoming dispatch separate.",
+    "assessment": "Exact field-year text recovered from indexed officialPDF; accepts FY2020 snapshot only.",
+    "access_status": "Indexed primary text; directdownload403"
+  },
+  {
+    "url": "https://www.meti.go.jp/statistics/tyo/joho/result-2/r03/2021kakugaiyo.pdf",
+    "title": "2021 overview employee-category revision note",
+    "years": "2018 questionnaire revision",
+    "methodology": "Official warning about changed nonregular-employee categories.",
+    "assessment": "Requires pre/post-revision total-definition review; not yet proof total itself is incomparable.",
+    "access_status": "Indexed primary text; directdownload403"
+  },
+  {
+    "url": "https://www.meti.go.jp/statistics/tyo/joho/result-5/h30/30joho_chosa_5.pdf",
+    "title": "2018 industry-specific form5 direct field review",
+    "publisher": "METI / MIC",
+    "years": "2018-2019 survey instruments",
+    "methodology": "Information and Communications Industry Basic Survey; respondent enterprise survey",
+    "assessment": "FY2017 field5301 date/definition directly verified; accepts respondent snapshot only.",
+    "access_status": "Web PDF extracted text inspected; no local download",
+    "next_step": "Retain evidence; pursue missing workforce field only where unresolved."
+  },
+  {
+    "url": "https://www.meti.go.jp/statistics/tyo/joho/result-5/r01/31joho_chosa_5.pdf",
+    "title": "2019 form5 cover review",
+    "publisher": "METI / MIC",
+    "years": "2018-2019 survey instruments",
+    "methodology": "Information and Communications Industry Basic Survey; respondent enterprise survey",
+    "assessment": "FY2018 cover and nearest-period exception verified; workforce-field read incomplete.",
+    "access_status": "Cover recovered; later field-page attempts403",
+    "next_step": "Retain evidence; pursue missing workforce field only where unresolved."
+  },
+  {
+    "url": "https://www.meti.go.jp/statistics/tyo/joho/result-5/h30/30joho_bunrui.pdf",
+    "title": "2018 survey classification and overview",
+    "publisher": "METI / MIC",
+    "years": "2018-2019 survey instruments",
+    "methodology": "Information and Communications Industry Basic Survey; respondent enterprise survey",
+    "assessment": "Employment survey date31March2018; information-service enterprise capital thresholdJPY30m.",
+    "access_status": "Primary search-index text; direct403",
+    "next_step": "Retain evidence; pursue missing workforce field only where unresolved."
+  },
+  {
+    "url": "https://www.meti.go.jp/statistics/toppage/topics/jisshinaiyou/chosakeikakufiles/40_jyohotsushingyokihon0305.pdf",
+    "title": "Approved survey plan alternate instrument route",
+    "publisher": "METI / MIC",
+    "years": "2018-2019 survey instruments",
+    "methodology": "Information and Communications Industry Basic Survey; respondent enterprise survey",
+    "assessment": "No full instrument recovery; do not treat search snippet as game-form verification.",
+    "access_status": "Directcurl403",
+    "next_step": "Retain evidence; pursue missing workforce field only where unresolved."
+  },
+  {
+    "url": "https://www.e-stat.go.jp/stat-search/file-download?fileKind=0&statInfId=000032089816",
+    "title": "METI/e-Stat 2020-5 game-software workforce table",
+    "years": "2020 survey; candidate FY2019 stock date pending",
+    "methodology": "Development/production division, regular workers;68 responding game-software enterprises.",
+    "assessment": "12050 total verified at7表!J7; components sum12035, residual15 unassigned. Proposed only; exact stock date unresolved.",
+    "access_status": "Official XLSX downloaded and cells parsed",
+    "next_step": "Recover2020 industry form5 workforce field/date; no national trend."
+  },
+  {
+    "url": "https://www.meti.go.jp/statistics/tyo/joho/result-5.html",
+    "title": "METI questionnaire index,2019 and2020 form5 follow-up",
+    "years": "2019-2020 survey editions",
+    "methodology": "Official links distinguish industry-specific form5 from other instruments.",
+    "assessment": "2019 form and guide links confirmed but403;2020 form/guide web fetch failed. Index is not workforce-field proof.",
+    "access_status": "Index directly inspected; failed PDF calls recorded",
+    "next_step": "Seek official mirrored questionnaires or archive copies; retain proposed status."
+  },
+  {
+    "url": "https://www.meti.go.jp/statistics/tyo/joho/result-5/r01/31joho_bunrui.pdf",
+    "title": "2019 classification/general survey instructions",
+    "years": "2019 survey",
+    "methodology": "Indexed official text gives31March2019 for enterprise outline, organization and workers; business activity/transactions have different reference treatment.",
+    "assessment": "General instructions do not establish form5 field5301 fiscal-end rule. Do not use them to assign calendar date to proposed13343.",
+    "access_status": "Official indexed text read; originalHTTP403",
+    "publisher": "METI / MIC",
+    "next_step": "Retain as scope/revision evidence. Field5301 date still requires original same-year form or equivalent field-specific documentation."
+  },
+  {
+    "url": "https://www.meti.go.jp/statistics/tyo/joho/result-2/r02/2020kakunews.pdf",
+    "title": "2020 information and communications survey final release",
+    "years": "Released28May2021; survey2020, FY2019 activity",
+    "methodology": "Official indexed release states capital threshold30millionJPY for information services, general survey date31March2020, collection16August-15October2020. Form5 covers6031target,3985returned,3660valid enterprises across all information services.",
+    "assessment": "Denominators are sector-wide, not game-specific. General survey date is insufficient to replace field-specific fiscal-end instructions.",
+    "access_status": "Official release indexed text reviewed; no saved full original",
+    "publisher": "METI / MIC",
+    "next_step": "Retain as scope/revision evidence. Field5301 date still requires original same-year form or equivalent field-specific documentation."
+  },
+  {
+    "url": "https://www.meti.go.jp/statistics/tyo/joho/result-3/2020_seigo_5-1.pdf",
+    "title": "2020 information services correction notice: Table1",
+    "years": "2020 survey; correction timing not verified from original notice",
+    "methodology": "Indexed original PDF shows correct/incorrect Table1 enterprise counts and capital-size breakdown. Games enterprise count69 appears in Table1.",
+    "assessment": "Do not replace Table7 workforce-reporting enterprise count68 with Table1 industry count69. Indexed scope is Table1; full correction notice remains inaccessible, so no claim that all workforce tables were unaffected.",
+    "access_status": "Official PDF indexed text reviewed; direct original web fetch failed",
+    "publisher": "METI / MIC",
+    "next_step": "Retain as scope/revision evidence. Field5301 date still requires original same-year form or equivalent field-specific documentation."
+  },
+  {
+    "url": "https://www.stat.go.jp/data/e-census/2012/kakuho/pdf/service.pdf",
+    "title": "2012 Economic Census for Business Activity: construction and service industries",
+    "publisher": "Statistics Bureau of Japan / MIC and METI",
+    "years": "1 February 2012",
+    "methodology": "Table I-1, national JSIC 3914 Game software industry row",
+    "assessment": "Existing chart-eligible census series only; not newly added by this recheck.",
+    "access_status": "Country recheck; see linked evidence register",
+    "checked_date": "2026-09-20"
+  },
+  {
+    "url": "https://www.e-stat.go.jp/dbview?sid=0003215380",
+    "title": "2016 Economic Census for Business Activity, Service Industries B detailed-industry Table 1-1",
+    "publisher": "Government Statistics Portal e-Stat",
+    "years": "1 June 2016",
+    "methodology": "National row 3914 ゲームソフトウェア業; official project download records 256 establishments and 18,216 persons engaged",
+    "assessment": "Existing chart-eligible census series only; not newly added by this recheck.",
+    "access_status": "Country recheck; see linked evidence register",
+    "checked_date": "2026-09-20"
+  },
+  {
+    "url": "https://www.cesa.or.jp/action/industry-research/2024/",
+    "title": "CESA Game Industry Report 2024 official page",
+    "publisher": "CESA",
+    "years": "Published 20 December 2024",
+    "methodology": "Official page lines describing the 2024 report's White Paper redesign, paid 360-page format, and approximately 200,000 total game-related industrial population",
+    "assessment": "Context only; no chart or trend use.",
+    "access_status": "Country recheck; see linked evidence register",
+    "checked_date": "2026-09-20"
+  },
+  {
+    "url": "https://www.cesa.or.jp/uploads/2026/info20260106-2.pdf",
+    "title": "Game developers' employment and career development 2025",
+    "publisher": "CESA / CEDEC",
+    "years": "Fieldwork 2 June-4 August 2025",
+    "methodology": "pp. 4-5, sections 1.2-1.5: primarily commercial game developers, also educators/students; internet survey; 339 valid responses.",
+    "assessment": "Sample-only workforce characteristics; never national employment stock or trend.",
+    "access_status": "Country recheck; see linked evidence register",
+    "checked_date": "2026-09-20"
+  }
+]

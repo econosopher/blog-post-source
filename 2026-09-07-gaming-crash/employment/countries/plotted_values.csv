@@ -1,0 +1,296 @@
+﻿chart_id,iso2,country,series_id,observation_id,source_id,year,observation_period,value,value_low,value_high,unit,transform,source_locator
+au-employment-01,AU,Australia,AU_igea_survey,AU_igea_survey_2016_AU_agds2024_0,AU_agds2024,2016,FY ending 30 June 2016,842,,,source_reported_full_time_employment,native,p6 historical table
+au-employment-01,AU,Australia,AU_igea_survey,AU_igea_survey_2017_AU_agds2024_1,AU_agds2024,2017,FY ending 30 June 2017,928,,,source_reported_full_time_employment,native,p6 historical table
+au-employment-01,AU,Australia,AU_igea_survey,AU_igea_survey_2019_AU_agds2024_2,AU_agds2024,2019,FY ending 30 June 2019,1275,,,source_reported_full_time_employment,native,p6 historical table
+au-employment-01,AU,Australia,AU_igea_survey,AU_igea_survey_2020_AU_agds2024_3,AU_agds2024,2020,FY ending 30 June 2020,1245,,,source_reported_full_time_employment,native,p6 historical table
+au-employment-01,AU,Australia,AU_igea_survey,AU_igea_survey_2021_AU_agds2024_4,AU_agds2024,2021,FY ending 30 June 2021,1327,,,source_reported_full_time_employment,native,p6 historical table
+au-employment-01,AU,Australia,AU_igea_survey,AU_igea_survey_2022_AU_agds2024_5,AU_agds2024,2022,FY ending 30 June 2022,2104,,,source_reported_full_time_employment,native,p6 historical table
+au-employment-01,AU,Australia,AU_igea_survey,AU_igea_survey_2023_AU_agds2024_6,AU_agds2024,2023,FY ending 30 June 2023,2458,,,source_reported_full_time_employment,native,p6 historical table
+au-employment-01,AU,Australia,AU_igea_survey,AU_igea_survey_2024_AU_agds2024_7,AU_agds2024,2024,FY ending 30 June 2024,2465,,,source_reported_full_time_employment,native,p6 historical table
+au-employment-02,AU,Australia,AU_igea_augmented,AU_igea_augmented_2025_AU_agds2025_8,AU_agds2025,2025,FY 1 July 2024 to 30 June 2025; collected Oct 2025-Jan 2026,2443,,,source_reported_full_time_employment,native,p1; p3
+au-employment-03,AU,Australia,AU_abs_headcount,AU_abs_headcount_2016_AU_abs2022_9,AU_abs2022,2016,Last pay period ending June 2016,734,,,people,native,Digital game development businesses: key figures table
+au-employment-03,AU,Australia,AU_abs_headcount,AU_abs_headcount_2022_AU_abs2022_10,AU_abs2022,2022,Last pay period ending June 2022,2225,,,people,native,Digital game development businesses: key figures table
+br-employment-01,BR,Brazil,BR_developer_people,BR_developer_people_2018_BR_survey2022_0,BR_survey2022,2018,2018 current-workforce survey estimate,4234,,,people,native,p54 Table5
+br-employment-01,BR,Brazil,BR_developer_people,BR_developer_people_2022_BR_survey2022_1,BR_survey2022,2022,2022 current-workforce survey estimate,12441,,,people,native,p54 Table5; p55 Figure17
+br-employment-01,BR,Brazil,BR_developer_people,BR_developer_people_2023_BR_survey2023_2,BR_survey2023,2023,2023 current-workforce survey estimate,13225,,,people,native,p52 Table7; p53 explanatory text
+br-composition-01,BR,Brazil,BR_outsourced_count,BR_outsourced_count_2022_BR_survey2022_6,BR_survey2022,2022,Current work regime in 2022,999,,,people,native,"p58 Table7, visually checked"
+br-composition-01,BR,Brazil,BR_outsourced_count,BR_outsourced_count_2023_BR_survey2023_7,BR_survey2023,2023,Current work regime in 2023,1307,,,people,native,p57 Table9
+br-composition-02,BR,Brazil,BR_outsourced_share,BR_outsourced_share_2018_BR_survey2022_8,BR_survey2022,2018,"2018 census, retrospective description",35,,,percent,native,p57 section6.3
+br-composition-02,BR,Brazil,BR_outsourced_share,BR_outsourced_share_2022_BR_survey2022_9,BR_survey2022,2022,2022 work-regime sample,48.425,,,percent,native,p58 Table7
+br-composition-02,BR,Brazil,BR_outsourced_share,BR_outsourced_share_2023_BR_survey2023_10,BR_survey2023,2023,2023 work-regime sample,47,,,percent,native,p57 work-regime prose and Table9
+br-composition-03,BR,Brazil,BR_foreign_sample,BR_foreign_sample_2022_BR_survey2022_11,BR_survey2022,2022,2022 employer diversity responses,7,,,people,native,p65 prose
+br-composition-03,BR,Brazil,BR_foreign_sample,BR_foreign_sample_2023_BR_survey2023_12,BR_survey2023,2023,2023 employer diversity responses,27,,,people,native,p69 prose; p71 Table12
+ca-employment-01,CA,Canada,CA_statcan_ilu,CA_statcan_ilu_2015_CA_statcan2025_0,CA_statcan2025,2015,2015 calendar year,36484,,,ILU,native,Table 3 Total row
+ca-employment-01,CA,Canada,CA_statcan_ilu,CA_statcan_ilu_2016_CA_statcan2025_1,CA_statcan2025,2016,2016 calendar year,37189,,,ILU,native,Table 3 Total row
+ca-employment-01,CA,Canada,CA_statcan_ilu,CA_statcan_ilu_2017_CA_statcan2025_2,CA_statcan2025,2017,2017 calendar year,47256,,,ILU,native,Table 3 Total row
+ca-employment-01,CA,Canada,CA_statcan_ilu,CA_statcan_ilu_2018_CA_statcan2025_3,CA_statcan2025,2018,2018 calendar year,50378,,,ILU,native,Table 3 Total row
+ca-employment-01,CA,Canada,CA_statcan_ilu,CA_statcan_ilu_2019_CA_statcan2025_4,CA_statcan2025,2019,2019 calendar year,57378,,,ILU,native,Table 3 Total row
+ca-employment-01,CA,Canada,CA_statcan_ilu,CA_statcan_ilu_2020_CA_statcan2025_5,CA_statcan2025,2020,2020 calendar year,58221,,,ILU,native,Table 3 Total row
+ca-employment-01,CA,Canada,CA_statcan_ilu,CA_statcan_ilu_2021_CA_statcan2025_6,CA_statcan2025,2021,2021 calendar year,58279,,,ILU,native,Table 3 Total row
+ca-employment-01,CA,Canada,CA_statcan_ilu,CA_statcan_ilu_2022_CA_statcan2025_7,CA_statcan2025,2022,2022 calendar year,59689,,,ILU,native,Table 3 Total row
+ca-employment-02,CA,Canada,CA_esac_legacy,CA_esac_legacy_2017_CA_esac2017_9,CA_esac2017,2017,2017 survey/report estimate,21700,,,FTE,native,PDF p3 executive summary (printed p2)
+ca-employment-02,CA,Canada,CA_esac_legacy,CA_esac_legacy_2019_CA_esac2021_10,CA_esac2021,2019,"2018 fiscal year or 2019 business status, reported as 2019",27700,,,FTE,native,p20 Table 4; p6 date note
+ca-employment-03,CA,Canada,CA_esac_revised,CA_esac_revised_2021_CA_esac2024_12,CA_esac2024,2021,2020-21 revised estimate,35250,,,FTE,native,p40 FTE revision table
+ca-employment-03,CA,Canada,CA_esac_revised,CA_esac_revised_2024_CA_esac2024_13,CA_esac2024,2024,2023-24 estimate; 2023 fiscal year or 2024 current business,34010,,,FTE,native,"pp13,15; p38 reference-period note"
+ca-composition-01,CA,Canada,CA_contract_share,CA_contract_share_2017_CA_esac2021_14,CA_esac2021,2017,2017 survey workforce,16,,,percent,native,p18 explanatory text
+ca-composition-01,CA,Canada,CA_contract_share,CA_contract_share_2021_CA_esac2021_15,CA_esac2021,2021,2021 survey workforce,18,,,percent,native,p18 Figure 8
+ca-composition-01,CA,Canada,CA_contract_share,CA_contract_share_2024_CA_esac2024_16,CA_esac2024,2024,2024 survey workforce,13,,,percent,native,p16 modes chart
+ca-composition-02,CA,Canada,CA_immigration_share,CA_immigration_share_2015_CA_esac2015_19,CA_esac2015,2015,Current workforce in 2015 survey,15,,,percent,native,PDF p48 Figure 37 (printed p47)
+ca-composition-02,CA,Canada,CA_immigration_share,CA_immigration_share_2015_CA_esac2015_18,CA_esac2015,2015,Current workforce in 2015 survey,12,,,percent,native,PDF p48 Figure 37 (printed p47)
+ca-composition-02,CA,Canada,CA_immigration_share,CA_immigration_share_2015_CA_esac2015_17,CA_esac2015,2015,Current workforce in 2015 survey,13,,,percent,native,PDF p48 Figure 37 (printed p47)
+cn-employment-01,CN,China,CN_listed_panel,CN_listed_panel_2021_CN_cng2025_0,CN_cng2025,2021,2021,223000,,,people,native,PDF p 8 personnel chart
+cn-employment-01,CN,China,CN_listed_panel,CN_listed_panel_2022_CN_cng2025_1,CN_cng2025,2022,2022,215300,,,people,native,PDF p 8 personnel chart
+cn-employment-01,CN,China,CN_listed_panel,CN_listed_panel_2023_CN_cng2025_2,CN_cng2025,2023,2023,206500,,,people,native,PDF p 8 personnel chart
+cn-employment-01,CN,China,CN_listed_panel,CN_listed_panel_2024_CN_cng2025_3,CN_cng2025,2024,2024,205800,,,people,native,PDF p 8 personnel chart
+cn-employment-01,CN,China,CN_listed_panel,CN_listed_panel_2025_CN_cng2025_5,CN_cng2025,2025,2025 first half estimate,202800,,,people,native,PDF p 8 personnel chart
+cy-employment-01,CY,Cyprus,CY_local,CY_local_2019_CY_cygma2025_0,CY_cygma2025,2019,2019; precise within-year reference not stated,1438,,,people,native,p15 chart
+cy-employment-01,CY,Cyprus,CY_local,CY_local_2020_CY_cygma2025_1,CY_cygma2025,2020,2020; precise within-year reference not stated,1631,,,people,native,p15 chart
+cy-employment-01,CY,Cyprus,CY_local,CY_local_2021_CY_cygma2025_2,CY_cygma2025,2021,2021; precise within-year reference not stated,2166,,,people,native,p15 chart
+cy-employment-01,CY,Cyprus,CY_local,CY_local_2022_CY_cygma2025_3,CY_cygma2025,2022,2022; precise within-year reference not stated,3105,,,people,native,p15 chart
+cy-employment-01,CY,Cyprus,CY_local,CY_local_2023_CY_cygma2025_4,CY_cygma2025,2023,2023; precise within-year reference not stated,4057,,,people,native,p15 chart
+cy-employment-01,CY,Cyprus,CY_local,CY_local_2024_CY_cygma2025_5,CY_cygma2025,2024,2024; precise within-year reference not stated,4320,,,people,native,p15 chart
+de-employment-01,DE,Germany,DE_core,DE_core_2015_DE_game2018_0,DE_game2018,2015,2015 association snapshot,12726,,,people,native,2018 chart
+de-employment-01,DE,Germany,DE_core,DE_core_2016_DE_game2018_1,DE_game2018,2016,2016 association snapshot,12839,,,people,native,2018 chart
+de-employment-01,DE,Germany,DE_core,DE_core_2017_DE_game2018_2,DE_game2018,2017,2017 association snapshot,11140,,,people,native,2018 chart
+de-employment-01,DE,Germany,DE_core,DE_core_2018_DE_game2018_3,DE_game2018,2018,2018 association snapshot,11705,,,people,native,2018 chart
+de-employment-01,DE,Germany,DE_core,DE_core_2019_DE_game2019_4,DE_game2019,2019,2019 association snapshot,11014,,,people,native,printedp 24
+de-employment-01,DE,Germany,DE_core,DE_core_2020_DE_game2025_5,DE_game2025,2020,2020 association snapshot,10071,,,people,native,printedpp 28–29 employment chart
+de-employment-01,DE,Germany,DE_core,DE_core_2021_DE_game2025_6,DE_game2025,2021,2021 association snapshot,10906,,,people,native,printedpp 28–29 employment chart
+de-employment-01,DE,Germany,DE_core,DE_core_2022_DE_game2025_7,DE_game2025,2022,2022 association snapshot,11242,,,people,native,printedpp 28–29 employment chart
+de-employment-01,DE,Germany,DE_core,DE_core_2023_DE_game2025_8,DE_game2025,2023,2023 association snapshot,11992,,,people,native,printedpp 28–29 employment chart
+de-employment-01,DE,Germany,DE_core,DE_core_2024_DE_game2025_9,DE_game2025,2024,2024 association snapshot,12408,,,people,native,printedpp 28–29 employment chart
+de-employment-01,DE,Germany,DE_core,DE_core_2025_DE_game2025_10,DE_game2025,2025,2025 association snapshot,12134,,,people,native,printedpp 28–29 employment chart
+dk-employment-01,DK,Denmark,DK_payroll_fte,DK_payroll_fte_2017_DK_dip2024_0,DK_dip2024,2017,2017 annual payroll FTE,737,,,FTE,native,p 20 chart
+dk-employment-01,DK,Denmark,DK_payroll_fte,DK_payroll_fte_2018_DK_dip2024_1,DK_dip2024,2018,2018 annual payroll FTE,802,,,FTE,native,p 20 chart
+dk-employment-01,DK,Denmark,DK_payroll_fte,DK_payroll_fte_2019_DK_dip2024_2,DK_dip2024,2019,2019 annual payroll FTE,833,,,FTE,native,p 20 chart
+dk-employment-01,DK,Denmark,DK_payroll_fte,DK_payroll_fte_2020_DK_dip2024_3,DK_dip2024,2020,2020 annual payroll FTE,911,,,FTE,native,p 20 chart
+dk-employment-01,DK,Denmark,DK_payroll_fte,DK_payroll_fte_2021_DK_dip2024_4,DK_dip2024,2021,2021 annual payroll FTE,1087,,,FTE,native,p 20 chart
+dk-employment-01,DK,Denmark,DK_payroll_fte,DK_payroll_fte_2022_DK_dip2024_5,DK_dip2024,2022,2022 annual payroll FTE,1281,,,FTE,native,p 20 chart
+dk-employment-02,DK,Denmark,DK_payroll_fte_v2018,DK_payroll_fte_v2018_2015_DK_dip2018_6,DK_dip2018,2015,2015,770,,,FTE,native,PDFp 17 / printedp 14 Table 4
+dk-employment-02,DK,Denmark,DK_payroll_fte_v2018,DK_payroll_fte_v2018_2016_DK_dip2018_7,DK_dip2018,2016,2016,804,,,FTE,native,PDFp 17 / printedp 14 Table 4
+dk-employment-02,DK,Denmark,DK_payroll_fte_v2018,DK_payroll_fte_v2018_2017_DK_dip2018_8,DK_dip2018,2017,2017,1009,,,FTE,native,PDFp 17 / printedp 14 Table 4
+dk-employment-03,DK,Denmark,DK_payroll_fte_v2021,DK_payroll_fte_v2021_2016_DK_dip2021_9,DK_dip2021,2016,2016,706,,,FTE,native,p 25 game-industry panel
+dk-employment-03,DK,Denmark,DK_payroll_fte_v2021,DK_payroll_fte_v2021_2017_DK_dip2021_10,DK_dip2021,2017,2017,774,,,FTE,native,p 25 game-industry panel
+dk-employment-03,DK,Denmark,DK_payroll_fte_v2021,DK_payroll_fte_v2021_2018_DK_dip2021_11,DK_dip2021,2018,2018,822,,,FTE,native,p 25 game-industry panel
+dk-employment-03,DK,Denmark,DK_payroll_fte_v2021,DK_payroll_fte_v2021_2019_DK_dip2021_12,DK_dip2021,2019,2019,847,,,FTE,native,p 25 game-industry panel
+es-employment-01,ES,Spain,ES_direct,ES_direct_2015_ES_dev2023_0,ES_dev2023,2015,2015,4460,,,people,native,p 31 Figure 16
+es-employment-01,ES,Spain,ES_direct,ES_direct_2016_ES_dev2023_1,ES_dev2023,2016,2016,5440,,,people,native,p 31 Figure 16
+es-employment-01,ES,Spain,ES_direct,ES_direct_2017_ES_dev2023_2,ES_dev2023,2017,2017,6337,,,people,native,p 31 Figure 16
+es-employment-01,ES,Spain,ES_direct,ES_direct_2018_ES_dev2023_3,ES_dev2023,2018,2018,6900,,,people,native,p 31 Figure 16
+es-employment-01,ES,Spain,ES_direct,ES_direct_2019_ES_dev2023_4,ES_dev2023,2019,2019,7320,,,people,native,p 31 Figure 16
+es-employment-01,ES,Spain,ES_direct,ES_direct_2020_ES_dev2025_5,ES_dev2025,2020,2020,8026,,,people,native,p 35 actual-history chart
+es-employment-01,ES,Spain,ES_direct,ES_direct_2021_ES_dev2025_6,ES_dev2025,2021,2021,8833,,,people,native,p 35 actual-history chart
+es-employment-01,ES,Spain,ES_direct,ES_direct_2022_ES_dev2025_7,ES_dev2025,2022,2022,9261,,,people,native,p 35 actual-history chart
+es-employment-01,ES,Spain,ES_direct,ES_direct_2023_ES_dev2025_8,ES_dev2025,2023,2023,10259,,,people,native,p 35 actual-history chart
+es-employment-01,ES,Spain,ES_direct,ES_direct_2024_ES_dev2025_9,ES_dev2025,2024,2024,10508,,,people,native,p 35 actual-history chart
+es-composition-01,ES,Spain,ES_external_freelancers,ES_external_freelancers_2017_ES_dev2018_10,ES_dev2018,2017,2017,2218,,,people,native,p 32
+es-composition-01,ES,Spain,ES_external_freelancers,ES_external_freelancers_2019_ES_dev2020_11,ES_dev2020,2019,2019,2500,,,people,native,p 42
+es-composition-01,ES,Spain,ES_external_freelancers,ES_external_freelancers_2024_ES_dev2025_12,ES_dev2025,2024,2024,2330,,,people,native,p 35
+es-composition-02,ES,Spain,ES_foreign_origin_share,ES_foreign_origin_share_2019_ES_dev2020_13,ES_dev2020,2019,2019,11,,,percent,native,p 42
+es-composition-03,ES,Spain,ES_eu_of_foreign,ES_eu_of_foreign_2019_ES_dev2020_14,ES_dev2020,2019,2019,55,,,percent,native,p 42
+es-composition-04,ES,Spain,ES_permanent_contract_share,ES_permanent_contract_share_2017_ES_dev2018_15,ES_dev2018,2017,2017,67,,,percent,native,p 32
+es-composition-04,ES,Spain,ES_permanent_contract_share,ES_permanent_contract_share_2019_ES_dev2020_16,ES_dev2020,2019,2019,71,,,percent,native,p 42
+es-composition-04,ES,Spain,ES_permanent_contract_share,ES_permanent_contract_share_2022_ES_dev2023_17,ES_dev2023,2022,2022,93,,,percent,native,p 31
+es-composition-04,ES,Spain,ES_permanent_contract_share,ES_permanent_contract_share_2024_ES_dev2025_18,ES_dev2025,2024,2024,90,,,percent,native,p 35
+fi-employment-01,FI,Finland,FI_studios_global,FI_studios_global_2016_FI_neogames2024_0,FI_neogames2024,2016,end of 2016,2750,,,people,native,p 13 historical table
+fi-employment-01,FI,Finland,FI_studios_global,FI_studios_global_2018_FI_neogames2024_1,FI_neogames2024,2018,end of 2018,3200,,,people,native,p 13 historical table
+fi-employment-01,FI,Finland,FI_studios_global,FI_studios_global_2020_FI_neogames2024_2,FI_neogames2024,2020,end of 2020,3600,,,people,native,p 13 historical table
+fi-employment-01,FI,Finland,FI_studios_global,FI_studios_global_2022_FI_neogames2024_3,FI_neogames2024,2022,end of 2022,4100,,,people,native,p 13 historical table
+fi-employment-01,FI,Finland,FI_studios_global,FI_studios_global_2024_FI_neogames2024_4,FI_neogames2024,2024,end of 2024,4300,,,people,native,p 13 historical table
+fi-employment-02,FI,Finland,FI_domestic_2024_fte,FI_domestic_2024_fte_2024_FI_neogames2024_5,FI_neogames2024,2024,end of 2024,3800,,,FTE,native,p 12
+fi-employment-03,FI,Finland,FI_overseas,FI_overseas_2020_FI_neogames2024_6,FI_neogames2024,2020,end of 2020,250,,,people,native,p 13 footnote
+fi-employment-03,FI,Finland,FI_overseas,FI_overseas_2022_FI_neogames2024_7,FI_neogames2024,2022,end of 2022,400,,,people,native,p 13 footnote
+fi-employment-03,FI,Finland,FI_overseas,FI_overseas_2024_FI_neogames2024_8,FI_neogames2024,2024,end of 2024,500,,,people,native,p 13 footnote
+fi-composition-01,FI,Finland,FI_nonfinnish_sample,FI_nonfinnish_sample_2024_FI_neogames2024_11,FI_neogames2024,2024,2024,37,,,percent,native,p 13
+fi-composition-02,FI,Finland,FI_nonfinnish_estimate,FI_nonfinnish_estimate_2024_FI_neogames2024_12,FI_neogames2024,2024,2024,,34,35,percent,native,p 13
+fi-composition-03,FI,Finland,FI_non_eu_eea_sample,FI_non_eu_eea_sample_2022_FI_neogames2024_13,FI_neogames2024,2022,2022,15,,,percent,native,p 13
+fi-composition-03,FI,Finland,FI_non_eu_eea_sample,FI_non_eu_eea_sample_2024_FI_neogames2024_14,FI_neogames2024,2024,2024,19,,,percent,native,p 13
+fr-employment-01,FR,France,FR_ey_direct_fte,FR_ey_direct_fte_2019_FR_ey2025_0,FR_ey2025,2019,2019,6700,,,FTE,native,printedp 56 employment chart
+fr-employment-01,FR,France,FR_ey_direct_fte,FR_ey_direct_fte_2020_FR_ey2025_1,FR_ey2025,2020,2020,9700,,,FTE,native,printedp 56 employment chart
+fr-employment-01,FR,France,FR_ey_direct_fte,FR_ey_direct_fte_2021_FR_ey2025_2,FR_ey2025,2021,2021,10200,,,FTE,native,printedp 56 employment chart
+fr-employment-01,FR,France,FR_ey_direct_fte,FR_ey_direct_fte_2022_FR_ey2025_3,FR_ey2025,2022,2022,11300,,,FTE,native,printedp 56 employment chart
+fr-employment-01,FR,France,FR_ey_direct_fte,FR_ey_direct_fte_2023_FR_ey2025_4,FR_ey2025,2023,2023,10700,,,FTE,native,printedp 56 employment chart
+fr-employment-01,FR,France,FR_ey_direct_fte,FR_ey_direct_fte_2024_FR_ey2025_5,FR_ey2025,2024,2024,9900,,,FTE,native,printedp 56 employment chart
+fr-composition-01,FR,France,FR_sample_permanent,FR_sample_permanent_2022_FR_snjv2024_6,FR_snjv2024,2022,2022,76,,,percent,native,printedp 8
+fr-composition-01,FR,France,FR_sample_permanent,FR_sample_permanent_2024_FR_snjv2024_7,FR_snjv2024,2024,2024,74,,,percent,native,printedp 8
+fr-composition-02,FR,France,FR_sample_apprentices,FR_sample_apprentices_2022_FR_snjv2024_8,FR_snjv2024,2022,2022,6,,,percent,native,printedp 8
+fr-composition-02,FR,France,FR_sample_apprentices,FR_sample_apprentices_2024_FR_snjv2024_9,FR_snjv2024,2024,2024,7.8,,,percent,native,printedp 8
+gb-employment-01,GB,United Kingdom,GB_tiga_fte,GB_tiga_fte_2016_GB_tiga2016_0,GB_tiga2016,2016,March 2016,11893,,,FTE,native,Employment key findings; methodology and FTE footnote
+gb-employment-01,GB,United Kingdom,GB_tiga_fte,GB_tiga_fte_2018_GB_tiga2020_1,GB_tiga2020,2018,November 2018,14353,,,FTE,native,Employment key findings; methodology and FTE footnote
+gb-employment-01,GB,United Kingdom,GB_tiga_fte,GB_tiga_fte_2020_GB_tiga2020_2,GB_tiga2020,2020,April 2020,16836,,,FTE,native,Employment key findings; methodology and FTE footnote
+gb-employment-01,GB,United Kingdom,GB_tiga_fte,GB_tiga_fte_2021_GB_tiga2023_3,GB_tiga2023,2021,December 2021,20975,,,FTE,native,Employment key findings; methodology and FTE footnote
+gb-employment-01,GB,United Kingdom,GB_tiga_fte,GB_tiga_fte_2023_GB_tiga2023_4,GB_tiga2023,2023,April 2023,24155,,,FTE,native,Employment key findings; methodology and FTE footnote
+gb-employment-01,GB,United Kingdom,GB_tiga_fte,GB_tiga_fte_2024_GB_tiga2024_5,GB_tiga2024,2024,May 2024,25419,,,FTE,native,Employment key findings; methodology and FTE footnote
+gb-employment-02,GB,United Kingdom,GB_tiga_people,GB_tiga_people_2018_GB_tiga2020_6,GB_tiga2020,2018,November 2018,16532,,,people,native,Workforce including freelancers bullet
+gb-employment-02,GB,United Kingdom,GB_tiga_people,GB_tiga_people_2020_GB_tiga2020_7,GB_tiga2020,2020,April 2020,18279,,,people,native,Workforce including freelancers bullet
+gb-employment-02,GB,United Kingdom,GB_tiga_people,GB_tiga_people_2023_GB_tiga2023_8,GB_tiga2023,2023,April 2023,25026,,,people,native,Workforce including freelancers bullet
+gb-employment-02,GB,United Kingdom,GB_tiga_people,GB_tiga_people_2024_GB_tiga2024_9,GB_tiga2024,2024,May 2024,28516,,,people,native,Workforce including freelancers bullet
+gb-employment-02,GB,United Kingdom,GB_tiga_people,GB_tiga_people_2025_GB_tiga2025_10,GB_tiga2025,2025,September 2025,27347,,,people,native,Workforce including freelancers bullet
+gb-employment-03,GB,United Kingdom,GB_dcms_jobs,GB_dcms_jobs_2015_GB_dcms2026_14,GB_dcms2026,2015,January-December 2015 annual average,20000,,,jobs,native,"Table 6, Computer Games column, Total / All filled jobs"
+gb-employment-03,GB,United Kingdom,GB_dcms_jobs,GB_dcms_jobs_2016_GB_dcms2026_15,GB_dcms2026,2016,January-December 2016 annual average,23000,,,jobs,native,"Table 7, Computer Games column, Total / All filled jobs"
+gb-employment-03,GB,United Kingdom,GB_dcms_jobs,GB_dcms_jobs_2017_GB_dcms2026_16,GB_dcms2026,2017,January-December 2017 annual average,30000,,,jobs,native,"Table 8, Computer Games column, Total / All filled jobs"
+gb-employment-03,GB,United Kingdom,GB_dcms_jobs,GB_dcms_jobs_2018_GB_dcms2026_17,GB_dcms2026,2018,January-December 2018 annual average,22000,,,jobs,native,"Table 9, Computer Games column, Total / All filled jobs"
+gb-employment-03,GB,United Kingdom,GB_dcms_jobs,GB_dcms_jobs_2019_GB_dcms2026_18,GB_dcms2026,2019,January-December 2019 annual average,27000,,,jobs,native,"Table 10, Computer Games column, Total / All filled jobs"
+gb-employment-03,GB,United Kingdom,GB_dcms_jobs,GB_dcms_jobs_2020_GB_dcms2026_19,GB_dcms2026,2020,January-December 2020 annual average,33000,,,jobs,native,"Table 11, Computer Games column, Total / All filled jobs"
+gb-employment-03,GB,United Kingdom,GB_dcms_jobs,GB_dcms_jobs_2021_GB_dcms2026_20,GB_dcms2026,2021,January-December 2021 annual average,43000,,,jobs,native,"Table 12, Computer Games column, Total / All filled jobs"
+gb-employment-03,GB,United Kingdom,GB_dcms_jobs,GB_dcms_jobs_2022_GB_dcms2026_21,GB_dcms2026,2022,January-December 2022 annual average,47000,,,jobs,native,"Table 13, Computer Games column, Total / All filled jobs"
+gb-employment-03,GB,United Kingdom,GB_dcms_jobs,GB_dcms_jobs_2023_GB_dcms2026_22,GB_dcms2026,2023,January-December 2023 annual average,48000,,,jobs,native,"Table 14, Computer Games column, Total / All filled jobs"
+gb-employment-03,GB,United Kingdom,GB_dcms_jobs,GB_dcms_jobs_2024_GB_dcms2026_23,GB_dcms2026,2024,January-December 2024 annual average,45000,33000.0,57000.0,jobs,native,"Table 15, Computer Games column, Total / All filled jobs; CI Table 15c"
+gb-employment-03,GB,United Kingdom,GB_dcms_jobs,GB_dcms_jobs_2025_GB_dcms2026_24,GB_dcms2026,2025,January-December 2025 annual average,58000,46000.0,71000.0,jobs,native,"Table 16, Computer Games column, Total / All filled jobs; CI Table 16c"
+gb-composition-01,GB,United Kingdom,GB_tiga_freelancers,GB_tiga_freelancers_2023_GB_tiga2024_11,GB_tiga2024,2023,April 2023,1102,,,people,native,Freelancer workforce bullet
+gb-composition-01,GB,United Kingdom,GB_tiga_freelancers,GB_tiga_freelancers_2024_GB_tiga2024_12,GB_tiga2024,2024,May 2024,3625,,,people,native,Freelancer workforce bullet
+gb-composition-01,GB,United Kingdom,GB_tiga_freelancers,GB_tiga_freelancers_2025_GB_tiga2025_13,GB_tiga2025,2025,September 2025,,4245,,people,native,Workforce bullet
+gb-composition-02,GB,United Kingdom,GB_ukie_freelancer_share,GB_ukie_freelancer_share_2021_GB_ukie2022_25,GB_ukie2022,2021,Autumn 2021 survey,3,,,percent,native,p16 contract type figure
+gb-composition-02,GB,United Kingdom,GB_ukie_freelancer_share,GB_ukie_freelancer_share_2025_GB_ukie2025_26,GB_ukie2025,2025,13 November 2025-31 January 2026 survey,6,,,percent,native,p7 Figure 3
+gb-composition-03,GB,United Kingdom,GB_ukie_nationality_share,GB_ukie_nationality_share_2021_GB_ukie2022_28,GB_ukie2022,2021,Autumn 2021 survey,20,,,percent,native,p30 Nationality figure
+gb-composition-03,GB,United Kingdom,GB_ukie_nationality_share,GB_ukie_nationality_share_2021_GB_ukie2022_29,GB_ukie2022,2021,Autumn 2021 survey,9,,,percent,native,p30 Nationality figure
+gb-composition-03,GB,United Kingdom,GB_ukie_nationality_share,GB_ukie_nationality_share_2021_GB_ukie2022_27,GB_ukie2022,2021,Autumn 2021 survey,71,,,percent,native,p30 Nationality figure
+gb-composition-03,GB,United Kingdom,GB_ukie_nationality_share,GB_ukie_nationality_share_2025_GB_ukie2025_31,GB_ukie2025,2025,13 November 2025-31 January 2026 survey,16,,,percent,native,p20 Figure 21
+gb-composition-03,GB,United Kingdom,GB_ukie_nationality_share,GB_ukie_nationality_share_2025_GB_ukie2025_32,GB_ukie2025,2025,13 November 2025-31 January 2026 survey,8,,,percent,native,p20 Figure 21
+gb-composition-03,GB,United Kingdom,GB_ukie_nationality_share,GB_ukie_nationality_share_2025_GB_ukie2025_30,GB_ukie2025,2025,13 November 2025-31 January 2026 survey,76,,,percent,native,p20 Figure 21
+id-employment-01,ID,Indonesia,ID_official_core_min,ID_official_core_min_None_ID_komdigi2024_0,ID_komdigi2024,,Observation year unstated,,2112,,people,native,Book abstract
+il-employment-01,IL,Israel,IL_ecosystem,IL_ecosystem_2017_IL_gameis2021_0,IL_gameis2021,2017,2017; exact census date unspecified,4000,,,people,native,p22 Number of employees
+il-employment-01,IL,Israel,IL_ecosystem,IL_ecosystem_2021_IL_gameis2021_1,IL_gameis2021,2021,2021; exact census date unspecified,14000,,,people,native,p22 Number of employees
+jp-employment-01,JP,Japan,JP_core_range,JP_core_range_None_JP_cesa2025_0,JP_cesa2025,,Observation year unstated,,58000,83000,people,native,p 3 employment paragraph
+jp-composition-01,JP,Japan,JP_status_2024,JP_status_2024_2024_JP_cedec2024_4,JP_cedec2024,2024,2024,1.2,,,percent,native,p 25 Figure 2-14-1
+jp-composition-01,JP,Japan,JP_status_2024,JP_status_2024_2024_JP_cedec2024_7,JP_cedec2024,2024,2024,4.1,,,percent,native,p 25 Figure 2-14-1
+jp-composition-01,JP,Japan,JP_status_2024,JP_status_2024_2024_JP_cedec2024_3,JP_cedec2024,2024,2024,4.7,,,percent,native,p 25 Figure 2-14-1
+jp-composition-01,JP,Japan,JP_status_2024,JP_status_2024_2024_JP_cedec2024_6,JP_cedec2024,2024,2024,4.5,,,percent,native,p 25 Figure 2-14-1
+jp-composition-01,JP,Japan,JP_status_2024,JP_status_2024_2024_JP_cedec2024_8,JP_cedec2024,2024,2024,0.8,,,percent,native,p 25 Figure 2-14-1
+jp-composition-01,JP,Japan,JP_status_2024,JP_status_2024_2024_JP_cedec2024_5,JP_cedec2024,2024,2024,0.6,,,percent,native,p 25 Figure 2-14-1
+jp-composition-01,JP,Japan,JP_status_2024,JP_status_2024_2024_JP_cedec2024_2,JP_cedec2024,2024,2024,84.2,,,percent,native,p 25 Figure 2-14-1
+jp-composition-02,JP,Japan,JP_status_2025,JP_status_2025_2025_JP_cedec2025_11,JP_cedec2025,2025,2025,0.3,,,percent,native,p 22 Figure 3-15
+jp-composition-02,JP,Japan,JP_status_2025,JP_status_2025_2025_JP_cedec2025_14,JP_cedec2025,2025,2025,3.5,,,percent,native,p 22 Figure 3-15
+jp-composition-02,JP,Japan,JP_status_2025,JP_status_2025_2025_JP_cedec2025_10,JP_cedec2025,2025,2025,4.4,,,percent,native,p 22 Figure 3-15
+jp-composition-02,JP,Japan,JP_status_2025,JP_status_2025_2025_JP_cedec2025_13,JP_cedec2025,2025,2025,2.4,,,percent,native,p 22 Figure 3-15
+jp-composition-02,JP,Japan,JP_status_2025,JP_status_2025_2025_JP_cedec2025_15,JP_cedec2025,2025,2025,0.6,,,percent,native,p 22 Figure 3-15
+jp-composition-02,JP,Japan,JP_status_2025,JP_status_2025_2025_JP_cedec2025_12,JP_cedec2025,2025,2025,1.8,,,percent,native,p 22 Figure 3-15
+jp-composition-02,JP,Japan,JP_status_2025,JP_status_2025_2025_JP_cedec2025_9,JP_cedec2025,2025,2025,87,,,percent,native,p 22 Figure 3-15
+jp-composition-03,JP,Japan,JP_freelancers_2024,JP_freelancers_2024_2024,JP_cedec2024,2024,2024,4.5,,,percent,native,p 25 Figure 2-14-1
+jp-composition-04,JP,Japan,JP_freelancers_2025,JP_freelancers_2025_2025,JP_cedec2025,2025,2025,2.4,,,percent,native,p 22 Figure 3-15
+kr-employment-01,KR,South Korea,KR_core,KR_core_2015_KR_content2018_0,KR_content2018,2015,2015,35445,,,people,native,"Printed p 187/PDF p 23, table 3-4-13"
+kr-employment-01,KR,South Korea,KR_core,KR_core_2016_KR_white2019_6,KR_white2019,2016,2016,33979,,,people,native,"Printed p 10/PDF p 28, table 5"
+kr-employment-01,KR,South Korea,KR_core,KR_core_2017_KR_white2020_12,KR_white2020,2017,2017,34666,,,people,native,"Printed p 12/PDF p 14, table 5"
+kr-employment-01,KR,South Korea,KR_core,KR_core_2018_KR_white2020_14,KR_white2020,2018,2018,37035,,,people,native,"Printed p 12/PDF p 14, table 5"
+kr-employment-01,KR,South Korea,KR_core,KR_core_2019_KR_white2020_16,KR_white2020,2019,2019,39390,,,people,native,"Printed p 12/PDF p 14, table 5"
+kr-employment-01,KR,South Korea,KR_core,KR_core_2020_KR_white2021,KR_white2021,2020,2020,44310,,,people,native,"Printed p 11/PDF p 13, table 5"
+kr-employment-01,KR,South Korea,KR_core,KR_core_2021_KR_white2025_18,KR_white2025,2021,2021,45262,,,people,native,"PDF p 9, table 1-5"
+kr-employment-01,KR,South Korea,KR_core,KR_core_2022_KR_white2025_20,KR_white2025,2022,2022,48514,,,people,native,"PDF p 9, table 1-5"
+kr-employment-01,KR,South Korea,KR_core,KR_core_2023_KR_white2025_22,KR_white2025,2023,2023,51783,,,people,native,"PDF p 9, table 1-5"
+kr-employment-01,KR,South Korea,KR_core,KR_core_2024_KR_white2025_24,KR_white2025,2024,2024,54285,,,people,native,"PDF p 9, table 1-5"
+kr-composition-01,KR,South Korea,KR_core_status_2017,KR_core_status_2017_2017_KR_content2018_28,KR_content2018,2017,2017,86,,,people,native,Printed p 190/PDF p 26 table 3-4-16
+kr-composition-01,KR,South Korea,KR_core_status_2017,KR_core_status_2017_2017_KR_content2018_27,KR_content2018,2017,2017,559,,,people,native,Printed p 190/PDF p 26 table 3-4-16
+kr-composition-01,KR,South Korea,KR_core_status_2017,KR_core_status_2017_2017_KR_content2018_26,KR_content2018,2017,2017,34020,,,people,native,Printed p 190/PDF p 26 table 3-4-16
+nl-employment-01,NL,Netherlands,NL_domestic_broad,NL_domestic_broad_2015_NL_gm2015_4,NL_gm2015,2015,"2015, May 2015 register plus survey",3030,,,jobs,native,p 8 Table 1.1
+nl-employment-01,NL,Netherlands,NL_domestic_broad,NL_domestic_broad_2018_NL_gm2024_0,NL_gm2024,2018,end of 2018,3834,,,jobs,native,p 18 Table 1.1
+nl-employment-01,NL,Netherlands,NL_domestic_broad,NL_domestic_broad_2021_NL_gm2024_1,NL_gm2024,2021,end of 2021,4560,,,jobs,native,p 18 Table 1.1
+nl-employment-01,NL,Netherlands,NL_domestic_broad,NL_domestic_broad_2023_NL_gm2024_2,NL_gm2024,2023,end of 2023,4291,,,jobs,native,p 18 Table 1.1
+nl-composition-01,NL,Netherlands,NL_foreign_passport_estimate,NL_foreign_passport_estimate_None_NL_gm2024_3,NL_gm2024,,Undated workforce estimate in report released 2025; survey January/February 2025,,,35,percent,native,p 73 section 7.4
+no-employment-01,NO,Norway,NO_sample_permanent,NO_sample_permanent_2019_NO_spill2024_0,NO_spill2024,2019,2019,324,,,people,native,p 10 Table 1 / p 11 Figure 1
+no-employment-01,NO,Norway,NO_sample_permanent,NO_sample_permanent_2020_NO_spill2024_1,NO_spill2024,2020,2020,347,,,people,native,p 10 Table 1 / p 11 Figure 1
+no-employment-01,NO,Norway,NO_sample_permanent,NO_sample_permanent_2021_NO_spill2024_2,NO_spill2024,2021,2021,433,,,people,native,p 10 Table 1 / p 11 Figure 1
+no-employment-01,NO,Norway,NO_sample_permanent,NO_sample_permanent_2022_NO_spill2024_3,NO_spill2024,2022,2022,706,,,people,native,p 10 Table 1 / p 11 Figure 1
+no-employment-01,NO,Norway,NO_sample_permanent,NO_sample_permanent_2023_NO_spill2024_4,NO_spill2024,2023,2023,737,,,people,native,p 10 Table 1 / p 11 Figure 1
+no-employment-01,NO,Norway,NO_sample_permanent,NO_sample_permanent_2024_NO_spill2024_5,NO_spill2024,2024,2024,787,,,people,native,p 10 Table 1 / p 11 Figure 1
+no-employment-02,NO,Norway,NO_sample_temporary,NO_sample_temporary_2019_NO_spill2024_6,NO_spill2024,2019,2019,32,,,people,native,p 10 Table 1 / p 11 Figure 1
+no-employment-02,NO,Norway,NO_sample_temporary,NO_sample_temporary_2020_NO_spill2024_7,NO_spill2024,2020,2020,21,,,people,native,p 10 Table 1 / p 11 Figure 1
+no-employment-02,NO,Norway,NO_sample_temporary,NO_sample_temporary_2021_NO_spill2024_8,NO_spill2024,2021,2021,13,,,people,native,p 10 Table 1 / p 11 Figure 1
+no-employment-02,NO,Norway,NO_sample_temporary,NO_sample_temporary_2022_NO_spill2024_9,NO_spill2024,2022,2022,78,,,people,native,p 10 Table 1 / p 11 Figure 1
+no-employment-02,NO,Norway,NO_sample_temporary,NO_sample_temporary_2023_NO_spill2024_10,NO_spill2024,2023,2023,53,,,people,native,p 10 Table 1 / p 11 Figure 1
+no-employment-02,NO,Norway,NO_sample_temporary,NO_sample_temporary_2024_NO_spill2024_11,NO_spill2024,2024,2024,51,,,people,native,p 10 Table 1 / p 11 Figure 1
+no-employment-03,NO,Norway,NO_sample_total,NO_sample_total_2023_NO_spill2024_12,NO_spill2024,2023,2023,790,,,people,native,p 11 Table 2
+no-employment-03,NO,Norway,NO_sample_total,NO_sample_total_2024_NO_spill2024_13,NO_spill2024,2024,2024,838,,,people,native,p 11 Table 2
+no-employment-04,NO,Norway,NO_sample_fte,NO_sample_fte_2023_NO_spill2024_14,NO_spill2024,2023,2023,760,,,FTE,native,p 11 Table 2
+no-employment-04,NO,Norway,NO_sample_fte,NO_sample_fte_2024_NO_spill2024_15,NO_spill2024,2024,2024,813,,,FTE,native,p 11 Table 2
+nz-employment-01,NZ,New Zealand,NZ_fulltime,NZ_fulltime_2015_NZ_survey2015_0,NZ_survey2015,2015,FY ending 31 March 2015; employment at March where specified,568,,,full_time_positions,native,Employment / Job Creation paragraph
+nz-employment-01,NZ,New Zealand,NZ_fulltime,NZ_fulltime_2018_NZ_survey2018_3,NZ_survey2018,2018,FY ending 31 March 2018; employment at March where specified,550,,,full_time_positions,native,Employment / Job Creation paragraph
+nz-employment-01,NZ,New Zealand,NZ_fulltime,NZ_fulltime_2020_NZ_survey2020_5,NZ_survey2020,2020,FY ending 31 March 2020; employment at March where specified,747,,,full_time_positions,native,Employment / Job Creation paragraph
+nz-employment-01,NZ,New Zealand,NZ_fulltime,NZ_fulltime_2022_NZ_survey2022_7,NZ_survey2022,2022,FY ending 31 March 2022; employment at March where specified,1070,,,full_time_positions,native,Employment / Job Creation paragraph
+nz-employment-02,NZ,New Zealand,NZ_workers,NZ_workers_2017_NZ_survey2017_2,NZ_survey2017,2017,FY ending 31 March 2017; employment at March where specified,500,,,people,native,Employment / Job Creation paragraph
+nz-employment-02,NZ,New Zealand,NZ_workers,NZ_workers_2019_NZ_survey2019_4,NZ_survey2019,2019,FY ending 31 March 2019; employment at March where specified,683,,,people,native,Employment / Job Creation paragraph
+nz-employment-03,NZ,New Zealand,NZ_fte,NZ_fte_2016_NZ_survey2016_1,NZ_survey2016,2016,FY ending 31 March 2016; employment at March where specified,475,,,FTE,native,Employment / Job Creation paragraph
+nz-employment-03,NZ,New Zealand,NZ_fte,NZ_fte_2021_NZ_survey2021_6,NZ_survey2021,2021,FY ending 31 March 2021; employment at March where specified,969,,,FTE,native,Employment / Job Creation paragraph
+nz-employment-03,NZ,New Zealand,NZ_fte,NZ_fte_2023_NZ_survey2023_8,NZ_survey2023,2023,FY ending 31 March 2023; employment at March where specified,1106,,,FTE,native,Employment / Job Creation paragraph
+nz-employment-03,NZ,New Zealand,NZ_fte,NZ_fte_2024_NZ_survey2025_9,NZ_survey2025,2024,FY ending 31 March 2024; employment at March where specified,1097,,,FTE,native,Employment / Job Creation paragraph
+nz-employment-03,NZ,New Zealand,NZ_fte,NZ_fte_2025_NZ_survey2025_10,NZ_survey2025,2025,FY ending 31 March 2025; employment at March where specified,1418,,,FTE,native,Employment / Job Creation paragraph
+nz-composition-01,NZ,New Zealand,NZ_visa_current,NZ_visa_current_2018_NZ_survey2018_11,NZ_survey2018,2018,Survey workforce in FY ending March 2018,15,,,percent,native,Skills/work-supported visas paragraph
+nz-composition-01,NZ,New Zealand,NZ_visa_current,NZ_visa_current_2019_NZ_survey2019_12,NZ_survey2019,2019,Survey workforce in FY ending March 2019,14,,,percent,native,Skills/work-supported visas paragraph
+nz-composition-01,NZ,New Zealand,NZ_visa_current,NZ_visa_current_2021_NZ_survey2021_13,NZ_survey2021,2021,Survey workforce in FY ending March 2021,13,,,percent,native,Skills/work-supported visas paragraph
+nz-composition-01,NZ,New Zealand,NZ_visa_current,NZ_visa_current_2022_NZ_survey2022_14,NZ_survey2022,2022,Survey workforce in FY ending March 2022,6,,,percent,native,Skills/work-supported visas paragraph
+nz-composition-01,NZ,New Zealand,NZ_visa_current,NZ_visa_current_2023_NZ_survey2023_15,NZ_survey2023,2023,Survey workforce in FY ending March 2023,8,,,percent,native,Skills/work-supported visas paragraph
+nz-composition-02,NZ,New Zealand,NZ_visa_ever,NZ_visa_ever_2020_NZ_survey2020_16,NZ_survey2020,2020,FY ending 31 March 2020,15,,,percent,native,Highlights: 111 employees currently or previously on work-supported visas
+ph-employment-01,PH,Philippines,PH_boi2000,PH_boi2000_None_PH_boi2018_0,PH_boi2018,,Observation year unstated,,2000,,people,native,Roadmap paragraph
+pl-employment-01,PL,Poland,PL_core_workforce,PL_core_workforce_2021_PL_parp2021_0,PL_parp2021,2021,2021 current report estimate,12110,,,people,native,printedp 8
+pl-employment-01,PL,Poland,PL_core_workforce,PL_core_workforce_2023_PL_parp2023_1,PL_parp2023,2023,2023 current report estimate; studio frameMay 2023,15290,,,people,native,printedp 9
+pl-employment-01,PL,Poland,PL_core_workforce,PL_core_workforce_2025_PL_parp2025_2,PL_parp2025,2025,2025 current report estimate; studio frameOctober 2025,14568,,,people,native,printedp 18 Table 1
+pl-composition-01,PL,Poland,PL_foreign_people,PL_foreign_people_2021_PL_parp2021_3,PL_parp2021,2021,2021,,1000,,people,native,Employment infographic
+pl-composition-01,PL,Poland,PL_foreign_people,PL_foreign_people_2023_PL_parp2023_4,PL_parp2023,2023,2023,,2200,,people,native,Employment infographic
+pl-composition-01,PL,Poland,PL_foreign_people,PL_foreign_people_2025_PL_parp2025_5,PL_parp2025,2025,2025,2020,,,people,native,Employment infographic
+pl-composition-02,PL,Poland,PL_foreign_share,PL_foreign_share_2021_PL_parp2021_6,PL_parp2021,2021,2021,,8,,percent,native,Employment infographic
+pl-composition-02,PL,Poland,PL_foreign_share,PL_foreign_share_2023_PL_parp2023_7,PL_parp2023,2023,2023,,14.5,,percent,native,Employment infographic
+pl-composition-02,PL,Poland,PL_foreign_share,PL_foreign_share_2025_PL_parp2025_8,PL_parp2025,2025,2025,,,15,percent,native,Employment infographic
+ro-employment-01,RO,Romania,RO_employees2024,RO_employees2024_2024_RO_rgda2025_0,RO_rgda2025,2024,2024,6100,,,people,native,p 2 headcount
+ro-employment-02,RO,Romania,RO_employees_collaborators,RO_employees_collaborators_2022_RO_rgda2023_1,RO_rgda2023,2022,2022,6800,,,people,native,p 1
+ro-employment-02,RO,Romania,RO_employees_collaborators,RO_employees_collaborators_2023_RO_rgda2024_2,RO_rgda2024,2023,2023,6600,,,people,native,headcount infographic
+ro-employment-03,RO,Romania,RO_earlier_benchmark,RO_earlier_benchmark_2018_RO_release2019_3,RO_release2019,2018,2018,,6000,,people,native,2018 highlights
+ro-employment-03,RO,Romania,RO_earlier_benchmark,RO_earlier_benchmark_2020_RO_release2021_4,RO_release2021,2020,2020,,6000,,people,native,2020 highlights
+rs-employment-01,RS,Serbia,RS_national_estimate,RS_national_estimate_2024_RS_release2025_0,RS_release2025,2024,2024,4500,,,people,native,Other data section
+rs-employment-01,RS,Serbia,RS_national_estimate,RS_national_estimate_2025_RS_release2025_1,RS_release2025,2025,2025,4200,,,people,native,Other data section
+rs-employment-02,RS,Serbia,RS_respondent_employees,RS_respondent_employees_2018_RS_sga2025_2,RS_sga2025,2018,2018,1281,,,people,native,p 16 historical table
+rs-employment-02,RS,Serbia,RS_respondent_employees,RS_respondent_employees_2019_RS_sga2025_3,RS_sga2025,2019,2019,1325,,,people,native,p 16 historical table
+rs-employment-02,RS,Serbia,RS_respondent_employees,RS_respondent_employees_2020_RS_sga2025_4,RS_sga2025,2020,2020,1431,,,people,native,p 16 historical table
+rs-employment-02,RS,Serbia,RS_respondent_employees,RS_respondent_employees_2021_RS_sga2025_5,RS_sga2025,2021,2021,1548,,,people,native,p 16 historical table
+rs-employment-02,RS,Serbia,RS_respondent_employees,RS_respondent_employees_2022_RS_sga2025_6,RS_sga2025,2022,2022,1744,,,people,native,p 16 historical table
+rs-employment-02,RS,Serbia,RS_respondent_employees,RS_respondent_employees_2023_RS_sga2025_7,RS_sga2025,2023,2023,3419,,,people,native,p 16 historical table
+rs-employment-02,RS,Serbia,RS_respondent_employees,RS_respondent_employees_2024_RS_sga2025_8,RS_sga2025,2024,2024,3596,,,people,native,p 16 historical table
+rs-employment-02,RS,Serbia,RS_respondent_employees,RS_respondent_employees_2025_RS_sga2025_9,RS_sga2025,2025,2025,3170,,,people,native,p 16 historical table
+rs-employment-03,RS,Serbia,RS_remote_abroad_sample,RS_remote_abroad_sample_2025_RS_sga2025_10,RS_sga2025,2025,2025,115,,,people,native,p 11
+se-employment-01,SE,Sweden,SE_domestic,SE_domestic_2015_SE_gdi2025_0,SE_gdi2025,2015,2015 annual average,3439,,,annual_average_full_time_positions,native,p 18 chart
+se-employment-01,SE,Sweden,SE_domestic,SE_domestic_2016_SE_gdi2025_1,SE_gdi2025,2016,2016 annual average,3750,,,annual_average_full_time_positions,native,p 18 chart
+se-employment-01,SE,Sweden,SE_domestic,SE_domestic_2017_SE_gdi2025_2,SE_gdi2025,2017,2017 annual average,4670,,,annual_average_full_time_positions,native,p 18 chart
+se-employment-01,SE,Sweden,SE_domestic,SE_domestic_2018_SE_gdi2025_3,SE_gdi2025,2018,2018 annual average,5320,,,annual_average_full_time_positions,native,p 18 chart
+se-employment-01,SE,Sweden,SE_domestic,SE_domestic_2019_SE_gdi2025_4,SE_gdi2025,2019,2019 annual average,5925,,,annual_average_full_time_positions,native,p 18 chart
+se-employment-01,SE,Sweden,SE_domestic,SE_domestic_2020_SE_gdi2025_5,SE_gdi2025,2020,2020 annual average,6596,,,annual_average_full_time_positions,native,p 18 chart
+se-employment-01,SE,Sweden,SE_domestic,SE_domestic_2021_SE_gdi2025_6,SE_gdi2025,2021,2021 annual average,7944,,,annual_average_full_time_positions,native,p 18 chart
+se-employment-01,SE,Sweden,SE_domestic,SE_domestic_2022_SE_gdi2025_7,SE_gdi2025,2022,2022 annual average,8445,,,annual_average_full_time_positions,native,p 18 chart
+se-employment-01,SE,Sweden,SE_domestic,SE_domestic_2023_SE_gdi2025_8,SE_gdi2025,2023,2023 annual average,9089,,,annual_average_full_time_positions,native,p 18 chart
+se-employment-01,SE,Sweden,SE_domestic,SE_domestic_2024_SE_gdi2025_9,SE_gdi2025,2024,2024 annual average,9130,,,annual_average_full_time_positions,native,p 18 chart
+se-employment-02,SE,Sweden,SE_overseas,SE_overseas_2024_SE_gdi2025_10,SE_gdi2025,2024,2024,,11000,,people,native,p 18
+sg-employment-01,SG,Singapore,SG_games2021,SG_games2021_2021_SG_mddi2022_0,SG_mddi2022,2021,2021,2000,,,people,native,Answer paragraph 5
+tr-employment-01,TR,Turkey,TR_toged,TR_toged_2023_TR_egdf2023_0,TR_egdf2023,2023,2023; precise reference date not stated,10777,,,FTE,native,"p57 employment column, 2023 bar"
+tw-employment-01,TW,Taiwan,TW_survey2022,TW_survey2022_2022_TW_taicca2022_0,TW_taicca2022,,2022 economic-period report; exact headcount reference date unstated,9929,,,people,native,"Printed p 11/PDF p 17, section 1.4 figure 1-2"
+us-employment-01,US,United States,US_core,US_core_2019_US_esa2020_3,US_esa2020,2019,2019 active-firm database,61230,,,jobs,native,p9 Table1
+us-employment-01,US,United States,US_core,US_core_2023_US_esa2024_5,US_esa2024,2023,2023 industry database,71991,,,jobs,native,p9 Table1
+us-employment-01,US,United States,US_core,US_core_2025_US_esa2026_7,US_esa2026,2025,2025 database; mostly November-December employment,60276,,,jobs,native,p10 Table1
+us-employment-02,US,United States,US_broad,US_broad_2019_US_esa2020_2,US_esa2020,2019,2019 active-firm database,143045,,,jobs,native,p9 Table1
+us-employment-02,US,United States,US_broad,US_broad_2023_US_esa2024_4,US_esa2024,2023,2023 industry database,104080,,,jobs,native,p9 Table1
+us-employment-02,US,United States,US_broad,US_broad_2025_US_esa2026_6,US_esa2026,2025,2025 database; mostly November-December employment,82930,,,jobs,native,p10 Table1
+us-employment-03,US,United States,US_software,US_software_2023_US_esa2024_8,US_esa2024,2023,2023 industry database,75353,,,jobs,native,Table1: 2024 p9; 2026 p10
+us-employment-03,US,United States,US_software,US_software_2025_US_esa2026_10,US_esa2026,2025,2025 industry database,63248,,,jobs,native,Table1: 2024 p9; 2026 p10
+us-employment-04,US,United States,US_services,US_services_2023_US_esa2024_9,US_esa2024,2023,2023 industry database,3431,,,jobs,native,Table1: 2024 p9; 2026 p10
+us-employment-04,US,United States,US_services,US_services_2025_US_esa2026_11,US_esa2026,2025,2025 industry database,2409,,,jobs,native,Table1: 2024 p9; 2026 p10
+us-employment-05,US,United States,US_mapping_2017,US_mapping_2017_2015_US_esa2017_0,US_esa2017,2015,2015 ESA mapping observation,60031,,,people,native,p19 Tables E-1/E-2
+us-employment-05,US,United States,US_mapping_2017,US_mapping_2017_2016_US_esa2017_1,US_esa2017,2016,2016 ESA mapping observation,65678,,,people,native,p12 Table C-2; p19 text assigns total to 2016
+comparison-2019-01,CA,Canada,CA_statcan_ilu,CA_statcan_ilu_2019_CA_statcan2025_4,CA_statcan2025,2019,2019 calendar year,100.0,,,index_2019_100,native_value / verified_2019_value * 100,Table 3 Total row
+comparison-2019-01,CA,Canada,CA_statcan_ilu,CA_statcan_ilu_2020_CA_statcan2025_5,CA_statcan2025,2020,2020 calendar year,101.46920422461572,,,index_2019_100,native_value / verified_2019_value * 100,Table 3 Total row
+comparison-2019-01,CA,Canada,CA_statcan_ilu,CA_statcan_ilu_2021_CA_statcan2025_6,CA_statcan2025,2021,2021 calendar year,101.57028826379448,,,index_2019_100,native_value / verified_2019_value * 100,Table 3 Total row
+comparison-2019-01,CA,Canada,CA_statcan_ilu,CA_statcan_ilu_2022_CA_statcan2025_7,CA_statcan2025,2022,2022 calendar year,104.02767611279585,,,index_2019_100,native_value / verified_2019_value * 100,Table 3 Total row
+comparison-2019-01,CY,Cyprus,CY_local,CY_local_2019_CY_cygma2025_0,CY_cygma2025,2019,2019; precise within-year reference not stated,100.0,,,index_2019_100,native_value / verified_2019_value * 100,p15 chart
+comparison-2019-01,CY,Cyprus,CY_local,CY_local_2020_CY_cygma2025_1,CY_cygma2025,2020,2020; precise within-year reference not stated,113.42141863699582,,,index_2019_100,native_value / verified_2019_value * 100,p15 chart
+comparison-2019-01,CY,Cyprus,CY_local,CY_local_2021_CY_cygma2025_2,CY_cygma2025,2021,2021; precise within-year reference not stated,150.6258692628651,,,index_2019_100,native_value / verified_2019_value * 100,p15 chart
+comparison-2019-01,CY,Cyprus,CY_local,CY_local_2022_CY_cygma2025_3,CY_cygma2025,2022,2022; precise within-year reference not stated,215.92489568845622,,,index_2019_100,native_value / verified_2019_value * 100,p15 chart
+comparison-2019-01,CY,Cyprus,CY_local,CY_local_2023_CY_cygma2025_4,CY_cygma2025,2023,2023; precise within-year reference not stated,282.1279554937413,,,index_2019_100,native_value / verified_2019_value * 100,p15 chart
+comparison-2019-01,CY,Cyprus,CY_local,CY_local_2024_CY_cygma2025_5,CY_cygma2025,2024,2024; precise within-year reference not stated,300.4172461752434,,,index_2019_100,native_value / verified_2019_value * 100,p15 chart
+comparison-2019-01,DE,Germany,DE_core,DE_core_2019_DE_game2019_4,DE_game2019,2019,2019 association snapshot,100.0,,,index_2019_100,native_value / verified_2019_value * 100,printedp 24
+comparison-2019-01,DE,Germany,DE_core,DE_core_2020_DE_game2025_5,DE_game2025,2020,2020 association snapshot,91.43816960232431,,,index_2019_100,native_value / verified_2019_value * 100,printedpp 28–29 employment chart
+comparison-2019-01,DE,Germany,DE_core,DE_core_2021_DE_game2025_6,DE_game2025,2021,2021 association snapshot,99.01942981659705,,,index_2019_100,native_value / verified_2019_value * 100,printedpp 28–29 employment chart
+comparison-2019-01,DE,Germany,DE_core,DE_core_2022_DE_game2025_7,DE_game2025,2022,2022 association snapshot,102.0700926094062,,,index_2019_100,native_value / verified_2019_value * 100,printedpp 28–29 employment chart
+comparison-2019-01,DE,Germany,DE_core,DE_core_2023_DE_game2025_8,DE_game2025,2023,2023 association snapshot,108.87960777192664,,,index_2019_100,native_value / verified_2019_value * 100,printedpp 28–29 employment chart
+comparison-2019-01,DE,Germany,DE_core,DE_core_2024_DE_game2025_9,DE_game2025,2024,2024 association snapshot,112.65661884873796,,,index_2019_100,native_value / verified_2019_value * 100,printedpp 28–29 employment chart
+comparison-2019-01,DE,Germany,DE_core,DE_core_2025_DE_game2025_10,DE_game2025,2025,2025 association snapshot,110.1688759760305,,,index_2019_100,native_value / verified_2019_value * 100,printedpp 28–29 employment chart
+comparison-2019-01,ES,Spain,ES_direct,ES_direct_2019_ES_dev2023_4,ES_dev2023,2019,2019,100.0,,,index_2019_100,native_value / verified_2019_value * 100,p 31 Figure 16
+comparison-2019-01,ES,Spain,ES_direct,ES_direct_2020_ES_dev2025_5,ES_dev2025,2020,2020,109.64480874316939,,,index_2019_100,native_value / verified_2019_value * 100,p 35 actual-history chart
+comparison-2019-01,ES,Spain,ES_direct,ES_direct_2021_ES_dev2025_6,ES_dev2025,2021,2021,120.66939890710383,,,index_2019_100,native_value / verified_2019_value * 100,p 35 actual-history chart
+comparison-2019-01,ES,Spain,ES_direct,ES_direct_2022_ES_dev2025_7,ES_dev2025,2022,2022,126.51639344262296,,,index_2019_100,native_value / verified_2019_value * 100,p 35 actual-history chart
+comparison-2019-01,ES,Spain,ES_direct,ES_direct_2023_ES_dev2025_8,ES_dev2025,2023,2023,140.15027322404373,,,index_2019_100,native_value / verified_2019_value * 100,p 35 actual-history chart
+comparison-2019-01,ES,Spain,ES_direct,ES_direct_2024_ES_dev2025_9,ES_dev2025,2024,2024,143.55191256830602,,,index_2019_100,native_value / verified_2019_value * 100,p 35 actual-history chart

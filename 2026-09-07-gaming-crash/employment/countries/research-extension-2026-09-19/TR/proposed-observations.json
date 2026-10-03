@@ -1,0 +1,14 @@
+[
+  {
+    "country": "Turkey",
+    "iso2": "TR",
+    "series_id": "TR_toged",
+    "year": 2023,
+    "value": 10777,
+    "unit": "FTE (chart wording: people working)",
+    "period": "2023; precise reference date not stated",
+    "url": "https://www.egdf.eu/wp-content/uploads/2025/08/2023-European-video-games-industry-insight-report.pdf",
+    "source_locator": "PDF p. 57, Turkey / TOGED panel: 2023 employment bar 10,777; questionnaire PDF p. 76, question 2 and definitions",
+    "definition": "TOGED's submission to EGDF for people working for game-developer studios and third-party publishers registered in Turkey. EGDF defines the requested measure as FTE employees, entrepreneurs and in-house freelancers. It includes remote employees in third countries where the Turkish-registered studio employs them; it excludes employees of foreign subsidiaries and foreign subcontractor companies. EGDF excludes service providers that are not a game developer studio or publisher. Turkey-specific collection, gross-up and FTE implementation are not published. This reconfirms the baseline observation, rather than establishing a new point."
+  }
+]

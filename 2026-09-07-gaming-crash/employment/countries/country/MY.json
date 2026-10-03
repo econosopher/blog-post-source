@@ -1,0 +1,69 @@
+{
+  "country": "Malaysia",
+  "iso2": "MY",
+  "priority": "additional",
+  "coverage_status": "evidence_gap",
+  "summary": "DOSM occupation categories combine digital games with esports, and the inspected MDEC Southeast Asia studies report studio/respondent samples and salary distributions. No defensible national domestic development/publishing employment stock was verified; regional sample sizes are not country workforce totals.",
+  "preferred_series_ids": [],
+  "search_log": [
+    {
+      "route": "statistical_agency",
+      "query": "site.dosm.gov.my digital games e-sport professionals employment",
+      "url": "https://myjobprofile.dosm.gov.my/bda-myjobprofile/job/2542/digital-games-and-e-sport-professionals",
+      "outcome": "Official occupation 2542 combines digital games/esports; no game-development-only national stock verified."
+    },
+    {
+      "route": "industry_association",
+      "query": "MDEC IGDA Malaysia game industry workforce employees talent report 2024",
+      "url": "https://www.mdec.my/ms/static/pdf/digitalcontent/SEA-Game-Talent-Economics-Report%202024_FINAL.pdf",
+      "outcome": "Primary MDEC regional talent report inspected; sample and salaries, not national workforce."
+    },
+    {
+      "route": "local_language",
+      "query": "Malaysia industri permainan digital jumlah pekerja tenaga kerja pembangunan permainan",
+      "url": "https://www.mdec.my/static/pdf/digitalcontent/SEA-game-industry-report-2021.pdf",
+      "outcome": "Malay/English industry routes checked; MDEC report and official occupation definitions insufficient for a comparable total."
+    }
+  ],
+  "sources": [
+    {
+      "source_id": "MY_mdec2024",
+      "title": "Southeast Asia Game Talent Economics Report 2024",
+      "publisher": "Malaysia Digital Economy Corporation (MDEC)",
+      "url": "https://www.mdec.my/ms/static/pdf/digitalcontent/SEA-Game-Talent-Economics-Report%202024_FINAL.pdf",
+      "publication_date": null,
+      "retrieved_date": "2026-09-09",
+      "source_type": "government",
+      "local_file": "raw/MY/mdec2024-sea-talent.pdf",
+      "locator": "PDF p 24 survey scope; Malaysia chapter pp 48–60; p 37 freelance/company-size comparison",
+      "access_status": "full_source",
+      "notes": "295 individual respondents and 48 studios across six countries. Country salary breakdowns are sample-based; no national worker total extracted."
+    },
+    {
+      "source_id": "MY_mdec2021",
+      "title": "Southeast Asia Game Industry Report 2021",
+      "publisher": "MDEC",
+      "url": "https://www.mdec.my/static/pdf/digitalcontent/SEA-game-industry-report-2021.pdf",
+      "publication_date": null,
+      "retrieved_date": "2026-09-09",
+      "source_type": "government",
+      "local_file": "raw/MY/mdec2021-sea.pdf",
+      "locator": "pp 24,27–28, Malaysia section",
+      "access_status": "full_source",
+      "notes": "Regional studio survey; foreign ownership means company ownership, not employee citizenship. External development/work-for-hire share refers to studio business activity, not freelancer headcount."
+    }
+  ],
+  "series": [],
+  "observations": [],
+  "limitations": [
+    "Evidence gap after all three search routes; no placeholder zero.",
+    "Regional studio and talent samples are not population estimates.",
+    "Business ownership and outsourcing revenue/work shares must not be labelled foreign-worker or contractor shares.",
+    "No verified nationality or contractor percentage for Malaysian national games workforce."
+  ],
+  "review_checks": [
+    "Read survey denominator, studio-size and freelance salary comparisons in primary MDEC PDFs.",
+    "No employment count created from salary samples or company-size bins."
+  ],
+  "research_complete": true
+}

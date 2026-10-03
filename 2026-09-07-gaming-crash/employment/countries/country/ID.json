@@ -1,0 +1,158 @@
+{
+  "country": "Indonesia",
+  "iso2": "ID",
+  "priority": "additional",
+  "coverage_status": "context_only",
+  "summary": "An official 2024 ecosystem study published in October 2025 reports at least 2,112 talents at game developers/publishers. Its public author abstract does not establish a complete national census or precise headcount date. Wider estimates of hundreds of thousands of affected jobs are economic impact, not core employment.",
+  "preferred_series_ids": [],
+  "search_log": [
+    {
+      "route": "statistical_agency",
+      "query": "site.bps.go.id pengembang permainan tenaga kerja industri gim",
+      "url": "https://sirusa.web.bps.go.id/",
+      "outcome": "BPS creative-economy classifications/metadata include game development, but no clean annual game-only domestic population table retrieved."
+    },
+    {
+      "route": "industry_association",
+      "query": "Asosiasi Game Indonesia AGI jumlah tenaga kerja pengembang gim 2024 2025",
+      "url": "https://ekraf.go.id/news/kementerian-ekraf-dan-agi-bangun-masa-depan-industri-gim-indonesia",
+      "outcome": "AGI/government ecosystem reporting checked; official author-posted mapping report supplied the usable lower-bound claim."
+    },
+    {
+      "route": "local_language",
+      "query": "Peta Ekosistem Industri Gim Indonesia 2024 2.112 talenta 64,23",
+      "url": "https://www.researchgate.net/publication/396196002_Peta_Ekosistem_Industri_Gim_Indonesia_2024_Menuju_Transformasi_Ekonomi_Digital_Nasional_2025",
+      "outcome": "Indonesian abstract inspected; lower-bound and broad-impact wording retained."
+    }
+  ],
+  "sources": [
+    {
+      "source_id": "ID_komdigi2024",
+      "title": "Peta Ekosistem Industri Gim Indonesia 2024: Menuju Transformasi Ekonomi Digital Nasional 2025+",
+      "publisher": "Directorate General of Digital Ecosystem; author Maulana Akbar (BRIN)",
+      "url": "https://www.researchgate.net/publication/396196002_Peta_Ekosistem_Industri_Gim_Indonesia_2024_Menuju_Transformasi_Ekonomi_Digital_Nasional_2025",
+      "publication_date": null,
+      "retrieved_date": "2026-09-09",
+      "source_type": "government",
+      "local_file": "raw/ID/official2024-author-abstract.txt",
+      "locator": "Author-posted book abstract, second workforce point",
+      "access_status": "public_summary",
+      "notes": "Official book primary author abstract inspected on ResearchGate; full PDF download blocked. Published October 2025; exact day unknown."
+    },
+    {
+      "source_id": "ID_agate2025",
+      "title": "The State of Indonesia’s Game Industry",
+      "publisher": "Agate",
+      "url": "https://agate.id/storage/2025/09/Agate-White-Paper-The-State-of-Indonesias-Game-Industry.pdf",
+      "publication_date": null,
+      "retrieved_date": "2026-09-09",
+      "source_type": "research_partner",
+      "local_file": "raw/ID/agate2025.pdf",
+      "locator": "Full report",
+      "access_status": "full_source",
+      "notes": "Primary industry report downloaded, but text layer is sparse and no additional verified national employment count extracted."
+    }
+  ],
+  "series": [
+    {
+      "series_id": "ID_official_core_min",
+      "label": "Minimum identified development/publishing talent",
+      "measure": "employment_stock",
+      "unit": "people",
+      "industry_scope": "Game development and publishing",
+      "occupation_scope": "All occupations within covered businesses",
+      "geography_basis": "domestic_workplace",
+      "geography_note": "People working in the country; nationality not implied.",
+      "worker_status": "Source-reported workers; detailed status treatment not specified",
+      "contractor_treatment": "Unknown; not assumed to include independent contractors",
+      "nationality_definition": "Not reported",
+      "method": "Official ecosystem mapping study; public abstract omits sampling/extrapolation detail.",
+      "population_basis": "unknown",
+      "sample_size": "unknown",
+      "comparability_group": "ID_official_core_min",
+      "chart_eligible": true,
+      "trend_eligible": false,
+      "index_2019_eligible": false,
+      "comparison_note": "Lower-bound mapping result, no national completeness or precise observation date verified. Do not infer 2015 count by reversing stated growth. Eligible only for a clearly labelled source-native snapshot, sample or context chart; not a comparable domestic core trend.",
+      "source_native_term": "setidaknya terdapat 2.112 talenta pada pengembang dan penerbit video gim",
+      "term_translation": "At least 2,112 talents at video-game developers and publishers"
+    },
+    {
+      "series_id": "ID_broad_impact",
+      "label": "Economy-wide workers affected by games activity",
+      "measure": "employment_stock",
+      "unit": "jobs",
+      "industry_scope": "Broad economic impact across related activity",
+      "occupation_scope": "All occupations within covered businesses",
+      "geography_basis": "domestic_workplace",
+      "geography_note": "People working in the country; nationality not implied.",
+      "worker_status": "Source-reported workers; detailed status treatment not specified",
+      "contractor_treatment": "Unknown; not assumed to include independent contractors",
+      "nationality_definition": "Not reported",
+      "method": "Economic impact modelling; not direct employment headcount.",
+      "population_basis": "national_estimate",
+      "sample_size": "unknown",
+      "comparability_group": "ID_broad_impact",
+      "chart_eligible": false,
+      "trend_eligible": false,
+      "index_2019_eligible": false,
+      "comparison_note": "Indirect/broad impact not comparable with core employment.",
+      "source_native_term": "Economy-wide workers affected by games activity",
+      "term_translation": "Economy-wide workers affected by games activity"
+    }
+  ],
+  "observations": [
+    {
+      "observation_id": "ID_official_core_min_None_ID_komdigi2024_0",
+      "series_id": "ID_official_core_min",
+      "source_id": "ID_komdigi2024",
+      "observation_period": "Observation year unstated",
+      "year": null,
+      "value": null,
+      "value_low": 2112,
+      "value_high": null,
+      "status": "reported",
+      "preferred": true,
+      "subgroup": "all",
+      "denominator": "Covered industry workforce",
+      "source_locator": "Book abstract",
+      "publication_vintage": "ID_komdigi2024",
+      "method_break": false,
+      "break_note": "",
+      "derivation": "",
+      "notes": "Study title 2024, publication October 2025; abstract says currently, so exact observation year stays null.",
+      "value_qualifier": "at least"
+    },
+    {
+      "observation_id": "ID_broad_impact_None_ID_komdigi2024_1",
+      "series_id": "ID_broad_impact",
+      "source_id": "ID_komdigi2024",
+      "observation_period": "Observation year unstated",
+      "year": null,
+      "value": null,
+      "value_low": 513000,
+      "value_high": 1030000,
+      "status": "estimated",
+      "preferred": true,
+      "subgroup": "all",
+      "denominator": "Covered industry workforce",
+      "source_locator": "Book abstract economic-impact section",
+      "publication_vintage": "ID_komdigi2024",
+      "method_break": false,
+      "break_note": "",
+      "derivation": "",
+      "notes": "No midpoint; not part of core workforce."
+    }
+  ],
+  "limitations": [
+    "Survey coverage and observation timing not resolved from accessible public summary.",
+    "No stable national 2015–latest series; stated 64.23% growth not used to back-solve base count.",
+    "Application-plus-game employment totals are broader than video-game development.",
+    "No verified national citizenship or contractor composition."
+  ],
+  "review_checks": [
+    "Inspected official author abstract and separated core lower bound from broad impact range.",
+    "No midpoint, extrapolation or reverse-derived 2015 workforce created."
+  ],
+  "research_complete": true
+}

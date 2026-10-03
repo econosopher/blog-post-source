@@ -1,0 +1,52 @@
+[
+  {
+    "url": "https://drive.google.com/file/d/1I6azl-z3xSWhEEbiLKmyGvkBPbLBzQaZ/view",
+    "title": "SGA 2021 industry report",
+    "publisher": "Serbian Games Association",
+    "years": "2021",
+    "methodology": "Member questionnaire and association headline estimate.2022/2023 methods state estimated80% ecosystem coverage; no reproducible employment gross-up provided.",
+    "assessment": "Accept approximately 2,200+ as qualified source-native estimate; separate from survey respondents and strict domestic employment.",
+    "access_status": "Original PDF downloaded; headline page visually inspected.",
+    "next_step": "Preserve qualifiers; resolve geography and gross-up before trend use."
+  },
+  {
+    "url": "https://drive.google.com/file/d/1iu6B8M8s30mV3boam1xAD5x68heI6bPc/view",
+    "title": "SGA 2022 industry report",
+    "publisher": "Serbian Games Association",
+    "years": "2022",
+    "methodology": "Member questionnaire and association headline estimate.2022/2023 methods state estimated80% ecosystem coverage; no reproducible employment gross-up provided.",
+    "assessment": "Accept approximately 2,500+ as qualified source-native estimate; separate from survey respondents and strict domestic employment.",
+    "access_status": "Original PDF downloaded; headline page visually inspected.",
+    "next_step": "Preserve qualifiers; resolve geography and gross-up before trend use."
+  },
+  {
+    "url": "https://drive.google.com/file/d/1xQujc0aNvveXoqVrkks8G5nFFedM4kMe/view",
+    "title": "SGA 2023 industry report",
+    "publisher": "Serbian Games Association",
+    "years": "2023",
+    "methodology": "Member questionnaire and association headline estimate.2022/2023 methods state estimated80% ecosystem coverage; no reproducible employment gross-up provided.",
+    "assessment": "Accept estimated 4,300 as qualified source-native estimate; separate from survey respondents and strict domestic employment.",
+    "access_status": "Original PDF downloaded; headline page visually inspected.",
+    "next_step": "Preserve qualifiers; resolve geography and gross-up before trend use."
+  },
+  {
+    "url": "https://sga.rs/en/annual-report/",
+    "title": "SGA annual report archive",
+    "publisher": "SGA",
+    "years": "2018-2025",
+    "methodology": "Publisher links by reference year; publication labels can differ.",
+    "assessment": "First listed edition2018, latest2025; no2026 reference-year data recovered.",
+    "access_status": "Primary HTML saved and links followed.",
+    "next_step": "Do not assign publication year to employment."
+  },
+  {
+    "url": "https://sga.rs/en/old-news/weve-published-the-annual-report-on-the-gaming-industry-in-serbia-growth-in-revenue-and-the-number-of-employees/",
+    "title": "SGA2023 release, published April2024",
+    "publisher": "SGA",
+    "years": "2023",
+    "methodology": "Association explanation of migration-related increase.",
+    "assessment": "Attributes increase to relocation from Russia/Ukraine/Belarus. Claimed98% increase must not be applied mechanically to different rounded national estimates.",
+    "access_status": "Primary HTML inspected.",
+    "next_step": "Keep causal attribution source-qualified and respondent totals separate."
+  }
+]

@@ -1,0 +1,137 @@
+[
+  {
+    "url": "https://drive.google.com/file/d/1XVeC3ZrkRMCHzzHzOZMtGWdNWHfMONjp/view",
+    "title": "Creative-industry economic statistics 2013-2018",
+    "publisher": "Ministry of Culture of Ukraine",
+    "years": "2013-2018",
+    "methodology": "Official business statistics, includes non-staff and unpaid workers; KVED58.21 publishing only",
+    "assessment": "Six observations accepted as narrow historical series; no whole-industry comparison",
+    "access_status": "Original PDF downloaded; employment table visually checked",
+    "next_step": "Recover underlying2010-2018 workbook and territorial notes"
+  },
+  {
+    "url": "https://mincult.gov.ua/wp-content/uploads/2025/11/kreatyvni2025-1.pdf",
+    "title": "Creative industries: key indicators2023-2024",
+    "publisher": "Ukrainian Centre for Cultural Research / Ministry of Culture",
+    "years": "2021-2024",
+    "methodology": "Tax/statistical administrative compilation; employee timing and deduplication not specified",
+    "assessment": "Publishing counts1015,1601,1236,1025 retained as proposed only; wartime reporting gaps; do not splice to earlier employed-person series",
+    "access_status": "Full PDF downloaded and relevant text inspected",
+    "next_step": "Resolve worker-status, annual timing and primary activity assignment"
+  },
+  {
+    "url": "https://mincult.gov.ua/kreatyvni-industrii/statystychni-ta-analitychni-dani-u-sferi-kreatyvnykh-industriy/",
+    "title": "Official creative-industry archive",
+    "publisher": "Ministry of Culture",
+    "years": "2013-2024",
+    "methodology": "Publisher archive links older statistics and newer report",
+    "assessment": "Supports provenance and backward/forward source-family trace; no2025 employment successor visible",
+    "access_status": "inspected",
+    "next_step": ""
+  },
+  {
+    "url": "https://kved.ukrstat.gov.ua/KVED2010/58/KVED10_58_21.html",
+    "title": "KVED2010 class58.21",
+    "publisher": "State Statistics Service",
+    "years": "classification",
+    "methodology": "Publishing computer games for all platforms",
+    "assessment": "Publishing class does not represent all game-industry workplaces",
+    "access_status": "inspected",
+    "next_step": ""
+  },
+  {
+    "url": "https://www.ukrstat.gov.ua/operativ/menu/menu_u/sze_20.htm",
+    "title": "Business statistics archive",
+    "publisher": "State Statistics Service",
+    "years": "historical",
+    "methodology": "Underlying official table route",
+    "assessment": "Not retrieved; do not promote secondary reconstructed numbers",
+    "access_status": "HTTPS certificate expired; HTTP redirected to same failure",
+    "next_step": "Find migrated official stat.gov.ua workbook"
+  },
+  {
+    "url": "https://www.slideshare.net/slideshow/game-development-in-ukraine-industry-guide-2018-ukrainian-language/107979444",
+    "title": "Game Development in Ukraine2018, publisher upload",
+    "publisher": "UNIT.City / Achievers Hub",
+    "years": "2018",
+    "methodology": "Over70 company respondents; regional maps and company size bands",
+    "assessment": "Publisher upload recovered; widely repeated20000 total not located in inspected11-slide report text. No national observation accepted",
+    "access_status": "inspected",
+    "next_step": ""
+  },
+  {
+    "url": "https://boost.ingamejob.com/ukrainian-games-industry-big-salary-report-2022-what-has-changed-in-the-times-of-war/",
+    "title": "Ukrainian Games Industry Big Salary Report2022",
+    "publisher": "Values Value / InGame Job",
+    "years": "2022",
+    "methodology": "761 voluntary anonymous responses; salary/worker profile study",
+    "assessment": "Survey size is not industry employment; no workforce stock accepted",
+    "access_status": "inspected",
+    "next_step": ""
+  },
+  {
+    "url": "https://mincult.gov.ua/announcements/kreatyvni-industriyi-u-i-kvartali-2022-roku-statystychnyj-oglyad/",
+    "title": "Creative industries Q12022",
+    "publisher": "Ministry of Culture",
+    "years": "2021Q1-2022Q1",
+    "methodology": "Taxpayer and financial indicators",
+    "assessment": "PDF recovered through publisher Drive link; taxpayer counts are not employment",
+    "access_status": "inspected",
+    "next_step": ""
+  },
+  {
+    "url": "https://drive.google.com/file/d/1wawTVaEVgqRumvFPTLN0-friYOqzR1Q8/view",
+    "title": "War impact on creative industries2021-2022",
+    "publisher": "Ukrainian Centre for Cultural Research",
+    "years": "2021-2022",
+    "methodology": "Original raster report recovered via published citation; first pages visually inspected",
+    "assessment": "Employment detail not extracted in this pass; source recovery lead only",
+    "access_status": "PDF downloaded; text layer incomplete",
+    "next_step": "Inspect relevant raster tables before accepting any numbers"
+  },
+  {
+    "url": "https://www.ukrstat.gov.ua/operativ/operativ2018/fin/pssg/pssg_u/kzpsg_ek_2010_2018_u.xlsx",
+    "title": "Original State Statistics2010-2018 business employment workbook recovered",
+    "years": "2010-2018",
+    "methodology": "KVED58.21 persons employed; FOP component shown separately.2014-2018 territorial exclusions atA8728.",
+    "assessment": "Main verified nine values and geography footnote. Three pre2013 values accepted as contextual observations; no whole-industry or cross-territory trend.",
+    "access_status": "Original xlsx recovered with TLS verification disabled for expired certificate; locally parsed",
+    "next_step": "Resolve annual within-year convention and compatible post2018 archive."
+  },
+  {
+    "url": "https://www.ukrstat.gov.ua/operativ/menu/menu_u/sze_20.htm",
+    "result": "success",
+    "evidence": "Official menu page identified the current 2010-2024 persons-employed workbook link.",
+    "assessment": "Official menu page identified the current 2010-2024 persons-employed workbook link.",
+    "access_status": "success",
+    "title": "Post-2018 official-table follow-up: success",
+    "methodology": "KVED58.21 persons-employed business-entity series; publishing only. See exact result: some entries are cataloged leads/comparisons, not new page visits."
+  },
+  {
+    "url": "https://www.ukrstat.gov.ua/operativ/operativ2022/fin/pssg/kzpsg_ek_2010_2021.xlsx",
+    "result": "success_tls_exception",
+    "evidence": "Downloaded 833 KiB xlsx. Worksheet named 2024 contains rows 2010-2024; 58.21 rows 10537:10551 and coverage/confidentiality notes 14543:14548. TLS certificate validation normally fails because the server certificate is expired.",
+    "assessment": "Downloaded 833 KiB xlsx. Worksheet named 2024 contains rows 2010-2024; 58.21 rows 10537:10551 and coverage/confidentiality notes 14543:14548. TLS certificate validation normally fails because the server certificate is expired.",
+    "access_status": "success_tls_exception",
+    "title": "Post-2018 official-table follow-up: success_tls_exception",
+    "methodology": "KVED58.21 persons-employed business-entity series; publishing only. See exact result: some entries are cataloged leads/comparisons, not new page visits."
+  },
+  {
+    "url": "https://www.ukrstat.gov.ua/operativ/operativ2019/fin/pssg/pssg_u/kzpsg_ek_2010_2019_u.xlsx",
+    "result": "not_pursued_after_current_workbook_recovered",
+    "evidence": "A separate vintage is unnecessary for the bounded goal because the current official workbook supplies the complete 2010-2024 class table with coverage notes.",
+    "assessment": "A separate vintage is unnecessary for the bounded goal because the current official workbook supplies the complete 2010-2024 class table with coverage notes.",
+    "access_status": "not_pursued_after_current_workbook_recovered",
+    "title": "Post-2018 official-table follow-up: not_pursued_after_current_workbook_recovered",
+    "methodology": "KVED58.21 persons-employed business-entity series; publishing only. See exact result: some entries are cataloged leads/comparisons, not new page visits."
+  },
+  {
+    "url": "https://mincult.gov.ua/wp-content/uploads/2025/11/kreatyvni2025-1.pdf",
+    "result": "existing_comparison_only",
+    "evidence": "Its 2021-2024 workers table is definitionally unresolved and wartime-caveated; it was not used to construct State Statistics observations.",
+    "assessment": "Its 2021-2024 workers table is definitionally unresolved and wartime-caveated; it was not used to construct State Statistics observations.",
+    "access_status": "existing_comparison_only",
+    "title": "Post-2018 official-table follow-up: existing_comparison_only",
+    "methodology": "KVED58.21 persons-employed business-entity series; publishing only. See exact result: some entries are cataloged leads/comparisons, not new page visits."
+  }
+]

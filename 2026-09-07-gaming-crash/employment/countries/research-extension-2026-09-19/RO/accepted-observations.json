@@ -1,0 +1,42 @@
+[
+  {
+    "country": "Romania",
+    "iso2": "RO",
+    "year": 2020,
+    "value": 6000,
+    "unit": "people (qualified lower-bound headline)",
+    "period": "calendar year 2020",
+    "series_id": "RO_earlier_benchmark",
+    "url": "https://rgda.ro/wp-content/uploads/2021/10/RGDA-Report-2020_ffinal.pdf",
+    "source_locator": "PDF p. 3, Executive Summary metric '6000+ employees'; the associated RGDA report page is dated 29 October 2021",
+    "definition": "Source states 6,000+ employees in the Romanian gaming industry. RGDA says the report draws on public material, discussions, and industry-member forms and has not been audited. It does not state whether the headline includes collaborators; retain as a lower bound, not an exact 6,000 observation. Preserve the plus sign without imposing a strict mathematical inequality.",
+    "status": "accepted_primary_verified",
+    "trend_eligible": false,
+    "display_value": "6,000+",
+    "chart_eligible": true,
+    "marker_only": true,
+    "trend_review": "2021 employees and collaborators extends the 2022-2023 collaborator-inclusive series only. 2020 6,000+ is an isolated qualified headline; no employee-only 2024 join."
+  },
+  {
+    "country": "Romania",
+    "iso2": "RO",
+    "year": 2021,
+    "value": 6700,
+    "unit": "people",
+    "period": "calendar year 2021",
+    "series_id": "RO_employees_collaborators",
+    "url": "https://rgda.ro/wp-content/uploads/2023/01/RGDAs-General-Assembly.pdf",
+    "source_locator": "PDF p. 14 / printed slide 13, slide headed '2021 snapshot of Romania’s video games industry' (dated October 2022): 'Employees and collaborators: 6,700'; also states +12% versus 2020",
+    "definition": "Employees and collaborators in Romania's video-games industry. Collaborator legal status and the employee/collaborator split are not disclosed, so this belongs with the collaborator-inclusive series and cannot be spliced to employee-only wording.",
+    "status": "accepted_primary_verified",
+    "trend_eligible": true,
+    "chart_eligible": true,
+    "marker_only": false,
+    "trend_review": "2021 employees and collaborators extends the 2022-2023 collaborator-inclusive series only. 2020 6,000+ is an isolated qualified headline; no employee-only 2024 join.",
+    "allowed_trend_years": [
+      2021,
+      2022,
+      2023
+    ]
+  }
+]

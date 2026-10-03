@@ -1,0 +1,31 @@
+{
+  "result": "No additional games-only employment accepted",
+  "sources_reviewed": 6,
+  "rejections": [
+    {
+      "url": "https://www.imda.gov.sg/about-imda/research-and-statistics/tech-and-media-talent",
+      "reason": "Current longitudinal source exists but does not isolate games employment."
+    },
+    {
+      "url": "https://www.imda.gov.sg/assets/b61fabe9-2170-4cdd-a456-f2e33a7e019c.xlsx",
+      "reason": "No games-only workforce, occupational breakdown or industry-class row. Cannot derive games from media total."
+    },
+    {
+      "url": "https://www.imda.gov.sg/-/media/imda/files/inner/archive/news-and-events/news_and_events_level2/20110304144439/annexc.pdf",
+      "reason": "Chart2 reports5.4 thousand for combined Digital Media & Animation, Games Design & Development. Exclude: mixed occupation and geography; not games-industry total."
+    },
+    {
+      "url": "https://www.imda.gov.sg/-/media/imda/files/about/resources/corporate-publications/mda-html/2014/pdf/mda_ar_chap1.pdf",
+      "reason": "14,510 IDM jobs not a games-only measure. No games count inferred from growth."
+    },
+    {
+      "url": "https://www.mti.gov.sg/-/media/MTI/Resources/Economic-Survey-of-Singapore/2017/Economic-Survey-of-Singapore-Third-Quarter-2017/fullreport_3q17.pdf",
+      "reason": "17 percent of approximately200,000 ICM jobs is broad software-and-games share. Do not convert this into an observed games total."
+    },
+    {
+      "url": "https://www.mddi.gov.sg/newsroom/pq-on-dev-of-e-sports-and-gaming-industries-in-singapore/",
+      "reason": "Company count and projected demand are not observed employment. SSIC58201+62012 is a precise future statistical-table search lead."
+    }
+  ],
+  "next_source_target": "DOS/IMDA observed employment for SSIC58201 video-game publishing and62012 game development; do not substitute broad occupational totals or projections."
+}

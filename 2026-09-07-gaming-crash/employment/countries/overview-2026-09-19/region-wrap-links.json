@@ -1,0 +1,996 @@
+[
+  {
+    "iso2": "DE",
+    "from_id": "DE_core_2015_DE_game2018_0",
+    "to_id": "DE_core_2016_DE_game2018_1",
+    "segment_id": "DE_core",
+    "connection_type": "comparable"
+  },
+  {
+    "iso2": "DE",
+    "from_id": "DE_core_2016_DE_game2018_1",
+    "to_id": "DE_core_2017_DE_game2018_2",
+    "segment_id": "DE_core",
+    "connection_type": "comparable"
+  },
+  {
+    "iso2": "DE",
+    "from_id": "DE_core_2017_DE_game2018_2",
+    "to_id": "DE_core_2018_DE_game2018_3",
+    "segment_id": "DE_core",
+    "connection_type": "comparable"
+  },
+  {
+    "iso2": "DE",
+    "from_id": "DE_core_2018_DE_game2018_3",
+    "to_id": "DE_core_2019_DE_game2019_4",
+    "segment_id": "DE_core",
+    "connection_type": "comparable"
+  },
+  {
+    "iso2": "DE",
+    "from_id": "DE_core_2019_DE_game2019_4",
+    "to_id": "DE_core_2020_DE_game2025_5",
+    "segment_id": "DE_core",
+    "connection_type": "comparable"
+  },
+  {
+    "iso2": "DE",
+    "from_id": "DE_core_2020_DE_game2025_5",
+    "to_id": "DE_core_2021_DE_game2025_6",
+    "segment_id": "DE_core",
+    "connection_type": "comparable"
+  },
+  {
+    "iso2": "DE",
+    "from_id": "DE_core_2021_DE_game2025_6",
+    "to_id": "DE_core_2022_DE_game2025_7",
+    "segment_id": "DE_core",
+    "connection_type": "comparable"
+  },
+  {
+    "iso2": "DE",
+    "from_id": "DE_core_2022_DE_game2025_7",
+    "to_id": "DE_core_2023_DE_game2025_8",
+    "segment_id": "DE_core",
+    "connection_type": "comparable"
+  },
+  {
+    "iso2": "DE",
+    "from_id": "DE_core_2023_DE_game2025_8",
+    "to_id": "DE_core_2024_DE_game2025_9",
+    "segment_id": "DE_core",
+    "connection_type": "comparable"
+  },
+  {
+    "iso2": "DE",
+    "from_id": "DE_core_2024_DE_game2025_9",
+    "to_id": "DE_core_2025_DE_game2025_10",
+    "segment_id": "DE_core",
+    "connection_type": "comparable"
+  },
+  {
+    "iso2": "DE",
+    "from_id": "DE_core_2025_DE_game2025_10",
+    "to_id": "DE_core_revised2026_2025",
+    "segment_id": "DE_core_revised2026",
+    "connection_type": "country_identity_only"
+  },
+  {
+    "iso2": "DE",
+    "from_id": "DE_core_revised2026_2025",
+    "to_id": "DE_core_revised2026_2026",
+    "segment_id": "DE_core_revised2026",
+    "connection_type": "comparable"
+  },
+  {
+    "iso2": "DK",
+    "from_id": "DK_core_game_producers_v2009_2008",
+    "to_id": "DK_core_game_producers_v2009_2009",
+    "segment_id": "DK_core_game_producers_v2009",
+    "connection_type": "comparable"
+  },
+  {
+    "iso2": "DK",
+    "from_id": "DK_core_game_producers_v2009_2009",
+    "to_id": "DK_payroll_fte_2017_DK_dip2024_0",
+    "segment_id": "DK_payroll_fte",
+    "connection_type": "country_identity_only"
+  },
+  {
+    "iso2": "DK",
+    "from_id": "DK_payroll_fte_2017_DK_dip2024_0",
+    "to_id": "DK_payroll_fte_2018_DK_dip2024_1",
+    "segment_id": "DK_payroll_fte",
+    "connection_type": "comparable"
+  },
+  {
+    "iso2": "DK",
+    "from_id": "DK_payroll_fte_2018_DK_dip2024_1",
+    "to_id": "DK_payroll_fte_2019_DK_dip2024_2",
+    "segment_id": "DK_payroll_fte",
+    "connection_type": "comparable"
+  },
+  {
+    "iso2": "DK",
+    "from_id": "DK_payroll_fte_2019_DK_dip2024_2",
+    "to_id": "DK_payroll_fte_2020_DK_dip2024_3",
+    "segment_id": "DK_payroll_fte",
+    "connection_type": "comparable"
+  },
+  {
+    "iso2": "DK",
+    "from_id": "DK_payroll_fte_2020_DK_dip2024_3",
+    "to_id": "DK_payroll_fte_2021_DK_dip2024_4",
+    "segment_id": "DK_payroll_fte",
+    "connection_type": "comparable"
+  },
+  {
+    "iso2": "DK",
+    "from_id": "DK_payroll_fte_2021_DK_dip2024_4",
+    "to_id": "DK_payroll_fte_2022_DK_dip2024_5",
+    "segment_id": "DK_payroll_fte",
+    "connection_type": "comparable"
+  },
+  {
+    "iso2": "ES",
+    "from_id": "ES_direct_2013",
+    "to_id": "ES_direct_2014",
+    "segment_id": "ES_direct_reviewed",
+    "connection_type": "comparable"
+  },
+  {
+    "iso2": "ES",
+    "from_id": "ES_direct_2014",
+    "to_id": "ES_direct_2015_ES_dev2023_0",
+    "segment_id": "ES_direct_reviewed",
+    "connection_type": "comparable"
+  },
+  {
+    "iso2": "ES",
+    "from_id": "ES_direct_2015_ES_dev2023_0",
+    "to_id": "ES_direct_2016_ES_dev2023_1",
+    "segment_id": "ES_direct_reviewed",
+    "connection_type": "comparable"
+  },
+  {
+    "iso2": "ES",
+    "from_id": "ES_direct_2016_ES_dev2023_1",
+    "to_id": "ES_direct_2017_ES_dev2023_2",
+    "segment_id": "ES_direct_reviewed",
+    "connection_type": "comparable"
+  },
+  {
+    "iso2": "ES",
+    "from_id": "ES_direct_2017_ES_dev2023_2",
+    "to_id": "ES_direct_2018_ES_dev2023_3",
+    "segment_id": "ES_direct_reviewed",
+    "connection_type": "comparable"
+  },
+  {
+    "iso2": "ES",
+    "from_id": "ES_direct_2018_ES_dev2023_3",
+    "to_id": "ES_direct_2019_ES_dev2023_4",
+    "segment_id": "ES_direct_reviewed",
+    "connection_type": "comparable"
+  },
+  {
+    "iso2": "ES",
+    "from_id": "ES_direct_2019_ES_dev2023_4",
+    "to_id": "ES_direct_2020_ES_dev2025_5",
+    "segment_id": "ES_direct_reviewed",
+    "connection_type": "comparable"
+  },
+  {
+    "iso2": "ES",
+    "from_id": "ES_direct_2020_ES_dev2025_5",
+    "to_id": "ES_direct_2021_ES_dev2025_6",
+    "segment_id": "ES_direct_reviewed",
+    "connection_type": "comparable"
+  },
+  {
+    "iso2": "ES",
+    "from_id": "ES_direct_2021_ES_dev2025_6",
+    "to_id": "ES_direct_2022_ES_dev2025_7",
+    "segment_id": "ES_direct_reviewed",
+    "connection_type": "comparable"
+  },
+  {
+    "iso2": "ES",
+    "from_id": "ES_direct_2022_ES_dev2025_7",
+    "to_id": "ES_direct_2023_ES_dev2025_8",
+    "segment_id": "ES_direct_reviewed",
+    "connection_type": "comparable"
+  },
+  {
+    "iso2": "ES",
+    "from_id": "ES_direct_2023_ES_dev2025_8",
+    "to_id": "ES_direct_2024_ES_dev2025_9",
+    "segment_id": "ES_direct_reviewed",
+    "connection_type": "comparable"
+  },
+  {
+    "iso2": "FR",
+    "from_id": "FR_dge_pwc_broad_industry_persons_2010",
+    "to_id": "FR_dge_pwc_broad_industry_persons_2011",
+    "segment_id": "FR_dge_pwc_broad_industry_persons",
+    "connection_type": "comparable"
+  },
+  {
+    "iso2": "FR",
+    "from_id": "FR_dge_pwc_broad_industry_persons_2011",
+    "to_id": "FR_dge_pwc_broad_industry_persons_2012",
+    "segment_id": "FR_dge_pwc_broad_industry_persons",
+    "connection_type": "comparable"
+  },
+  {
+    "iso2": "FR",
+    "from_id": "FR_dge_pwc_broad_industry_persons_2012",
+    "to_id": "FR_dge_pwc_broad_industry_persons_2013",
+    "segment_id": "FR_dge_pwc_broad_industry_persons",
+    "connection_type": "comparable"
+  },
+  {
+    "iso2": "FR",
+    "from_id": "FR_dge_pwc_broad_industry_persons_2013",
+    "to_id": "FR_dge_pwc_broad_industry_persons_2014",
+    "segment_id": "FR_dge_pwc_broad_industry_persons",
+    "connection_type": "comparable"
+  },
+  {
+    "iso2": "FR",
+    "from_id": "FR_dge_pwc_broad_industry_persons_2014",
+    "to_id": "FR_dge_pwc_broad_industry_persons_2015",
+    "segment_id": "FR_dge_pwc_broad_industry_persons",
+    "connection_type": "comparable"
+  },
+  {
+    "iso2": "FR",
+    "from_id": "FR_dge_pwc_broad_industry_persons_2015",
+    "to_id": "FR_dge_pwc_broad_industry_persons_2016",
+    "segment_id": "FR_dge_pwc_broad_industry_persons",
+    "connection_type": "comparable"
+  },
+  {
+    "iso2": "FR",
+    "from_id": "FR_dge_pwc_broad_industry_persons_2016",
+    "to_id": "FR_dge_pwc_broad_industry_persons_2017",
+    "segment_id": "FR_dge_pwc_broad_industry_persons",
+    "connection_type": "comparable"
+  },
+  {
+    "iso2": "FR",
+    "from_id": "FR_dge_pwc_broad_industry_persons_2017",
+    "to_id": "FR_dge_pwc_broad_industry_persons_2018",
+    "segment_id": "FR_dge_pwc_broad_industry_persons",
+    "connection_type": "comparable"
+  },
+  {
+    "iso2": "FR",
+    "from_id": "FR_dge_pwc_broad_industry_persons_2018",
+    "to_id": "FR_ey_direct_fte_2019_FR_ey2025_0",
+    "segment_id": "FR_ey_direct_fte",
+    "connection_type": "country_identity_only"
+  },
+  {
+    "iso2": "FR",
+    "from_id": "FR_ey_direct_fte_2019_FR_ey2025_0",
+    "to_id": "FR_ey_direct_fte_2020_FR_ey2025_1",
+    "segment_id": "FR_ey_direct_fte",
+    "connection_type": "comparable"
+  },
+  {
+    "iso2": "FR",
+    "from_id": "FR_ey_direct_fte_2020_FR_ey2025_1",
+    "to_id": "FR_ey_direct_fte_2021_FR_ey2025_2",
+    "segment_id": "FR_ey_direct_fte",
+    "connection_type": "comparable"
+  },
+  {
+    "iso2": "FR",
+    "from_id": "FR_ey_direct_fte_2021_FR_ey2025_2",
+    "to_id": "FR_ey_direct_fte_2022_FR_ey2025_3",
+    "segment_id": "FR_ey_direct_fte",
+    "connection_type": "comparable"
+  },
+  {
+    "iso2": "FR",
+    "from_id": "FR_ey_direct_fte_2022_FR_ey2025_3",
+    "to_id": "FR_ey_direct_fte_2023_FR_ey2025_4",
+    "segment_id": "FR_ey_direct_fte",
+    "connection_type": "comparable"
+  },
+  {
+    "iso2": "FR",
+    "from_id": "FR_ey_direct_fte_2023_FR_ey2025_4",
+    "to_id": "FR_ey_direct_fte_2024_FR_ey2025_5",
+    "segment_id": "FR_ey_direct_fte",
+    "connection_type": "comparable"
+  },
+  {
+    "iso2": "GB",
+    "from_id": "GB_tiga_people_2017_GB_tiga2019_2017endpoint_5",
+    "to_id": "GB_tiga_people_2018_GB_tiga2020_6",
+    "segment_id": "GB_tiga_people",
+    "connection_type": "comparable"
+  },
+  {
+    "iso2": "GB",
+    "from_id": "GB_tiga_people_2018_GB_tiga2020_6",
+    "to_id": "GB_tiga_people_2020_GB_tiga2020_7",
+    "segment_id": "GB_tiga_people",
+    "connection_type": "comparable"
+  },
+  {
+    "iso2": "GB",
+    "from_id": "GB_tiga_people_2020_GB_tiga2020_7",
+    "to_id": "GB_tiga_people_2023_GB_tiga2023_8",
+    "segment_id": "GB_tiga_people",
+    "connection_type": "comparable"
+  },
+  {
+    "iso2": "GB",
+    "from_id": "GB_tiga_people_2023_GB_tiga2023_8",
+    "to_id": "GB_tiga_people_2024_GB_tiga2024_9",
+    "segment_id": "GB_tiga_people",
+    "connection_type": "comparable"
+  },
+  {
+    "iso2": "GB",
+    "from_id": "GB_tiga_people_2024_GB_tiga2024_9",
+    "to_id": "GB_tiga_people_2025_GB_tiga2025_10",
+    "segment_id": "GB_tiga_people",
+    "connection_type": "comparable"
+  },
+  {
+    "iso2": "NL",
+    "from_id": "NL_domestic_broad_legacy_vintage_2011",
+    "to_id": "NL_domestic_broad_2015_NL_gm2015_4",
+    "segment_id": "NL_domestic_broad",
+    "connection_type": "country_identity_only"
+  },
+  {
+    "iso2": "NL",
+    "from_id": "NL_domestic_broad_2015_NL_gm2015_4",
+    "to_id": "NL_domestic_broad_2018_NL_gm2024_0",
+    "segment_id": "NL_domestic_broad",
+    "connection_type": "comparable"
+  },
+  {
+    "iso2": "NL",
+    "from_id": "NL_domestic_broad_2018_NL_gm2024_0",
+    "to_id": "NL_domestic_broad_covid_update_2020",
+    "segment_id": "NL_domestic_broad_covid_update",
+    "connection_type": "country_identity_only"
+  },
+  {
+    "iso2": "NL",
+    "from_id": "NL_domestic_broad_covid_update_2020",
+    "to_id": "NL_domestic_broad_2021_NL_gm2024_1",
+    "segment_id": "NL_domestic_broad",
+    "connection_type": "country_identity_only"
+  },
+  {
+    "iso2": "NL",
+    "from_id": "NL_domestic_broad_2021_NL_gm2024_1",
+    "to_id": "NL_domestic_broad_2023_NL_gm2024_2",
+    "segment_id": "NL_domestic_broad",
+    "connection_type": "country_identity_only"
+  },
+  {
+    "iso2": "PL",
+    "from_id": "PL_core_workforce_2020",
+    "to_id": "PL_core_workforce_2021_PL_parp2021_0",
+    "segment_id": "PL_core_workforce",
+    "connection_type": "country_identity_only"
+  },
+  {
+    "iso2": "PL",
+    "from_id": "PL_core_workforce_2021_PL_parp2021_0",
+    "to_id": "PL_gic_magazine2022_2022",
+    "segment_id": "PL_gic_magazine2022",
+    "connection_type": "country_identity_only"
+  },
+  {
+    "iso2": "PL",
+    "from_id": "PL_gic_magazine2022_2022",
+    "to_id": "PL_core_workforce_2023_PL_parp2023_1",
+    "segment_id": "PL_core_workforce",
+    "connection_type": "country_identity_only"
+  },
+  {
+    "iso2": "PL",
+    "from_id": "PL_core_workforce_2023_PL_parp2023_1",
+    "to_id": "PL_core_workforce_2025_PL_parp2025_2",
+    "segment_id": "PL_core_workforce",
+    "connection_type": "comparable"
+  },
+  {
+    "iso2": "RO",
+    "from_id": "RO_earlier_benchmark_2020",
+    "to_id": "RO_employees_collaborators_2021",
+    "segment_id": "RO_collaborator_inclusive_reviewed",
+    "connection_type": "country_identity_only"
+  },
+  {
+    "iso2": "RO",
+    "from_id": "RO_employees_collaborators_2021",
+    "to_id": "RO_employees_collaborators_2022_RO_rgda2023_1",
+    "segment_id": "RO_collaborator_inclusive_reviewed",
+    "connection_type": "comparable"
+  },
+  {
+    "iso2": "RO",
+    "from_id": "RO_employees_collaborators_2022_RO_rgda2023_1",
+    "to_id": "RO_employees_collaborators_2023_RO_rgda2024_2",
+    "segment_id": "RO_collaborator_inclusive_reviewed",
+    "connection_type": "comparable"
+  },
+  {
+    "iso2": "RO",
+    "from_id": "RO_employees_collaborators_2023_RO_rgda2024_2",
+    "to_id": "RO_employees2024_2024_RO_rgda2025_0",
+    "segment_id": "RO_employees2024",
+    "connection_type": "country_identity_only"
+  },
+  {
+    "iso2": "RS",
+    "from_id": "RS_national_estimate_historical_2021",
+    "to_id": "RS_national_estimate_historical_2022",
+    "segment_id": "RS_national_estimate_historical",
+    "connection_type": "country_identity_only"
+  },
+  {
+    "iso2": "RS",
+    "from_id": "RS_national_estimate_historical_2022",
+    "to_id": "RS_national_estimate_historical_2023",
+    "segment_id": "RS_national_estimate_historical",
+    "connection_type": "country_identity_only"
+  },
+  {
+    "iso2": "RS",
+    "from_id": "RS_national_estimate_historical_2023",
+    "to_id": "RS_national_estimate_2024_RS_release2025_0",
+    "segment_id": "RS_national_estimate",
+    "connection_type": "country_identity_only"
+  },
+  {
+    "iso2": "RS",
+    "from_id": "RS_national_estimate_2024_RS_release2025_0",
+    "to_id": "RS_national_estimate_2025_RS_release2025_1",
+    "segment_id": "RS_national_estimate",
+    "connection_type": "comparable"
+  },
+  {
+    "iso2": "SE",
+    "from_id": "SE_domestic_gdi2021_early_2010",
+    "to_id": "SE_domestic_gdi2021_early_2011",
+    "segment_id": "SE_domestic_gdi2021_early",
+    "connection_type": "country_identity_only"
+  },
+  {
+    "iso2": "SE",
+    "from_id": "SE_domestic_gdi2021_early_2011",
+    "to_id": "SE_domestic_gdi2020_vintage_2012",
+    "segment_id": "SE_domestic_gdi2020_vintage",
+    "connection_type": "country_identity_only"
+  },
+  {
+    "iso2": "SE",
+    "from_id": "SE_domestic_gdi2020_vintage_2012",
+    "to_id": "SE_domestic_gdi2020_vintage_2013",
+    "segment_id": "SE_domestic_gdi2020_vintage",
+    "connection_type": "comparable"
+  },
+  {
+    "iso2": "SE",
+    "from_id": "SE_domestic_gdi2020_vintage_2013",
+    "to_id": "SE_domestic_gdi2020_vintage_2014",
+    "segment_id": "SE_domestic_gdi2020_vintage",
+    "connection_type": "comparable"
+  },
+  {
+    "iso2": "SE",
+    "from_id": "SE_domestic_gdi2020_vintage_2014",
+    "to_id": "SE_domestic_2015_SE_gdi2025_0",
+    "segment_id": "SE_domestic",
+    "connection_type": "country_identity_only"
+  },
+  {
+    "iso2": "SE",
+    "from_id": "SE_domestic_2015_SE_gdi2025_0",
+    "to_id": "SE_domestic_2016_SE_gdi2025_1",
+    "segment_id": "SE_domestic",
+    "connection_type": "comparable"
+  },
+  {
+    "iso2": "SE",
+    "from_id": "SE_domestic_2016_SE_gdi2025_1",
+    "to_id": "SE_domestic_2017_SE_gdi2025_2",
+    "segment_id": "SE_domestic",
+    "connection_type": "comparable"
+  },
+  {
+    "iso2": "SE",
+    "from_id": "SE_domestic_2017_SE_gdi2025_2",
+    "to_id": "SE_domestic_2018_SE_gdi2025_3",
+    "segment_id": "SE_domestic",
+    "connection_type": "comparable"
+  },
+  {
+    "iso2": "SE",
+    "from_id": "SE_domestic_2018_SE_gdi2025_3",
+    "to_id": "SE_domestic_2019_SE_gdi2025_4",
+    "segment_id": "SE_domestic",
+    "connection_type": "comparable"
+  },
+  {
+    "iso2": "SE",
+    "from_id": "SE_domestic_2019_SE_gdi2025_4",
+    "to_id": "SE_domestic_2020_SE_gdi2025_5",
+    "segment_id": "SE_domestic",
+    "connection_type": "comparable"
+  },
+  {
+    "iso2": "SE",
+    "from_id": "SE_domestic_2020_SE_gdi2025_5",
+    "to_id": "SE_domestic_2021_SE_gdi2025_6",
+    "segment_id": "SE_domestic",
+    "connection_type": "comparable"
+  },
+  {
+    "iso2": "SE",
+    "from_id": "SE_domestic_2021_SE_gdi2025_6",
+    "to_id": "SE_domestic_2022_SE_gdi2025_7",
+    "segment_id": "SE_domestic",
+    "connection_type": "comparable"
+  },
+  {
+    "iso2": "SE",
+    "from_id": "SE_domestic_2022_SE_gdi2025_7",
+    "to_id": "SE_domestic_2023_SE_gdi2025_8",
+    "segment_id": "SE_domestic",
+    "connection_type": "comparable"
+  },
+  {
+    "iso2": "SE",
+    "from_id": "SE_domestic_2023_SE_gdi2025_8",
+    "to_id": "SE_domestic_2024_SE_gdi2025_9",
+    "segment_id": "SE_domestic",
+    "connection_type": "country_identity_only"
+  },
+  {
+    "iso2": "CN",
+    "from_id": "CN_listed_panel_2021_CN_cng2025_0",
+    "to_id": "CN_listed_panel_2022_CN_cng2025_1",
+    "segment_id": "CN_listed_panel",
+    "connection_type": "country_identity_only"
+  },
+  {
+    "iso2": "CN",
+    "from_id": "CN_listed_panel_2022_CN_cng2025_1",
+    "to_id": "CN_listed_panel_2023_CN_cng2025_2",
+    "segment_id": "CN_listed_panel",
+    "connection_type": "country_identity_only"
+  },
+  {
+    "iso2": "CN",
+    "from_id": "CN_listed_panel_2023_CN_cng2025_2",
+    "to_id": "CN_listed_panel_2024_CN_cng2025_3",
+    "segment_id": "CN_listed_panel",
+    "connection_type": "country_identity_only"
+  },
+  {
+    "iso2": "CN",
+    "from_id": "CN_listed_panel_2024_CN_cng2025_3",
+    "to_id": "CN_listed_panel_2025_CN_cng2025_5",
+    "segment_id": "CN_listed_panel",
+    "connection_type": "country_identity_only"
+  },
+  {
+    "iso2": "KR",
+    "from_id": "KR_core_archive_2008_2009_2008",
+    "to_id": "KR_core_archive_2008_2009_2009",
+    "segment_id": "KR_core_archive_2008_2009",
+    "connection_type": "country_identity_only"
+  },
+  {
+    "iso2": "KR",
+    "from_id": "KR_core_archive_2008_2009_2009",
+    "to_id": "KR_core_archive_2010_2014_2010",
+    "segment_id": "KR_core_archive_2010_2014",
+    "connection_type": "country_identity_only"
+  },
+  {
+    "iso2": "KR",
+    "from_id": "KR_core_archive_2010_2014_2010",
+    "to_id": "KR_core_archive_2010_2014_2011",
+    "segment_id": "KR_core_archive_2010_2014",
+    "connection_type": "country_identity_only"
+  },
+  {
+    "iso2": "KR",
+    "from_id": "KR_core_archive_2010_2014_2011",
+    "to_id": "KR_core_archive_2010_2014_2012",
+    "segment_id": "KR_core_archive_2010_2014",
+    "connection_type": "country_identity_only"
+  },
+  {
+    "iso2": "KR",
+    "from_id": "KR_core_archive_2010_2014_2012",
+    "to_id": "KR_core_archive_2010_2014_2013",
+    "segment_id": "KR_core_archive_2010_2014",
+    "connection_type": "country_identity_only"
+  },
+  {
+    "iso2": "KR",
+    "from_id": "KR_core_archive_2010_2014_2013",
+    "to_id": "KR_core_archive_2010_2014_2014",
+    "segment_id": "KR_core_archive_2010_2014",
+    "connection_type": "country_identity_only"
+  },
+  {
+    "iso2": "KR",
+    "from_id": "KR_core_archive_2010_2014_2014",
+    "to_id": "KR_core_2015_KR_content2018_0",
+    "segment_id": "KR_core",
+    "connection_type": "country_identity_only"
+  },
+  {
+    "iso2": "KR",
+    "from_id": "KR_core_2015_KR_content2018_0",
+    "to_id": "KR_core_2016_KR_white2019_6",
+    "segment_id": "KR_core",
+    "connection_type": "comparable"
+  },
+  {
+    "iso2": "KR",
+    "from_id": "KR_core_2016_KR_white2019_6",
+    "to_id": "KR_core_2017_KR_white2020_12",
+    "segment_id": "KR_core",
+    "connection_type": "comparable"
+  },
+  {
+    "iso2": "KR",
+    "from_id": "KR_core_2017_KR_white2020_12",
+    "to_id": "KR_core_2018_KR_white2020_14",
+    "segment_id": "KR_core",
+    "connection_type": "comparable"
+  },
+  {
+    "iso2": "KR",
+    "from_id": "KR_core_2018_KR_white2020_14",
+    "to_id": "KR_core_2019_KR_white2020_16",
+    "segment_id": "KR_core",
+    "connection_type": "comparable"
+  },
+  {
+    "iso2": "KR",
+    "from_id": "KR_core_2019_KR_white2020_16",
+    "to_id": "KR_core_2020_KR_white2021",
+    "segment_id": "KR_core",
+    "connection_type": "comparable"
+  },
+  {
+    "iso2": "KR",
+    "from_id": "KR_core_2020_KR_white2021",
+    "to_id": "KR_core_2021_KR_white2025_18",
+    "segment_id": "KR_core",
+    "connection_type": "comparable"
+  },
+  {
+    "iso2": "KR",
+    "from_id": "KR_core_2021_KR_white2025_18",
+    "to_id": "KR_core_2022_KR_white2025_20",
+    "segment_id": "KR_core",
+    "connection_type": "comparable"
+  },
+  {
+    "iso2": "KR",
+    "from_id": "KR_core_2022_KR_white2025_20",
+    "to_id": "KR_core_2023_KR_white2025_22",
+    "segment_id": "KR_core",
+    "connection_type": "comparable"
+  },
+  {
+    "iso2": "KR",
+    "from_id": "KR_core_2023_KR_white2025_22",
+    "to_id": "KR_core_2024_KR_white2025_24",
+    "segment_id": "KR_core",
+    "connection_type": "comparable"
+  },
+  {
+    "iso2": "BR",
+    "from_id": "BR_developer_people_2018_BR_survey2022_0",
+    "to_id": "BR_developer_people_2022_BR_survey2022_1",
+    "segment_id": "BR_developer_people",
+    "connection_type": "country_identity_only"
+  },
+  {
+    "iso2": "BR",
+    "from_id": "BR_developer_people_2022_BR_survey2022_1",
+    "to_id": "BR_developer_people_2023_BR_survey2023_2",
+    "segment_id": "BR_developer_people",
+    "connection_type": "country_identity_only"
+  },
+  {
+    "iso2": "CA",
+    "from_id": "CA_statcan_ilu_2013",
+    "to_id": "CA_statcan_ilu_2014",
+    "segment_id": "CA_statcan_ilu",
+    "connection_type": "comparable"
+  },
+  {
+    "iso2": "CA",
+    "from_id": "CA_statcan_ilu_2014",
+    "to_id": "CA_statcan_ilu_2015_CA_statcan2025_0",
+    "segment_id": "CA_statcan_ilu",
+    "connection_type": "comparable"
+  },
+  {
+    "iso2": "CA",
+    "from_id": "CA_statcan_ilu_2015_CA_statcan2025_0",
+    "to_id": "CA_statcan_ilu_2016_CA_statcan2025_1",
+    "segment_id": "CA_statcan_ilu",
+    "connection_type": "comparable"
+  },
+  {
+    "iso2": "CA",
+    "from_id": "CA_statcan_ilu_2016_CA_statcan2025_1",
+    "to_id": "CA_statcan_ilu_2017_CA_statcan2025_2",
+    "segment_id": "CA_statcan_ilu",
+    "connection_type": "comparable"
+  },
+  {
+    "iso2": "CA",
+    "from_id": "CA_statcan_ilu_2017_CA_statcan2025_2",
+    "to_id": "CA_statcan_ilu_2018_CA_statcan2025_3",
+    "segment_id": "CA_statcan_ilu",
+    "connection_type": "comparable"
+  },
+  {
+    "iso2": "CA",
+    "from_id": "CA_statcan_ilu_2018_CA_statcan2025_3",
+    "to_id": "CA_statcan_ilu_2019_CA_statcan2025_4",
+    "segment_id": "CA_statcan_ilu",
+    "connection_type": "comparable"
+  },
+  {
+    "iso2": "CA",
+    "from_id": "CA_statcan_ilu_2019_CA_statcan2025_4",
+    "to_id": "CA_statcan_ilu_2020_CA_statcan2025_5",
+    "segment_id": "CA_statcan_ilu",
+    "connection_type": "comparable"
+  },
+  {
+    "iso2": "CA",
+    "from_id": "CA_statcan_ilu_2020_CA_statcan2025_5",
+    "to_id": "CA_statcan_ilu_2021_CA_statcan2025_6",
+    "segment_id": "CA_statcan_ilu",
+    "connection_type": "comparable"
+  },
+  {
+    "iso2": "CA",
+    "from_id": "CA_statcan_ilu_2021_CA_statcan2025_6",
+    "to_id": "CA_statcan_ilu_2022_CA_statcan2025_7",
+    "segment_id": "CA_statcan_ilu",
+    "connection_type": "comparable"
+  },
+  {
+    "iso2": "US",
+    "from_id": "US_legacy_siwek_all_establishments_2009_US_esa2014_0",
+    "to_id": "US_legacy_siwek_all_establishments_2012_US_esa2014_1",
+    "segment_id": "US_legacy_siwek_all_establishments",
+    "connection_type": "comparable"
+  },
+  {
+    "iso2": "US",
+    "from_id": "US_legacy_siwek_all_establishments_2012_US_esa2014_1",
+    "to_id": "US_mapping_2017_2013_US_esa2017_existing_0",
+    "segment_id": "US_mapping_2017_2013_2015",
+    "connection_type": "country_identity_only"
+  },
+  {
+    "iso2": "US",
+    "from_id": "US_mapping_2017_2013_US_esa2017_existing_0",
+    "to_id": "US_mapping_2017_2014_US_esa2017_existing_1",
+    "segment_id": "US_mapping_2017_2013_2015",
+    "connection_type": "comparable"
+  },
+  {
+    "iso2": "US",
+    "from_id": "US_mapping_2017_2014_US_esa2017_existing_1",
+    "to_id": "US_mapping_2017_2015_US_esa2017_0",
+    "segment_id": "US_mapping_2017_2013_2015",
+    "connection_type": "comparable"
+  },
+  {
+    "iso2": "US",
+    "from_id": "US_mapping_2017_2015_US_esa2017_0",
+    "to_id": "US_core_2019_US_esa2020_3",
+    "segment_id": "US_core",
+    "connection_type": "country_identity_only"
+  },
+  {
+    "iso2": "US",
+    "from_id": "US_core_2019_US_esa2020_3",
+    "to_id": "US_core_2023_US_esa2024_5",
+    "segment_id": "US_core",
+    "connection_type": "country_identity_only"
+  },
+  {
+    "iso2": "US",
+    "from_id": "US_core_2023_US_esa2024_5",
+    "to_id": "US_core_2025_US_esa2026_7",
+    "segment_id": "US_core",
+    "connection_type": "country_identity_only"
+  },
+  {
+    "iso2": "AU",
+    "from_id": "AU_abs_historical_snapshots_2007",
+    "to_id": "AU_abs_historical_snapshots_2012",
+    "segment_id": "AU_abs_historical_snapshots",
+    "connection_type": "country_identity_only"
+  },
+  {
+    "iso2": "AU",
+    "from_id": "AU_abs_historical_snapshots_2012",
+    "to_id": "AU_igea_survey_2016_AU_agds2024_0",
+    "segment_id": "AU_igea_survey",
+    "connection_type": "country_identity_only"
+  },
+  {
+    "iso2": "AU",
+    "from_id": "AU_igea_survey_2016_AU_agds2024_0",
+    "to_id": "AU_igea_survey_2017_AU_agds2024_1",
+    "segment_id": "AU_igea_survey",
+    "connection_type": "country_identity_only"
+  },
+  {
+    "iso2": "AU",
+    "from_id": "AU_igea_survey_2017_AU_agds2024_1",
+    "to_id": "AU_igea_survey_2019_AU_agds2024_2",
+    "segment_id": "AU_igea_survey",
+    "connection_type": "country_identity_only"
+  },
+  {
+    "iso2": "AU",
+    "from_id": "AU_igea_survey_2019_AU_agds2024_2",
+    "to_id": "AU_igea_survey_2020_AU_agds2024_3",
+    "segment_id": "AU_igea_survey",
+    "connection_type": "country_identity_only"
+  },
+  {
+    "iso2": "AU",
+    "from_id": "AU_igea_survey_2020_AU_agds2024_3",
+    "to_id": "AU_igea_survey_2021_AU_agds2024_4",
+    "segment_id": "AU_igea_survey",
+    "connection_type": "country_identity_only"
+  },
+  {
+    "iso2": "AU",
+    "from_id": "AU_igea_survey_2021_AU_agds2024_4",
+    "to_id": "AU_igea_survey_2022_AU_agds2024_5",
+    "segment_id": "AU_igea_survey",
+    "connection_type": "country_identity_only"
+  },
+  {
+    "iso2": "AU",
+    "from_id": "AU_igea_survey_2022_AU_agds2024_5",
+    "to_id": "AU_igea_survey_2023_AU_agds2024_6",
+    "segment_id": "AU_igea_survey",
+    "connection_type": "country_identity_only"
+  },
+  {
+    "iso2": "AU",
+    "from_id": "AU_igea_survey_2023_AU_agds2024_6",
+    "to_id": "AU_igea_survey_2024_AU_agds2024_7",
+    "segment_id": "AU_igea_survey",
+    "connection_type": "country_identity_only"
+  },
+  {
+    "iso2": "AU",
+    "from_id": "AU_igea_survey_2024_AU_agds2024_7",
+    "to_id": "AU_igea_augmented_2025_AU_agds2025_8",
+    "segment_id": "AU_igea_augmented",
+    "connection_type": "country_identity_only"
+  },
+  {
+    "iso2": "NZ",
+    "from_id": "NZ_nzgda_historical_snapshots_2011",
+    "to_id": "NZ_nzgda_historical_snapshots_2012",
+    "segment_id": "NZ_nzgda_historical_snapshots",
+    "connection_type": "country_identity_only"
+  },
+  {
+    "iso2": "NZ",
+    "from_id": "NZ_nzgda_historical_snapshots_2012",
+    "to_id": "NZ_nzgda_historical_snapshots_2013",
+    "segment_id": "NZ_nzgda_historical_snapshots",
+    "connection_type": "country_identity_only"
+  },
+  {
+    "iso2": "NZ",
+    "from_id": "NZ_nzgda_historical_snapshots_2013",
+    "to_id": "NZ_nzgda_historical_snapshots_2014",
+    "segment_id": "NZ_nzgda_historical_snapshots",
+    "connection_type": "country_identity_only"
+  },
+  {
+    "iso2": "NZ",
+    "from_id": "NZ_nzgda_historical_snapshots_2014",
+    "to_id": "NZ_fulltime_2015_NZ_survey2015_0",
+    "segment_id": "NZ_fulltime",
+    "connection_type": "country_identity_only"
+  },
+  {
+    "iso2": "NZ",
+    "from_id": "NZ_fulltime_2015_NZ_survey2015_0",
+    "to_id": "NZ_fte_2016_NZ_survey2016_1",
+    "segment_id": "NZ_fte",
+    "connection_type": "country_identity_only"
+  },
+  {
+    "iso2": "NZ",
+    "from_id": "NZ_fte_2016_NZ_survey2016_1",
+    "to_id": "NZ_workers_2017_NZ_survey2017_2",
+    "segment_id": "NZ_workers",
+    "connection_type": "country_identity_only"
+  },
+  {
+    "iso2": "NZ",
+    "from_id": "NZ_workers_2017_NZ_survey2017_2",
+    "to_id": "NZ_fulltime_2018_NZ_survey2018_3",
+    "segment_id": "NZ_fulltime",
+    "connection_type": "country_identity_only"
+  },
+  {
+    "iso2": "NZ",
+    "from_id": "NZ_fulltime_2018_NZ_survey2018_3",
+    "to_id": "NZ_workers_2019_NZ_survey2019_4",
+    "segment_id": "NZ_workers",
+    "connection_type": "country_identity_only"
+  },
+  {
+    "iso2": "NZ",
+    "from_id": "NZ_workers_2019_NZ_survey2019_4",
+    "to_id": "NZ_fulltime_2020_NZ_survey2020_5",
+    "segment_id": "NZ_fulltime",
+    "connection_type": "country_identity_only"
+  },
+  {
+    "iso2": "NZ",
+    "from_id": "NZ_fulltime_2020_NZ_survey2020_5",
+    "to_id": "NZ_fte_2021_NZ_survey2021_6",
+    "segment_id": "NZ_fte",
+    "connection_type": "country_identity_only"
+  },
+  {
+    "iso2": "NZ",
+    "from_id": "NZ_fte_2021_NZ_survey2021_6",
+    "to_id": "NZ_fulltime_2022_NZ_survey2022_7",
+    "segment_id": "NZ_fulltime",
+    "connection_type": "country_identity_only"
+  },
+  {
+    "iso2": "NZ",
+    "from_id": "NZ_fulltime_2022_NZ_survey2022_7",
+    "to_id": "NZ_fte_2023_NZ_survey2023_8",
+    "segment_id": "NZ_fte",
+    "connection_type": "country_identity_only"
+  },
+  {
+    "iso2": "NZ",
+    "from_id": "NZ_fte_2023_NZ_survey2023_8",
+    "to_id": "NZ_fte_2024_NZ_survey2025_9",
+    "segment_id": "NZ_fte",
+    "connection_type": "country_identity_only"
+  },
+  {
+    "iso2": "NZ",
+    "from_id": "NZ_fte_2024_NZ_survey2025_9",
+    "to_id": "NZ_fte_2025_NZ_survey2025_10",
+    "segment_id": "NZ_fte",
+    "connection_type": "country_identity_only"
+  }
+]

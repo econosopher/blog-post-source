@@ -1,0 +1,72 @@
+[
+  {
+    "url": "https://cygma.eu/cyprus-video-game-industry-report-2025/",
+    "title": "Cyprus Video Game Industry Report 2025",
+    "publisher": "CYGMA (Cyprus Game Makers Association)",
+    "years": [2019, 2020, 2021, 2022, 2023, 2024, 2025],
+    "methodology": "Inaugural national games report; CYGMA says its figures are informed estimates based on open data, with methodology and external-source discussion in the report.",
+    "assessment": "Baseline supplied by task owner. Do not duplicate its 2019–2024 local tax-paying employment observations. It identifies C Business Advisors' Footprint 2024 as a contributing source.",
+    "access_status": "accessible PDF and landing page",
+    "next_step": "Use only if the underlying definition or source locators need reconciling; do not add duplicate observations."
+  },
+  {
+    "url": "https://www.cbusinessadvisors.com/wp-content/uploads/2026/07/Cyprus-Games-Industry-Footprint-2024.pdf",
+    "title": "Cyprus Games Industry Footprint 2024",
+    "publisher": "C Business Advisors",
+    "years": [2019, 2020, 2021, 2022, 2023, 2024],
+    "methodology": "Uses official CYSTAT statistics, designated NACE registration codes, a bottom-up industry review, and financial statements for 50 active games companies; described as a point-in-time informational snapshot.",
+    "assessment": "Direct predecessor/source family. Its employment chart reproduces the supplied 1,438–4,320 sequence but calls it publishing employment and says it cannot tell Cyprus-based workers from remote workers abroad. Not a compatible additional games-local-workforce series.",
+    "access_status": "accessible PDF; 11 pages",
+    "next_step": "Seek the entity-to-NACE audit and payroll/residence definitions only if the publisher can release them."
+  },
+  {
+    "url": "https://www.cbusinessadvisors.com/c-business-advisors-publishes-cyprus-games-industry-footprint-for-2024/",
+    "title": "C Business Advisors publishes Cyprus Games Industry Footprint for 2024",
+    "publisher": "C Business Advisors",
+    "years": [2019, 2020, 2021, 2022, 2023, 2024],
+    "methodology": "Publisher announcement describing the Footprint's official-statistics basis and publishing-employment reference.",
+    "assessment": "Confirms publication date and predecessor relationship, but adds no precise non-duplicative workforce count or definition.",
+    "access_status": "accessible webpage",
+    "next_step": "Archive with the PDF; no extraction needed."
+  },
+  {
+    "url": "https://cystatdb.cystat.gov.cy/pxweb/en/8.CYSTAT-DB/8.CYSTAT-DB__National%20Accounts__Annual%20National%20Accounts/0610060E.px/",
+    "title": "Employment in Persons and Hours Worked by Economic Activity, Annual",
+    "publisher": "Statistical Service of Cyprus (CYSTAT)",
+    "years": [1995, 1996, 1997, 1998, 1999, 2000, 2001, 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025],
+    "methodology": "National Accounts annual employment measures: persons or hours; domestic employment, employees, and self-employed; NACE Rev. 2 activities. CYSTAT marks 2024 and 2025 provisional.",
+    "assessment": "Authoritative but insufficiently detailed: J58 is all publishing and J62–63 combines computer programming/consultancy/information services. No 58.2, 58.21 or video-game activity cell. Broad-sector values excluded.",
+    "access_status": "accessible PxWeb table and API metadata",
+    "next_step": "Request a confidential/special tabulation only if CYSTAT can publish a games-specific NACE/entity basis."
+  },
+  {
+    "url": "https://cystatdb.cystat.gov.cy/pxweb/en/8.CYSTAT-DB/8.CYSTAT-DB__Labour%20Market__Labour%20Force%20Survey__Employment/0112032E.px/",
+    "title": "Employment by Place of Residence, Economic Activity NACE (Rev. 2.1) and Sex, Quarterly",
+    "publisher": "Statistical Service of Cyprus (CYSTAT)",
+    "years": [2026],
+    "methodology": "Quarterly Labour Force Survey; persons by residence, sex, and broad NACE Rev. 2.1 economic sections.",
+    "assessment": "No software-publishing or games category: the relevant choices are broad publishing/content and broad telecommunications/computer programming/information services sections. Excluded as broad ICT substitution.",
+    "access_status": "accessible PxWeb table and API metadata",
+    "next_step": "No games-workforce extraction possible from this table."
+  },
+  {
+    "url": "https://library.cystat.gov.cy/Documents/Publication/BUSINESS_SERVICES-2013-141215.pdf",
+    "title": "Statistics on Business Services 2013",
+    "publisher": "Statistical Service of Cyprus (CYSTAT)",
+    "years": [2013],
+    "methodology": "Annual business-services publication reporting persons engaged, employees, working proprietors, turnover and other measures by NACE Rev. 2 activity.",
+    "assessment": "Historical detailed source checked. Table 15 combines 581+582 as books/periodicals/other publishing plus software publishing and reports 1,077 persons engaged. It is not game-specific and does not disclose a software-publishing-only workforce value.",
+    "access_status": "accessible PDF; 117 pages",
+    "next_step": "Do not convert the combined 581+582 value to games. A usable series needs an uncombined official extract and a games definition."
+  },
+  {
+    "url": "https://cygma.eu/news/cyprus-video-game-industry-report-2025-published/",
+    "title": "Cyprus is the most efficient video game development country in the world, first national report finds",
+    "publisher": "CYGMA",
+    "years": [2019, 2020, 2021, 2022, 2023, 2024, 2025],
+    "methodology": "CYGMA publication announcement summarising its report, method limits, and scope (video-game development; iGaming excluded).",
+    "assessment": "Confirms the report is described as the first measured national account and that the displayed historic employment is the known baseline; no forward actual workforce observation found in CYGMA news through 2026-09-19.",
+    "access_status": "accessible webpage",
+    "next_step": "Monitor CYGMA for a dated subsequent edition rather than infer a 2025 workforce from the report title."
+  }
+]

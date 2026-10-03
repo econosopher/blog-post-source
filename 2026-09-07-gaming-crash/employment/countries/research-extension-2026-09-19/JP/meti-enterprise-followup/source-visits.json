@@ -1,0 +1,52 @@
+[
+  {
+    "url": "https://www.meti.go.jp/statistics/tyo/joho/result-2/h23sokugaikyo.pdf",
+    "title": "平成23年情報通信業基本調査速報",
+    "publisher": "Ministry of Internal Affairs and Communications and Ministry of Economy, Trade and Industry",
+    "years": [2010],
+    "methodology": "Enterprise survey; Chapter 5 reports development/production division employment by enterprise industry. FY22 data are fiscal-year-end counts.",
+    "assessment": "Direct values, but explicitly a preliminary rapid release. Valid responses are accumulated by item and respondent counts vary by table.",
+    "access_status": "downloaded; decisive table extracted to 2011.txt",
+    "next_step": "Locate the FY2010 final-release workbook/PDF before replacing the preliminary observation."
+  },
+  {
+    "url": "https://www.e-stat.go.jp/stat-search/file-download?fileKind=0&statInfId=000031813847",
+    "title": "平成30年情報通信業基本調査 H30-5 第5章 情報サービス業",
+    "publisher": "Statistics Bureau of Japan e-Stat / Ministry of Internal Affairs and Communications",
+    "years": [2017],
+    "methodology": "Published table workbook. Table 7 is industry-by-employment in the development/production division. The associated H30 questionnaire specifies FY2017 end; scope is JSIC division 39 enterprises with capital/investment of JPY30m or more.",
+    "assessment": "Direct table total and direct respondent-company denominator; do not present as census coverage.",
+    "access_status": "downloaded and converted for inspection",
+    "next_step": "Use as a survey-series point only."
+  },
+  {
+    "url": "https://www.e-stat.go.jp/stat-search/file-download?fileKind=0&statInfId=000031925314",
+    "title": "2019年情報通信業基本調査 2019-5 第5章 情報サービス業",
+    "publisher": "Statistics Bureau of Japan e-Stat / Ministry of Internal Affairs and Communications",
+    "years": [2018],
+    "methodology": "Published table workbook. Table 7 is industry-by-employment in the development/production division; the 2019 questionnaire specifies FY2018 end; scope is JSIC division 39 enterprises with capital/investment of JPY30m or more.",
+    "assessment": "Direct table total and direct respondent-company denominator; comparable in construct to FY2017 and FY2020 subject to response composition.",
+    "access_status": "downloaded and converted for inspection",
+    "next_step": "Use as a survey-series point only."
+  },
+  {
+    "url": "https://www.e-stat.go.jp/stat-search/file-download?fileKind=0&statInfId=000032181020",
+    "title": "2021年情報通信業基本調査 2021-5 第5章 情報サービス業",
+    "publisher": "Statistics Bureau of Japan e-Stat / Ministry of Internal Affairs and Communications",
+    "years": [2020],
+    "methodology": "Published table workbook. 7表 reports development/production division employment by enterprise industry; related tables explicitly use 2020年度. The direct workforce-field reference-date instruction remains to be retrieved.",
+    "assessment": "Direct table total 14,519 and respondent-company denominator 70. This is the requested FY2020 enterprise source, not a derived estimate; fiscal-year label remains proposed pending direct field-date text.",
+    "access_status": "downloaded and converted for inspection",
+    "next_step": "Retrieve the workforce-field instruction/reference date before promoting this candidate; a guessed questionnaire URL returned HTML, retained locally as a failed response."
+  },
+  {
+    "url": "https://www.meti.go.jp/statistics/tyo/joho/result-5/h30/30joho_kinyutebiki_5.pdf",
+    "title": "平成30年情報通信業基本調査⑤ 調査票の記入手引（情報サービス業）",
+    "publisher": "Ministry of Internal Affairs and Communications and Ministry of Economy, Trade and Industry",
+    "years": [2017],
+    "methodology": "Questionnaire guide: asks for development/production division employees at FY2017 end and defines 常時従業者.",
+    "assessment": "Method/reference-date corroboration for the H30 result workbook.",
+    "access_status": "web-indexed and inspected",
+    "next_step": "Retain with the result workbook for methodology traceability."
+  }
+]

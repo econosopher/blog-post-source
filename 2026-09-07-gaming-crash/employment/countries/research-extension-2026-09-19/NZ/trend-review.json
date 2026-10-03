@@ -1,0 +1,79 @@
+{
+  "series_id": "NZ_nzgda_historical_snapshots",
+  "decision": "isolated_markers_only",
+  "reason": "All four values are NZGDA member-studio survey full-time-equivalent values, but the responding count changes 21, 33, 33, 30; 2011 uses September while 2012-2014 use 31 March; no population gross-up or continuous panel is established. The country catalogue marks NZ_fte chart_eligible but trend_eligible false. The 2014 source additionally distinguishes 450 FTE professionals from several hundred part-time developers without defining their relationship to the FTE total.",
+  "allowed_rendering": "Four unconnected dots, one per stated reference date, each labelled FTE and NZGDA member-studio survey. A common source-family legend is allowed. If spatially grouped, use a visual gap/no connecting stroke and a note that respondent coverage changes.",
+  "forbidden_joins": [
+    "2011 to 2012, 2012 to 2013, or 2013 to 2014 as a line, slope, or annual growth statement",
+    "the four early NZGDA markers to later NZ_fulltime, NZ_workers, or NZ_fte catalogue observations as an uninterrupted index",
+    "conversion of FTE to people/headcount, including comparison to AU ABS people",
+    "back-calculation of a 2010 value from the 2011 claimed job growth",
+    "replacement of the 2014 reported 450 with 434 implied by a later release"
+  ],
+  "observations": [
+    {
+      "year": 2011,
+      "value": 359,
+      "plot_eligibility": "eligible_isolated_marker",
+      "unit": "FTE",
+      "reference_date": "September 2011",
+      "scope": "NZGDA member game-development-studio survey; 21 surveyed studios.",
+      "worker_treatment": "Equivalent of 359 full-time people; not a verified national workforce total.",
+      "decisive_original_urls": [
+        {
+          "url": "https://www.nzgda.com/blog/news/new-zealand-made-video-games-industry-grew-46-this-year",
+          "locator": "Employment paragraph; closing survey-method paragraph"
+        }
+      ],
+      "uncertainty": "The release's association boilerplate says 'over 360', but the explicit survey result is 359; plot 359 only."
+    },
+    {
+      "year": 2012,
+      "value": 380,
+      "plot_eligibility": "eligible_isolated_marker",
+      "unit": "FTE",
+      "reference_date": "31 March 2012",
+      "scope": "NZGDA member game-development-business survey; 33 independently surveyed studios.",
+      "worker_treatment": "Full-time equivalent game developers; not a verified population gross-up.",
+      "decisive_original_urls": [
+        {
+          "url": "https://www.nzgda.com/blog/news/nz-video-games-industry-continues-to-grow",
+          "locator": "Employment paragraph; final sentence giving 33 studios and 31 March reference date"
+        }
+      ],
+      "uncertainty": "Reference date and unit are explicit, but respondent membership/sample scope is not a stable panel."
+    },
+    {
+      "year": 2013,
+      "value": 448,
+      "plot_eligibility": "eligible_isolated_marker",
+      "unit": "FTE",
+      "reference_date": "31 March 2013",
+      "scope": "NZGDA member game-development-business survey; 33 independently surveyed studios.",
+      "worker_treatment": "Full-time equivalent professional game developers; not a verified national workforce count.",
+      "decisive_original_urls": [
+        {
+          "url": "https://www.nzgda.com/blog/news/nz-made-video-games-industry-grew-86-in-2012",
+          "locator": "Employment paragraph and final survey-method paragraph, both stating 31 March 2013"
+        }
+      ],
+      "uncertainty": "The page title says 2012, but the body twice specifies the 31 March 2013 survey period; use 2013."
+    },
+    {
+      "year": 2014,
+      "value": 450,
+      "plot_eligibility": "eligible_isolated_marker",
+      "unit": "FTE",
+      "reference_date": "31 March 2014",
+      "scope": "NZGDA member game-development-business survey; 30 independently surveyed studios.",
+      "worker_treatment": "450 full-time-equivalent professional game developers. The report separately mentions several hundred part-time developers and does not explain their inclusion in the FTE figure.",
+      "decisive_original_urls": [
+        {
+          "url": "https://www.nzgda.com/blog/news/nz-video-games-industry-doubles-exports",
+          "locator": "Employment/survey paragraph: 450 FTE, several hundred part-time developers, 30 studios, 31 March 2014"
+        }
+      ],
+      "uncertainty": "Preserve the contemporaneous 450. A later release's claimed 134 additional jobs to 568 implies 434, an unresolved cross-vintage conflict rather than grounds to overwrite the original."
+    }
+  ]
+}

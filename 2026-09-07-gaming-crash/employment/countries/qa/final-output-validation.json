@@ -1,0 +1,18 @@
+{
+  "result": "PASS",
+  "countries": 31,
+  "observations": 329,
+  "sources": 98,
+  "charts": 79,
+  "png_files": 79,
+  "editable_svg_files": 79,
+  "plotted_marks": 295,
+  "indexed_series": 4,
+  "checks": [
+    "Unique source and definition keys; preferred observations unique within period and definition",
+    "Every plotted value agrees with its source observation or explicit index calculation",
+    "2019 baselines verified; no forecasts or nonpreferred observations plotted",
+    "PNG dimensions and file integrity; SVG editable text; artifact links",
+    "All target countries and three source-search routes; requested priority groups"
+  ]
+}

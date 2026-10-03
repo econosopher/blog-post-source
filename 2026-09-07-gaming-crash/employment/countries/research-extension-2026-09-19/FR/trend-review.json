@@ -1,0 +1,27 @@
+{
+  "review_date": "2026-09-19",
+  "series_id": "FR_dge_pwc_broad_industry_persons",
+  "chart_eligible": true,
+  "trend_eligible": true,
+  "allowed_years": [
+    2010,
+    2011,
+    2012,
+    2013,
+    2014,
+    2015,
+    2016,
+    2017,
+    2018
+  ],
+  "allowed_join_series_ids": [
+    "FR_dge_pwc_broad_industry_persons"
+  ],
+  "limits": "PwC actor-database broad ecosystem employment: studios, publishers, distributors and other actors. Source-native 2010-2018 comparison only; not FTE. No join to EY2019-2024. Exact within-year timing and independent-worker coverage unstated; retain printed totals despite component discrepancies.",
+  "evidence": "Main visually inspected DGE/PwC report Figure3 printedp7 and read p6 scope. Source publishes annual total labels and source-native growth comparisons. Figure1 p6 describes actors active in each year; this is not a fixed firm panel.",
+  "source_url": "https://www.entreprises.gouv.fr/files/files/Publications/2021/Dossiers-dge/industrie-du-jeu-video-tissu-economique-et-competitivite-mars-2021.pdf",
+  "component_discrepancies": {
+    "2012": 1,
+    "2016": 2
+  }
+}

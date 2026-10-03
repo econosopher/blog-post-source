@@ -1,0 +1,80 @@
+﻿chart_id,country,label,series_ids,png,svg
+au-employment-01,Australia,IGEA full-time employment incl. contractors,"[""AU_igea_survey""]",charts/au-employment-01.png,charts/au-employment-01.svg
+au-employment-02,Australia,IGEA survey plus studio estimates,"[""AU_igea_augmented""]",charts/au-employment-02.png,charts/au-employment-02.svg
+au-employment-03,Australia,ABS people employed in development businesses,"[""AU_abs_headcount""]",charts/au-employment-03.png,charts/au-employment-03.svg
+br-employment-01,Brazil,Estimated people at Brazilian game developers,"[""BR_developer_people""]",charts/br-employment-01.png,charts/br-employment-01.svg
+br-composition-01,Brazil,Outsourced workers reported by sampled developers,"[""BR_outsourced_count""]",charts/br-composition-01.png,charts/br-composition-01.svg
+br-composition-02,Brazil,Outsourced share in developer work-regime samples,"[""BR_outsourced_share""]",charts/br-composition-02.png,charts/br-composition-02.svg
+br-composition-03,Brazil,Foreign people in responding developers,"[""BR_foreign_sample""]",charts/br-composition-03.png,charts/br-composition-03.svg
+ca-employment-01,Canada,"Game design and publishing employment, administrative ILUs","[""CA_statcan_ilu""]",charts/ca-employment-01.png,charts/ca-employment-01.svg
+ca-employment-02,Canada,"Direct industry FTEs, earlier ESAC method","[""CA_esac_legacy""]",charts/ca-employment-02.png,charts/ca-employment-02.svg
+ca-employment-03,Canada,"Direct industry FTEs, revised ESAC method","[""CA_esac_revised""]",charts/ca-employment-03.png,charts/ca-employment-03.svg
+ca-composition-01,Canada,Contract/freelance share of reported company workforce,"[""CA_contract_share""]",charts/ca-composition-01.png,charts/ca-composition-01.svg
+ca-composition-02,Canada,2015 surveyed workforce by immigration/citizenship status,"[""CA_immigration_share""]",charts/ca-composition-02.png,charts/ca-composition-02.svg
+cn-employment-01,China,Personnel at major listed game companies,"[""CN_listed_panel""]",charts/cn-employment-01.png,charts/cn-employment-01.svg
+cy-employment-01,Cyprus,People employed and paying taxes in Cyprus,"[""CY_local""]",charts/cy-employment-01.png,charts/cy-employment-01.svg
+de-employment-01,Germany,Employees at game developers and publishers,"[""DE_core""]",charts/de-employment-01.png,charts/de-employment-01.svg
+dk-employment-01,Denmark,Domestic game-production payroll FTE,"[""DK_payroll_fte""]",charts/dk-employment-01.png,charts/dk-employment-01.svg
+dk-employment-02,Denmark,"Game-production payroll FTE, 2018 coverage","[""DK_payroll_fte_v2018""]",charts/dk-employment-02.png,charts/dk-employment-02.svg
+dk-employment-03,Denmark,"Game-production payroll FTE, 2021 coverage","[""DK_payroll_fte_v2021""]",charts/dk-employment-03.png,charts/dk-employment-03.svg
+es-employment-01,Spain,Direct employment in Spanish game development,"[""ES_direct""]",charts/es-employment-01.png,charts/es-employment-01.svg
+es-composition-01,Spain,External freelance collaborators,"[""ES_external_freelancers""]",charts/es-composition-01.png,charts/es-composition-01.svg
+es-composition-02,Spain,Workers originating from other countries,"[""ES_foreign_origin_share""]",charts/es-composition-02.png,charts/es-composition-02.svg
+es-composition-03,Spain,EU origin among workers from other countries,"[""ES_eu_of_foreign""]",charts/es-composition-03.png,charts/es-composition-03.svg
+es-composition-04,Spain,Permanent contract share,"[""ES_permanent_contract_share""]",charts/es-composition-04.png,charts/es-composition-04.svg
+fi-employment-01,Finland,Finnish-studio employment including overseas offices,"[""FI_studios_global""]",charts/fi-employment-01.png,charts/fi-employment-01.svg
+fi-employment-02,Finland,Domestic game-studio FTE including entrepreneurs,"[""FI_domestic_2024_fte""]",charts/fi-employment-02.png,charts/fi-employment-02.svg
+fi-employment-03,Finland,Finnish-owned studios overseas employment,"[""FI_overseas""]",charts/fi-employment-03.png,charts/fi-employment-03.svg
+fi-composition-01,Finland,Non-Finnish citizenship share in surveyed studios,"[""FI_nonfinnish_sample""]",charts/fi-composition-01.png,charts/fi-composition-01.svg
+fi-composition-02,Finland,Estimated non-Finnish citizenship share,"[""FI_nonfinnish_estimate""]",charts/fi-composition-02.png,charts/fi-composition-02.svg
+fi-composition-03,Finland,Outside EU/EEA share in surveyed studios,"[""FI_non_eu_eea_sample""]",charts/fi-composition-03.png,charts/fi-composition-03.svg
+fr-employment-01,France,"Direct games-sector employee FTE, excluding independent workers","[""FR_ey_direct_fte""]",charts/fr-employment-01.png,charts/fr-employment-01.svg
+fr-composition-01,France,Permanent-contract share of salaried employment,"[""FR_sample_permanent""]",charts/fr-composition-01.png,charts/fr-composition-01.svg
+fr-composition-02,France,Apprentice share of studio workforce,"[""FR_sample_apprentices""]",charts/fr-composition-02.png,charts/fr-composition-02.svg
+gb-employment-01,United Kingdom,Development and production-support full-time equivalent roles,"[""GB_tiga_fte""]",charts/gb-employment-01.png,charts/gb-employment-01.svg
+gb-employment-02,United Kingdom,Development workforce including all counted freelancers,"[""GB_tiga_people""]",charts/gb-employment-02.png,charts/gb-employment-02.svg
+gb-employment-03,United Kingdom,Annual average filled jobs in computer games,"[""GB_dcms_jobs""]",charts/gb-employment-03.png,charts/gb-employment-03.svg
+gb-composition-01,United Kingdom,Freelancers counted at development companies,"[""GB_tiga_freelancers""]",charts/gb-composition-01.png,charts/gb-composition-01.svg
+gb-composition-02,United Kingdom,Freelancer share of Ukie workforce respondents,"[""GB_ukie_freelancer_share""]",charts/gb-composition-02.png,charts/gb-composition-02.svg
+gb-composition-03,United Kingdom,Nationality distribution of Ukie workforce respondents,"[""GB_ukie_nationality_share""]",charts/gb-composition-03.png,charts/gb-composition-03.svg
+id-employment-01,Indonesia,Minimum identified development/publishing talent,"[""ID_official_core_min""]",charts/id-employment-01.png,charts/id-employment-01.svg
+il-employment-01,Israel,Broad Israeli-company ecosystem estimate,"[""IL_ecosystem""]",charts/il-employment-01.png,charts/il-employment-01.svg
+jp-employment-01,Japan,"Core game-company workforce, including console hardware","[""JP_core_range""]",charts/jp-employment-01.png,charts/jp-employment-01.svg
+jp-composition-01,Japan,CEDEC 2024 respondent employment status,"[""JP_status_2024""]",charts/jp-composition-01.png,charts/jp-composition-01.svg
+jp-composition-02,Japan,CEDEC 2025 respondent employment status,"[""JP_status_2025""]",charts/jp-composition-02.png,charts/jp-composition-02.svg
+jp-composition-03,Japan,Freelancer or independent developer share of CEDEC respondents,"[""JP_freelancers_2024""]",charts/jp-composition-03.png,charts/jp-composition-03.svg
+jp-composition-04,Japan,Freelancer or independent developer share of CEDEC respondents,"[""JP_freelancers_2025""]",charts/jp-composition-04.png,charts/jp-composition-04.svg
+kr-employment-01,South Korea,Game development and publishing workers,"[""KR_core""]",charts/kr-employment-01.png,charts/kr-employment-01.svg
+kr-composition-01,South Korea,Employment status within game production/publishing,"[""KR_core_status_2017""]",charts/kr-composition-01.png,charts/kr-composition-01.svg
+nl-employment-01,Netherlands,Dutch games-industry jobs including self-employed specialists,"[""NL_domestic_broad""]",charts/nl-employment-01.png,charts/nl-employment-01.svg
+nl-composition-01,Netherlands,Estimated employees with a non-Dutch passport,"[""NL_foreign_passport_estimate""]",charts/nl-composition-01.png,charts/nl-composition-01.svg
+no-employment-01,Norway,Permanent employees,"[""NO_sample_permanent""]",charts/no-employment-01.png,charts/no-employment-01.svg
+no-employment-02,Norway,Temporary employees,"[""NO_sample_temporary""]",charts/no-employment-02.png,charts/no-employment-02.svg
+no-employment-03,Norway,All respondent employees,"[""NO_sample_total""]",charts/no-employment-03.png,charts/no-employment-03.svg
+no-employment-04,Norway,Respondent annual full-time equivalents,"[""NO_sample_fte""]",charts/no-employment-04.png,charts/no-employment-04.svg
+nz-employment-01,New Zealand,Survey full-time employees / roles,"[""NZ_fulltime""]",charts/nz-employment-01.png,charts/nz-employment-01.svg
+nz-employment-02,New Zealand,Survey workers; hours not specified,"[""NZ_workers""]",charts/nz-employment-02.png,charts/nz-employment-02.svg
+nz-employment-03,New Zealand,Survey full-time equivalents,"[""NZ_fte""]",charts/nz-employment-03.png,charts/nz-employment-03.svg
+nz-composition-01,New Zealand,Staff currently on work visas,"[""NZ_visa_current""]",charts/nz-composition-01.png,charts/nz-composition-01.svg
+nz-composition-02,New Zealand,Staff currently or formerly on work-supported visas,"[""NZ_visa_ever""]",charts/nz-composition-02.png,charts/nz-composition-02.svg
+ph-employment-01,Philippines,Game-development and related-services employment,"[""PH_boi2000""]",charts/ph-employment-01.png,charts/ph-employment-01.svg
+pl-employment-01,Poland,Domestic game-production workforce,"[""PL_core_workforce""]",charts/pl-employment-01.png,charts/pl-employment-01.svg
+pl-composition-01,Poland,Foreign workers in game production,"[""PL_foreign_people""]",charts/pl-composition-01.png,charts/pl-composition-01.svg
+pl-composition-02,Poland,Publisher foreign-worker share,"[""PL_foreign_share""]",charts/pl-composition-02.png,charts/pl-composition-02.svg
+ro-employment-01,Romania,"Game-industry employees, 2024 wording","[""RO_employees2024""]",charts/ro-employment-01.png,charts/ro-employment-01.svg
+ro-employment-02,Romania,Game workforce including collaborators,"[""RO_employees_collaborators""]",charts/ro-employment-02.png,charts/ro-employment-02.svg
+ro-employment-03,Romania,Earlier association employment lower bounds,"[""RO_earlier_benchmark""]",charts/ro-employment-03.png,charts/ro-employment-03.svg
+rs-employment-01,Serbia,Industry workforce estimate,"[""RS_national_estimate""]",charts/rs-employment-01.png,charts/rs-employment-01.svg
+rs-employment-02,Serbia,Employees in responding studios,"[""RS_respondent_employees""]",charts/rs-employment-02.png,charts/rs-employment-02.svg
+rs-employment-03,Serbia,Respondent employees outside Serbia,"[""RS_remote_abroad_sample""]",charts/rs-employment-03.png,charts/rs-employment-03.svg
+se-employment-01,Sweden,Domestic annual-average full-time positions,"[""SE_domestic""]",charts/se-employment-01.png,charts/se-employment-01.svg
+se-employment-02,Sweden,Employment of Swedish game companies outside Sweden,"[""SE_overseas""]",charts/se-employment-02.png,charts/se-employment-02.svg
+sg-employment-01,Singapore,Games-sector employees including esports context,"[""SG_games2021""]",charts/sg-employment-01.png,charts/sg-employment-01.svg
+tr-employment-01,Turkey,TOGED developer/publisher workforce estimate,"[""TR_toged""]",charts/tr-employment-01.png,charts/tr-employment-01.svg
+tw-employment-01,Taiwan,Employees at responding games companies,"[""TW_survey2022""]",charts/tw-employment-01.png,charts/tw-employment-01.svg
+us-employment-01,United States,Core developer and publisher company employment,"[""US_core""]",charts/us-employment-01.png,charts/us-employment-01.svg
+us-employment-02,United States,Broad direct games-industry employment,"[""US_broad""]",charts/us-employment-02.png,charts/us-employment-02.svg
+us-employment-03,United States,Software-sector employment,"[""US_software""]",charts/us-employment-03.png,charts/us-employment-03.svg
+us-employment-04,United States,Specialist game-development services employment,"[""US_services""]",charts/us-employment-04.png,charts/us-employment-04.svg
+us-employment-05,United States,Earlier ESA mapping-project reported employment,"[""US_mapping_2017""]",charts/us-employment-05.png,charts/us-employment-05.svg
+comparison-2019-01,Comparison,Verified 2019 index,"[""CA_statcan_ilu"", ""CY_local"", ""DE_core"", ""ES_direct""]",charts/comparison-2019-01.png,charts/comparison-2019-01.svg

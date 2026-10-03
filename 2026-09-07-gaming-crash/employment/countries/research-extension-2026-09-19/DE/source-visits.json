@@ -1,0 +1,65 @@
+[
+  {
+    "url": "https://www.game.de/marktdaten-unternehmen-und-beschaeftigte-2026/",
+    "title": "April 2026 company and employment release",
+    "publisher": "game / Goldmedia",
+    "years": "2025 revised; 31 March 2026",
+    "methodology": "Expanded gamesmap company database; publisher explicitly restates2025 for comparability.",
+    "assessment": "Accept2026 figure12235; use retrospectively revised2025, not old12134.",
+    "access_status": "full HTML inspected",
+    "next_step": "Seek restated pre2025 history in Goldmedia study; preserve original vintages."
+  },
+  {
+    "url": "https://www.gamecampus.de/arbeiten/daten-fakten",
+    "title": "Gamecampus employment facts",
+    "publisher": "game association Gamecampus",
+    "years": "2025 revised;2026",
+    "methodology": "Same gamesmap/Goldmedia release; repeats revision explanation.",
+    "assessment": "Explicit paired counts12659 and12235 support revised-vintage pair.",
+    "access_status": "full HTML inspected",
+    "next_step": "Keep revised pair separate from earlier vintage."
+  },
+  {
+    "url": "https://www.game.de/publikationen/jahresreport-2026/",
+    "title": "2026 annual report landing page",
+    "publisher": "game",
+    "years": "2026",
+    "methodology": "Annual association publication",
+    "assessment": "Prose confirms12235, but does not repair inconsistent chart labels in PDF.",
+    "access_status": "full HTML inspected",
+    "next_step": "Keep PDF conflict in audit trail; prioritize explicit revision notice and paired values."
+  },
+  {
+    "url": "https://www.game.de/guides/jahresreport-der-deutschen-games-branche-2026/03-games-branche-in-deutschland/03-1-beschaeftigte-und-unternehmen/",
+    "title": "2026 employment chapter",
+    "publisher": "game",
+    "years": "2026",
+    "methodology": "",
+    "assessment": "Tool fetch timed out.",
+    "access_status": "access failure",
+    "next_step": "Direct release supplies decisive evidence."
+  },
+  {
+    "url": "https://www.game.de/wp-content/uploads/2026/01/Die-Games-Branche-in-Deutschland-2025.pdf",
+    "title": "Die Games-Branche in Deutschland2025: full Goldmedia study",
+    "publisher": "game / Goldmedia, supported by BMFTR",
+    "years": "2018 and2024 employment;2025 fieldwork;2026 publication",
+    "methodology": "Online company survey343 respondents of1205; employment estimate uses250 responses plus gamesmap. Expanded core includes game-specific services.",
+    "assessment": "Source-reported expanded-core pair12300 and14800; not a restated pre2025 core-only annual series. No12659 comparator or continuous revised core history found.",
+    "access_status": "Full PDF downloaded, text read, employment chart visually inspected.",
+    "next_step": "Keep expanded-core estimates separate; follow cited HMS2020 predecessor to examine original2018 universe and definitions."
+  },
+  {
+    "url": "https://www.game.de/marktdaten-unternehmen-und-beschaeftigte-2026/",
+    "title": "Main-agent comparability review",
+    "publisher": "game / Goldmedia",
+    "years": [
+      2025,
+      2026
+    ],
+    "methodology": "The release says 12,235 people worked at game developers and publishers, gives a 31 March 2026 reference date, and its chart alternative text reports 12,659 in 2025 and 12,235 in 2026. The methodological note says the gamesmap database was expanded and that Goldmedia retrospectively adjusted 2025 for comparability.",
+    "assessment": "accepted_as_isolated_revised_vintage_pair ",
+    "access_status": "Primary page and method note re-read",
+    "next_step": "Use only allowed series/year joins in trend-review.json."
+  }
+]

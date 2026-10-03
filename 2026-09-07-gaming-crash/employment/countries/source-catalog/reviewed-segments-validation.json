@@ -1,0 +1,9 @@
+{
+  "result": "PASS",
+  "segments": 13,
+  "observations": 63,
+  "countries": 11,
+  "unreviewed_joins": 0,
+  "US_2016_excluded": true,
+  "original_packets_modified": false
+}

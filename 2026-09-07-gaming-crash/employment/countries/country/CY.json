@@ -1,0 +1,202 @@
+{
+  "country": "Cyprus",
+  "iso2": "CY",
+  "priority": "primary",
+  "coverage_status": "usable_series",
+  "summary": "CYGMA reports 1,438 people employed and paying taxes locally in 2019 and 4,320 in 2024. A 2025 report edition does not mean 2025 employment. Administrative coverage is broader than a pure games-publishing activity code.",
+  "preferred_series_ids": [
+    "CY_local"
+  ],
+  "search_log": [
+    {
+      "route": "statistical_agency",
+      "query": "CYSTAT employment enterprise NACE 58.21 games",
+      "url": "https://www.cystat.gov.cy/en/StaticPage?id=1226",
+      "outcome": "General employment tables found; no separately verified comprehensive games workforce. CYGMA combines administrative sources."
+    },
+    {
+      "route": "industry_association",
+      "query": "CYGMA Cyprus video game industry report 2025 employment",
+      "url": "https://cygma.eu/news/cyprus-video-game-industry-report-2025-published/",
+      "outcome": "Full original 2025 report downloaded, release dated 17 August 2026; historical employment inspected."
+    },
+    {
+      "route": "local_language",
+      "query": "Κύπρος απασχόληση έκδοση ηλεκτρονικών παιχνιδιών Στατιστική Υπηρεσία",
+      "url": "https://library.cystat.gov.cy/Documents/Publication/EMPLOYMENT_ENT-NACE2-SIZE-2019-161220.pdf",
+      "outcome": "Greek statistical-agency route located enterprise employment publication; broader classifications cannot substitute for the mapped games series."
+    }
+  ],
+  "sources": [
+    {
+      "source_id": "CY_cygma2025",
+      "title": "Cyprus Video Game Industry Report 2025",
+      "publisher": "CYGMA; CBusiness Advisors; Registrar of Companies and CYSTAT",
+      "url": "https://cygma.eu/wp-content/uploads/2026/08/Cyprus-Video-Game-Industry-Report-2025_by-CYGMA.pdf",
+      "publication_date": "2026-08-17",
+      "retrieved_date": "2026-09-09",
+      "source_type": "industry_association",
+      "local_file": "raw/CY/cygma2025.pdf",
+      "locator": "p15 employment chart; pp67-70 methodology",
+      "access_status": "full_source",
+      "notes": ""
+    }
+  ],
+  "series": [
+    {
+      "series_id": "CY_local",
+      "label": "People employed and paying taxes in Cyprus",
+      "measure": "employment_stock",
+      "unit": "people",
+      "industry_scope": "Video game development/publishing company mapping; excludes iGaming as an intended scope. Administrative J58/J62 categories are imperfect proxies. Hardware, retail, venues and indirect jobs are not the intended total. Specialist services not separately quantified.",
+      "occupation_scope": "All roles in covered businesses, including creative, technical and business functions.",
+      "geography_basis": "domestic_workplace",
+      "geography_note": "Source explicitly describes people employed and paying taxes in Cyprus. Citizenship and ownership not used as exclusions; offshore/remote treatment beyond this condition unknown.",
+      "worker_status": "People employed and paying taxes; employee/founder/contractor/apprentice/intern split unknown.",
+      "contractor_treatment": "Not separately specified; do not add contractor estimates.",
+      "nationality_definition": "Not reported.",
+      "method": "Company and tax/statistical data assembled by CBusiness Advisors. Report identifies broad NACE classification and omitted-head-office issues.",
+      "population_basis": "administrative_population",
+      "sample_size": "See observations.",
+      "comparability_group": "CY_local",
+      "chart_eligible": true,
+      "trend_eligible": true,
+      "index_2019_eligible": true,
+      "comparison_note": "Continuous 2019-2024 chart from one report vintage; domestic tax employment is explicit. Index is a within-series change only. Pure core scope and contractor coverage remain imperfect.",
+      "source_native_term": "People employed and paying taxes in Cyprus",
+      "term_translation": "People employed and paying taxes in Cyprus"
+    }
+  ],
+  "observations": [
+    {
+      "observation_id": "CY_local_2019_CY_cygma2025_0",
+      "series_id": "CY_local",
+      "source_id": "CY_cygma2025",
+      "observation_period": "2019; precise within-year reference not stated",
+      "year": 2019,
+      "value": 1438,
+      "value_low": null,
+      "value_high": null,
+      "status": "estimated",
+      "preferred": true,
+      "subgroup": "all",
+      "denominator": "All employment covered by this series.",
+      "source_locator": "p15 chart",
+      "publication_vintage": "CY_cygma2025",
+      "method_break": false,
+      "break_note": "",
+      "derivation": "",
+      "notes": ""
+    },
+    {
+      "observation_id": "CY_local_2020_CY_cygma2025_1",
+      "series_id": "CY_local",
+      "source_id": "CY_cygma2025",
+      "observation_period": "2020; precise within-year reference not stated",
+      "year": 2020,
+      "value": 1631,
+      "value_low": null,
+      "value_high": null,
+      "status": "estimated",
+      "preferred": true,
+      "subgroup": "all",
+      "denominator": "All employment covered by this series.",
+      "source_locator": "p15 chart",
+      "publication_vintage": "CY_cygma2025",
+      "method_break": false,
+      "break_note": "",
+      "derivation": "",
+      "notes": ""
+    },
+    {
+      "observation_id": "CY_local_2021_CY_cygma2025_2",
+      "series_id": "CY_local",
+      "source_id": "CY_cygma2025",
+      "observation_period": "2021; precise within-year reference not stated",
+      "year": 2021,
+      "value": 2166,
+      "value_low": null,
+      "value_high": null,
+      "status": "estimated",
+      "preferred": true,
+      "subgroup": "all",
+      "denominator": "All employment covered by this series.",
+      "source_locator": "p15 chart",
+      "publication_vintage": "CY_cygma2025",
+      "method_break": false,
+      "break_note": "",
+      "derivation": "",
+      "notes": ""
+    },
+    {
+      "observation_id": "CY_local_2022_CY_cygma2025_3",
+      "series_id": "CY_local",
+      "source_id": "CY_cygma2025",
+      "observation_period": "2022; precise within-year reference not stated",
+      "year": 2022,
+      "value": 3105,
+      "value_low": null,
+      "value_high": null,
+      "status": "estimated",
+      "preferred": true,
+      "subgroup": "all",
+      "denominator": "All employment covered by this series.",
+      "source_locator": "p15 chart",
+      "publication_vintage": "CY_cygma2025",
+      "method_break": false,
+      "break_note": "",
+      "derivation": "",
+      "notes": ""
+    },
+    {
+      "observation_id": "CY_local_2023_CY_cygma2025_4",
+      "series_id": "CY_local",
+      "source_id": "CY_cygma2025",
+      "observation_period": "2023; precise within-year reference not stated",
+      "year": 2023,
+      "value": 4057,
+      "value_low": null,
+      "value_high": null,
+      "status": "estimated",
+      "preferred": true,
+      "subgroup": "all",
+      "denominator": "All employment covered by this series.",
+      "source_locator": "p15 chart",
+      "publication_vintage": "CY_cygma2025",
+      "method_break": false,
+      "break_note": "",
+      "derivation": "",
+      "notes": ""
+    },
+    {
+      "observation_id": "CY_local_2024_CY_cygma2025_5",
+      "series_id": "CY_local",
+      "source_id": "CY_cygma2025",
+      "observation_period": "2024; precise within-year reference not stated",
+      "year": 2024,
+      "value": 4320,
+      "value_low": null,
+      "value_high": null,
+      "status": "estimated",
+      "preferred": true,
+      "subgroup": "all",
+      "denominator": "All employment covered by this series.",
+      "source_locator": "p15 chart",
+      "publication_vintage": "CY_cygma2025",
+      "method_break": false,
+      "break_note": "",
+      "derivation": "",
+      "notes": ""
+    }
+  ],
+  "limitations": [
+    "Series comes from company and administrative mapping with imperfect activity-code boundaries.",
+    "Foreign citizenship, work permits, foreign ownership and staff abroad are not interchangeable; none is quantified by the employment chart.",
+    "No verified employment observations for 2015-2018 or 2025 in this source."
+  ],
+  "review_checks": [
+    "Employment chart on PDF p15 rendered and visually checked against all six extracted values.",
+    "Latest observation and publication date separated."
+  ],
+  "research_complete": true
+}

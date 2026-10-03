@@ -1,0 +1,22 @@
+{
+  "review_date": "2026-09-19",
+  "decision": "2020 production/global-publishing full-time employee estimate. Changed scope/discovery in later editions prevents a join; people are not converted to FTE.",
+  "original_packets_modified": false,
+  "observations": [
+    {
+      "year": 2020,
+      "series_id": "PL_core_workforce",
+      "chart_eligible": true,
+      "trend_eligible": false,
+      "marker_only": true
+    }
+  ],
+  "gic2022_review": {
+    "series_id": "PL_gic_magazine2022",
+    "year": 2022,
+    "chart_eligible": true,
+    "trend_eligible": false,
+    "marker_only": true,
+    "decision": "GIC estimate of people working in game production in Poland, labelled 2022. Exact stock date unstated in inspected article; not FTE or uniform year-end count. Author describes approximately 2100 additional workers over 15 months, despite chart YoY labels. Marker only; no cross-vintage annual growth calculation."
+  }
+}

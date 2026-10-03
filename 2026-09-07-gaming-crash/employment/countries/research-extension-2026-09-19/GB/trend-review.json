@@ -1,0 +1,43 @@
+{
+  "iso2": "GB",
+  "decision": "Approve the two accepted November 2017 TIGA endpoints as additions to their existing source-native series.",
+  "accepted_observations": [
+    {
+      "observation_id": "GB_tiga_fte_2017_GB_tiga2019_2017endpoint_4",
+      "value": 13277,
+      "unit": "FTE",
+      "series_id": "GB_tiga_fte",
+      "chart_eligible": true,
+      "within_series_trend_eligible": true,
+      "primary_evidence": {
+        "url": "https://tiga.org/news/the-uk-video-games-development-sector-surges-forward",
+        "locator": "Official WordPress API release: November 2017 to November 2018 first employment bullet",
+        "direct_evidence": "Creative staff in studios rose from 13,277 to almost 14,353 full-time and full-time equivalent staff."
+      },
+      "definition_preserved": "UK development and production-support roles in studios, publishers, publisher studios, development-service companies and games divisions of broadcasters; full-time workers plus prorated part-time/freelance work. HR, admin, sales, marketing and commercial staff outside production support are excluded.",
+      "permissible_join": "Append only to country/GB.json series_id GB_tiga_fte, between March 2016 (11,893 FTE) and November 2018 (14,353 FTE). Keep the November snapshot date and FTE unit."
+    },
+    {
+      "observation_id": "GB_tiga_people_2017_GB_tiga2019_2017endpoint_5",
+      "value": 15851,
+      "unit": "people",
+      "series_id": "GB_tiga_people",
+      "chart_eligible": true,
+      "within_series_trend_eligible": true,
+      "primary_evidence": {
+        "url": "https://tiga.org/news/the-uk-video-games-development-sector-surges-forward",
+        "locator": "Official WordPress API release: November 2017 to November 2018 second employment bullet",
+        "direct_evidence": "The total games development workforce, including contractors, grew from 15,851 to 16,532."
+      },
+      "definition_preserved": "UK development workforce in the same TIGA business universe, with counted freelancers/contractors included as people without FTE prorating. The published method excludes distribution, manufacturing, peripherals, marketing and retail, and excludes non-production HR, admin, sales, marketing and commercial staff.",
+      "permissible_join": "Append only to country/GB.json series_id GB_tiga_people, before the November 2018 value of 16,532. Keep the November snapshot date and people unit."
+    }
+  ],
+  "method_basis": "TIGA/Games Investor Consulting's public methodology says it maintains a database of British games companies, surveys studios, publishers, service companies and broadcasters with games divisions, and uses verification plus estimates for missing firms. The release labels the report an extensive survey; it does not make these annual averages or a probability-sample census.",
+  "forbidden_joins": [
+    "Do not combine, add, subtract, or switch between GB_tiga_fte and GB_tiga_people. The former prorates freelancer work into FTE; the latter counts contractors as people.",
+    "Do not append either endpoint to GB_dcms_jobs. DCMS is APS annual-average filled jobs under SIC 58.21 and 62.011, including first and second jobs and self-employment, with a different geography and uncertainty profile.",
+    "Do not use UK indirect jobs supported (24,274 in 2017) as direct employment, and do not join the endpoints to the Ukie 2016 direct-company FTE or its 47,620 supported-FTE total.",
+    "Do not treat TIGA November snapshot years as calendar-year annual averages or as a 2019 index baseline."
+  ]
+}

@@ -1,0 +1,13 @@
+[
+  {
+    "action": "no_new_observation",
+    "reason": "No public SGGA annual report with a workforce count was located, and IMDA public manpower tables do not isolate games. The official MDDI 2021 nearly-2,000 snapshot is already present in country/SG.json.",
+    "usable_existing_series": "SG_games2021",
+    "period": "2021",
+    "value": "nearly 2,000",
+    "unit": "people",
+    "locator": "MDDI parliamentary answer, paragraph 5",
+    "definition": "Games sector employees in Singapore, with esports discussed in the surrounding answer; detailed method and developer/publisher-only scope not provided.",
+    "url": "https://www.mddi.gov.sg/newsroom/infocomm-and-media-professionals-required/"
+  }
+]
