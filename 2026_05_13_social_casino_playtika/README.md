@@ -1,9 +1,12 @@
 # Social Casino Market + Playtika YTD Run Rate
 
-Build:
+Current build:
 
 ```bash
-Rscript /Users/phillip/Documents/vibe_coding_projects/blog-post-source/2026_05_13_social_casino_playtika/build_social_casino_playtika.R
+Rscript /Users/phillip/Documents/vibe_coding_projects/blog-post-source/2026_05_13_social_casino_playtika/build_social_casino_market_from_export.R
+Rscript /Users/phillip/Documents/vibe_coding_projects/blog-post-source/2026_05_13_social_casino_playtika/build_playtika_marketing_intensity.R
+Rscript /Users/phillip/Documents/vibe_coding_projects/blog-post-source/2026_05_13_social_casino_playtika/test_playtika_marketing_intensity.R
+Rscript /Users/phillip/Documents/vibe_coding_projects/blog-post-source/2026_05_13_social_casino_playtika/test_social_casino_workflow_contracts.R
 ```
 
 MONOPOLY GO! revenue refresh only:
@@ -23,6 +26,14 @@ Playtika marketing intensity / acquisition proxy:
 ```bash
 Rscript /Users/phillip/Documents/vibe_coding_projects/blog-post-source/2026_05_13_social_casino_playtika/build_playtika_marketing_intensity.R
 Rscript /Users/phillip/Documents/vibe_coding_projects/blog-post-source/2026_05_13_social_casino_playtika/test_playtika_marketing_intensity.R
+```
+
+Legacy all-in-one script:
+
+```bash
+# Not the primary rebuild path. This script intentionally stops before the old
+# paginated top-app custom-filter denominator path.
+Rscript /Users/phillip/Documents/vibe_coding_projects/blog-post-source/2026_05_13_social_casino_playtika/build_social_casino_playtika.R
 ```
 
 Current handoff:

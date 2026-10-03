@@ -56,6 +56,6 @@ This will generate:
 ├── lilith_gt_table_ytd.R    # Main analysis script
 ├── validation/               # Sensor Tower CSV exports (place here)
 ├── output/                   # Generated tables and data
-├── CLAUDE.md                 # Project configuration
+├── ../BLOG_POST_SOURCE_RUNBOOK.md  # Shared project and visualization rules
 └── README.md                 # This file
 ```
