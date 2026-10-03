@@ -1,0 +1,42 @@
+[
+  {
+    "url": "https://pro-f.dk/sites/default/files/2021-10/Danske%20Indholdsproducenter%202009_1_1.pdf",
+    "title": "Danske Indholdsproducenter - Film, TV og Computerspil i tal, 2009",
+    "publisher": "Copenhagen Entertainment / Producentforeningen",
+    "years": "2008-2009",
+    "methodology": "Product-based mapping of selected core companies, then Statistics Denmark extraction. Core is direct producers and rights holders; self-employed freelancers and support functions are excluded. The report explicitly warns that a reliable retrospective history was not possible at that point.",
+    "assessment": "Accept as the earliest authoritative two-point FTE vintage, kept separate. It cannot establish continuity with later editions because the population is manually curated and later reports redefine it.",
+    "access_status": "full PDF downloaded and text inspected",
+    "next_step": "If an intervening primary edition is found, compare its named-company population and method before bridging 2009 to 2015."
+  },
+  {
+    "url": "https://www.visiondenmark.dk/wp-content/uploads/2019/07/Det_Interaktive_Danmark_i_tal_2015.pdf",
+    "title": "Det Interaktive Danmark i tal 2015",
+    "publisher": "Interactive Denmark / Vision Denmark",
+    "years": "2009-2015",
+    "methodology": "Search-result extract describes game and other interactive core producers, FTE conversion and a corrected company-count method.",
+    "assessment": "Promising intervening seven-year series: its search extract reports 735 game FTE in 2014 and 770 in 2015. It is not proposed here because the primary PDF returned HTTP 503 after three retry attempts, so exact chart values and methodology were not independently inspected.",
+    "access_status": "access failure: HTTP 503 from publisher host",
+    "next_step": "Retrieve from the publisher archive or a library copy; preserve as its own vintage until company-population comparability is proven."
+  },
+  {
+    "url": "https://producentforeningen.dk/sites/default/files/2022-09/Baggrundsrapport%20-%20State%20of%20the%20nation%20i%20den%20danske%20spilbranche.pdf",
+    "title": "State of the nation i den danske spilbranche",
+    "publisher": "Producentforeningen",
+    "years": "2016-2020 employment chart; published September 2022",
+    "methodology": "Background report reprints a five-year FTE chart and cites 'Danske Indholdsproducenter 2022'; it does not reproduce the underlying company-selection method.",
+    "assessment": "Useful evidence of a distinct 2022 retrospective vintage (739, 817, 877, 903, 979), but it conflicts with both the 2021 and 2024 reconstructions. Keep all vintages; do not use this reprint to splice a continuous series.",
+    "access_status": "full PDF downloaded and text inspected",
+    "next_step": "Locate the full Danske Indholdsproducenter 2022 report, if archived, to establish its population definition."
+  },
+  {
+    "url": "https://www.producentforeningen.dk/aktuelt/danske-indholdsproducenter-2025-stilstand-i-branchen",
+    "title": "Danske Indholdsproducenter 2025: Stilstand i branchen",
+    "publisher": "Producentforeningen / Statistics Denmark",
+    "years": "2024 reference year; published 2025 and updated 2026",
+    "methodology": "Publisher says the annual analysis is based on a special Statistics Denmark extraction; release text identifies film and television, and its associated interactive workbook was already decoded in the base packet.",
+    "assessment": "No newer games payroll FTE verified. The base packet's June 2026 workbook inspection found only FILM, TV and REKLAME segments. This newer release therefore cannot extend the game series beyond 2022.",
+    "access_status": "publisher HTML inspected; games-segment absence verified in base packet workbook",
+    "next_step": "Watch for a future Games Denmark or Producentforeningen release that explicitly restores SPIL tables and describes the revised company population."
+  }
+]

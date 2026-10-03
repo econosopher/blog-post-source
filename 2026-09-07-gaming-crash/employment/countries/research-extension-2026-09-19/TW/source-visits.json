@@ -1,0 +1,127 @@
+[
+  {
+    "url": "https://en.taicca.tw/uploads/userfiles/research/20231228/2020/2020%20Vol%204.pdf",
+    "title": "2020 Taiwan Cultural Content Industry Survey Report, Vol. 4: Games and Esports",
+    "publisher": "Taiwan Creative Content Agency (TAICCA)",
+    "years": [
+      2019
+    ],
+    "methodology": "Industry survey/reconstruction: 98 game companies, split into 46 game developers and 52 agents/publishers; esports was tabulated separately.",
+    "assessment": "Primary government-affiliated industry survey. Retain 9,047 as game-only surveyed-company employees. Do not add the separate 660 esports employees without an explicit combined series.",
+    "access_status": "accessible_search_extract",
+    "next_step": "Obtain the Chinese original/appendix if a sample-frame, response-rate, or fieldwork-date citation is needed."
+  },
+  {
+    "url": "https://taicca.tw/files/book/1741142752642.pdf",
+    "title": "2022 Taiwan Cultural Content Industry Survey Report: Games and Immersive Interactive Games",
+    "publisher": "Taiwan Creative Content Agency (TAICCA)",
+    "years": [
+      2022
+    ],
+    "methodology": "Survey list of 200 companies; 133 ultimately surveyed. Employee counts from company responses, with missing open responses supplemented by 104 Job Bank public records where available.",
+    "assessment": "Primary government-affiliated report. Retain 9,929 as an observed/reconstructed respondent-frame employee count, not national employment or FTE. Its active-company sampling may bias results upward.",
+    "access_status": "accessible_pdf_text",
+    "next_step": "Use the report's p. 11 and p. 7 scope/method caveats in any published methodology note."
+  },
+  {
+    "url": "https://stat.moc.gov.tw/Research_Download.aspx?idno=1180",
+    "title": "2023 Taiwan Cultural Content Industry Survey Report: Games and Esports",
+    "publisher": "Ministry of Culture, Taiwan",
+    "years": [
+      2023
+    ],
+    "methodology": "Newer game/esports industry report with company and employee-composition material; a comparable total game-employee count was not located in its searchable text during this bounded pass.",
+    "assessment": "Authoritative follow-up source but not a retained observation. Do not infer a total from employee age/composition charts.",
+    "access_status": "accessible_pdf_text_partial_metric_gap",
+    "next_step": "Download/inspect tables and chart data manually, then verify whether any total is game-only, esports-only, or combined."
+  },
+  {
+    "url": "https://digiblockc.tca.org.tw/download",
+    "title": "Digital Content Industry Yearbooks download catalogue",
+    "publisher": "Taipei Computer Association (hosting official MOEA/MODA yearbooks)",
+    "years": [
+      2011,
+      2012,
+      2013,
+      2014,
+      2015,
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025
+    ],
+    "methodology": "Annual industry yearbooks: MOEA Industrial Development Bureau through 2021; Ministry of Digital Affairs Administration for Digital Industries thereafter; compiled by the Institute for Information Industry.",
+    "assessment": "Authoritative continuity/definition source, but its stated coverage is broad digital content rather than games alone. No compatible game-employment observation retained.",
+    "access_status": "catalogue_accessible_pdf_bulk_download_not_completed",
+    "next_step": "Extract specific yearbook tables only if they explicitly identify game-only headcount and methodology."
+  },
+  {
+    "url": "https://theme.ndc.gov.tw/manpower/cp.aspx?n=52BD7CF0F98FB634",
+    "title": "Digital Content Industry manpower supply-demand projection",
+    "publisher": "National Development Council, Taiwan",
+    "years": [
+      2016,
+      2017,
+      2018
+    ],
+    "methodology": "Forward manpower-demand projection covering five digital-content fields including digital games, animation, audiovisual applications, digital publishing/archives, and digital learning.",
+    "assessment": "Do not use as game employment: it is a broader multi-subsector forecast, not an observed game headcount.",
+    "access_status": "search_metadata_accessible_page_fetch_blocked",
+    "next_step": "Retrieve report only for a separately-labelled digital-content forecast series, if needed."
+  },
+  {
+    "url": "https://www.stat.gov.tw/StandardIndustrialClassificationContent.aspx?Level=4&PID=NTgyMQ%3D%3D&RID=12&n=3144&sms=11195",
+    "title": "Industry Classification: 5821 Digital Game Software Publishing",
+    "publisher": "Directorate-General of Budget, Accounting and Statistics, Taiwan",
+    "years": [
+      2026
+    ],
+    "methodology": "Classification definition: digital-game software publishing, publisher-operated online games and publishing intermediaries; commissioned game development without publishing belongs elsewhere (6211).",
+    "assessment": "Useful exclusion rule. A 5821 administrative series would omit non-publishing game developers, therefore cannot substitute for the TAICCA game-industry frame.",
+    "access_status": "accessible_html",
+    "next_step": "If administrative employment is needed, test coverage of both 5821 and 6211 and document the unavoidable non-game software contamination in 6211."
+  },
+  {
+    "url": "https://research.taicca.tw/pdf/6c0e3358-acb6-3263-a9e5-66fc7b6b4c8d",
+    "title": "2023 Taiwan games-industry key-data summary",
+    "publisher": "TAICCA",
+    "years": [
+      2023
+    ],
+    "methodology": "Official12-page image-based summary viewer, published2025-04-01; no employment value extracted in this pass.",
+    "assessment": "New primary access route, not yet employment evidence. Images returned unsupported MIME through web reader.",
+    "access_status": "Viewer and page-image links located; content not extracted",
+    "next_step": "Inspect source images via approved browser or locate text PDF before accepting figures."
+  },
+  {
+    "url": "https://research.taicca.tw/pdf/840bd099-2e24-322e-a905-42b7b28a1c53",
+    "title": "2024 Taiwan games-industry key data",
+    "publisher": "TAICCA",
+    "years": [
+      2024
+    ],
+    "methodology": "Official20-page image-based summary viewer, published2026-02-23; no employment value extracted.",
+    "assessment": "New successor source route. Report title alone does not establish employment date, and no count is accepted.",
+    "access_status": "Official viewer located",
+    "next_step": "Retrieve readable report and assess employees denominator/reference date."
+  },
+  {
+    "url": "https://en.taicca.tw/uploads/userfiles/research/20231228/2020/2020%20Vol%204.pdf",
+    "title": "2020 Taiwan Cultural Content Industry Survey Vol4, employment snippet recheck",
+    "publisher": "TAICCA",
+    "years": [
+      2019,
+      2020
+    ],
+    "methodology": "Indexed original text confirms9047 workers across98 games firms, separate660 esports workers; adjacent2019 revenue heading does not establish employee reference date.",
+    "assessment": "Count supported by primary indexed excerpt, but full original retrieval404 and employee date unresolved. Keep candidate out of dated accepted additions.",
+    "access_status": "Search-index excerpt inspected; full PDF unavailable",
+    "next_step": "Recover methods/reference-date pages; do not infer2019 from revenue year."
+  }
+]

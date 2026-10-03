@@ -1,0 +1,31 @@
+{
+  "date": "2026-09-19",
+  "accepted_additions": 0,
+  "decision": "Deprioritize exhausted instrument routes; retain date uncertainty",
+  "sources": [
+    {
+      "url": "https://www.meti.go.jp/statistics/tyo/joho/result-5/r01/31joho_bunrui.pdf",
+      "title": "2019 classification/general survey instructions",
+      "years": "2019 survey",
+      "methodology": "Indexed official text gives31March2019 for enterprise outline, organization and workers; business activity/transactions have different reference treatment.",
+      "assessment": "General instructions do not establish form5 field5301 fiscal-end rule. Do not use them to assign calendar date to proposed13343.",
+      "access_status": "Official indexed text read; originalHTTP403"
+    },
+    {
+      "url": "https://www.meti.go.jp/statistics/tyo/joho/result-2/r02/2020kakunews.pdf",
+      "title": "2020 information and communications survey final release",
+      "years": "Released28May2021; survey2020, FY2019 activity",
+      "methodology": "Official indexed release states capital threshold30millionJPY for information services, general survey date31March2020, collection16August-15October2020. Form5 covers6031target,3985returned,3660valid enterprises across all information services.",
+      "assessment": "Denominators are sector-wide, not game-specific. General survey date is insufficient to replace field-specific fiscal-end instructions.",
+      "access_status": "Official release indexed text reviewed; no saved full original"
+    },
+    {
+      "url": "https://www.meti.go.jp/statistics/tyo/joho/result-3/2020_seigo_5-1.pdf",
+      "title": "2020 information services correction notice: Table1",
+      "years": "2020 survey; correction timing not verified from original notice",
+      "methodology": "Indexed original PDF shows correct/incorrect Table1 enterprise counts and capital-size breakdown. Games enterprise count69 appears in Table1.",
+      "assessment": "Do not replace Table7 workforce-reporting enterprise count68 with Table1 industry count69. Indexed scope is Table1; full correction notice remains inaccessible, so no claim that all workforce tables were unaffected.",
+      "access_status": "Official PDF indexed text reviewed; direct original web fetch failed"
+    }
+  ]
+}

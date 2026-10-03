@@ -1,0 +1,17 @@
+[
+  {
+    "country": "Indonesia",
+    "iso2": "ID",
+    "series_id": "ID_kominfo2020_survey_game_developers_all",
+    "year": 2019,
+    "value": 1286,
+    "unit": "people",
+    "period": "2019 reference coverage explicitly stated on printed p1 and research question on p5; survey conducted2020, report publishedApril2021",
+    "url": "https://www.researchgate.net/publication/394347887_Peta_Ekosistem_Industri_Game_2020",
+    "source_locator": "Peta Ekosistem Industri Game 2020, p. 34 (Sumber Daya Manusia): 1,286 workers in surveyed game developers, consisting of 1,136 at incorporated developers and 150 at unincorporated developers. Reference period: printed p1 and introductory research question; excludes Covid-impact section.",
+    "definition": "Survey-respondent workforce at Indonesian video-game developers. Official study used non-probability collection: census approach for incorporated companies and community-database snowball sampling for unincorporated actors. Not a national employment estimate; worker statuses include permanent, contract and internship but the 1,286 total is not published by status. Publisher-only coverage is not established.",
+    "status": "source_verified",
+    "chart_eligible": false,
+    "trend_eligible": false
+  }
+]

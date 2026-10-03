@@ -1,0 +1,60 @@
+{
+  "review_scope": "Bounded public TOGED primary-source pass for national game-industry employment observations outside the already accepted 2023 EGDF/TOGED estimate (10,777). Completed 2026-09-19.",
+  "decision": {
+    "new_observations_proposed": [],
+    "series_action": "Retain 2023=10,777 as the only verified TOGED-associated employment observation. Do not add an earlier or later point and do not draw a TOGED time-series segment.",
+    "reason": "The public TOGED sitemap contained 70 current URLs; a user-agent fetch of every listed page found no national employment headcount/FTE result, no 10,777 restatement, and no another-year workforce estimate. The one TOGED item headed 'İstihdam Destekleri' reports per-person support ceilings, not persons employed. The archived/legacy web results found only qualitative claims about growing employment or training, not an enumerated national workforce stock."
+  },
+  "existing_2023_context": {
+    "value": 10777,
+    "unit": "FTE-oriented people working in the industry",
+    "source_url": "https://www.egdf.eu/wp-content/uploads/2025/08/2023-European-video-games-industry-insight-report.pdf",
+    "locator": "p. 57, 'Employment' column chart, Turkey 2023 bar; questionnaire/method notes in the report define employees, entrepreneurs and in-house freelancers of game-developer studios and third-party publishers.",
+    "scope_limit": "EGDF describes the evidence as a TOGED country answer. The report includes remote employees in third countries when their studio is registered in Turkey and excludes foreign subsidiaries and foreign subcontractor companies. Country sample, gross-up method, reference date and exact FTE conversion remain undisclosed.",
+    "plot_status": "single contextual marker only; no inferred connection to any other Turkish value"
+  },
+  "decisive_primary_checks": [
+    {
+      "title": "TOGED public sitemap and current public pages",
+      "url": "https://toged.org/sitemap.xml",
+      "locator": "70 <url><loc> entries retrieved on 2026-09-19; each URL fetched with a standard browser user agent and searched for istihdam, çalışan/calisan, personel, iş gücü/is gucu, employment, workforce, 10.777 and 10777.",
+      "finding": "No national employment figure or historical employment table. Search matches were association-team wording, policy text, or the support item separately recorded below.",
+      "assessment": "Decisive for the current TOGED public-site inventory at retrieval; it is not proof that no private, removed, or unindexed TOGED report exists."
+    },
+    {
+      "title": "Ticaret Bakanlığı Desteklerinde 5 Kritik Gelişme",
+      "url": "https://toged.org/haberler/ticaret-bakanligi-desteklerinde-5-kritik-gelisme",
+      "published": "2026-03-13",
+      "locator": "section '5. İstihdam Destekleri': 'Yurt İçi İstihdam: Personel başına aylık 90.000 TL' and 'Yurt Dışı İstihdam: Personel başına aylık 250.000 TL'.",
+      "finding": "This is a description of Ministry wage-support ceilings for international marketing and business-development staff. It contains no count of Turkish game-industry workers, companies, FTEs, or a workforce survey result.",
+      "assessment": "Exclude: money per supported person is neither a headcount nor a denominator from which one can derive one."
+    },
+    {
+      "title": "TOGED homepage / About",
+      "url": "https://toged.org/",
+      "locator": "homepage 'TOGED Hakkında' and 'Hedeflerimiz' sections, as indexed and retrieved from sitemap.",
+      "finding": "The association says it represents leading game studios and does not admit non-developer companies/individuals as members. It states workforce development as an objective but gives no sector employment count.",
+      "assessment": "Membership and policy scope are not a national workforce universe; no observation."
+    },
+    {
+      "title": "Oyun geliştiriciler teknolojiye de yön veriyor",
+      "url": "https://www.aa.com.tr/tr/bilim-teknoloji/oyun-gelistiriciler-teknolojiye-de-yon-veriyor/1584799",
+      "published": "2019-09-16",
+      "locator": "section headed 'İstihdam imkanları da büyüyor', attributed to TOGED chair Ali Erkin.",
+      "finding": "The attributed statement says export levels and employment opportunities are growing; it publishes no number, reference period, worker universe, survey, or enumeration method.",
+      "assessment": "Qualitative corroboration only; exclude from observations."
+    }
+  ],
+  "forbidden_substitutions": [
+    "Gaming in Türkiye market-report turnover/revenue values, including the nearby 3,300 million-euro turnover figure, are not employment.",
+    "TOGED member or studio counts cannot be converted to workers without an original employee enumeration.",
+    "Export targets, investment values, policy support limits, training participants and statements that employment opportunities are growing are not workforce totals.",
+    "The current 2026 public pages cannot be used retrospectively to infer 2019-2022 or prospectively to infer 2024-2026 employment."
+  ],
+  "remaining_uncertainty": "No original TOGED series earlier/later than 2023 was recovered in this bounded pass. The 2023 EGDF point remains association-backed but has unresolved national-sample, expansion, date and FTE-method details, so it is unsuitable for a continuous trend without a source-native annual series and methodology.",
+  "downloaded_evidence": [
+    "/tmp/tr-toged-followup/raw/sitemap.xml",
+    "/tmp/tr-toged-followup/raw/site-pages-useragent.txt",
+    "/tmp/tr-toged-followup/raw/toged-2026-support.html"
+  ]
+}

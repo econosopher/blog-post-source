@@ -1,0 +1,21 @@
+{
+  "review_date": "2026-09-19",
+  "decision": "Isolated legacy and interim estimates. Appendix Banen explicitly dates 3,000 jobs to 2011, supplemented by summer-2012 survey/web data and imputation; no precise synchronized census date. 2020 is approximately 4,000 from a limited interim survey.",
+  "original_packets_modified": false,
+  "observations": [
+    {
+      "year": 2011,
+      "series_id": "NL_domestic_broad_legacy_vintage",
+      "chart_eligible": true,
+      "trend_eligible": false,
+      "marker_only": true
+    },
+    {
+      "year": 2020,
+      "series_id": "NL_domestic_broad_covid_update",
+      "chart_eligible": true,
+      "trend_eligible": false,
+      "marker_only": true
+    }
+  ]
+}

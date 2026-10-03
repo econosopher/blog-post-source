@@ -1,0 +1,57 @@
+[
+  {
+    "observation_id": "GB_tiga_fte_2017_GB_tiga2019_2017endpoint_4",
+    "series_id": "GB_tiga_fte",
+    "source_id": "GB_tiga2019_2017endpoint",
+    "observation_period": "November 2017",
+    "year": 2017,
+    "value": 13277,
+    "unit": "FTE",
+    "status": "accepted_primary_verified",
+    "source_locator": "November 2017 to November 2018 bullet: 'from 13,277 to almost 14,353 full-time and full-time equivalent staff'",
+    "url": "https://tiga.org/news/the-uk-video-games-development-sector-surges-forward",
+    "definition": "TIGA's creative staff in studios, reported as full-time and full-time equivalent staff. The public release does not separately restate the contractor prorating rule in this item; retain the existing GB_tiga_fte series definition.",
+    "notes": "Endpoint reported alongside November 2018. Existing packet already carries the later 2018 value as 14,353.",
+    "country": "United Kingdom",
+    "iso2": "GB",
+    "chart_eligible": true,
+    "trend_eligible": true,
+    "allowed_trend_years": [
+      2016,
+      2017,
+      2018,
+      2020,
+      2021,
+      2023,
+      2024
+    ],
+    "trend_review": "Approve the two accepted November 2017 TIGA endpoints as additions to their existing source-native series. Do not combine, add, subtract, or switch between GB_tiga_fte and GB_tiga_people. The former prorates freelancer work into FTE; the latter counts contractors as people. Do not append either endpoint to GB_dcms_jobs. DCMS is APS annual-average filled jobs under SIC 58.21 and 62.011, including first and second jobs and self-employment, with a different geography and uncertainty profile. Do not use UK indirect jobs supported (24,274 in 2017) as direct employment, and do not join the endpoints to the Ukie 2016 direct-company FTE or its 47,620 supported-FTE total. Do not treat TIGA November snapshot years as calendar-year annual averages or as a 2019 index baseline."
+  },
+  {
+    "observation_id": "GB_tiga_people_2017_GB_tiga2019_2017endpoint_5",
+    "series_id": "GB_tiga_people",
+    "source_id": "GB_tiga2019_2017endpoint",
+    "observation_period": "November 2017",
+    "year": 2017,
+    "value": 15851,
+    "unit": "people",
+    "status": "accepted_primary_verified",
+    "source_locator": "November 2017 to November 2018 bullet: 'total games development workforce, including contractors, grew from 15,851 to 16,532'",
+    "url": "https://tiga.org/news/the-uk-video-games-development-sector-surges-forward",
+    "definition": "TIGA total games development workforce including contractors; headcount, distinct from FTE and from indirect jobs supported.",
+    "notes": "Endpoint reported alongside November 2018. Existing packet already carries the later 2018 value as 16,532.",
+    "country": "United Kingdom",
+    "iso2": "GB",
+    "chart_eligible": true,
+    "trend_eligible": true,
+    "allowed_trend_years": [
+      2017,
+      2018,
+      2020,
+      2023,
+      2024,
+      2025
+    ],
+    "trend_review": "Approve the two accepted November 2017 TIGA endpoints as additions to their existing source-native series. Do not combine, add, subtract, or switch between GB_tiga_fte and GB_tiga_people. The former prorates freelancer work into FTE; the latter counts contractors as people. Do not append either endpoint to GB_dcms_jobs. DCMS is APS annual-average filled jobs under SIC 58.21 and 62.011, including first and second jobs and self-employment, with a different geography and uncertainty profile. Do not use UK indirect jobs supported (24,274 in 2017) as direct employment, and do not join the endpoints to the Ukie 2016 direct-company FTE or its 47,620 supported-FTE total. Do not treat TIGA November snapshot years as calendar-year annual averages or as a 2019 index baseline."
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "country": "Poland",
+    "iso2": "PL",
+    "year": 2020,
+    "value": 9710,
+    "unit": "people",
+    "period": "2020 current estimate",
+    "series_id": "PL_core_workforce",
+    "url": "https://gic.gd/d/The_Game_Industry_of_Poland_report_2020.pdf",
+    "source_locator": "PDF/printed p8 infographic and p28-29 Employment in game production",
+    "definition": "Game Industry Conference's tighter estimate of 9,710 full-time employees in Poland's game-production sector. The scope includes game-production studios, external-development companies and global publishers; it excludes Polish local-market distribution and non-production service providers, including separately discussed QA/localisation providers.",
+    "status": "accepted_primary_verified",
+    "trend_eligible": false,
+    "chart_eligible": true,
+    "marker_only": true,
+    "trend_review": "2020 production/global-publishing full-time employee estimate. Changed scope/discovery in later editions prevents a join; people are not converted to FTE."
+  },
+  {
+    "country": "Poland",
+    "iso2": "PL",
+    "year": 2022,
+    "value": 14200,
+    "unit": "people",
+    "period": "2022 as labelled by source; exact stock date not specified",
+    "series_id": "PL_gic_magazine2022",
+    "url": "https://drive.google.com/file/d/1MQ8HMbRiFoX5phR5PqvzmrIN2M0MhSW6/view",
+    "source_locator": "PolskiGamedev.pl Magazyn vol2 2022/2023, PDF/printed pp140-141; Trzy wykresy spowolnienia by Jakub Marszalkowski",
+    "definition": "GIC estimate of people working in game production in Poland. Infographic reports490 producers and publishers. Exact contractor/full-time conversion and geographic counting rules not restated in article.",
+    "status": "accepted_primary_verified",
+    "trend_eligible": false,
+    "chart_eligible": true,
+    "marker_only": true,
+    "method_break": true,
+    "trend_review": "GIC estimate of people working in game production in Poland, labelled 2022. Exact stock date unstated in inspected article; not FTE or uniform year-end count. Author describes approximately 2100 additional workers over 15 months, despite chart YoY labels. Marker only; no cross-vintage annual growth calculation."
+  }
+]

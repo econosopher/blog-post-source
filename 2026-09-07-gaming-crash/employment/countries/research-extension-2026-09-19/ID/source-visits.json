@@ -1,0 +1,62 @@
+[
+  {
+    "url": "https://www.researchgate.net/publication/394347887_Peta_Ekosistem_Industri_Game_2020",
+    "title": "Peta Ekosistem Industri Game 2020",
+    "publisher": "Direktorat Ekonomi Digital / Ministry of Communication and Informatics; research with LIPI and Asosiasi Game Indonesia",
+    "years": "2019 study focus; data collection 2020; published April 2021",
+    "methodology": "Official ecosystem mapping from a quantitative non-probability survey. Incorporated companies: census approach; unincorporated actors: community-database snowball sampling, supported by three outreach events and one official release. Government launch says 80 developer/publisher respondents of varied scale.",
+    "assessment": "Decisive primary author-uploaded full text. Adds 1,286 surveyed developer workers, split into 1,136 incorporated and 150 unincorporated. Survey respondent count, not national estimate; permanent, contract and internship statuses appear but no complete status totals recoverable from text. Preserve 1,136 as a component rather than an all-industry total.",
+    "access_status": "public full text through ResearchGate author upload; government launch independently confirms provenance and 80 respondents",
+    "next_step": "If an official Komdigi-hosted PDF is recovered, archive its binary. Do not use for national trend or compare directly to 2024 lower bound."
+  },
+  {
+    "url": "https://www.komdigi.go.id/berita/siaran-pers/detail/siaran-pers-no-132-hm-kominfo-04-2021-tentang-kominfo-lipi-dan-agi-luncurkan-buku-peta-ekosistem-industri-game-indonesia-2020",
+    "title": "Siaran Pers No. 132/HM/KOMINFO/04/2021: Kominfo, LIPI dan AGI Luncurkan Buku Peta Ekosistem Industri Game Indonesia 2020",
+    "publisher": "Ministry of Communication and Informatics / now Komdigi",
+    "years": "published 22 April 2021; research from mid-2020",
+    "methodology": "Government release says research involved 80 developer and publisher respondents, from small teams without legal entities to companies with hundreds of people.",
+    "assessment": "Authoritative provenance confirmation and respondent-count qualifier for the 2020 report. Does not itself publish the employment total.",
+    "access_status": "public",
+    "next_step": "Retain alongside the author-uploaded report to support attribution and survey scope."
+  },
+  {
+    "url": "https://id.scribd.com/doc/294777720/Cetak-Biru-Permainan-Interaktif",
+    "title": "Rencana Pengembangan Permainan Interaktif Nasional 2015-2019",
+    "publisher": "Kementerian Pariwisata dan Ekonomi Kreatif / national creative-economy policy document",
+    "years": "policy period 2015-2019; employment discussion covers 2010-2013, with 2013 value",
+    "methodology": "Policy document presents a national creative-economy subsector series and identifies BPS data for economic statistics. It says the 2009 creative KBLI classifications did not fully match the proposed interactive-games scope; published text does not expose an auditable labour-force microdata method.",
+    "assessment": "Useful historical national-scope figure: 23,928 workers in 2013. Scope is broad interactive games including electronic, online, physical, card and board games, so it is not a video-game developer series and must remain isolated.",
+    "access_status": "public rendered copy; original government publication identity clear, binary not recovered in this pass",
+    "next_step": "Seek an official ministry/BPS binary or underlying BPS table before treating 2010-2013 as a reusable annual series."
+  },
+  {
+    "url": "https://www.researchgate.net/publication/396196002_Peta_Ekosistem_Industri_Gim_Indonesia_2024_Menuju_Transformasi_Ekonomi_Digital_Nasional_2025",
+    "title": "Peta Ekosistem Industri Gim Indonesia 2024: Menuju Transformasi Ekonomi Digital Nasional 2025+",
+    "publisher": "Direktorat Jenderal Ekosistem Digital",
+    "years": "study titled 2024; published October 2025; exact workforce observation date unstated",
+    "methodology": "Existing baseline: public abstract does not disclose sampling or extrapolation details.",
+    "assessment": "Already accepted in baseline: at least 2,112 talents at video-game developers and publishers; broad 513,000-1.03 million impact range is not core employment. Not duplicated in proposed observations.",
+    "access_status": "public author summary / full-PDF availability not recovered during this bounded pass",
+    "next_step": "Keep existing lower-bound treatment; do not reverse stated growth to create 2015 values."
+  },
+  {
+    "url": "https://www.komdigi.go.id/berita/siaran-pers/detail/siaran-pers-no-278-hm-kominfo-07-2022-tentang-manfaatkan-potensi-pasar-gim-kominfo-gandeng-agi-tumbuhkan-game-developer-lokal",
+    "title": "Siaran Pers No. 278/HM/KOMINFO/07/2022 tentang Memanfaatkan Potensi Pasar Gim, Kominfo Gandeng AGI Tumbuhkan Game Developer Lokal",
+    "publisher": "Ministry of Communication and Informatics / now Komdigi",
+    "years": "published 2022; describes Peta Ekosistem Industri Game Indonesia 2021",
+    "methodology": "2021 edition was prepared with Niko Partners and adds gamer, public-opinion and local-company information.",
+    "assessment": "Checked forward edition. No additional national or respondent employment stock was identified in the accessible official release.",
+    "access_status": "public",
+    "next_step": "No further action unless the full 2021 report yields an employment table absent from accessible text."
+  },
+  {
+    "url": "https://www.igrs.id/berita/peta-industri-game-indonesia-2015/",
+    "title": "Peta Industri Game Indonesia 2015",
+    "publisher": "Direktorat Pemberdayaan Industri Informatika, Ministry of Communication and Informatics",
+    "years": "2015 study, cited as 2016 publication",
+    "methodology": "Not retrieved. The 2020 official report cites it as the previous Kominfo survey and compares company characteristics, but does not reproduce a dated workforce total in accessible text.",
+    "assessment": "Original historical edition identified but no reliable employment observation extracted. Do not infer a value from the 2024 growth statement.",
+    "access_status": "former official URL unavailable/not retrieved in this pass",
+    "next_step": "Search archived IGRS/Kominfo holdings, national library catalogue, or a scanned official book for methodology and exact workforce tables."
+  }
+]

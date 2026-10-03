@@ -1,0 +1,36 @@
+{
+  "series_id": "CA_nci_interactive_media_jobs_quarterly",
+  "status": "verified source-native companion; separate from accepted annual country observations",
+  "observation_count": 57,
+  "period_start": "2012Q1",
+  "period_end": "2026Q1",
+  "unit": "seasonally adjusted jobs",
+  "scope": "Product-perspective interactive media: console, online, wireless and PC games plus related interactive digital edutainment. Not enterprise-wide ILUs or ESAC FTE.",
+  "employment_definition": "Jobs include employees, self-employed and unpaid family workers; part-time and full-time jobs each count as one. Multiple jobs can exceed people.",
+  "source_url": "https://www150.statcan.gc.ca/n1/tbl/csv/36100652-eng.zip",
+  "table": "36-10-0652-01",
+  "vector": "v1277496929",
+  "retrieved": "2026-09-19",
+  "sha256": "b45133e6532f06e19a619346f6b686831a7ec4e82edb45098246e6194d34eef4",
+  "breaks": [
+    {
+      "between": [
+        "2015Q4",
+        "2016Q1"
+      ],
+      "reason": "Official NCI note: refined games/development and website-design measurement, not a real change in economic conditions."
+    }
+  ],
+  "national_overview_decision": "Do not substitute for or join to CA_statcan_ilu. Quarterly product-attributed jobs are a distinct measure.",
+  "limits": [
+    "Revisions may change historical values; archive this vintage.",
+    "Do not sum quarters into annual employment.",
+    "General CPA/LFS/SEPH benchmarking reviewed; detailed game-specific allocation ratios remain unresolved."
+  ],
+  "sources": {
+    "scope": "https://www150.statcan.gc.ca/n1/pub/13-607-x/2016001/1248-eng.htm",
+    "jobs": "https://www150.statcan.gc.ca/n1/pub/13-607-x/2016001/1256-eng.htm",
+    "break_and_adjustment": "https://www150.statcan.gc.ca/n1/daily-quotidien/260113/dq260113c-eng.htm"
+  },
+  "annual_benchmark_review": "../annual-culture-followup/series-review.json"
+}

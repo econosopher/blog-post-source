@@ -1,0 +1,57 @@
+{
+  "country": "Canada",
+  "accepted_series_id": "CA_statcan_ilu",
+  "reviewed_observations": [
+    {
+      "year": 2013,
+      "value": 27612,
+      "unit": "ILU",
+      "temporal_reference": "calendar year"
+    },
+    {
+      "year": 2014,
+      "value": 28616,
+      "unit": "ILU",
+      "temporal_reference": "calendar year"
+    }
+  ],
+  "chart_eligible": true,
+  "within_series_trend_eligible": true,
+  "permissible_join": {
+    "target_file": "country/CA.json",
+    "target_series_id": "CA_statcan_ilu",
+    "operation": "Prepend the 2013 and 2014 observations to the existing 2015-2022 CA_statcan_ilu annual series.",
+    "resulting_permitted_series": "2013-2022 CA_statcan_ilu annual calendar-year trend",
+    "required_labels": [
+      "Individual labour units (ILUs)",
+      "Statistics Canada administrative data",
+      "Canadian provinces only; territories excluded"
+    ]
+  },
+  "forbidden_joins": [
+    "Do not merge the ILUs with CA_esac_legacy, CA_esac_revised, or CA_esac_2015_undated as one employment trend or index.",
+    "Do not convert, relabel, or compare the ILU totals as FTEs or point-in-time headcount.",
+    "Do not combine the values with CA_contract_share or CA_immigration_share to estimate national contractor or citizenship counts."
+  ],
+  "evidence": [
+    {
+      "url": "https://www150.statcan.gc.ca/n1/pub/36-28-0001/2025008/article/00001-eng.htm",
+      "locator": "Introduction; employment-method paragraph immediately before Table 3; Table 3, Total row",
+      "direct_evidence": "The source covers 2013-2022, excludes territories, defines jobs as ILUs allocated from annual T4 slips, and reports Total values of 27,612 for 2013 and 28,616 for 2014. Table 3 notes that employment is in individual labour units."
+    }
+  ],
+  "review_result": "accepted_as_same_series_extension",
+  "allowed_years": [
+    2013,
+    2014,
+    2015,
+    2016,
+    2017,
+    2018,
+    2019,
+    2020,
+    2021,
+    2022
+  ],
+  "source_inconsistency": "Source narrative says employment fell2021 to2022, while Table3 Total rises58279 to59689. Retain explicit table values; do not repeat narrative decline."
+}

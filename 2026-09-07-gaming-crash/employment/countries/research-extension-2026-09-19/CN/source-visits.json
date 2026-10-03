@@ -1,0 +1,52 @@
+[
+  {
+    "url": "https://pdf.dfcfw.com/pdf/H3_AP202507181711204583_1.pdf?1752858662000.pdf=",
+    "title": "CNG new productive forces report2025",
+    "publisher": "Beijing Gamma New Media Culture Communication Co., Ltd. / Gamma Data (CNG)",
+    "years": "2021\u20132024 annual; H1 2024; H1 2025 estimate",
+    "methodology": "Personnel scale of major listed game companies, as printed. The report supplies no constituent list, count, selection rule, domestic versus overseas allocation, game-segment allocation, or contractor treatment.",
+    "assessment": "Contextual sample only. It must not be plotted as Chinese national or domestic game-only employment, and the annual values must not be combined with H1 observations.",
+    "access_status": "PDF independently inspected in prior research batch",
+    "next_step": "Find disclosed panel constituents before treating as national or longitudinal domestic measure."
+  },
+  {
+    "url": "https://www.stats.gov.cn/xxgk/tjbz/gjtjbz/201805/t20180509_1758925.html",
+    "title": "NBS government-series scope check",
+    "publisher": "National Bureau of Statistics of China",
+    "years": "2018 classifications / census;2026 response",
+    "methodology": "Game activities split across classes; published groups broader than games.",
+    "assessment": "The 2018 economic-census release gives 9.951m workers for the entire information-transmission/software/IT-service division, including 1.443m in internet and related services and 6.762m in software/IT services, but not a game-only total. The official culture-new-form grouping combines 16 small industries.",
+    "access_status": "Research worker inspected; result preserved in findings.md",
+    "next_step": "Seek detailed-class employment table, not broad IT/culture aggregate."
+  },
+  {
+    "url": "https://www.stats.gov.cn/sj/zxfb/202302/t20230203_1900527.html",
+    "title": "NBS government-series scope check",
+    "publisher": "National Bureau of Statistics of China",
+    "years": "2018 classifications / census;2026 response",
+    "methodology": "Game activities split across classes; published groups broader than games.",
+    "assessment": "The 2018 economic-census release gives 9.951m workers for the entire information-transmission/software/IT-service division, including 1.443m in internet and related services and 6.762m in software/IT services, but not a game-only total. The official culture-new-form grouping combines 16 small industries.",
+    "access_status": "Research worker inspected; result preserved in findings.md",
+    "next_step": "Seek detailed-class employment table, not broad IT/culture aggregate."
+  },
+  {
+    "url": "https://www.stats.gov.cn/hd/lyzx/zxgk/202609/t20260903_1965184.html",
+    "title": "NBS government-series scope check",
+    "publisher": "National Bureau of Statistics of China",
+    "years": "2018 classifications / census;2026 response",
+    "methodology": "Game activities split across classes; published groups broader than games.",
+    "assessment": "The 2018 economic-census release gives 9.951m workers for the entire information-transmission/software/IT-service division, including 1.443m in internet and related services and 6.762m in software/IT services, but not a game-only total. The official culture-new-form grouping combines 16 small industries.",
+    "access_status": "Research worker inspected; result preserved in findings.md",
+    "next_step": "Seek detailed-class employment table, not broad IT/culture aggregate."
+  },
+  {
+    "url": "https://www.jiemian.com/article/14873199.html",
+    "title": "CNG2026 listed-company release",
+    "publisher": "CNG release hosted by Jiemian",
+    "years": "2026 report",
+    "methodology": "For the 2026 report's own panels, major listed game companies are Chinese listed companies in 2025 game-revenue TOP50 whose 2025 game revenue exceeds 30% of total revenue; historical chart coverage is restricted to companies disclosing values in all corresponding periods.",
+    "assessment": "No personnel/headcount aggregate or historical workforce chart found in the 2026 release or in the inspected 2024 and 2025 full listed/non-listed company reports. No new observations proposed. This definition is not printed in the 2025 new-productive-forces report and therefore cannot be assumed to define its p. 8 personnel chart.",
+    "access_status": "Research worker inspected in follow-up",
+    "next_step": "Do not retroactively assign this panel rule to a different report."
+  }
+]

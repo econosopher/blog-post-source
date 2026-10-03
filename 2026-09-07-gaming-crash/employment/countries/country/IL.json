@@ -1,0 +1,121 @@
+{
+  "country": "Israel",
+  "iso2": "IL",
+  "priority": "additional",
+  "coverage_status": "context_only",
+  "summary": "Deloitte/GameIS reports about 4,000 workers in 2017 and 14,000 in 2021 across a broad ecosystem. Domestic-only employment is not established, and the company roster includes global offices and real-money gaming. These are context estimates, excluded from the domestic comparison.",
+  "preferred_series_ids": [],
+  "search_log": [
+    {
+      "route": "statistical_agency",
+      "query": "הלשכה המרכזית לסטטיסטיקה תעשיית משחקי מחשב מועסקים",
+      "url": "https://www.cbs.gov.il/he/publications/DocLib/2024/shnaton2024.pdf",
+      "outcome": "General high-tech/yearbook employment found, no separately established comprehensive games workforce."
+    },
+    {
+      "route": "industry_association",
+      "query": "GameIS Deloitte Israeli game industry report employees",
+      "url": "https://www.gameis.org.il/",
+      "outcome": "Association reviewed; full Deloitte/GameIS report obtained from public mirror."
+    },
+    {
+      "route": "local_language",
+      "query": "דוח גיימינג ישראל 2021 14000 עובדים 4000 דלויט",
+      "url": "https://www.funder.co.il/article/136571",
+      "outcome": "Hebrew 11 July 2022 coverage corroborates report release and figures; no proof of domestic-only coverage."
+    }
+  ],
+  "sources": [
+    {
+      "source_id": "IL_gameis2021",
+      "title": "The Israeli Video Games Ecosystem, 2021 edition",
+      "publisher": "Deloitte Israel and GameIS",
+      "url": "https://www.vccafe.com/wp-content/uploads/2022/12/GameIS-Report-2021-0722.pdf",
+      "publication_date": "2022-07-11",
+      "retrieved_date": "2026-09-09",
+      "source_type": "research_partner",
+      "local_file": "raw/IL/gameis2021.pdf",
+      "locator": "p22 employment; pp23-25 company profiles; p29 categories; pp31-32 company roster",
+      "access_status": "full_source",
+      "notes": "Original authored report preserved on a public mirror. Copyright 2022; contemporary Hebrew release dated 11 July 2022. Mirror upload December 2022 is not observation date."
+    }
+  ],
+  "series": [
+    {
+      "series_id": "IL_ecosystem",
+      "label": "Broad Israeli-company ecosystem estimate",
+      "measure": "employment_stock",
+      "unit": "people",
+      "industry_scope": "Game publishing plus supportive technologies and platforms; roster includes 888 real-money gambling. No clean domestic core-only subset verified.",
+      "occupation_scope": "All roles in covered businesses, including creative, technical and business functions.",
+      "geography_basis": "unknown",
+      "geography_note": "Israel-based and global companies operating in Israel; adjacent profiles quote company headcounts across worldwide offices. Cannot establish that aggregate excludes overseas workers.",
+      "worker_status": "Reported employees/workers; FTE, contractors, freelancers, founders, interns and agency staff unresolved.",
+      "contractor_treatment": "unknown",
+      "nationality_definition": "Not reported.",
+      "method": "Company ecosystem mapping using Start-Up Nation, Crunchbase, PitchBook and company websites; no domestic reconciliation or sampling method exposed for aggregate.",
+      "population_basis": "unknown",
+      "sample_size": "See observations.",
+      "comparability_group": "IL_ecosystem",
+      "chart_eligible": true,
+      "trend_eligible": false,
+      "index_2019_eligible": false,
+      "comparison_note": "Context-only snapshots. Unresolved geography and wider industry scope bar national ranking, trends and index.",
+      "source_native_term": "Broad Israeli-company ecosystem estimate",
+      "term_translation": "Broad Israeli-company ecosystem estimate"
+    }
+  ],
+  "observations": [
+    {
+      "observation_id": "IL_ecosystem_2017_IL_gameis2021_0",
+      "series_id": "IL_ecosystem",
+      "source_id": "IL_gameis2021",
+      "observation_period": "2017; exact census date unspecified",
+      "year": 2017,
+      "value": 4000,
+      "value_low": null,
+      "value_high": null,
+      "status": "estimated",
+      "preferred": true,
+      "subgroup": "all",
+      "denominator": "All employment covered by this series.",
+      "source_locator": "p22 Number of employees",
+      "publication_vintage": "IL_gameis2021",
+      "method_break": false,
+      "break_note": "",
+      "derivation": "",
+      "notes": "Approximate source value, not precise census. Domestic workplaces unresolved.",
+      "value_qualifier": "approximately"
+    },
+    {
+      "observation_id": "IL_ecosystem_2021_IL_gameis2021_1",
+      "series_id": "IL_ecosystem",
+      "source_id": "IL_gameis2021",
+      "observation_period": "2021; exact census date unspecified",
+      "year": 2021,
+      "value": 14000,
+      "value_low": null,
+      "value_high": null,
+      "status": "estimated",
+      "preferred": true,
+      "subgroup": "all",
+      "denominator": "All employment covered by this series.",
+      "source_locator": "p22 Number of employees",
+      "publication_vintage": "IL_gameis2021",
+      "method_break": false,
+      "break_note": "",
+      "derivation": "",
+      "notes": "Approximate source value, not precise census. Domestic workplaces unresolved.",
+      "value_qualifier": "approximately"
+    }
+  ],
+  "limitations": [
+    "Company worldwide headcount may be mixed with domestic operations; no subtraction fabricated.",
+    "Game-publishing share of employees (73%) does not resolve geography or gambling coverage; no adjusted core total derived.",
+    "No current 2024-26 national count verified; repeating 14,000 in a newer article does not create a newer observation."
+  ],
+  "review_checks": [
+    "Aggregate employment read on p22; adjacent global-office company profiles and broad roster checked."
+  ],
+  "research_complete": true
+}

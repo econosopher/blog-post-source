@@ -1,0 +1,26 @@
+[
+  {
+    "country": "Spain",
+    "iso2": "ES",
+    "year": 2013,
+    "value": 2630,
+    "unit": "people",
+    "period": "annual direct-employment estimate",
+    "series_id": "ES_direct",
+    "url": "https://www.oficinamediaespana.eu/images/media_europa/2023_libro_blanco_dev_digital_media.pdf",
+    "source_locator": "PDF p. 31 / printed p. 31, Figura 16, 'Evolución del empleo en el videojuego español (2013-2022)'.",
+    "definition": "DEV's estimated direct employment in Spanish video-game development. The figure separately labels 2022's freelance and indirect jobs, so this is not a supported-employment total. The report's current-edition methodology describes a DEV studio survey/estimate, but the historical chart does not document each prior-year sampling frame."
+  },
+  {
+    "country": "Spain",
+    "iso2": "ES",
+    "year": 2014,
+    "value": 3376,
+    "unit": "people",
+    "period": "annual direct-employment estimate",
+    "series_id": "ES_direct",
+    "url": "https://www.oficinamediaespana.eu/images/media_europa/2023_libro_blanco_dev_digital_media.pdf",
+    "source_locator": "PDF p. 31 / printed p. 31, Figura 16, 'Evolución del empleo en el videojuego español (2013-2022)'.",
+    "definition": "DEV's estimated direct employment in Spanish video-game development. The figure separately labels 2022's freelance and indirect jobs, so this is not a supported-employment total. The report's current-edition methodology describes a DEV studio survey/estimate, but the historical chart does not document each prior-year sampling frame."
+  }
+]

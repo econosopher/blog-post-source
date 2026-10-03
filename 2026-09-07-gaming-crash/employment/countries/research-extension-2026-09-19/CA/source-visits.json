@@ -1,0 +1,137 @@
+[
+  {
+    "url": "https://www150.statcan.gc.ca/n1/pub/36-28-0001/2025008/article/00001-eng.htm",
+    "title": "A profile of the video game industry in the Canadian provinces",
+    "publisher": "Statistics Canada",
+    "years": "2013\u20132022",
+    "methodology": "Tax-linked annual ILUs; not FTE or snapshot headcount.",
+    "assessment": "Accepted 2013 and 2014 extension. Table 3 contradicts adjacent claim of a 2022 decline; retain table values.",
+    "access_status": "full HTML inspected",
+    "next_step": "Search future releases for 2023 onward. Pre-2013 continuation constrained by 2012 games classification introduction."
+  },
+  {
+    "url": "https://www150.statcan.gc.ca/n1/pub/36-28-0001/2026003/article/00003-eng.htm",
+    "title": "Potential occupational exposure to AI across selected cultural industries",
+    "publisher": "Statistics Canada",
+    "years": "2021 analysis; broader employment trends through 2025",
+    "methodology": "Linked Census/CEEDD sample restricted to stable employers and ages18\u201364; SEPH broader sectors.",
+    "assessment": "Not an extension of the game-industry employment stock series.",
+    "access_status": "full HTML inspected",
+    "next_step": "Do not append software-publisher employment change to game-only ILUs."
+  },
+  {
+    "url": "https://theesa.ca/resources/",
+    "title": "ESAC resources route",
+    "publisher": "ESAC",
+    "years": "",
+    "methodology": "",
+    "assessment": "Tool could not access this route; not evidence that reports are absent.",
+    "access_status": "access failure",
+    "next_step": "Use direct report URLs or current site navigation."
+  },
+  {
+    "url": "https://www150.statcan.gc.ca/n1/pub/36-28-0001/2025008/article/00001-eng.htm",
+    "title": "Main-agent comparability review",
+    "publisher": "Statistics Canada",
+    "years": [
+      2013,
+      2014,
+      2015,
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022
+    ],
+    "methodology": "The source covers 2013-2022, excludes territories, defines jobs as ILUs allocated from annual T4 slips, and reports Total values of 27,612 for 2013 and 28,616 for 2014. Table 3 notes that employment is in individual labour units.",
+    "assessment": "accepted_as_same_series_extension Source narrative says employment fell2021 to2022, while Table3 Total rises58279 to59689. Retain explicit table values; do not repeat narrative decline.",
+    "access_status": "Primary page and method note re-read",
+    "next_step": "Use only allowed series/year joins in trend-review.json."
+  },
+  {
+    "url": "https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1410020201",
+    "title": "SEPH annual table and complete metadata",
+    "methodology": "Current annual employment classifications:5112/5132 software and5415 computer systems",
+    "assessment": "No separate513212 or541515; cannot extend games ILUs.",
+    "access_status": "HTML and metadata downloaded and searched",
+    "next_step": "Review quarterly allocation/benchmarking separately; retain distinct units and2016 break."
+  },
+  {
+    "url": "https://www150.statcan.gc.ca/n1/tbl/csv/36100652-eng.zip",
+    "title": "NCI quarterly table36-10-0652-01",
+    "methodology": "Product-perspective quarterly jobs, seasonally adjusted",
+    "assessment": "57 exact jobs rows2012Q1-2026Q1 extracted; archive preserved. Separate measure, no annual ledger insertion.",
+    "access_status": "Official entire-table ZIP downloaded and parsed",
+    "next_step": "Review quarterly allocation/benchmarking separately; retain distinct units and2016 break."
+  },
+  {
+    "url": "https://www150.statcan.gc.ca/n1/pub/13-607-x/2016001/1248-eng.htm",
+    "title": "Culture Satellite Account subdomain definitions",
+    "methodology": "Games and related interactive digital edutainment",
+    "assessment": "Interactive media narrower than general digital media, but distinct from enterprise-industry scope.",
+    "access_status": "Official indexed text inspected",
+    "next_step": "Review quarterly allocation/benchmarking separately; retain distinct units and2016 break."
+  },
+  {
+    "url": "https://www150.statcan.gc.ca/n1/pub/13-607-x/2016001/1256-eng.htm",
+    "title": "Culture Satellite Account glossary",
+    "methodology": "Jobs include self-employed/employees/unpaid family; part-time not prorated",
+    "assessment": "Not FTE or unique workers; retain original jobs measure.",
+    "access_status": "Primary indexed text inspected; direct web retrieval timed out",
+    "next_step": "Review quarterly allocation/benchmarking separately; retain distinct units and2016 break."
+  },
+  {
+    "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/260113/dq260113c-eng.htm",
+    "title": "NCI release methodological break note",
+    "methodology": "Seasonally adjusted, product perspective; break2015Q4-2016Q1",
+    "assessment": "Explicit statistical discontinuity, not real job losses. Do not connect across it.",
+    "access_status": "Official HTML directly inspected",
+    "next_step": "Review quarterly allocation/benchmarking separately; retain distinct units and2016 break."
+  },
+  {
+    "url": "https://www150.statcan.gc.ca/n1/pub/36-28-0001/2025008/article/00001-eng.htm",
+    "title": "Game-specific ILU forward search recheck",
+    "methodology": "2013-2022 administrative series",
+    "assessment": "Still ends2022; repeated search yielded no game-specific2023+ ILU extension.",
+    "access_status": "Official indexed table rechecked",
+    "next_step": "Review quarterly allocation/benchmarking separately; retain distinct units and2016 break."
+  },
+  {
+    "url": "https://www150.statcan.gc.ca/n1/tbl/csv/36100452-eng.zip",
+    "title": "PTCI annual interactive-media jobs: complete source CSV",
+    "years": "2010-2024",
+    "methodology": "Product-attributed jobs; Canada; vector v120591204; units, not thousands despite mixed-unit table heading.",
+    "assessment": "15 annual observations verified; 13 overlapping years reconcile to quarterly means within 0.25 jobs. Separate companion, not unique people or FTE.",
+    "access_status": "Complete official ZIP downloaded and exact CSV rows parsed",
+    "next_step": "Retain 2016 break; evaluate as alternative product-perspective measure, not a splice to ILU."
+  },
+  {
+    "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/260602/dq260602a-eng.htm",
+    "title": "PTCI 2024 release: definition and 2016 revision",
+    "years": "2010-2024",
+    "methodology": "Product perspective across producing industries; refined games and website-design measurement from 2016.",
+    "assessment": "Current release confirms structural break; do not interpret 2015-2016 fall as jobs lost.",
+    "access_status": "Official release directly inspected",
+    "next_step": "Preserve separate pre-2016 and post-2016 segments."
+  },
+  {
+    "url": "https://www23.statcan.gc.ca/imdb/p2SV.pl?Function=getSurvey&Id=1541863",
+    "title": "PTCI methodology, reference year 2022",
+    "years": "2022 methodological vintage",
+    "methodology": "Canadian Productivity Accounts job estimates; LFS control totals, mainly SEPH industry allocation; CSA benchmark framework.",
+    "assessment": "Government model-based product allocation, not census of game studios. Documentation vintage recorded separately from 2024 data.",
+    "access_status": "Official methods directly inspected",
+    "next_step": "If detailed game allocation ratios are needed, locate current benchmark worksheets or published methodological appendix."
+  },
+  {
+    "url": "https://www23.statcan.gc.ca/imdb/p2SV.pl?Function=getSurvey&Id=1539957",
+    "title": "NCI methodology: annual benchmarking and quarterly projection reviewed",
+    "years": "Q4 2023 methodological vintage",
+    "methodology": "Employment benchmarked to CSA/PTCI; SEPH projects current quarters; seasonally adjusted.",
+    "assessment": "Annual and quarterly counts are linked estimates, not independent corroborating headcounts. No direct margin of error published.",
+    "access_status": "Official estimation section directly inspected",
+    "next_step": "Use observed reconciliation for archived vintage; do not double-count annual and quarterly observations as independent evidence."
+  }
+]

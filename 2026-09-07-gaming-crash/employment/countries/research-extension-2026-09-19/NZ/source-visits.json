@@ -1,0 +1,88 @@
+[
+  {
+    "url": "https://www.nzgda.com/blog/news/new-zealand-made-video-games-industry-grew-46-this-year",
+    "title": "NZGDA 2011 survey release",
+    "publisher": "NZGDA",
+    "years": "2011",
+    "methodology": "NZGDA member-studio survey, 21 studios; full-time equivalents. Changing respondents and reference dates, no verified population gross-up or continuous panel.",
+    "assessment": "Accept dated source-native snapshot; no continuous trend. 2011 body359 differs from boilerplate over360; retain explicit survey result.",
+    "access_status": "Primary HTML inspected; local copy saved",
+    "next_step": "Do not join changing samples into a national index."
+  },
+  {
+    "url": "https://www.nzgda.com/blog/news/nz-video-games-industry-continues-to-grow",
+    "title": "NZGDA 2012 survey release",
+    "publisher": "NZGDA",
+    "years": "2012",
+    "methodology": "NZGDA member-studio survey, 33 studios; full-time equivalents. Changing respondents and reference dates, no verified population gross-up or continuous panel.",
+    "assessment": "Accept dated source-native snapshot; no continuous trend. ",
+    "access_status": "Primary HTML inspected; local copy saved",
+    "next_step": "Do not join changing samples into a national index."
+  },
+  {
+    "url": "https://www.nzgda.com/blog/news/nz-made-video-games-industry-grew-86-in-2012",
+    "title": "NZGDA 2013 survey release",
+    "publisher": "NZGDA",
+    "years": "2013",
+    "methodology": "NZGDA member-studio survey, 33 studios; full-time equivalents. Changing respondents and reference dates, no verified population gross-up or continuous panel.",
+    "assessment": "Accept dated source-native snapshot; no continuous trend. Title says2012 but body twice dates figures31March2013.",
+    "access_status": "Primary HTML inspected; local copy saved",
+    "next_step": "Do not join changing samples into a national index."
+  },
+  {
+    "url": "https://www.nzgda.com/blog/news/nz-video-games-industry-doubles-exports",
+    "title": "NZGDA 2014 survey release",
+    "publisher": "NZGDA",
+    "years": "2014",
+    "methodology": "NZGDA member-studio survey, 30 studios; full-time equivalents. Changing respondents and reference dates, no verified population gross-up or continuous panel.",
+    "assessment": "Accept dated source-native snapshot; no continuous trend. 2014 source450 differs from434 implied by2015 claimed increase; retain source vintage.",
+    "access_status": "Primary HTML inspected; local copy saved",
+    "next_step": "Do not join changing samples into a national index."
+  },
+  {
+    "url": "https://www.nzgda.com/blog/new-zealands-game-developers-break-1-billion-annual-revenue-target",
+    "title": "NZGDA preliminary2026 release",
+    "publisher": "NZGDA",
+    "years": "2026",
+    "methodology": "Preliminary fiscal-year revenue announcement.",
+    "assessment": "No2026 employment count; do not derive jobs from revenue or prior-year growth.",
+    "access_status": "Primary HTML inspected",
+    "next_step": "Retrieve full2026 industry report when available."
+  },
+  {
+    "url": "https://www.mbie.govt.nz/dmsdocument/31198-game-development-sector-rebate-year-two-review",
+    "title": "MBIE GDSR Year Two Review",
+    "publisher": "MBIE",
+    "years": "2013-2024 indicated in indexed excerpts",
+    "methodology": "Indexed excerpt describes NZGDA survey set and distinct LBD firm set matched from166 names; full methods not recovered.",
+    "assessment": "Potential administrative employment history, but do not accept figures from indexed charts without full definitions.",
+    "access_status": "Full PDF returns403 via web and requests; indexed excerpts only; error response saved.",
+    "next_step": "Recover report and paired workbook; examine selection, survivorship, employee measure and rounding."
+  },
+  {
+    "url": "https://www.mbie.govt.nz/dmsdocument/31199-game-development-sector-rebate-year-two-review-data",
+    "title": "MBIE review data workbook",
+    "publisher": "MBIE",
+    "years": "Unverified",
+    "methodology": "Workbook linked in official report indexed text.",
+    "assessment": "No data extracted.",
+    "access_status": "HTTP403, HTML error saved; no workbook obtained.",
+    "next_step": "Recover workbook through approved public browser or official alternate link."
+  },
+  {
+    "url": "https://www.nzgda.com/blog/news/nz-video-games-industry-doubles-exports",
+    "title": "Main historical marker review",
+    "years": "2013-2014",
+    "methodology": "Source-native employment unit and reference date; changing coverage.",
+    "assessment": "Rechecked original release and period. Isolated markers only; no historical joins.",
+    "access_status": "Primary webpage read"
+  },
+  {
+    "url": "https://www.nzgda.com/blog/news/nz-made-video-games-industry-grew-86-in-2012",
+    "title": "Main historical marker review",
+    "years": "2013-2014",
+    "methodology": "Source-native employment unit and reference date; changing coverage.",
+    "assessment": "Rechecked original release and period. Isolated markers only; no historical joins.",
+    "access_status": "Primary webpage read"
+  }
+]

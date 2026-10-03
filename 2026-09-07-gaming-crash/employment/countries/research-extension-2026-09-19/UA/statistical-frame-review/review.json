@@ -1,0 +1,106 @@
+{
+  "country": "Ukraine",
+  "scope": "KVED 58.21 Publishing of computer games; government business-statistics employment frame",
+  "research_date": "2026-09-19",
+  "decision": {
+    "historical_2013_2018": "accepted_as_contextual_annual_markers_with_2013_2014_territorial_break",
+    "newer_2021_2024": "proposed_only_do_not_join",
+    "charting_instruction": "Chart 2013 as a separately labelled pre-occupation territorial-coverage marker and 2014-2018 as a contextual annual segment. Label the y-axis or source note 'persons employed in business entities; annual output, intra-year timing unspecified'. Do not show a continuous 2013-2024 line."
+  },
+  "historical_workbook": {
+    "url": "https://www.ukrstat.gov.ua/operativ/operativ2018/fin/pssg/pssg_u/kzpsg_ek_2010_2018_u.xlsx",
+    "retrieval": "Recovered from official URL with TLS certificate validation disabled because the certificate was expired; xlsx parsed locally.",
+    "sheet": "Лист5",
+    "title_cell_range": "A1:G6",
+    "kv58_21_range": "B6325:G6333",
+    "footnote_cell": "A8728",
+    "values": [
+      {
+        "year": 2013,
+        "persons_employed": 887,
+        "fop_component": 502,
+        "territorial_scope": "No exclusion stated in workbook footnote; pre-occupation coverage."
+      },
+      {
+        "year": 2014,
+        "persons_employed": 841,
+        "fop_component": 622,
+        "territorial_scope": "Excludes occupied Crimea, Sevastopol, and parts of Donetsk and Luhansk."
+      },
+      {
+        "year": 2015,
+        "persons_employed": 708,
+        "fop_component": 481,
+        "territorial_scope": "Same stated exclusions."
+      },
+      {
+        "year": 2016,
+        "persons_employed": 897,
+        "fop_component": 558,
+        "territorial_scope": "Same stated exclusions."
+      },
+      {
+        "year": 2017,
+        "persons_employed": 953,
+        "fop_component": 646,
+        "territorial_scope": "Same stated exclusions."
+      },
+      {
+        "year": 2018,
+        "persons_employed": 1072,
+        "fop_component": 769,
+        "territorial_scope": "Same stated exclusions."
+      }
+    ],
+    "definition": "Persons employed includes regular, non-staff, and unpaid owners/founders/family workers. Business entities comprise legal entities and FOPs. Not FTE or employees only.",
+    "annual_status": "The State Statistics methodological provisions classify publication of the indicator as annual. No recovered evidence identifies the within-year stock or averaging convention.",
+    "geographic_break": "2013 versus 2014 onward",
+    "source_evidence": [
+      {
+        "url": "https://drive.google.com/file/d/1XVeC3ZrkRMCHzzHzOZMtGWdNWHfMONjp/view",
+        "locator": "printed p. i / PDF p. 1, definitions and footnote 6",
+        "supports": "Historical provenance, definition, and exact official xlsx route."
+      },
+      {
+        "url": "https://www.ukrstat.gov.ua/norm_doc/2021/250/250.pdf",
+        "locator": "pp. 16, 20-22",
+        "supports": "Enterprise and FOP summation; annual frequency and KVED-class geographic publication."
+      },
+      {
+        "url": "https://www.ukrstat.gov.ua/druk/publicat/kat_u/2021/zb/11/zb_DSG_20.pdf",
+        "locator": "pp. 145-146; p. 4 territorial note",
+        "supports": "Institutional/principal-activity approach, employed-person definition, and later matching territorial convention."
+      }
+    ]
+  },
+  "newer_table": {
+    "url": "https://mincult.gov.ua/wp-content/uploads/2025/11/kreatyvni2025-1.pdf",
+    "locator": "printed p. 39, KVED 58.21 row; printed pp. 6-7 data-completeness caution",
+    "reported_values": [
+      {
+        "year": 2021,
+        "workers": 1015
+      },
+      {
+        "year": 2022,
+        "workers": 1601
+      },
+      {
+        "year": 2023,
+        "workers": 1236
+      },
+      {
+        "year": 2024,
+        "workers": 1025
+      }
+    ],
+    "exclusion_rationale": "The table supplies only 'workers' and years. It does not document worker status, annual timing, principal-activity allocation, FOP treatment, deduplication, or table-specific source. The report warns that wartime reporting exemptions make 2022-2023 and H1 2024 statistics incomplete/non-objective and can produce technical reporting-delay changes.",
+    "allowed_use": "Separate, clearly labelled proposed wartime table only. No splicing, growth calculation across the 2018-2021 gap, interpolation, or trend continuity claim."
+  },
+  "unresolved": [
+    "Whether the historical annual headcount is a period average, a point-in-time stock, or another annual reporting convention.",
+    "Whether the later 2021-2024 'workers' table has a source/methodology equivalent to the historical State Statistics series.",
+    "Whether data after 2018 can be recovered in the historical workbook's exact metric and territorial frame."
+  ],
+  "parent_decision": "Accept three additional2010-2012 source observations. Retain all nine as contextual publishing-only records outside representative regional chart. No trend eligibility asserted: territorial break at2014 and within-year convention unresolved."
+}

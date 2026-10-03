@@ -1,0 +1,102 @@
+[
+  {
+    "url": "https://www.egdf.eu/wp-content/uploads/2025/08/2023-European-video-games-industry-insight-report.pdf",
+    "title": "2023 European Video Games Industry Insight Report: Turkey",
+    "publisher": "European Games Developer Federation (EGDF), with Turkey data attributed to TOGED",
+    "years": "2023 data; report file published 2025",
+    "methodology": "EGDF questionnaire to national associations. It requests FTE employees, entrepreneurs and in-house freelancers of registered game-developer studios and third-party publishers. Remote employees in third countries are allocated to the employer's registered country; foreign subsidiaries and foreign subcontractor companies are excluded. Country-level collection and estimation method are not supplied.",
+    "assessment": "Primary association-backed source for 10,777. The value is an FTE-oriented, employer-registration measure with an explicitly mixed geography, so it is usable only as the qualified 2023 TOGED snapshot and cannot support a domestic-workplace trend.",
+    "access_status": "Original PDF downloaded and text/visual chart inspected; decisive PDF and extracted text saved under raw/.",
+    "next_step": "Obtain TOGED's underlying respondent universe, reference date, and treatment of part-time/contract personnel before treating the value as a domestic workforce census."
+  },
+  {
+    "url": "https://toged.org/",
+    "title": "Türkiye Oyun Geliştiricileri Derneği (TOGED)",
+    "publisher": "TOGED",
+    "years": "Current site inspected 2026-09-19",
+    "methodology": "Association website, not a statistical release.",
+    "assessment": "No dated national employment series or underlying method for the EGDF 2023 submission was recovered in this bounded visit.",
+    "access_status": "Public homepage fetched; no employment-report evidence located.",
+    "next_step": "Search TOGED publications, presentations or a direct association disclosure for the source survey/census."
+  },
+  {
+    "url": "https://www.gaminginturkey.com/tr/turkiye-oyun-sektoru-raporlari/",
+    "title": "Türkiye Oyun Sektörü Raporları",
+    "publisher": "Gaming in Türkiye",
+    "years": "2016-2025 report archive; 2025 reference-year report page updated 2026-02-17",
+    "methodology": "Publisher's annual ecosystem-report archive. The publisher says its reports compile open-source information with sector knowledge; current 2023-2025 files require an email form.",
+    "assessment": "The archive establishes that earlier/later editions exist, but it does not itself supply an employment series. The accessible 2021 original was text-searched and contains employment discussion but no national workforce stock. No new observation accepted.",
+    "access_status": "Primary archive HTML saved under raw/; accessible 2021 PDF inspected separately.",
+    "next_step": "Use already retained baseline2023/2025 PDFs; recover2016-2020 and2022 originals only if likely to contain workforce tables. No repeat acquisition required for saved editions."
+  },
+  {
+    "url": "https://veriportali.tuik.gov.tr/tr/databrowser/tuik/categories/8/8_2/8_2_2/TR%2CDF_ISGUCU_CEYREK_NACE_2_1_ISTIHDAM_C%2C1.0",
+    "title": "Economic activity employment, NACE Rev. 2.1",
+    "publisher": "Turkish Statistical Institute (TÜİK)",
+    "years": "Current public dataset interface",
+    "methodology": "TÜİK labour-force employment by economic activity. The associated labour-force release identifies information and communication as a broad NACE section grouping telecommunications, programming, consultancy, IT infrastructure and other information services.",
+    "assessment": "Official source, but not a games-industry series. The public shell does not expose a game-specific value, and broad software/information codes would include large non-game activity. No observation proposed.",
+    "access_status": "Public JavaScript application shell fetched and saved under raw/; no game-specific table or code extraction recovered in this bounded pass.",
+    "next_step": "Use TÜİK microdata or a documented NACE 58.21/62.x establishment tabulation only if it can be obtained with exact code, worker concept and game-specific boundary; do not use section K/J totals as a proxy."
+  },
+  {
+    "title": "TOGED public sitemap",
+    "url": "https://toged.org/sitemap.xml",
+    "access_status": "retrieved",
+    "methodology_or_locator": "Retrieved 2026-09-19. XML listed 70 public URLs. Each listed URL was fetched with curl using a standard browser user agent; page content was searched for employment terms and 10.777/10777.",
+    "assessment": "No current TOGED-public national employment observation found. This inventories the published sitemap, not deleted/private/unindexed material."
+  },
+  {
+    "title": "Ticaret Bakanlığı Desteklerinde 5 Kritik Gelişme",
+    "url": "https://toged.org/haberler/ticaret-bakanligi-desteklerinde-5-kritik-gelisme",
+    "access_status": "retrieved",
+    "methodology_or_locator": "Published 13 Mar 2026; section '5. İstihdam Destekleri' gives domestic and foreign wage-support ceilings per person.",
+    "assessment": "Primary TOGED release but excluded: support amounts do not state people employed or an industry workforce total."
+  },
+  {
+    "title": "TOGED homepage",
+    "url": "https://toged.org/",
+    "access_status": "retrieved",
+    "methodology_or_locator": "Homepage/about wording describes association membership and workforce-development objectives; no table, footnote or quantified workforce claim.",
+    "assessment": "Primary association context only; member scope cannot supply a national employment count."
+  },
+  {
+    "title": "Oyun geliştiriciler teknolojiye de yön veriyor",
+    "url": "https://www.aa.com.tr/tr/bilim-teknoloji/oyun-gelistiriciler-teknolojiye-de-yon-veriyor/1584799",
+    "access_status": "retrieved via public index",
+    "methodology_or_locator": "16 Sep 2019; the 'İstihdam imkanları da büyüyor' passage attributes a qualitative statement to TOGED chair Ali Erkin.",
+    "assessment": "No numeric workforce evidence or method. Excluded."
+  },
+  {
+    "title": "2023 European Video Games Industry Insight Report",
+    "url": "https://www.egdf.eu/wp-content/uploads/2025/08/2023-European-video-games-industry-insight-report.pdf",
+    "access_status": "existing original packet; not redownloaded in this pass",
+    "methodology_or_locator": "p. 57 employment-chart Turkey bar = 10,777; associated questionnaire/method notes define people included and excluded.",
+    "assessment": "Existing accepted 2023 contextual marker only. No additional year obtained."
+  },
+  {
+    "title": "Gaming in Türkiye reports archive",
+    "url": "https://www.gaminginturkey.com/tr/turkiye-oyun-sektoru-raporlari/",
+    "access_status": "not revisited by instruction",
+    "methodology_or_locator": "Already documented in the country research packet as market reports; task expressly excluded rechecking saved market PDFs.",
+    "assessment": "No values used. Turnover, company and target figures are excluded from employment."
+  },
+  {
+    "url": "https://www.fichier-pdf.fr/2016/01/28/egdf-vision-sep2015/egdf-vision-sep2015.pdf",
+    "title": "EGDF, How To Enable Digital Growth in Europe?",
+    "years": "2015-11-12 (PDF metadata; exact release date not printed) publication, not workforce reference date",
+    "methodology": "Not stated. The accessible file is a third-party copy of an EGDF-branded publication. PDF p. 4 (printed p. 4), Turkey map label 5,000",
+    "assessment": "5000 people working in game development. Publication is dated but the employment reference year and method are not. It conflicts in availability, not necessarily value, with EGDF's later 2018 Turkey N/A entry.",
+    "access_status": "PDF downloaded; decisive passages inspected",
+    "checked_date": "2026-09-20"
+  },
+  {
+    "url": "https://files.toged.org/creative-turkiye-oyun-ekosistemi-toplantisi-sonuc-raporu.pdf",
+    "title": "TOBB Türkiye Kreatif Endüstriler Meclisi and TOGED, Oyun Ekosistemi Değerlendirme Toplantısı Sonuç Raporu",
+    "years": "2026-03-04 publication, not workforce reference date",
+    "methodology": "Not stated. The report's only described survey is a 15-question live Mentimeter poll of about 52 meeting participants on the proposed law, not employment enumeration (PDF pp. 41-48). PDF p. 5 executive summary; pp. 12-13 (printed pp. 12-13)",
+    "assessment": "25000 directly employed people / qualified employment. The report is dated but the workforce reference date, frame, method, cadence and geographic basis are absent.",
+    "access_status": "PDF downloaded; decisive passages inspected",
+    "checked_date": "2026-09-20"
+  }
+]

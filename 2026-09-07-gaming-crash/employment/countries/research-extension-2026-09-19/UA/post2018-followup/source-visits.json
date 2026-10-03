@@ -1,0 +1,22 @@
+[
+  {
+    "url": "https://www.ukrstat.gov.ua/operativ/menu/menu_u/sze_20.htm",
+    "result": "success",
+    "evidence": "Official menu page identified the current 2010-2024 persons-employed workbook link."
+  },
+  {
+    "url": "https://www.ukrstat.gov.ua/operativ/operativ2022/fin/pssg/kzpsg_ek_2010_2021.xlsx",
+    "result": "success_tls_exception",
+    "evidence": "Downloaded 833 KiB xlsx. Worksheet named 2024 contains rows 2010-2024; 58.21 rows 10537:10551 and coverage/confidentiality notes 14543:14548. TLS certificate validation normally fails because the server certificate is expired."
+  },
+  {
+    "url": "https://www.ukrstat.gov.ua/operativ/operativ2019/fin/pssg/pssg_u/kzpsg_ek_2010_2019_u.xlsx",
+    "result": "not_pursued_after_current_workbook_recovered",
+    "evidence": "A separate vintage is unnecessary for the bounded goal because the current official workbook supplies the complete 2010-2024 class table with coverage notes."
+  },
+  {
+    "url": "https://mincult.gov.ua/wp-content/uploads/2025/11/kreatyvni2025-1.pdf",
+    "result": "existing_comparison_only",
+    "evidence": "Its 2021-2024 workers table is definitionally unresolved and wartime-caveated; it was not used to construct State Statistics observations."
+  }
+]

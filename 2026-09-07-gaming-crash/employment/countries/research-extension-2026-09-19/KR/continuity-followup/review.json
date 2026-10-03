@@ -1,0 +1,70 @@
+{
+  "country": "South Korea",
+  "question": "Whether the change from 52,466 game production/distribution workers in 2012 to 40,541 in 2013 has a documented KOCCA/MCST methodological cause, and whether 2010-2014 is a proven continuous frame.",
+  "research_date": "2026-09-19",
+  "answer": "No decisive original-method evidence was recovered that attributes the 2012-2013 change to a classification, sampling-frame, collection, contractor-treatment, or revision change. The recovered sources establish consistent source labels and a source-native overlapping historical comparison, but do not prove unchanged survey construction. Do not assert that the 22.7% fall is real employment change or a known methodological break.",
+  "source_native_evidence": [
+    {
+      "year_range": "2010-2012",
+      "values": [
+        48585,
+        51859,
+        52466
+      ],
+      "url": "https://www.kocca.kr/knowledge/publication/indu/__icsFiles/afieldfile/2013/11/11/uQ38hyWQZt2L.pdf",
+      "locator": "2013 White Paper on Korean Games / 2013 Content Industry Statistics extract, PDF p. 9, printed p. 25, Table 4 'Number of game-industry employees (2010-2012)', row 'game production and distribution'.",
+      "what_it_proves": "The 2010-2012 output is a people headcount that separates game production/distribution from PC cafes, arcade-game rooms and video-game venues."
+    },
+    {
+      "year_range": "2012-2014",
+      "values": [
+        52466,
+        40541,
+        39221
+      ],
+      "url": "https://m.korea.kr/expertWeb/resources/files/data/document_file/2016/2016%20%EC%A0%80%EC%9E%91%EA%B6%8C%20%EB%B3%B4%ED%98%B8%20%EC%97%B0%EC%B0%A8%EB%B3%B4%EA%B3%A0%EC%84%9C.pdf",
+      "locator": "2016 Copyright Protection Annual Report, PDF p. 133 / printed p. 105, Table II-8 'Domestic game-industry worker count (2012-2014)', row 'game production and distribution'; source note credits KOCCA, 2015 White Paper on Korean Games, October 2015.",
+      "what_it_proves": "A government-hosted reproduction presents 2012 52,466, 2013 40,541 and 2014 39,221 in one KOCCA-attributed table, using the same core row and separately showing game circulation/consumption venues. It supports the source-native existence of the reported step between 2012 and 2013."
+    },
+    {
+      "year_range": "2014-2016",
+      "values": [
+        39221,
+        35445,
+        33979
+      ],
+      "url": "https://welcon.kocca.kr/cmm/fms/CrawlingFileDown.do?atchFileId=FILE_3d4caf8b-17a4-4c87-8804-d2b91e83b471&fileSn=1",
+      "locator": "2017 White Paper on Korean Games, PDF/printed p. 12, Table 5 'Number of game industry employees (2014-2016)', 'Game development/distribution firms - Sub Total'.",
+      "what_it_proves": "Direct KOCCA/MCST publication independently confirms 2014 39,221 and maintains the production/distribution versus circulation/consumption (PC Bang and arcade room) split."
+    }
+  ],
+  "methodological_finding": {
+    "consistent_observed_elements": [
+      "People/headcount, not FTE.",
+      "Core production/development-distribution row is tabulated separately from PC cafes and arcade-game rooms/venues.",
+      "2012 overlap is exactly 52,466 in the 2013 KOCCA table and the 2015-White-Paper reproduction; 2014 overlap is 39,221 in the reproduction and direct 2017 KOCCA/MCST White Paper."
+    ],
+    "not_recovered": [
+      "The original KOCCA 2015 White Paper methodology appendix or questionnaire/frame documentation.",
+      "A KOCCA/MCST statement that 2013's 40,541 is caused by a change in classification, survey universe, response model, or worker-status definition.",
+      "A statement that the 2010-2014 survey frames, contractor treatment and exclusion rules were unchanged."
+    ],
+    "interpretation": "The numerical overlaps make the five values a coherent source-native historical comparison, but not a proven longitudinal frame. The falls can be shown as values reported by the source; causality and comparability remain unproved."
+  },
+  "plot_decision": {
+    "proven_continuous_series": false,
+    "allowed": "Five individual 2010-2014 source-native markers, or a deliberately labelled dashed historical comparison segment reading 'KOCCA reported game production/distribution workers; survey-frame continuity not independently established'. Keep production/distribution separate from venue-inclusive totals.",
+    "not_allowed": [
+      "A normal solid trend line whose implied continuity treats the 2012-2013 difference as real workforce contraction.",
+      "A causal annotation saying the drop was caused by a documented methodological change or by actual job losses.",
+      "Joining the 2010-2014 historical values to the later KR_core line as one unqualified series.",
+      "Combining the core row with PC cafes or arcade-game-room workers."
+    ],
+    "recommended_caption": "KOCCA-reported game production/distribution workers. 2010-2014 source-native historical comparison; collection-frame continuity and worker-status treatment not recovered."
+  },
+  "main_decision": "Retain marker-only presentation. Matching reported values across overlapping source tables are verified, but do not promote optional dashed comparison to a trend. Main rechecked local source extracts.",
+  "subsequent_evidence": {
+    "review": "../earlier-source-followup/review.json",
+    "summary": "KOCCA-issued press release directly confirms 2013 value and publication sample of 226 production/distribution firms. Does not resolve cause or survey-frame continuity. Earlier 2009 marker separately proposed."
+  }
+}

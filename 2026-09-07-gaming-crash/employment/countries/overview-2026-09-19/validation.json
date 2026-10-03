@@ -1,0 +1,9 @@
+{
+  "dated_countries": 23,
+  "undated_countries": 4,
+  "countries_with_gaps": 4,
+  "selected_observations": 122,
+  "source_snapshot_cutoff": "2026-09-09",
+  "area_encoding": "source-native employment / 80 in points squared; no size clamp or log size transformation",
+  "result": "PASS"
+}

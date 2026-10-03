@@ -1,0 +1,17 @@
+[
+  {
+    "country": "Vietnam",
+    "iso2": "VN",
+    "series_id": "VNM_game_industry_employment_estimated",
+    "year": 2024,
+    "value": 4100,
+    "unit": "persons",
+    "period": "Estimated end-2024 employment, in ministry article dated 22 December 2024",
+    "url": "https://mst.gov.vn/thong-tin-dien-tu-nam-2024-nhung-con-so-an-tuong-197241225172105882.htm",
+    "source_locator": "Section Ng\u00e0nh game ph\u00e1t tri\u1ec3n nh\u01b0ng g\u1eb7p kh\u00f3 kh\u0103n, second paragraph: 4,100 people at end-2024, +31% year on year.",
+    "definition": "Ministry estimate of game-industry workers at end-2024. Statistical frame, collection method and inclusion boundary unspecified. Article published before year-end; retain estimated status. Do not back-calculate 2023 from rounded growth.",
+    "display_value": "approximately 4,100",
+    "chart_eligible": false,
+    "trend_eligible": false
+  }
+]

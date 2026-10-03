@@ -1,0 +1,44 @@
+[
+  {
+    "title": "TOGED public sitemap",
+    "url": "https://toged.org/sitemap.xml",
+    "access_status": "retrieved",
+    "methodology_or_locator": "Retrieved 2026-09-19. XML listed 70 public URLs. Each listed URL was fetched with curl using a standard browser user agent; page content was searched for employment terms and 10.777/10777.",
+    "assessment": "No current TOGED-public national employment observation found. This inventories the published sitemap, not deleted/private/unindexed material."
+  },
+  {
+    "title": "Ticaret Bakanlığı Desteklerinde 5 Kritik Gelişme",
+    "url": "https://toged.org/haberler/ticaret-bakanligi-desteklerinde-5-kritik-gelisme",
+    "access_status": "retrieved",
+    "methodology_or_locator": "Published 13 Mar 2026; section '5. İstihdam Destekleri' gives domestic and foreign wage-support ceilings per person.",
+    "assessment": "Primary TOGED release but excluded: support amounts do not state people employed or an industry workforce total."
+  },
+  {
+    "title": "TOGED homepage",
+    "url": "https://toged.org/",
+    "access_status": "retrieved",
+    "methodology_or_locator": "Homepage/about wording describes association membership and workforce-development objectives; no table, footnote or quantified workforce claim.",
+    "assessment": "Primary association context only; member scope cannot supply a national employment count."
+  },
+  {
+    "title": "Oyun geliştiriciler teknolojiye de yön veriyor",
+    "url": "https://www.aa.com.tr/tr/bilim-teknoloji/oyun-gelistiriciler-teknolojiye-de-yon-veriyor/1584799",
+    "access_status": "retrieved via public index",
+    "methodology_or_locator": "16 Sep 2019; the 'İstihdam imkanları da büyüyor' passage attributes a qualitative statement to TOGED chair Ali Erkin.",
+    "assessment": "No numeric workforce evidence or method. Excluded."
+  },
+  {
+    "title": "2023 European Video Games Industry Insight Report",
+    "url": "https://www.egdf.eu/wp-content/uploads/2025/08/2023-European-video-games-industry-insight-report.pdf",
+    "access_status": "existing original packet; not redownloaded in this pass",
+    "methodology_or_locator": "p. 57 employment-chart Turkey bar = 10,777; associated questionnaire/method notes define people included and excluded.",
+    "assessment": "Existing accepted 2023 contextual marker only. No additional year obtained."
+  },
+  {
+    "title": "Gaming in Türkiye reports archive",
+    "url": "https://www.gaminginturkey.com/tr/turkiye-oyun-sektoru-raporlari/",
+    "access_status": "not revisited by instruction",
+    "methodology_or_locator": "Already documented in the country research packet as market reports; task expressly excluded rechecking saved market PDFs.",
+    "assessment": "No values used. Turnover, company and target figures are excluded from employment."
+  }
+]

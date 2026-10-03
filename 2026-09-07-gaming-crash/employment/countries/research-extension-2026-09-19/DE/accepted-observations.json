@@ -1,0 +1,46 @@
+[
+  {
+    "country": "Germany",
+    "iso2": "DE",
+    "series_id": "DE_core_revised2026",
+    "year": 2025,
+    "value": 12659,
+    "unit": "people",
+    "period": "2025 comparator restated in2026",
+    "url": "https://www.gamecampus.de/arbeiten/daten-fakten",
+    "revision_notice_url": "https://www.game.de/marktdaten-unternehmen-und-beschaeftigte-2026/",
+    "source_locator": "Employment paragraphs and methodological note",
+    "status": "accepted revised-vintage observation",
+    "definition": "Employees at German developers/publishers in expanded gamesmap/Goldmedia universe;2025 restated for comparability.",
+    "method_break": true,
+    "chart_eligible": true,
+    "trend_eligible": true,
+    "allowed_trend_years": [
+      2025,
+      2026
+    ],
+    "trend_review": "Do not append either observation to DE_core 2015-2025, and do not replace DE_core's original-vintage 2025 value of 12,134 in that trend. Do not calculate a 2024-to-revised-2025 change, a 2025-old-to-2026 change, or a 2015-2026 continuous trend/index across the database expansion. Do not join Goldmedia's expanded-core 2018/2024 context values, which include games-specific service providers, to either core developer/publisher series. Do not treat the 2025 restated comparator as a 31 March 2025 snapshot unless the publisher separately establishes that reference date."
+  },
+  {
+    "country": "Germany",
+    "iso2": "DE",
+    "series_id": "DE_core_revised2026",
+    "year": 2026,
+    "value": 12235,
+    "unit": "people",
+    "period": "31 March 2026",
+    "url": "https://www.gamecampus.de/arbeiten/daten-fakten",
+    "revision_notice_url": "https://www.game.de/marktdaten-unternehmen-und-beschaeftigte-2026/",
+    "source_locator": "Employment paragraphs and methodological note",
+    "status": "accepted revised-vintage observation",
+    "definition": "Employees at German developers/publishers in expanded gamesmap/Goldmedia universe;2025 restated for comparability.",
+    "method_break": false,
+    "chart_eligible": true,
+    "trend_eligible": true,
+    "allowed_trend_years": [
+      2025,
+      2026
+    ],
+    "trend_review": "Do not append either observation to DE_core 2015-2025, and do not replace DE_core's original-vintage 2025 value of 12,134 in that trend. Do not calculate a 2024-to-revised-2025 change, a 2025-old-to-2026 change, or a 2015-2026 continuous trend/index across the database expansion. Do not join Goldmedia's expanded-core 2018/2024 context values, which include games-specific service providers, to either core developer/publisher series. Do not treat the 2025 restated comparator as a 31 March 2025 snapshot unless the publisher separately establishes that reference date."
+  }
+]

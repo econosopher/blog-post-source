@@ -1,0 +1,9 @@
+{
+  "decision": "2019 respondent total verified; integration and duplicate check pending",
+  "accepted_candidate_series_id": "ID_kominfo2020_survey_game_developers_all",
+  "value": 1286,
+  "excluded_components": "1136 incorporated and150 unincorporated are components; do not add to1286",
+  "chart_eligible": false,
+  "trend_eligible": false,
+  "evidence": "https://www.researchgate.net/publication/394347887_Peta_Ekosistem_Industri_Game_2020"
+}

@@ -1,0 +1,74 @@
+{
+  "series_id": "CA_ptci_interactive_media_jobs_annual",
+  "status": "verified source-native companion; separate from annual country comparison ledger",
+  "observations": 15,
+  "years": [
+    2010,
+    2024
+  ],
+  "source_url": "https://www150.statcan.gc.ca/n1/tbl/csv/36100452-eng.zip",
+  "vector": "v120591204",
+  "unit": "jobs",
+  "scope": "Interactive-media product-attributed employment; games and related digital edutainment. Not enterprise-wide employment or FTE.",
+  "retrieved": "2026-09-19",
+  "raw_zip_sha256": "a41799959a9d0b6cd7babd7cee2f7bed0bb10ad4271aec649f1f93f8aaba80e4",
+  "break_between": [
+    2015,
+    2016
+  ],
+  "segments": [
+    [
+      2010,
+      2015
+    ],
+    [
+      2016,
+      2024
+    ]
+  ],
+  "reconciliation": {
+    "overlapping_years": 13,
+    "max_absolute_annual_minus_quarterly_mean": 0.25,
+    "interpretation": "Reconciliation of linked estimates, not independent confirmation."
+  },
+  "decision": "Keep as separately labelled annual companion; no join to ILU or ESAC, no 2015-2016 trend, no sums of quarterly jobs.",
+  "remaining_uncertainty": "Detailed current game-specific allocation ratios not published in inspected general methodology; documents are 2022/Q4 2023 vintages.",
+  "sources": [
+    {
+      "url": "https://www150.statcan.gc.ca/n1/tbl/csv/36100452-eng.zip",
+      "title": "PTCI annual interactive-media jobs: complete source CSV",
+      "years": "2010-2024",
+      "methodology": "Product-attributed jobs; Canada; vector v120591204; units, not thousands despite mixed-unit table heading.",
+      "assessment": "15 annual observations verified; 13 overlapping years reconcile to quarterly means within 0.25 jobs. Separate companion, not unique people or FTE.",
+      "access_status": "Complete official ZIP downloaded and exact CSV rows parsed",
+      "next_step": "Retain 2016 break; evaluate as alternative product-perspective measure, not a splice to ILU."
+    },
+    {
+      "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/260602/dq260602a-eng.htm",
+      "title": "PTCI 2024 release: definition and 2016 revision",
+      "years": "2010-2024",
+      "methodology": "Product perspective across producing industries; refined games and website-design measurement from 2016.",
+      "assessment": "Current release confirms structural break; do not interpret 2015-2016 fall as jobs lost.",
+      "access_status": "Official release directly inspected",
+      "next_step": "Preserve separate pre-2016 and post-2016 segments."
+    },
+    {
+      "url": "https://www23.statcan.gc.ca/imdb/p2SV.pl?Function=getSurvey&Id=1541863",
+      "title": "PTCI methodology, reference year 2022",
+      "years": "2022 methodological vintage",
+      "methodology": "Canadian Productivity Accounts job estimates; LFS control totals, mainly SEPH industry allocation; CSA benchmark framework.",
+      "assessment": "Government model-based product allocation, not census of game studios. Documentation vintage recorded separately from 2024 data.",
+      "access_status": "Official methods directly inspected",
+      "next_step": "If detailed game allocation ratios are needed, locate current benchmark worksheets or published methodological appendix."
+    },
+    {
+      "url": "https://www23.statcan.gc.ca/imdb/p2SV.pl?Function=getSurvey&Id=1539957",
+      "title": "NCI methodology: annual benchmarking and quarterly projection reviewed",
+      "years": "Q4 2023 methodological vintage",
+      "methodology": "Employment benchmarked to CSA/PTCI; SEPH projects current quarters; seasonally adjusted.",
+      "assessment": "Annual and quarterly counts are linked estimates, not independent corroborating headcounts. No direct margin of error published.",
+      "access_status": "Official estimation section directly inspected",
+      "next_step": "Use observed reconciliation for archived vintage; do not double-count annual and quarterly observations as independent evidence."
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+[
+  {
+    "country": "Singapore",
+    "iso2": "SG",
+    "series_id": "SG_mci_games_sector_employment",
+    "year": 2021,
+    "value": 2000,
+    "display_value": "nearly 2,000",
+    "unit": "people",
+    "period": "2021",
+    "url": "https://www.mddi.gov.sg/newsroom/infocomm-and-media-professionals-required/",
+    "source_locator": "Written parliamentary answer, 2 August 2022, paragraph 5.",
+    "definition": "Games-sector employment, near-2000 qualified estimate; worker-status and statistical frame not stated. 2700 manpower demand figure explicitly not actual employment.",
+    "chart_eligible": false,
+    "trend_eligible": false
+  }
+]

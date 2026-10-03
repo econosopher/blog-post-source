@@ -1,0 +1,11 @@
+{
+  "result": "PASS",
+  "annual_observations": 15,
+  "unique_years": 15,
+  "vector": "v120591204",
+  "scalar": "units",
+  "overlap_years_reconciled": 13,
+  "maximum_difference": 0.25,
+  "segments": 2,
+  "country_annual_ledger_unchanged": true
+}

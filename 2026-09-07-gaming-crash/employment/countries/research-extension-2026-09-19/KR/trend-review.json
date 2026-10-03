@@ -1,0 +1,56 @@
+{
+  "review_date": "2026-09-19",
+  "decision": "Historical KOCCA production/distribution counts verified; survey-frame continuity unresolved. Isolated historical markers only; excludes PC cafes and arcades.",
+  "original_packets_modified": false,
+  "observations": [
+    {
+      "year": 2010,
+      "series_id": "KR_core_archive_2010_2014",
+      "chart_eligible": true,
+      "trend_eligible": false,
+      "marker_only": true
+    },
+    {
+      "year": 2011,
+      "series_id": "KR_core_archive_2010_2014",
+      "chart_eligible": true,
+      "trend_eligible": false,
+      "marker_only": true
+    },
+    {
+      "year": 2012,
+      "series_id": "KR_core_archive_2010_2014",
+      "chart_eligible": true,
+      "trend_eligible": false,
+      "marker_only": true
+    },
+    {
+      "year": 2013,
+      "series_id": "KR_core_archive_2010_2014",
+      "chart_eligible": true,
+      "trend_eligible": false,
+      "marker_only": true
+    },
+    {
+      "year": 2014,
+      "series_id": "KR_core_archive_2010_2014",
+      "chart_eligible": true,
+      "trend_eligible": false,
+      "marker_only": true
+    },
+    {
+      "year": 2008,
+      "series_id": "KR_core_archive_2008_2009",
+      "chart_eligible": true,
+      "trend_eligible": false,
+      "marker_only": true
+    },
+    {
+      "year": 2009,
+      "series_id": "KR_core_archive_2008_2009",
+      "chart_eligible": true,
+      "trend_eligible": false,
+      "marker_only": true
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+[
+  {
+    "source": "2012 Economic Census for Business Activity: construction and service industries",
+    "publisher": "Statistics Bureau of Japan / MIC and METI",
+    "url": "https://www.stat.go.jp/data/e-census/2012/kakuho/pdf/service.pdf",
+    "date_or_reference": "1 February 2012",
+    "locator": "Table I-1, national JSIC 3914 Game software industry row",
+    "verified_count": {
+      "persons_engaged": 9452,
+      "establishments": 246
+    },
+    "eligibility": "Existing chart-eligible census series only; not newly added by this recheck."
+  },
+  {
+    "source": "2016 Economic Census for Business Activity, Service Industries B detailed-industry Table 1-1",
+    "publisher": "Government Statistics Portal e-Stat",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0003215380",
+    "date_or_reference": "1 June 2016",
+    "locator": "National row 3914 ゲームソフトウェア業; official project download records 256 establishments and 18,216 persons engaged",
+    "verified_count": {
+      "persons_engaged": 18216,
+      "establishments": 256
+    },
+    "eligibility": "Existing chart-eligible census series only; not newly added by this recheck."
+  },
+  {
+    "source": "CESA Game Industry Report 2024 official page",
+    "publisher": "CESA",
+    "url": "https://www.cesa.or.jp/action/industry-research/2024/",
+    "date_or_reference": "Published 20 December 2024",
+    "locator": "Official page lines describing the 2024 report's White Paper redesign, paid 360-page format, and approximately 200,000 total game-related industrial population",
+    "verified_count": {
+      "value": 200000,
+      "qualifier": "approximately; no employment reference date disclosed"
+    },
+    "eligibility": "Context only; no chart or trend use."
+  },
+  {
+    "source": "CESA Game Industry Report 2026 preview press release",
+    "publisher": "CESA",
+    "url": "https://www.cesa.or.jp/uploads/cesa_report_preview_0914.pdf",
+    "date_or_reference": "Published 17 September 2026",
+    "locator": "p. 1: company survey 220 members/48 valid responses, June-July 2026; developer survey 1,349 responses and includes educators/students. pp. 2-3: 30-page non-sale preview; full paid report expected December 2026.",
+    "verified_count": {
+      "company_survey_valid_responses": 48,
+      "company_survey_member_population": 220,
+      "developer_survey_responses": 1349
+    },
+    "eligibility": "No workforce total disclosed; samples must not be charted as employment."
+  },
+  {
+    "source": "Game developers' employment and career development 2025",
+    "publisher": "CESA / CEDEC",
+    "url": "https://www.cesa.or.jp/uploads/2026/info20260106-2.pdf",
+    "date_or_reference": "Fieldwork 2 June-4 August 2025",
+    "locator": "pp. 4-5, sections 1.2-1.5: primarily commercial game developers, also educators/students; internet survey; 339 valid responses.",
+    "verified_count": {
+      "valid_responses": 339
+    },
+    "eligibility": "Sample-only workforce characteristics; never national employment stock or trend."
+  }
+]

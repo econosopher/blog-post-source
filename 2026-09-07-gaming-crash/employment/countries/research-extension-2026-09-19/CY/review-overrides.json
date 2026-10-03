@@ -1,0 +1,15 @@
+{
+  "iso2": "CY",
+  "review_date": "2026-09-19",
+  "summary": "Current review: suspend CY_local from domestic games comparisons. CYGMA p15 calls these local tax-paying game-publishing jobs, but the cited Footprint p9 gives identical values as publishing employment and explicitly leaves local/remote worker location unresolved. Scope and geography conflict; values remain archived, not independently validated.",
+  "suspended_series_ids": [
+    "CY_local"
+  ],
+  "chart_eligible": false,
+  "trend_eligible": false,
+  "sources": [
+    "https://www.cbusinessadvisors.com/wp-content/uploads/2026/07/Cyprus-Games-Industry-Footprint-2024.pdf",
+    "https://cygma.eu/wp-content/uploads/2026/08/Cyprus-Video-Game-Industry-Report-2025_by-CYGMA.pdf"
+  ],
+  "next_step": "Recover original CYSTAT employment definition and any games-entity filtering. Do not splice, rank or index as domestic games until reconciled."
+}

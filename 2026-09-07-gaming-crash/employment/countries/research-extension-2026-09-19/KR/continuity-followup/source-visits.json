@@ -1,0 +1,30 @@
+[
+  {
+    "url": "https://www.kocca.kr/knowledge/publication/indu/__icsFiles/afieldfile/2013/11/11/uQ38hyWQZt2L.pdf",
+    "title": "2013 White Paper on Korean Games / Content Industry Statistics extract",
+    "methodology": "Table 4 reports annual people headcounts for 2010-2012 and separates game production/distribution from venue categories. No survey-frame continuity appendix was found in the recovered extract.",
+    "assessment": "Direct KOCCA evidence for 2010-2012 and the exact 2012 overlap value 52,466.",
+    "access_status": "full_source"
+  },
+  {
+    "url": "https://m.korea.kr/expertWeb/resources/files/data/document_file/2016/2016%20%EC%A0%80%EC%9E%91%EA%B6%8C%20%EB%B3%B4%ED%98%B8%20%EC%97%B0%EC%B0%A8%EB%B3%B4%EA%B3%A0%EC%84%9C.pdf",
+    "title": "2016 Copyright Protection Annual Report",
+    "methodology": "Table II-8 reproduces the KOCCA 2015 White Paper's 2012-2014 core-versus-venue employment table; it provides no survey design, frame or worker-status definitions.",
+    "assessment": "Government-hosted source-native comparison that makes the 2012-2013 numerical step directly observable, but does not explain it.",
+    "access_status": "full_source"
+  },
+  {
+    "url": "https://welcon.kocca.kr/cmm/fms/CrawlingFileDown.do?atchFileId=FILE_3d4caf8b-17a4-4c87-8804-d2b91e83b471&fileSn=1",
+    "title": "2017 White Paper on Korean Games",
+    "methodology": "Table 5 gives the same core/venue split for 2014-2016; method appendix sufficient to prove unchanged frame was not located in the recovered English report.",
+    "assessment": "Direct KOCCA/MCST confirmation of 2014 39,221 and continuing sector labels, not a proof of longitudinal survey equivalence.",
+    "access_status": "full_source"
+  },
+  {
+    "url": "https://www.kocca.kr/knowledge/publication/indu/",
+    "title": "KOCCA publication archive / 2015 White Paper recovery lead",
+    "methodology": "Searched directly and through KOCCA/MCST-indexed results for the original 2015 White Paper and its methodology.",
+    "assessment": "The original 2015 methodology document was not recovered in this bounded pass. Search yielded later editions, not a decisive explanation for the 2012-2013 difference.",
+    "access_status": "original_method_not_recovered"
+  }
+]

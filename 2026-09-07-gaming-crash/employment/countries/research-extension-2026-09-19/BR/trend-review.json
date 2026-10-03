@@ -1,0 +1,8 @@
+{
+  "review_date": "2026-09-19",
+  "chart_eligible": false,
+  "trend_eligible": false,
+  "decision": "Retain two source-verified historical records as contextual samples/company-set counts, outside representative national-estimate chart.",
+  "evidence": "Primary evidence locators: Abragames2008 printedpp3/11; BNDES/USP2014 printedpp31-32/39. Previously verified original PDFs retained in raw.",
+  "forbidden_joins": "No2008\u21922014\u21922018\u21922022\u21922023 national trend; no2005 average-times-company-count derivation."
+}

@@ -1,0 +1,51 @@
+[
+  {
+    "country": "India",
+    "iso2": "IN",
+    "series_id": "IN_nasscom_2006_game_company_personnel",
+    "year": 2006,
+    "value": 2500,
+    "unit": "people",
+    "period": "calendar year 2006 estimate, reported in a 4 November 2007 NASSCOM release",
+    "url": "https://economictimes.indiatimes.com/industry/media/entertainment/lack-of-skilled-manpower-impedes-progress-of-animation-gaming/articleshow/2516854.cms",
+    "source_locator": "PTI report, 4 November 2007, paragraphs 4-5: NASSCOM release says about 150 gaming companies employed about 2,500 personnel in 2006",
+    "definition": "Estimated personnel employed by approximately 150 gaming companies in India. The contemporaneous news item attributes the figure to a NASSCOM report release. The original NASSCOM report/PDF and its collection method were not recovered in this bounded sweep, so retain as a separately flagged historical association estimate rather than a census or a continuous series. It is game-company employment, with no stated inclusion or exclusion of animation, RMG, contractors, publishers, or support functions."
+  },
+  {
+    "country": "India",
+    "iso2": "IN",
+    "series_id": "IN_teamlease_2022_direct_gaming_employment",
+    "year": 2022,
+    "value": 50000,
+    "unit": "people",
+    "period": "current direct-employment estimate at the 17 November 2022 release of TeamLease Digital's Gaming: Tomorrow's Blockbuster",
+    "url": "https://cxotoday.com/media-coverage/game-to-gain-gaming-industry-to-add-1-lakh-new-jobs-by-fy-23-states-teamlease-digital/",
+    "source_locator": "TeamLease Digital release reproduced by CXOtoday, 17 November 2022: 'Currently, the sector directly employs about 50,000 people'; report title and release date are identified on the publisher's reports index",
+    "definition": "TeamLease Digital's broad Indian gaming-sector direct-employment estimate. The release says 30% of this workforce were programmers and developers and names programming, testing, animation, design, artist and miscellaneous roles. The public report landing page identifies the November 2022 edition but does not expose the report's population frame, sample or estimation method; RMG and non-core services are not excluded. Do not combine with the 2006 NASSCOM estimate or EY's direct-plus-indirect online-gaming total."
+  },
+  {
+    "country": "India",
+    "iso2": "IN",
+    "series_id": "IN_ey_2023_online_gaming_direct_indirect",
+    "year": 2023,
+    "value": 100000,
+    "unit": "people",
+    "period": "FY23 fact-sheet snapshot in EY's December 2023 report; body text also calls it present employment",
+    "url": "https://www.ey.com/content/dam/ey-unified-site/ey-com/en-in/insights/media-entertainment/documents/ey-new-frontier-online-gaming-report.pdf",
+    "source_locator": "PDF p. 9 factsheet: '100,000 Employees in the gaming industry in FY23'; PDF p. 13: approximately 100,000 individuals in direct and indirect roles across core and support functions, citing TeamLease Digital Gaming Report November 2022",
+    "definition": "EY's broad Indian online-gaming employment estimate, explicitly including direct and indirect roles across core and support functions. The report identifies real-money gaming as 82.8% of FY23 online-gaming market value, so this is not a core video-game-development workforce measure. EY cites TeamLease Digital's November 2022 gaming report for the employment claim; detailed population, sampling and direct/indirect multiplier method are not stated."
+  },
+  {
+    "country": "India",
+    "iso2": "IN",
+    "series_id": "IN_ey_2023_game_developers_programmers",
+    "year": null,
+    "value": 15000,
+    "unit": "people",
+    "period": "Undated figure on December2023 factsheet; adjacent FY23 labels do not explicitly apply",
+    "url": "https://www.ey.com/content/dam/ey-unified-site/ey-com/en-in/insights/media-entertainment/documents/ey-new-frontier-online-gaming-report.pdf",
+    "source_locator": "PDF p. 9 factsheet: '15,000 Game developers and programmers'; the same factsheet labels its gaming-market facts FY23",
+    "definition": "Undated occupational count for game developers and programmers; underlying method and relationship to broader employment estimate unspecified. Not an annual observation.",
+    "status": "context_only_undated"
+  }
+]

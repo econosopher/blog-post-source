@@ -1,0 +1,80 @@
+[
+  {
+    "year": "2012",
+    "annual_jobs": 40872,
+    "quarterly_mean": 40872.25,
+    "difference": 0.25
+  },
+  {
+    "year": "2013",
+    "annual_jobs": 38602,
+    "quarterly_mean": 38602.0,
+    "difference": 0.0
+  },
+  {
+    "year": "2014",
+    "annual_jobs": 40724,
+    "quarterly_mean": 40724.25,
+    "difference": 0.25
+  },
+  {
+    "year": "2015",
+    "annual_jobs": 41267,
+    "quarterly_mean": 41267.0,
+    "difference": 0.0
+  },
+  {
+    "year": "2016",
+    "annual_jobs": 15759,
+    "quarterly_mean": 15759.0,
+    "difference": 0.0
+  },
+  {
+    "year": "2017",
+    "annual_jobs": 18134,
+    "quarterly_mean": 18134.0,
+    "difference": 0.0
+  },
+  {
+    "year": "2018",
+    "annual_jobs": 19142,
+    "quarterly_mean": 19142.0,
+    "difference": 0.0
+  },
+  {
+    "year": "2019",
+    "annual_jobs": 23755,
+    "quarterly_mean": 23755.25,
+    "difference": 0.25
+  },
+  {
+    "year": "2020",
+    "annual_jobs": 22926,
+    "quarterly_mean": 22925.75,
+    "difference": -0.25
+  },
+  {
+    "year": "2021",
+    "annual_jobs": 28935,
+    "quarterly_mean": 28934.75,
+    "difference": -0.25
+  },
+  {
+    "year": "2022",
+    "annual_jobs": 32214,
+    "quarterly_mean": 32214.25,
+    "difference": 0.25
+  },
+  {
+    "year": "2023",
+    "annual_jobs": 34171,
+    "quarterly_mean": 34171.25,
+    "difference": 0.25
+  },
+  {
+    "year": "2024",
+    "annual_jobs": 34999,
+    "quarterly_mean": 34999.25,
+    "difference": 0.25
+  }
+]

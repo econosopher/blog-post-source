@@ -1,0 +1,20 @@
+[
+  {
+    "series_id": "FI_domestic_explicit_fte",
+    "value": 3700,
+    "unit": "FTE",
+    "period": "end of 2022",
+    "locator": "Report 2022, printed p. 20, Developers & Diversity",
+    "definition": "Entire Finnish Game Industry: approximately 3,700 FTE staff in Finland. The surrounding paragraph says totals include entrepreneurs; 400 people in Finnish-owned studios abroad are reported separately.",
+    "url": "https://neogames.fi/wp-content/uploads/2023/05/FGIR2022report.pdf",
+    "status": "accepted approximate domestic FTE",
+    "country": "Finland",
+    "iso2": "FI",
+    "year": 2022,
+    "acceptance_evidence": "Primary researcher visually read original report p20 on19Sep2026.",
+    "display_value": "approximately 3,700",
+    "chart_eligible": true,
+    "trend_eligible": true,
+    "trend_review": "Eligible only with explicit domestic FTE series2024; both approximate end-year national estimates including entrepreneurs. Interview coverage changes; preserve source-year labels and uncertainty. No splice to worldwide totals."
+  }
+]

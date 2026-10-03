@@ -1,0 +1,112 @@
+[
+  {
+    "url": "https://gic.gd/d/The_Game_Industry_of_Poland_report_2020.pdf",
+    "title": "The Game Industry of Poland",
+    "publisher": "Polish Agency for Enterprise Development (PARP) / Game Industry Conference / Indie Games Polska",
+    "years": "2016 and 2018 historical estimates; 2020 current workforce estimate",
+    "methodology": "The report attributes the 2020 sector-size research to Game Industry Conference. It defines the counted population as game-production studios, external-development companies and global publishers. It excludes local-market distribution and non-production service providers; QA and localisation providers are discussed separately because their employment could not be consistently tracked. Detailed sample size and collection instrument were not stated in the inspected employment section.",
+    "assessment": "Decisive primary source for the missing 2020 workforce point (9,710). Its backward-looking 2016 and 2018 counts are source-native restatements but must remain a separate, explicitly under-estimated historical-vintage series until their original sources and methods are recovered.",
+    "access_status": "full public PDF downloaded and text-extracted; exact excerpts preserved in raw/GIofP_2020_decisive_extract.txt",
+    "next_step": "Locate the original pre-2020 GIC estimates, if archived, before treating 2016 or 2018 as comparable to the 2020+ tighter estimate."
+  },
+  {
+    "url": "https://gic.gd/d/The_Game_Industry_of_Poland_report_2021.pdf",
+    "title": "The Game Industry of Poland - Report 2021",
+    "publisher": "Polish Agency for Enterprise Development (PARP) / Game Industry Conference",
+    "years": "2020 predecessor and 2021 current estimate",
+    "methodology": "The report describes 9,710 in the 2020 edition as the first tight estimate reflected in statistical sources. Its 2021 population covers game-production stakeholders, including development studios, external-development services and global publishers, while excluding service-only localisation and player support.",
+    "assessment": "Primary continuity evidence: it confirms the provenance and tightened status of the 2020 point, while retaining the existing 2021 observation. It does not validate the earlier 2016/2018 restatements as a continuous series.",
+    "access_status": "full public PDF previously retained in base packet; public GIC mirror inspected in this pass",
+    "next_step": "Keep the 2020+ core workforce series as an estimated industry series, not a payroll census or FTE series."
+  },
+  {
+    "url": "https://www.igp.org.pl/?i=raporty",
+    "title": "Raporty",
+    "publisher": "Fundacja Indie Games Polska",
+    "years": "archive listing: 2020, 2021, 2023; page current at the research date",
+    "methodology": "Publisher archive describes the 2020 report as the first Polish publication with basic industry data including employment. It lists no annual 2022 or 2024 Game Industry of Poland edition and states that the 2023 report does not repeat exactly the 2020-2021 research scope.",
+    "assessment": "Useful publisher-maintained archive map. It supports the report-edition gap but is not itself a workforce observation source.",
+    "access_status": "full public HTML inspected",
+    "next_step": "Treat 2020, 2021, 2023 and 2025 as discrete publication snapshots; do not interpolate 2022 or 2024."
+  },
+  {
+    "url": "https://en.parp.gov.pl/component/content/article/89639%3Anajnowsza-edycja-raportu-o-polskiej-branzy-gier-the-game-industry-of-poland-2025",
+    "title": "The latest edition of the report on the Polish games industry: The Game Industry of Poland 2025",
+    "publisher": "Polish Agency for Enterprise Development (PARP)",
+    "years": "2025 report release; forward check through 2026-09-19",
+    "methodology": "PARP identifies the 2025 report's partners as the Ministry of Development and Technology, Institute of Creative Industries and Game Industry Conference. The base packet's full 2025 PDF records 14,568 people with an October 2025 active-studio frame and notes improved studio-discovery methodology.",
+    "assessment": "No later source-native Polish game-production employment reference year was located in this bounded forward sweep. The existing 2025 observation remains the latest verified point; release timing is not a new 2026 employment observation.",
+    "access_status": "official public release inspected; underlying 2025 PDF already retained in base packet",
+    "next_step": "Watch PARP/GIC and Indie Games Polska for the next report; verify its reference date, studio frame and any revised historical employment values before extending the core series."
+  },
+  {
+    "url": "https://research.digitaldragons.pl/",
+    "title": "Digital Dragons Research archive",
+    "publisher": "Krakow Technology Park / Digital Dragons",
+    "years": "2015, 2017, 2020 editions and city studies",
+    "methodology": "Publisher-maintained archive; editions combine gamer, developer, wage and regional research.",
+    "assessment": "Useful source-family and definition evidence; not a verified additional national workforce observation.",
+    "access_status": "HTML read; linked legacy PDFs failed direct download.",
+    "next_step": "Keep samples and contract definitions separate; trace historical national estimates to their original instruments."
+  },
+  {
+    "url": "https://www.kpt.krakow.pl/wp-content/uploads/2018/06/raport_kondycja_polskiej_branzy_final-2015-4.pdf",
+    "title": "Condition of the Polish Game Industry 2015",
+    "publisher": "Krakow Technology Park / Digital Dragons",
+    "years": "2015",
+    "methodology": "P4: 41 developer-firm online responses, separate from 3750-consumer study.",
+    "assessment": "Useful source-family and definition evidence; not a verified additional national workforce observation.",
+    "access_status": "Web-indexed PDF method read; direct download 404.",
+    "next_step": "Keep samples and contract definitions separate; trace historical national estimates to their original instruments."
+  },
+  {
+    "url": "https://www.cdprojekt.com/pl/wp-content/uploads-pl/2016/03/kondycja-polskiej-branzy-gier17.pdf",
+    "title": "Condition of the Polish Game Industry 2017 corporate mirror",
+    "publisher": "Krakow Technology Park / Digital Dragons",
+    "years": "December 2016-March 2017; separate 2016 pay study",
+    "methodology": "P5: 101/approximately311 firms; >1100-worker wage sample. P72 employment-contract-only firm size.",
+    "assessment": "Useful source-family and definition evidence; not a verified additional national workforce observation.",
+    "access_status": "Full 48MB original PDF downloaded and method/employment sections read.",
+    "next_step": "Keep samples and contract definitions separate; trace historical national estimates to their original instruments."
+  },
+  {
+    "url": "https://www.kpt.krakow.pl/app/uploads/2026/05/raport_2021_long_final_web.pdf",
+    "title": "Condition of the Polish Game Industry 2020 recovered publisher copy",
+    "publisher": "Krakow Technology Park / Digital Dragons",
+    "years": "2019 developer fieldwork; July 2020 wage reference",
+    "methodology": "P113: 100/476 firms; separate2241-worker pay sample,1700 direct development. P122 contract shares describe firms.",
+    "assessment": "Useful source-family and definition evidence; not a verified additional national workforce observation.",
+    "access_status": "Full PDF downloaded; exact methods and employment pages read.",
+    "next_step": "Keep samples and contract definitions separate; trace historical national estimates to their original instruments."
+  },
+  {
+    "url": "https://expo.gov.pl/wp-content/uploads/2024/11/Raport-branza-gamedev.pdf",
+    "title": "Government Expo games sector report",
+    "publisher": "Polish government Expo portal",
+    "years": "Historical chart through 2022; 2023 comparison",
+    "methodology": "Government-hosted secondary compilation; original GIC data provenance needs follow-up.",
+    "assessment": "Useful source-family and definition evidence; not a verified additional national workforce observation.",
+    "access_status": "Web-indexed PDF inspected; direct download404. No observation accepted.",
+    "next_step": "Keep samples and contract definitions separate; trace historical national estimates to their original instruments."
+  },
+  {
+    "url": "https://www.researchgate.net/publication/367163622_Polski_Gamedev_-_Raport_2022",
+    "title": "Author publication record: Polski Gamedev - Raport 2022",
+    "publisher": "Indie Games Poland / Game Industry Conference; Jakub Marszalkowski",
+    "years": "January2023 publication; volume2 2022/2023",
+    "methodology": "Author record identifies Indie Games Poland publisher and public bit.ly/pgdevpubII link; no fulltext on ResearchGate.",
+    "assessment": "Recovered primary2022 observation accepted as isolated marker; does not validate earlier historical estimates or uniform annual growth.",
+    "access_status": "HTML read; public shortlink followed to publisher-distributed Drive PDF.",
+    "next_step": "Compare later GIC revisions and exact stock dates before approving cross-edition lines."
+  },
+  {
+    "url": "https://drive.google.com/file/d/1MQ8HMbRiFoX5phR5PqvzmrIN2M0MhSW6/view",
+    "title": "PolskiGamedev.pl Magazyn vol2 2022/2023",
+    "publisher": "Indie Games Poland / Game Industry Conference; Jakub Marszalkowski",
+    "years": "2022 workforce; published January2023",
+    "methodology": "Original pp140-141 confirms14200 workers in Polish game production; approximately2100 increase across15months. Pre2020 values explicitly rough reconstructions, not measured annual counts.",
+    "assessment": "Recovered primary2022 observation accepted as isolated marker; does not validate earlier historical estimates or uniform annual growth.",
+    "access_status": "Full public PDF downloaded; p141 infographic visually checked.",
+    "next_step": "Compare later GIC revisions and exact stock dates before approving cross-edition lines."
+  }
+]

@@ -1,0 +1,9 @@
+{
+  "result": "PASS",
+  "countries": 23,
+  "observations": 118,
+  "shared_axis": "employment on one log y-axis; year on x-axis",
+  "faceted_bars": "zero-based independent y-scales, shared 2015-2025 calendar axis",
+  "stacking": false,
+  "interpolation": false
+}

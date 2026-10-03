@@ -1,0 +1,34 @@
+{
+  "country": "Japan",
+  "research_date": "2026-09-19",
+  "proposal": "One exact, dated national establishment-class observation is recovered. It is a candidate for a standalone Japanese government detailed-industry series, not for comparison with CESA ecosystem estimates or CEDEC respondent demographics.",
+  "observations": [
+    {
+      "proposed_id": "JP_economic_census_3914_2012_workers",
+      "value_people": 9452,
+      "period": "2012 Economic Census activity survey",
+      "reference_date": "2012 (survey year; confirm exact enumeration date in downloaded table metadata before presentation)",
+      "series_label": "Game software industry (JSIC 3914) establishment workers",
+      "definition": "National workers in establishments classified as 3914 Game software industry: establishments creating game software, including component programs, for home-TV game machines, portable electronic game machines and PCs, and conducting related research, analysis or advice. The classification excludes game-cassette and game-optical-disc manufacturing.",
+      "methodology": "Economic Census activity survey; official national establishment tabulation. The published table notes that establishment, worker and sales values cover establishments for which required items were obtained, and excludes management/support establishments from this establishment tabulation.",
+      "scope_limits": "Domestic establishment industry classification. It is not all employment at diversified game publishers or console-hardware companies, not a developer-occupation count, and not a contractor/FTE measure.",
+      "source_locator": "Results overview, p. 2 / Table I-1, row 3914 ゲームソフトウェア業: 246 establishments; 9,452 workers.",
+      "url": "https://www.stat.go.jp/data/e-census/2012/kakuho/pdf/service.pdf",
+      "assessment": "primary official source; dated and exact; candidate series anchor only. Do not interpolate or combine with CESA values."
+    }
+  ],
+  "not_proposed": [
+    {
+      "item": "CESA Game Industry Report 2024/2025 workforce estimates",
+      "reason": "Employment reference year and detailed reproducible method are not public; the 2025 core range includes console hardware and the broad estimate includes many related industries."
+    },
+    {
+      "item": "CEDEC 2024/2025 employment-status shares",
+      "reason": "Voluntary online survey respondent demographics, not national workforce stocks."
+    },
+    {
+      "item": "CESA 2008 63,863 employment inducement",
+      "reason": "Input-output-model induced employment associated with economic effects, explicitly not necessarily additional jobs."
+    }
+  ]
+}

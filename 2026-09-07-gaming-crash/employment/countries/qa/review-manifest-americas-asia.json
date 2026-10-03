@@ -1,0 +1,258 @@
+[
+  {
+    "chart_id": "br-employment-01",
+    "country": "Brazil",
+    "label": "Estimated people at Brazilian game developers",
+    "series_ids": "[\"BR_developer_people\"]",
+    "png": "charts/br-employment-01.png",
+    "svg": "charts/br-employment-01.svg"
+  },
+  {
+    "chart_id": "br-composition-01",
+    "country": "Brazil",
+    "label": "Outsourced workers reported by sampled developers",
+    "series_ids": "[\"BR_outsourced_count\"]",
+    "png": "charts/br-composition-01.png",
+    "svg": "charts/br-composition-01.svg"
+  },
+  {
+    "chart_id": "br-composition-02",
+    "country": "Brazil",
+    "label": "Outsourced share in developer work-regime samples",
+    "series_ids": "[\"BR_outsourced_share\"]",
+    "png": "charts/br-composition-02.png",
+    "svg": "charts/br-composition-02.svg"
+  },
+  {
+    "chart_id": "br-composition-03",
+    "country": "Brazil",
+    "label": "Foreign people in responding developers",
+    "series_ids": "[\"BR_foreign_sample\"]",
+    "png": "charts/br-composition-03.png",
+    "svg": "charts/br-composition-03.svg"
+  },
+  {
+    "chart_id": "ca-employment-01",
+    "country": "Canada",
+    "label": "Game design and publishing employment, administrative ILUs",
+    "series_ids": "[\"CA_statcan_ilu\"]",
+    "png": "charts/ca-employment-01.png",
+    "svg": "charts/ca-employment-01.svg"
+  },
+  {
+    "chart_id": "ca-employment-02",
+    "country": "Canada",
+    "label": "Direct industry FTEs, earlier ESAC method",
+    "series_ids": "[\"CA_esac_legacy\"]",
+    "png": "charts/ca-employment-02.png",
+    "svg": "charts/ca-employment-02.svg"
+  },
+  {
+    "chart_id": "ca-employment-03",
+    "country": "Canada",
+    "label": "Direct industry FTEs, revised ESAC method",
+    "series_ids": "[\"CA_esac_revised\"]",
+    "png": "charts/ca-employment-03.png",
+    "svg": "charts/ca-employment-03.svg"
+  },
+  {
+    "chart_id": "ca-composition-01",
+    "country": "Canada",
+    "label": "Contract/freelance share of reported company workforce",
+    "series_ids": "[\"CA_contract_share\"]",
+    "png": "charts/ca-composition-01.png",
+    "svg": "charts/ca-composition-01.svg"
+  },
+  {
+    "chart_id": "ca-composition-02",
+    "country": "Canada",
+    "label": "2015 surveyed workforce by immigration/citizenship status",
+    "series_ids": "[\"CA_immigration_share\"]",
+    "png": "charts/ca-composition-02.png",
+    "svg": "charts/ca-composition-02.svg"
+  },
+  {
+    "chart_id": "cn-employment-01",
+    "country": "China",
+    "label": "Personnel at major listed game companies",
+    "series_ids": "[\"CN_listed_panel\"]",
+    "png": "charts/cn-employment-01.png",
+    "svg": "charts/cn-employment-01.svg"
+  },
+  {
+    "chart_id": "gb-employment-01",
+    "country": "United Kingdom",
+    "label": "Development and production-support full-time equivalent roles",
+    "series_ids": "[\"GB_tiga_fte\"]",
+    "png": "charts/gb-employment-01.png",
+    "svg": "charts/gb-employment-01.svg"
+  },
+  {
+    "chart_id": "gb-employment-02",
+    "country": "United Kingdom",
+    "label": "Development workforce including all counted freelancers",
+    "series_ids": "[\"GB_tiga_people\"]",
+    "png": "charts/gb-employment-02.png",
+    "svg": "charts/gb-employment-02.svg"
+  },
+  {
+    "chart_id": "gb-employment-03",
+    "country": "United Kingdom",
+    "label": "Annual average filled jobs in computer games",
+    "series_ids": "[\"GB_dcms_jobs\"]",
+    "png": "charts/gb-employment-03.png",
+    "svg": "charts/gb-employment-03.svg"
+  },
+  {
+    "chart_id": "gb-composition-01",
+    "country": "United Kingdom",
+    "label": "Freelancers counted at development companies",
+    "series_ids": "[\"GB_tiga_freelancers\"]",
+    "png": "charts/gb-composition-01.png",
+    "svg": "charts/gb-composition-01.svg"
+  },
+  {
+    "chart_id": "gb-composition-02",
+    "country": "United Kingdom",
+    "label": "Freelancer share of Ukie workforce respondents",
+    "series_ids": "[\"GB_ukie_freelancer_share\"]",
+    "png": "charts/gb-composition-02.png",
+    "svg": "charts/gb-composition-02.svg"
+  },
+  {
+    "chart_id": "gb-composition-03",
+    "country": "United Kingdom",
+    "label": "Nationality distribution of Ukie workforce respondents",
+    "series_ids": "[\"GB_ukie_nationality_share\"]",
+    "png": "charts/gb-composition-03.png",
+    "svg": "charts/gb-composition-03.svg"
+  },
+  {
+    "chart_id": "id-employment-01",
+    "country": "Indonesia",
+    "label": "Minimum identified development/publishing talent",
+    "series_ids": "[\"ID_official_core_min\"]",
+    "png": "charts/id-employment-01.png",
+    "svg": "charts/id-employment-01.svg"
+  },
+  {
+    "chart_id": "jp-employment-01",
+    "country": "Japan",
+    "label": "Core game-company workforce, including console hardware",
+    "series_ids": "[\"JP_core_range\"]",
+    "png": "charts/jp-employment-01.png",
+    "svg": "charts/jp-employment-01.svg"
+  },
+  {
+    "chart_id": "jp-composition-01",
+    "country": "Japan",
+    "label": "CEDEC 2024 respondent employment status",
+    "series_ids": "[\"JP_status_2024\"]",
+    "png": "charts/jp-composition-01.png",
+    "svg": "charts/jp-composition-01.svg"
+  },
+  {
+    "chart_id": "jp-composition-02",
+    "country": "Japan",
+    "label": "CEDEC 2025 respondent employment status",
+    "series_ids": "[\"JP_status_2025\"]",
+    "png": "charts/jp-composition-02.png",
+    "svg": "charts/jp-composition-02.svg"
+  },
+  {
+    "chart_id": "jp-composition-03",
+    "country": "Japan",
+    "label": "Freelancer or independent developer share of CEDEC respondents",
+    "series_ids": "[\"JP_freelancers_2024\"]",
+    "png": "charts/jp-composition-03.png",
+    "svg": "charts/jp-composition-03.svg"
+  },
+  {
+    "chart_id": "jp-composition-04",
+    "country": "Japan",
+    "label": "Freelancer or independent developer share of CEDEC respondents",
+    "series_ids": "[\"JP_freelancers_2025\"]",
+    "png": "charts/jp-composition-04.png",
+    "svg": "charts/jp-composition-04.svg"
+  },
+  {
+    "chart_id": "kr-employment-01",
+    "country": "South Korea",
+    "label": "Game development and publishing workers",
+    "series_ids": "[\"KR_core\"]",
+    "png": "charts/kr-employment-01.png",
+    "svg": "charts/kr-employment-01.svg"
+  },
+  {
+    "chart_id": "kr-composition-01",
+    "country": "South Korea",
+    "label": "Employment status within game production/publishing",
+    "series_ids": "[\"KR_core_status_2017\"]",
+    "png": "charts/kr-composition-01.png",
+    "svg": "charts/kr-composition-01.svg"
+  },
+  {
+    "chart_id": "ph-employment-01",
+    "country": "Philippines",
+    "label": "Game-development and related-services employment",
+    "series_ids": "[\"PH_boi2000\"]",
+    "png": "charts/ph-employment-01.png",
+    "svg": "charts/ph-employment-01.svg"
+  },
+  {
+    "chart_id": "sg-employment-01",
+    "country": "Singapore",
+    "label": "Games-sector employees including esports context",
+    "series_ids": "[\"SG_games2021\"]",
+    "png": "charts/sg-employment-01.png",
+    "svg": "charts/sg-employment-01.svg"
+  },
+  {
+    "chart_id": "tw-employment-01",
+    "country": "Taiwan",
+    "label": "Employees at responding games companies",
+    "series_ids": "[\"TW_survey2022\"]",
+    "png": "charts/tw-employment-01.png",
+    "svg": "charts/tw-employment-01.svg"
+  },
+  {
+    "chart_id": "us-employment-01",
+    "country": "United States",
+    "label": "Core developer and publisher company employment",
+    "series_ids": "[\"US_core\"]",
+    "png": "charts/us-employment-01.png",
+    "svg": "charts/us-employment-01.svg"
+  },
+  {
+    "chart_id": "us-employment-02",
+    "country": "United States",
+    "label": "Broad direct games-industry employment",
+    "series_ids": "[\"US_broad\"]",
+    "png": "charts/us-employment-02.png",
+    "svg": "charts/us-employment-02.svg"
+  },
+  {
+    "chart_id": "us-employment-03",
+    "country": "United States",
+    "label": "Software-sector employment",
+    "series_ids": "[\"US_software\"]",
+    "png": "charts/us-employment-03.png",
+    "svg": "charts/us-employment-03.svg"
+  },
+  {
+    "chart_id": "us-employment-04",
+    "country": "United States",
+    "label": "Specialist game-development services employment",
+    "series_ids": "[\"US_services\"]",
+    "png": "charts/us-employment-04.png",
+    "svg": "charts/us-employment-04.svg"
+  },
+  {
+    "chart_id": "us-employment-05",
+    "country": "United States",
+    "label": "Earlier ESA mapping-project reported employment",
+    "series_ids": "[\"US_mapping_2017\"]",
+    "png": "charts/us-employment-05.png",
+    "svg": "charts/us-employment-05.svg"
+  }
+]

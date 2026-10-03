@@ -1,0 +1,32 @@
+﻿iso2,selected_series,display_definition,reason
+US,US_core,Jobs · development & publishing,One representative employment measure; incompatible alternatives stay in original library. Changes between selected definitions use dashed links.
+CA,CA_esac_legacy;CA_esac_revised,FTE · ESAC; revised coverage,One representative employment measure; incompatible alternatives stay in original library. Changes between selected definitions use dashed links.
+KR,KR_core,People · development & publishing,One representative employment measure; incompatible alternatives stay in original library. Changes between selected definitions use dashed links.
+GB,GB_tiga_people,People · production roles + freelancers,One representative employment measure; incompatible alternatives stay in original library. Changes between selected definitions use dashed links.
+PL,PL_core_workforce,People · game production,One representative employment measure; incompatible alternatives stay in original library. Changes between selected definitions use dashed links.
+BR,BR_developer_people,People · developer estimate,One representative employment measure; incompatible alternatives stay in original library. Changes between selected definitions use dashed links.
+DE,DE_core,People · developers & publishers,One representative employment measure; incompatible alternatives stay in original library. Changes between selected definitions use dashed links.
+TR,TR_toged,FTE · includes some staff abroad,One representative employment measure; incompatible alternatives stay in original library. Changes between selected definitions use dashed links.
+ES,ES_direct,People · direct; freelancers separate,One representative employment measure; incompatible alternatives stay in original library. Changes between selected definitions use dashed links.
+FR,FR_ey_direct_fte,FTE · excludes independent workers,One representative employment measure; incompatible alternatives stay in original library. Changes between selected definitions use dashed links.
+SE,SE_domestic,Annual-average full-time positions,One representative employment measure; incompatible alternatives stay in original library. Changes between selected definitions use dashed links.
+RO,RO_employees_collaborators;RO_employees2024,People · collaborator coverage changes,One representative employment measure; incompatible alternatives stay in original library. Changes between selected definitions use dashed links.
+CY,CY_local,People · employed and taxed locally,One representative employment measure; incompatible alternatives stay in original library. Changes between selected definitions use dashed links.
+NL,NL_domestic_broad,Jobs · includes self-employed specialists,One representative employment measure; incompatible alternatives stay in original library. Changes between selected definitions use dashed links.
+RS,RS_national_estimate,People · domestic boundary uncertain,One representative employment measure; incompatible alternatives stay in original library. Changes between selected definitions use dashed links.
+FI,FI_domestic_2024_fte,Domestic FTE · includes entrepreneurs,One representative employment measure; incompatible alternatives stay in original library. Changes between selected definitions use dashed links.
+AU,AU_igea_survey;AU_igea_augmented,Full-time measure · includes contractors,One representative employment measure; incompatible alternatives stay in original library. Changes between selected definitions use dashed links.
+NZ,NZ_fulltime;NZ_workers;NZ_fte,Survey · people / full-time roles / FTE,One representative employment measure; incompatible alternatives stay in original library. Changes between selected definitions use dashed links.
+DK,DK_payroll_fte,Payroll FTE · one consistent vintage,One representative employment measure; incompatible alternatives stay in original library. Changes between selected definitions use dashed links.
+NO,NO_sample_total,People · 30 responding employers,One representative employment measure; incompatible alternatives stay in original library. Changes between selected definitions use dashed links.
+SG,SG_games2021,People · wider games-sector definition,One representative employment measure; incompatible alternatives stay in original library. Changes between selected definitions use dashed links.
+CN,CN_listed_panel,Listed-company panel · location unresolved,One representative employment measure; incompatible alternatives stay in original library. Changes between selected definitions use dashed links.
+IL,IL_ecosystem,Broad company ecosystem · location unresolved,One representative employment measure; incompatible alternatives stay in original library. Changes between selected definitions use dashed links.
+JP,JP_core_range,People · includes console hardware,Undated panel; report edition is not treated as employment year.
+TW,TW_survey2022,People · 133-company sample,Undated panel; report edition is not treated as employment year.
+ID,ID_official_core_min,People · lower bound,Undated panel; report edition is not treated as employment year.
+PH,PH_boi2000,People · lower bound,Undated panel; report edition is not treated as employment year.
+IN,,No comparable estimate plotted,"Government-hosted EY report estimates around 66,000 gaming professionals, while a 2025 Primus report says 130,000 in more than 1,900 gaming companies. Their observation dates and gaming/RMG boundaries are not sufficiently defined for a national core comparison; no synthetic trend is created."
+MY,,No comparable estimate plotted,"DOSM occupation categories combine digital games with esports, and the inspected MDEC Southeast Asia studies report studio/respondent samples and salary distributions. No defensible national domestic development/publishing employment stock was verified; regional sample sizes are not country workforce totals."
+UA,,No comparable estimate plotted,No validated national population total recovered. DOU’s major-company panel includes Ukrainian tax residents working abroad and changes membership; retained as context with selected directly reported company observations.
+VN,,No comparable estimate plotted,"A government news article repeats Vietnam Briefing’s 4,100 workers in 2024, but the underlying article also claims 35,000 developers without reconciling scopes. A 2025 Nhan Dan interview estimates nearly 10,000 people specifically in mobile games. These are conflicting or differently bounded contextual estimates, not a comparable annual national core series."

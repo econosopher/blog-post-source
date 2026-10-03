@@ -1,0 +1,38 @@
+[
+  {
+    "country": "Poland",
+    "iso2": "PL",
+    "year": 2016,
+    "value": 4000,
+    "unit": "people",
+    "period": "historical estimate cited in 2020 report",
+    "series_id": "PL_pre2020_historical_estimates",
+    "url": "https://gic.gd/d/The_Game_Industry_of_Poland_report_2020.pdf",
+    "source_locator": "Printed pp. 28-29, Employment in game production",
+    "definition": "Historical employment estimate for the Polish game-production sector, restated by the 2020 PARP/GIC report. The report calls it a historical estimate and says it was slightly underestimated; its original vintage and detailed population method were not recovered in this bounded pass."
+  },
+  {
+    "country": "Poland",
+    "iso2": "PL",
+    "year": 2018,
+    "value": 6000,
+    "unit": "people",
+    "period": "historical estimate cited in 2020 report",
+    "series_id": "PL_pre2020_historical_estimates",
+    "url": "https://gic.gd/d/The_Game_Industry_of_Poland_report_2020.pdf",
+    "source_locator": "Printed pp. 28-29, Employment in game production",
+    "definition": "Historical employment estimate for the Polish game-production sector, restated by the 2020 PARP/GIC report. The report calls it a historical estimate and says it was slightly underestimated; its original vintage and detailed population method were not recovered in this bounded pass."
+  },
+  {
+    "country": "Poland",
+    "iso2": "PL",
+    "year": 2020,
+    "value": 9710,
+    "unit": "people",
+    "period": "2020 current estimate",
+    "series_id": "PL_core_workforce",
+    "url": "https://gic.gd/d/The_Game_Industry_of_Poland_report_2020.pdf",
+    "source_locator": "Printed p. 8 overview infographic; printed pp. 28-29, Employment in game production",
+    "definition": "Game Industry Conference's tighter estimate of 9,710 full-time employees in Poland's game-production sector. The scope includes game-production studios, external-development companies and global publishers; it excludes Polish local-market distribution and non-production service providers, including separately discussed QA/localisation providers."
+  }
+]

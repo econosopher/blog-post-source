@@ -1,0 +1,950 @@
+[
+  {
+    "chart_id": "au-employment-01",
+    "file": "charts/au-employment-01.png",
+    "bytes": 148990,
+    "sha256": "04a2a3bbfbba420dd608dcfec0ec126006c0127db573a1a5a690abf3df9b2966"
+  },
+  {
+    "chart_id": "au-employment-01",
+    "file": "charts/au-employment-01.svg",
+    "bytes": 12612,
+    "sha256": "7da1c2349b7880884a11ef3d554b4f0136c040757144ff813f29bbc75bec207d"
+  },
+  {
+    "chart_id": "au-employment-02",
+    "file": "charts/au-employment-02.png",
+    "bytes": 136568,
+    "sha256": "48126e0bc3389a6d5a74e8d69fc2fc4f3fe255ad53e5e6f17e7e455e063600f3"
+  },
+  {
+    "chart_id": "au-employment-02",
+    "file": "charts/au-employment-02.svg",
+    "bytes": 7491,
+    "sha256": "16fde93adfd3a70b3d1ed2261bf15302d621f51af913519dba0ebb8dfff2046e"
+  },
+  {
+    "chart_id": "au-employment-03",
+    "file": "charts/au-employment-03.png",
+    "bytes": 136906,
+    "sha256": "d2636f904183983cd0b5b17aa303bcb5e8328ab22d294801e5af79471fe34cbf"
+  },
+  {
+    "chart_id": "au-employment-03",
+    "file": "charts/au-employment-03.svg",
+    "bytes": 10409,
+    "sha256": "5c5512a8103d1ec658cec8a6543599fdcb83a3ef3df589c5426ded0f1fc41325"
+  },
+  {
+    "chart_id": "br-employment-01",
+    "file": "charts/br-employment-01.png",
+    "bytes": 157004,
+    "sha256": "7a75825a06bd4adb759524aba4928832ccbde4a10396ecac2f4f2ffb2fce0009"
+  },
+  {
+    "chart_id": "br-employment-01",
+    "file": "charts/br-employment-01.svg",
+    "bytes": 10904,
+    "sha256": "e52deef7f20d6646d8b3e4916fd3ee747a1eaccc44e48eb82bd57f4eb100f765"
+  },
+  {
+    "chart_id": "br-composition-01",
+    "file": "charts/br-composition-01.png",
+    "bytes": 151717,
+    "sha256": "514f9ed9140e6219989fa8e348c2cd858afc2d2303f9fad9f0b0186db3eab711"
+  },
+  {
+    "chart_id": "br-composition-01",
+    "file": "charts/br-composition-01.svg",
+    "bytes": 10328,
+    "sha256": "59c1ce49b74918747a1b5d3c2054125ddb4f283655d9d996503ef34d8fbe2214"
+  },
+  {
+    "chart_id": "br-composition-02",
+    "file": "charts/br-composition-02.png",
+    "bytes": 164751,
+    "sha256": "bd7f633f48fe830dfb84ee6868b830ce4e9b5aa70d446c6bd938f3ba3bcbf1c7"
+  },
+  {
+    "chart_id": "br-composition-02",
+    "file": "charts/br-composition-02.svg",
+    "bytes": 9694,
+    "sha256": "070e84bcab1387e542ae2e82d4204d9fc7bf59a4ea1c1d966a660b1930011f64"
+  },
+  {
+    "chart_id": "br-composition-03",
+    "file": "charts/br-composition-03.png",
+    "bytes": 127152,
+    "sha256": "5aa06d3604e1784b994ba8c423f4bccfe33365659f2616ee705a5a8b9e7e2dca"
+  },
+  {
+    "chart_id": "br-composition-03",
+    "file": "charts/br-composition-03.svg",
+    "bytes": 9768,
+    "sha256": "6fd84297d0d2f1f19b42f439b2df1ac9c17b8b52a8f1daa7480329aad2bd388e"
+  },
+  {
+    "chart_id": "ca-employment-01",
+    "file": "charts/ca-employment-01.png",
+    "bytes": 167091,
+    "sha256": "631ab5dd8c2928b9cc73447d258414b6f6872396a91fc50cf2a404bb43fba7bc"
+  },
+  {
+    "chart_id": "ca-employment-01",
+    "file": "charts/ca-employment-01.svg",
+    "bytes": 13924,
+    "sha256": "925d7a0b22eef1d788f2976a65314aa287c87b55070e288ffe99383e20ac0fcf"
+  },
+  {
+    "chart_id": "ca-employment-02",
+    "file": "charts/ca-employment-02.png",
+    "bytes": 146713,
+    "sha256": "45c535cb70af0341982f4ee538179394acdcffd773fb7478fd8832b27320f9ee"
+  },
+  {
+    "chart_id": "ca-employment-02",
+    "file": "charts/ca-employment-02.svg",
+    "bytes": 8870,
+    "sha256": "5ede05123363e9c442e502619701211c576ef29b3eedfa52e687db3caca91012"
+  },
+  {
+    "chart_id": "ca-employment-03",
+    "file": "charts/ca-employment-03.png",
+    "bytes": 135984,
+    "sha256": "c28b1fb3d91744bd58b64a99f48a5d95e404e5e154433a67e4ef8ccc1c5bc390"
+  },
+  {
+    "chart_id": "ca-employment-03",
+    "file": "charts/ca-employment-03.svg",
+    "bytes": 9006,
+    "sha256": "f66b8effbe8adb8b5cc1f557a009f577b5e68f78678d3fa693559315043dc83d"
+  },
+  {
+    "chart_id": "ca-composition-01",
+    "file": "charts/ca-composition-01.png",
+    "bytes": 152872,
+    "sha256": "765a55994409d87d868716857176b54499c2c85c56344ff178c8d7ca1beaee5e"
+  },
+  {
+    "chart_id": "ca-composition-01",
+    "file": "charts/ca-composition-01.svg",
+    "bytes": 9440,
+    "sha256": "383a1529744edafd9702cb039242c29694eec5014ba26eacdeb0518c14aaf20f"
+  },
+  {
+    "chart_id": "ca-composition-02",
+    "file": "charts/ca-composition-02.png",
+    "bytes": 157765,
+    "sha256": "129be51ac24a26f305acb5c6efb20ea1565a5f5f7dad74b7bcc1d2a6587252bf"
+  },
+  {
+    "chart_id": "ca-composition-02",
+    "file": "charts/ca-composition-02.svg",
+    "bytes": 9631,
+    "sha256": "21552a949b1c53b65819c822a71be15fac6658a8a98ec02c0ab82a8dc50554a6"
+  },
+  {
+    "chart_id": "cn-employment-01",
+    "file": "charts/cn-employment-01.png",
+    "bytes": 144110,
+    "sha256": "d297994d547a066a62439193afa1ba5475a5af6b018fceb8000bb6ce33911a29"
+  },
+  {
+    "chart_id": "cn-employment-01",
+    "file": "charts/cn-employment-01.svg",
+    "bytes": 10698,
+    "sha256": "2c4d45508b5d247246931e054ca69c2310cafeebb4906e651f10a7635a8e6d14"
+  },
+  {
+    "chart_id": "cy-employment-01",
+    "file": "charts/cy-employment-01.png",
+    "bytes": 165923,
+    "sha256": "c06e015e3b744dfbd05eafbd92e9ce7968f589bc9f5f01e4886570c4680a481a"
+  },
+  {
+    "chart_id": "cy-employment-01",
+    "file": "charts/cy-employment-01.svg",
+    "bytes": 11776,
+    "sha256": "8f12fb1916b476af57e8bba0979ddf3b34138bcb8f75f3b4df6a9ae2e04332b4"
+  },
+  {
+    "chart_id": "de-employment-01",
+    "file": "charts/de-employment-01.png",
+    "bytes": 171183,
+    "sha256": "68a5870ffea2a27e876020e4a0f6595a8af498c5bbdd1a893b7d11061cefe194"
+  },
+  {
+    "chart_id": "de-employment-01",
+    "file": "charts/de-employment-01.svg",
+    "bytes": 16869,
+    "sha256": "6b8531a6af85b8afaf398d7b82bb4ca4b42fd85337c81d0824911579782b2e86"
+  },
+  {
+    "chart_id": "dk-employment-01",
+    "file": "charts/dk-employment-01.png",
+    "bytes": 164650,
+    "sha256": "39126357143e3bd85f61e2c84355f798fe0af905b2f807489cfc4b603d05dcd9"
+  },
+  {
+    "chart_id": "dk-employment-01",
+    "file": "charts/dk-employment-01.svg",
+    "bytes": 12311,
+    "sha256": "98b428dda6677e305172a2f544087e55399e77ab2879c76701d4a9277751c479"
+  },
+  {
+    "chart_id": "dk-employment-02",
+    "file": "charts/dk-employment-02.png",
+    "bytes": 141627,
+    "sha256": "0e855ed980a7673ab97319e9fe1f954062708b72ab89464571054ce9f2394adf"
+  },
+  {
+    "chart_id": "dk-employment-02",
+    "file": "charts/dk-employment-02.svg",
+    "bytes": 9048,
+    "sha256": "fcf9e6b613ec1d36d97655ba92ce60f2cc36a09b9f64e3439455d8d84205c7e6"
+  },
+  {
+    "chart_id": "dk-employment-03",
+    "file": "charts/dk-employment-03.png",
+    "bytes": 153789,
+    "sha256": "a9e745a33666bdd2413acf6cbc5807add38dc8753ad0387e80247fda1d07ff67"
+  },
+  {
+    "chart_id": "dk-employment-03",
+    "file": "charts/dk-employment-03.svg",
+    "bytes": 9858,
+    "sha256": "66250a0977c0a9cbb5e5eebc5c3ec8fff8f76fdb7a123d97bf6ef1e349c4919a"
+  },
+  {
+    "chart_id": "es-employment-01",
+    "file": "charts/es-employment-01.png",
+    "bytes": 175094,
+    "sha256": "30928ea2336dfcc2f395d3f2ac7646ab7347f799342cf418d13261e4527c7df1"
+  },
+  {
+    "chart_id": "es-employment-01",
+    "file": "charts/es-employment-01.svg",
+    "bytes": 16002,
+    "sha256": "50fb0bb606c8fc19c7f0d35d135da0b09d830d793d3b50662c5893c8d0ab8f38"
+  },
+  {
+    "chart_id": "es-composition-01",
+    "file": "charts/es-composition-01.png",
+    "bytes": 127697,
+    "sha256": "43cf870c910a452ab105867d2ed66961a9651905384235a6395a60a325b6451a"
+  },
+  {
+    "chart_id": "es-composition-01",
+    "file": "charts/es-composition-01.svg",
+    "bytes": 9758,
+    "sha256": "a36da60d4566fa9cc5e09576a1d2cf9d9945f7951ce89f947e48a816fa0d0eb3"
+  },
+  {
+    "chart_id": "es-composition-02",
+    "file": "charts/es-composition-02.png",
+    "bytes": 107183,
+    "sha256": "bcbf1d2ee3fc40aec219c0be6d0b7fd17e126b9bcb098c9ca4a47e2313e17fda"
+  },
+  {
+    "chart_id": "es-composition-02",
+    "file": "charts/es-composition-02.svg",
+    "bytes": 7585,
+    "sha256": "3bd46e626011b1a6c387d60199baf0b2792e7eb328b1aba67d216a68c0b55e8b"
+  },
+  {
+    "chart_id": "es-composition-03",
+    "file": "charts/es-composition-03.png",
+    "bytes": 104051,
+    "sha256": "f75a2d2e8ea29a64eb9dc1dda63b318c4b0c446db7a42bd249030cbb0ca24534"
+  },
+  {
+    "chart_id": "es-composition-03",
+    "file": "charts/es-composition-03.svg",
+    "bytes": 7554,
+    "sha256": "a81dfe2c82e20bf4ca6b0b01dd34355e6639fadc6d37ad99afdb0719b9933522"
+  },
+  {
+    "chart_id": "es-composition-04",
+    "file": "charts/es-composition-04.png",
+    "bytes": 122783,
+    "sha256": "d666e2b2d3e9ed0a98b208718f7ed6e520fc6363d0b1effc3da49cea1447592a"
+  },
+  {
+    "chart_id": "es-composition-04",
+    "file": "charts/es-composition-04.svg",
+    "bytes": 9657,
+    "sha256": "8aa212de7f38aa5ebf8cbe72c4916636c18328d764940531dc45a7ac02b45fad"
+  },
+  {
+    "chart_id": "fi-employment-01",
+    "file": "charts/fi-employment-01.png",
+    "bytes": 125259,
+    "sha256": "71b3a99db95d9a3edfdc0a6fd03f3056ead9fc0919a84d36aea582705042893f"
+  },
+  {
+    "chart_id": "fi-employment-01",
+    "file": "charts/fi-employment-01.svg",
+    "bytes": 11024,
+    "sha256": "a3d1affe508524dcbfdbad920c0f515a1374247dcf854293795887a2bcd340ad"
+  },
+  {
+    "chart_id": "fi-employment-02",
+    "file": "charts/fi-employment-02.png",
+    "bytes": 111074,
+    "sha256": "b13d14ab104037bf156820d09a5f65eb470d6cd89890bd039b4c5c2ba10f9d0d"
+  },
+  {
+    "chart_id": "fi-employment-02",
+    "file": "charts/fi-employment-02.svg",
+    "bytes": 7434,
+    "sha256": "69b9da03c5b075d71639a7204315e74924e5efea1d7da98bcc2f347f648a7df2"
+  },
+  {
+    "chart_id": "fi-employment-03",
+    "file": "charts/fi-employment-03.png",
+    "bytes": 99425,
+    "sha256": "a97be99229234ad674cbd59c8fbc314117698ff69d7a16c52ba4608f9febc5ea"
+  },
+  {
+    "chart_id": "fi-employment-03",
+    "file": "charts/fi-employment-03.svg",
+    "bytes": 9276,
+    "sha256": "2dc11b24631ff0d7e417d53cb236139826bbb4c4ef8309a2414ea6b5ca3239cb"
+  },
+  {
+    "chart_id": "fi-composition-01",
+    "file": "charts/fi-composition-01.png",
+    "bytes": 102497,
+    "sha256": "7b0c4dd996599f12ceda360ff5a014eddaee19a55711b321cdfaca6a6c172b6c"
+  },
+  {
+    "chart_id": "fi-composition-01",
+    "file": "charts/fi-composition-01.svg",
+    "bytes": 7600,
+    "sha256": "38c62a61df0c34be9858fffcaf34c5e39521cafea8946d4cf05a2d9254f2d018"
+  },
+  {
+    "chart_id": "fi-composition-02",
+    "file": "charts/fi-composition-02.png",
+    "bytes": 100512,
+    "sha256": "c403b68aac6ac2fda51027383bffc70d30f0d202258e8c6fdca33ed4fa3d20e3"
+  },
+  {
+    "chart_id": "fi-composition-02",
+    "file": "charts/fi-composition-02.svg",
+    "bytes": 7408,
+    "sha256": "3b187407781a86de45ddfc26a96fd0d420ac6894b5638a72b4e39ba21f294220"
+  },
+  {
+    "chart_id": "fi-composition-03",
+    "file": "charts/fi-composition-03.png",
+    "bytes": 107051,
+    "sha256": "dd7ca044911187586128b9010b284de921b7d2b723056dc9eb6c62ecbf9ef638"
+  },
+  {
+    "chart_id": "fi-composition-03",
+    "file": "charts/fi-composition-03.svg",
+    "bytes": 8246,
+    "sha256": "5581e99fdb85878ed82db01d0ec6f1ff0fa9ffc7fc486a953dab26503b2e7832"
+  },
+  {
+    "chart_id": "fr-employment-01",
+    "file": "charts/fr-employment-01.png",
+    "bytes": 176469,
+    "sha256": "3d5c1948c57ca85bcc42c579d8371f6aed9287f55a49ed4c87c3887d48e96728"
+  },
+  {
+    "chart_id": "fr-employment-01",
+    "file": "charts/fr-employment-01.svg",
+    "bytes": 12378,
+    "sha256": "ed5668d03e7a1684816c9ae37beaf9781a3576ee6a863f3379c35f90c3eb715d"
+  },
+  {
+    "chart_id": "fr-composition-01",
+    "file": "charts/fr-composition-01.png",
+    "bytes": 103117,
+    "sha256": "48454ecc55bcb8b33d26ae52e38e5f5845a7dd7a3f4d753d16d861a7dcd570cf"
+  },
+  {
+    "chart_id": "fr-composition-01",
+    "file": "charts/fr-composition-01.svg",
+    "bytes": 8277,
+    "sha256": "65f1cc495e68f46e9e2b77be4759504bd02743a07868cd492e3640f43931d409"
+  },
+  {
+    "chart_id": "fr-composition-02",
+    "file": "charts/fr-composition-02.png",
+    "bytes": 108087,
+    "sha256": "6b156b1c917ba279014e0523d258b3c9ec7670defb112aff13e0b5034c7cace8"
+  },
+  {
+    "chart_id": "fr-composition-02",
+    "file": "charts/fr-composition-02.svg",
+    "bytes": 8285,
+    "sha256": "faaa6df3d57e17a07413c30821c41313b27800864d1147020f406fea2c54f168"
+  },
+  {
+    "chart_id": "gb-employment-01",
+    "file": "charts/gb-employment-01.png",
+    "bytes": 164102,
+    "sha256": "a773605debf523091d2249adb48a135822a16a9020b81b30b6b05aec6a48fdcf"
+  },
+  {
+    "chart_id": "gb-employment-01",
+    "file": "charts/gb-employment-01.svg",
+    "bytes": 12639,
+    "sha256": "6cae4baa25ae5e5332fc8df83dfadbdf14f8120d722d06eb9d26b3d954e2adee"
+  },
+  {
+    "chart_id": "gb-employment-02",
+    "file": "charts/gb-employment-02.png",
+    "bytes": 160624,
+    "sha256": "8752c680b2b5c5892db05426bb61beaa833fee11e67bf66ef5ec5ab4345e8d10"
+  },
+  {
+    "chart_id": "gb-employment-02",
+    "file": "charts/gb-employment-02.svg",
+    "bytes": 11904,
+    "sha256": "52c87011823df6f211d72f9774f1e34a6dfbd6c3ef6ee4a5225855946993b204"
+  },
+  {
+    "chart_id": "gb-employment-03",
+    "file": "charts/gb-employment-03.png",
+    "bytes": 177371,
+    "sha256": "3bfb551567620cc936385864d8b53c906e2c88dc306a7262ec84deb69683e2b8"
+  },
+  {
+    "chart_id": "gb-employment-03",
+    "file": "charts/gb-employment-03.svg",
+    "bytes": 16192,
+    "sha256": "0be77d06f06343e097eb911794875582172d67626ff0d177819fea153b7f32a4"
+  },
+  {
+    "chart_id": "gb-composition-01",
+    "file": "charts/gb-composition-01.png",
+    "bytes": 126328,
+    "sha256": "0e3858cbd0f2fe0f5c23b529554a1bbbce2c58db2e11e802168d7c58c91d1fa0"
+  },
+  {
+    "chart_id": "gb-composition-01",
+    "file": "charts/gb-composition-01.svg",
+    "bytes": 9406,
+    "sha256": "213d181cf0022969796cf29209e55c6cf7404bf9d62816663243c572acdb3af3"
+  },
+  {
+    "chart_id": "gb-composition-02",
+    "file": "charts/gb-composition-02.png",
+    "bytes": 151688,
+    "sha256": "2a619c4d93a899f6937b25642358f6694486e3d429fca92f53f35cb6e276dbcf"
+  },
+  {
+    "chart_id": "gb-composition-02",
+    "file": "charts/gb-composition-02.svg",
+    "bytes": 9532,
+    "sha256": "4add14e7bce5bfb19a08c5a276655ad41a9cdfca6903288dc12a6f7cb67cedb1"
+  },
+  {
+    "chart_id": "gb-composition-03",
+    "file": "charts/gb-composition-03.png",
+    "bytes": 193026,
+    "sha256": "4aa6453b3d03bdb56374f303cbae46d831853b397854f1f74c7ee9cdc0fbaecf"
+  },
+  {
+    "chart_id": "gb-composition-03",
+    "file": "charts/gb-composition-03.svg",
+    "bytes": 12448,
+    "sha256": "73a0c5e2c436e0821e5ce5fe18ce37521db06a4bb25247346d82baccfb4a18a5"
+  },
+  {
+    "chart_id": "id-employment-01",
+    "file": "charts/id-employment-01.png",
+    "bytes": 136982,
+    "sha256": "55ddfdbc475173a63d2771c53a3eee2e693c21faa14b8e002796ea1ff80dbf9b"
+  },
+  {
+    "chart_id": "id-employment-01",
+    "file": "charts/id-employment-01.svg",
+    "bytes": 7891,
+    "sha256": "518d6fd2b4b1e8f5c95b0f9224ee34729f783a610f1f521d846f540ce94ec635"
+  },
+  {
+    "chart_id": "il-employment-01",
+    "file": "charts/il-employment-01.png",
+    "bytes": 121524,
+    "sha256": "7e1ddd75b2e5771957c5cdc8ee1c32c6be425b466609cbbb755af6833ec25e9f"
+  },
+  {
+    "chart_id": "il-employment-01",
+    "file": "charts/il-employment-01.svg",
+    "bytes": 9223,
+    "sha256": "cb9c5f3a14c9d116b8a89c34ad5d04d380efd670ef75523b9f349ef968af25d7"
+  },
+  {
+    "chart_id": "jp-employment-01",
+    "file": "charts/jp-employment-01.png",
+    "bytes": 119744,
+    "sha256": "4e167310ae8d5b6ffec63847f70ea3000d3264ea9a517472488ae2dd66a893bc"
+  },
+  {
+    "chart_id": "jp-employment-01",
+    "file": "charts/jp-employment-01.svg",
+    "bytes": 7798,
+    "sha256": "57e732ef8c4891011860126575f1364d706f77ff419cc794bba131e3fefc5d6b"
+  },
+  {
+    "chart_id": "jp-composition-01",
+    "file": "charts/jp-composition-01.png",
+    "bytes": 172574,
+    "sha256": "df2aeccdbb2cd54d0ba5027b19112fabf58e9c6edfb23434caa321f87d95eb02"
+  },
+  {
+    "chart_id": "jp-composition-01",
+    "file": "charts/jp-composition-01.svg",
+    "bytes": 12246,
+    "sha256": "55f9ff39f412bb907b4c28c472e682bc624fcede2c2b4dacb9e17612e82d093c"
+  },
+  {
+    "chart_id": "jp-composition-02",
+    "file": "charts/jp-composition-02.png",
+    "bytes": 173403,
+    "sha256": "737f68493bbe9bb92bd76c08e8d452bec89b37f0444416bc48c2bd0dfbf440ce"
+  },
+  {
+    "chart_id": "jp-composition-02",
+    "file": "charts/jp-composition-02.svg",
+    "bytes": 12241,
+    "sha256": "e37e1faeca609d947bc0893d30888a34ffa68167ea3f2966939ed5564fc1e3d1"
+  },
+  {
+    "chart_id": "jp-composition-03",
+    "file": "charts/jp-composition-03.png",
+    "bytes": 129124,
+    "sha256": "52237719b24cc17843008e4af8da66d238bd8d1c605a1effaf066573c6edaef1"
+  },
+  {
+    "chart_id": "jp-composition-03",
+    "file": "charts/jp-composition-03.svg",
+    "bytes": 8134,
+    "sha256": "aae79e1728b81c3291835005e3eb6190220504c4a8d86aa1a1827e64ef4fea67"
+  },
+  {
+    "chart_id": "jp-composition-04",
+    "file": "charts/jp-composition-04.png",
+    "bytes": 129261,
+    "sha256": "3bb90a87c8db5c6f4a4a67c977ab7558506f84e773fd156e319e5605aae13c58"
+  },
+  {
+    "chart_id": "jp-composition-04",
+    "file": "charts/jp-composition-04.svg",
+    "bytes": 8137,
+    "sha256": "2efd6e0acac837416a7c582cd7827f33db21efba9a12900a0097d1c21bfbbe24"
+  },
+  {
+    "chart_id": "kr-employment-01",
+    "file": "charts/kr-employment-01.png",
+    "bytes": 177153,
+    "sha256": "a2a5f6cd0322a0acccdd135fe9027621e1d76c1b16ac8d1a6b5539095f9a2c06"
+  },
+  {
+    "chart_id": "kr-employment-01",
+    "file": "charts/kr-employment-01.svg",
+    "bytes": 16219,
+    "sha256": "e8fc75fd57d80c42acbf470826214d49cb760167f71e9202dfca4ba4941fdc93"
+  },
+  {
+    "chart_id": "kr-composition-01",
+    "file": "charts/kr-composition-01.png",
+    "bytes": 164710,
+    "sha256": "3c84fb96e19660c3d9d801cd177ba8a1fe875a7bccd82eba32ed50dab0199bef"
+  },
+  {
+    "chart_id": "kr-composition-01",
+    "file": "charts/kr-composition-01.svg",
+    "bytes": 11159,
+    "sha256": "da988672695343e12bb04ababaf789d9cf64ccc9e9f38ebaa96d0480d432aa60"
+  },
+  {
+    "chart_id": "nl-employment-01",
+    "file": "charts/nl-employment-01.png",
+    "bytes": 162356,
+    "sha256": "f1ea5e80535cd0544e42caa3773206647305e998f86f0da78ac3083914cf3439"
+  },
+  {
+    "chart_id": "nl-employment-01",
+    "file": "charts/nl-employment-01.svg",
+    "bytes": 11642,
+    "sha256": "ca83147e437876e8b4b4ead71554722661a78551ae0ba731eb3e6889d1a4d91d"
+  },
+  {
+    "chart_id": "nl-composition-01",
+    "file": "charts/nl-composition-01.png",
+    "bytes": 144403,
+    "sha256": "1140bf54172ecd3d596d755c2119bdb2d1b9edfb74b9eff5b2b2d73f72f29d2f"
+  },
+  {
+    "chart_id": "nl-composition-01",
+    "file": "charts/nl-composition-01.svg",
+    "bytes": 7973,
+    "sha256": "f52a29b8ab5c483e621a741396ece24bea973fe365685da1582a7afe5d790dbe"
+  },
+  {
+    "chart_id": "no-employment-01",
+    "file": "charts/no-employment-01.png",
+    "bytes": 137400,
+    "sha256": "ac0f6e35d1fbd6b0faf7f3ce11d3ad0a94376d905d17424283b2fbbc26f8f863"
+  },
+  {
+    "chart_id": "no-employment-01",
+    "file": "charts/no-employment-01.svg",
+    "bytes": 11651,
+    "sha256": "13da621082c9c205b79d063f995e1b56f4a1f1545ae3e76c103556ab2afe352d"
+  },
+  {
+    "chart_id": "no-employment-02",
+    "file": "charts/no-employment-02.png",
+    "bytes": 134336,
+    "sha256": "48954f77144655bbfd9294325933b8031eb89c212427ad7f8edefeec31bb4e0a"
+  },
+  {
+    "chart_id": "no-employment-02",
+    "file": "charts/no-employment-02.svg",
+    "bytes": 11629,
+    "sha256": "fd57c6e9dca9daf1dca4cc8b655f4d547acffc037405f7508af2bb6262e4d0e6"
+  },
+  {
+    "chart_id": "no-employment-03",
+    "file": "charts/no-employment-03.png",
+    "bytes": 116730,
+    "sha256": "d3afc905163eba7a8ce9c91d7abd8ec0adf00711a870e944742ca0526e4bcb44"
+  },
+  {
+    "chart_id": "no-employment-03",
+    "file": "charts/no-employment-03.svg",
+    "bytes": 8352,
+    "sha256": "818b183c0845b766c1b157d3d7d592b9328b603d374b9b3c83e89e77c0dcdcd2"
+  },
+  {
+    "chart_id": "no-employment-04",
+    "file": "charts/no-employment-04.png",
+    "bytes": 124192,
+    "sha256": "190a76321747322018a60645370bb7aa81d7ddfc4c7f457cd3768dff97c68937"
+  },
+  {
+    "chart_id": "no-employment-04",
+    "file": "charts/no-employment-04.svg",
+    "bytes": 8388,
+    "sha256": "ce09ea9fddcc72cd7451f6db022bd62bd5cb7855b57ca72f45dc530e6f8f7d50"
+  },
+  {
+    "chart_id": "nz-employment-01",
+    "file": "charts/nz-employment-01.png",
+    "bytes": 159319,
+    "sha256": "f79f80eb191971ca5b3ad48a8ba42541145b88ce2ceedf8ecd99d0eaefefc00f"
+  },
+  {
+    "chart_id": "nz-employment-01",
+    "file": "charts/nz-employment-01.svg",
+    "bytes": 11259,
+    "sha256": "38341a22164a65a88ed782dff276f559f56d40467e39e97f3947573439b7eb27"
+  },
+  {
+    "chart_id": "nz-employment-02",
+    "file": "charts/nz-employment-02.png",
+    "bytes": 160346,
+    "sha256": "3b43901735c151ac515b94f110700cb90cd9cdc1aedfb18a46392a0abfb43a8b"
+  },
+  {
+    "chart_id": "nz-employment-02",
+    "file": "charts/nz-employment-02.svg",
+    "bytes": 8895,
+    "sha256": "c4927e731ed17aaf0347595ba15c61f3ca409f38bb3c38ad262f70307b6dbe16"
+  },
+  {
+    "chart_id": "nz-employment-03",
+    "file": "charts/nz-employment-03.png",
+    "bytes": 164495,
+    "sha256": "7b4ac85b99511dde84f24a0425b16427f38541260896ebd7e1d304727e779b1e"
+  },
+  {
+    "chart_id": "nz-employment-03",
+    "file": "charts/nz-employment-03.svg",
+    "bytes": 12279,
+    "sha256": "898064633371f44b293c9ecc5cca162dcca96e5bdf7f1afe42703cab0e43ed36"
+  },
+  {
+    "chart_id": "nz-composition-01",
+    "file": "charts/nz-composition-01.png",
+    "bytes": 218584,
+    "sha256": "a6511daad266391eedd0505c6096c0dccab819466affbe6189ff210009aa94a7"
+  },
+  {
+    "chart_id": "nz-composition-01",
+    "file": "charts/nz-composition-01.svg",
+    "bytes": 11841,
+    "sha256": "be33604357737818b22899edcd0e07a8139a568e70ebd501d3a8978eef71c09d"
+  },
+  {
+    "chart_id": "nz-composition-02",
+    "file": "charts/nz-composition-02.png",
+    "bytes": 146046,
+    "sha256": "ca967d025712adba87908713de3fb6cab7b256a0477102a987fd02c672795ae6"
+  },
+  {
+    "chart_id": "nz-composition-02",
+    "file": "charts/nz-composition-02.svg",
+    "bytes": 8224,
+    "sha256": "f86433eae7c13946be1023d213f1032a8967cc5082aa9c23df546a130f96d28d"
+  },
+  {
+    "chart_id": "ph-employment-01",
+    "file": "charts/ph-employment-01.png",
+    "bytes": 119914,
+    "sha256": "977f0300e0e7878272a4fb82126de8867d42f56f7a750e9f7ea31904b467765e"
+  },
+  {
+    "chart_id": "ph-employment-01",
+    "file": "charts/ph-employment-01.svg",
+    "bytes": 7584,
+    "sha256": "c043b95f7e05b179856545f325d80ee99eecb923ff4d737ebe0e8a6e24d1a285"
+  },
+  {
+    "chart_id": "pl-employment-01",
+    "file": "charts/pl-employment-01.png",
+    "bytes": 159150,
+    "sha256": "9fe36970064c84600dd0e5a4768f17e800ae6a3983080abfb9db378b7e5b4c2f"
+  },
+  {
+    "chart_id": "pl-employment-01",
+    "file": "charts/pl-employment-01.svg",
+    "bytes": 9991,
+    "sha256": "02b737f67d0ef7e06d80088d93855b95ccf633495a5d9d46d5bac441537abc25"
+  },
+  {
+    "chart_id": "pl-composition-01",
+    "file": "charts/pl-composition-01.png",
+    "bytes": 136648,
+    "sha256": "8839bb2c792a9fc6782077c3207837fdc648dfb0f55382c0dbe85e68d5da3f47"
+  },
+  {
+    "chart_id": "pl-composition-01",
+    "file": "charts/pl-composition-01.svg",
+    "bytes": 9423,
+    "sha256": "60ab831e3efa848ddff9b94a3d442e8455136f8d72d8b08c0370701df37281c1"
+  },
+  {
+    "chart_id": "pl-composition-02",
+    "file": "charts/pl-composition-02.png",
+    "bytes": 122359,
+    "sha256": "44bbf6ed80dc2595637789c38f30719281caf48719005590fff75c968f89a1b0"
+  },
+  {
+    "chart_id": "pl-composition-02",
+    "file": "charts/pl-composition-02.svg",
+    "bytes": 8716,
+    "sha256": "af28de749844bfd5e07a54c72886986dcd507f7903c5704bb65c890826ad18eb"
+  },
+  {
+    "chart_id": "ro-employment-01",
+    "file": "charts/ro-employment-01.png",
+    "bytes": 114229,
+    "sha256": "06078574dc3c482a2ee61e416447f4bdd94cbbf0b9963fccf37a2f6dc26a7d40"
+  },
+  {
+    "chart_id": "ro-employment-01",
+    "file": "charts/ro-employment-01.svg",
+    "bytes": 6952,
+    "sha256": "b3bffbabe23de54df3b5f2b33673f5f3f8fc04ee748aaba127622c425d88b837"
+  },
+  {
+    "chart_id": "ro-employment-02",
+    "file": "charts/ro-employment-02.png",
+    "bytes": 108876,
+    "sha256": "acbe90cdd624341cee709dfd08801bdf947051a36a49049309312d50513f6cbb"
+  },
+  {
+    "chart_id": "ro-employment-02",
+    "file": "charts/ro-employment-02.svg",
+    "bytes": 8322,
+    "sha256": "5801c01a71fda081e6c338cdd45fe74c6e5854d038f3ca85fc9f6679ee6b812f"
+  },
+  {
+    "chart_id": "ro-employment-03",
+    "file": "charts/ro-employment-03.png",
+    "bytes": 101992,
+    "sha256": "ea1c5c5c3a55da712d59d23791d42910e57e7d25d331716846d77abd906c9ff5"
+  },
+  {
+    "chart_id": "ro-employment-03",
+    "file": "charts/ro-employment-03.svg",
+    "bytes": 7381,
+    "sha256": "1037961b06463fdd5643cb12e73468bd253b04c90a5660241b3fd3bdfbf1dc6c"
+  },
+  {
+    "chart_id": "rs-employment-01",
+    "file": "charts/rs-employment-01.png",
+    "bytes": 120140,
+    "sha256": "f90b1e5f1085cd5ca1f398d7b9b6b6d99b562d2325096537ae51b52e0afd7373"
+  },
+  {
+    "chart_id": "rs-employment-01",
+    "file": "charts/rs-employment-01.svg",
+    "bytes": 7976,
+    "sha256": "eec31ef8e4ab4920badea62f3fc327c7d682ac0711be770bf07c1048052e38e1"
+  },
+  {
+    "chart_id": "rs-employment-02",
+    "file": "charts/rs-employment-02.png",
+    "bytes": 146613,
+    "sha256": "97e58ac95a99c72422838a97dd2dab18464487824124241037ee3d2600f28a49"
+  },
+  {
+    "chart_id": "rs-employment-02",
+    "file": "charts/rs-employment-02.svg",
+    "bytes": 12672,
+    "sha256": "ce2e4c69e41459b8169aaa6f49defd0616225434b7114b5b156eac973f27251f"
+  },
+  {
+    "chart_id": "rs-employment-03",
+    "file": "charts/rs-employment-03.png",
+    "bytes": 101943,
+    "sha256": "ceea3f0df14c7fa301efd2ebd3bfaf96e5e09b987f583f50eea4250f30f086aa"
+  },
+  {
+    "chart_id": "rs-employment-03",
+    "file": "charts/rs-employment-03.svg",
+    "bytes": 7333,
+    "sha256": "2abf3a2542f0d9d95b46a866a74307a18f7d7bfedfe6647472db2e7e1dd0a717"
+  },
+  {
+    "chart_id": "se-employment-01",
+    "file": "charts/se-employment-01.png",
+    "bytes": 191732,
+    "sha256": "d1c259ac106dad129fe258179ecf9403e3cb27d362c246f64f1ba6c77ec24619"
+  },
+  {
+    "chart_id": "se-employment-01",
+    "file": "charts/se-employment-01.svg",
+    "bytes": 16702,
+    "sha256": "e29ba02efc116f4d6002eefccbab134d3e84bd2cd161e7c4e3355cc62c4304b4"
+  },
+  {
+    "chart_id": "se-employment-02",
+    "file": "charts/se-employment-02.png",
+    "bytes": 99895,
+    "sha256": "b7350324bc9d3b9b9d2bac9624856ddacec3265fcbe94bd284e1270d67ce11be"
+  },
+  {
+    "chart_id": "se-employment-02",
+    "file": "charts/se-employment-02.svg",
+    "bytes": 6912,
+    "sha256": "77f9554823711eed600217ddcadf51215a72c9516f36b5a497a605ea97edd53f"
+  },
+  {
+    "chart_id": "sg-employment-01",
+    "file": "charts/sg-employment-01.png",
+    "bytes": 134524,
+    "sha256": "388d7e6474054a833433856e777d7474f865e6dba7f7fe92a67fd1bd43156f77"
+  },
+  {
+    "chart_id": "sg-employment-01",
+    "file": "charts/sg-employment-01.svg",
+    "bytes": 7653,
+    "sha256": "93c95e6df1815b36bebf584f55e7441ea470ea446b232cc2c6c68ba7f8d76b6b"
+  },
+  {
+    "chart_id": "tr-employment-01",
+    "file": "charts/tr-employment-01.png",
+    "bytes": 130995,
+    "sha256": "6b5fc4a5b1c0f7a95e03d97571712a69a26e89d11c95762fdfcbee33fa435f43"
+  },
+  {
+    "chart_id": "tr-employment-01",
+    "file": "charts/tr-employment-01.svg",
+    "bytes": 7665,
+    "sha256": "da8fef0675fd0ecca7740167e5d73de487a02e7ab80d2308c3cc20f85622f160"
+  },
+  {
+    "chart_id": "tw-employment-01",
+    "file": "charts/tw-employment-01.png",
+    "bytes": 128733,
+    "sha256": "20d377a53bdcd41c5d724c975b5450871f0e827572ae8c9b11d96f310ea8420b"
+  },
+  {
+    "chart_id": "tw-employment-01",
+    "file": "charts/tw-employment-01.svg",
+    "bytes": 8730,
+    "sha256": "05bcd035c7618bc15df46f407d27b49489a48d0d8c73400970dac5acf3a704d6"
+  },
+  {
+    "chart_id": "us-employment-01",
+    "file": "charts/us-employment-01.png",
+    "bytes": 154764,
+    "sha256": "3fd3b29cf830153876086ad0b6259fd8b76f2fb3c9f63069dcf54b4ad5b90c96"
+  },
+  {
+    "chart_id": "us-employment-01",
+    "file": "charts/us-employment-01.svg",
+    "bytes": 11068,
+    "sha256": "01af771e8add4d0489a0f99fbb611e312b86b64d608256595a46fa14051e451a"
+  },
+  {
+    "chart_id": "us-employment-02",
+    "file": "charts/us-employment-02.png",
+    "bytes": 160177,
+    "sha256": "353a3112cafdfd0742848b37adb9857efc1b29733c2090e9c39b7c3f0ee404e1"
+  },
+  {
+    "chart_id": "us-employment-02",
+    "file": "charts/us-employment-02.svg",
+    "bytes": 11078,
+    "sha256": "7ecf335f1e11e5a17b5ce7717550bd78d923f1812339224d2f7fbaf58aa27ac9"
+  },
+  {
+    "chart_id": "us-employment-03",
+    "file": "charts/us-employment-03.png",
+    "bytes": 128582,
+    "sha256": "06bcd202d5ece83f1005f5ab43436d7182786015429abff09912a556502e84e9"
+  },
+  {
+    "chart_id": "us-employment-03",
+    "file": "charts/us-employment-03.svg",
+    "bytes": 9136,
+    "sha256": "7a2f7f1edaa0a2b04c5f80b54aac7fec374cd373ba6352a5d9ed2a928a393bfa"
+  },
+  {
+    "chart_id": "us-employment-04",
+    "file": "charts/us-employment-04.png",
+    "bytes": 125074,
+    "sha256": "e3e4b4aae7f853edb8596581b0d237430ed8daddc001421ff22b9ed20eb1bd71"
+  },
+  {
+    "chart_id": "us-employment-04",
+    "file": "charts/us-employment-04.svg",
+    "bytes": 9153,
+    "sha256": "8761006c4de701b49f90b485d9b1485d51d17b9958e22f2960138e885c4205e9"
+  },
+  {
+    "chart_id": "us-employment-05",
+    "file": "charts/us-employment-05.png",
+    "bytes": 143407,
+    "sha256": "d120488f162028123238a9d7df36cc38f84c1a23dac2c29edb72a2eeb7c5b652"
+  },
+  {
+    "chart_id": "us-employment-05",
+    "file": "charts/us-employment-05.svg",
+    "bytes": 8979,
+    "sha256": "1bffd4efb9eb341366ba27ca26f0903f9f0494801dd9b3d3336223ffec2c95be"
+  },
+  {
+    "chart_id": "comparison-2019-01",
+    "file": "charts/comparison-2019-01.png",
+    "bytes": 148475,
+    "sha256": "1cd7e2890978cb0b8918f1aefda352ed059c822556c2e5146604049aaff247bd"
+  },
+  {
+    "chart_id": "comparison-2019-01",
+    "file": "charts/comparison-2019-01.svg",
+    "bytes": 26247,
+    "sha256": "592b48d261b9c5d6ecb65d901ffbf4493721f9560b958691fc463d30f50d65d8"
+  }
+]

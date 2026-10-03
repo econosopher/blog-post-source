@@ -1,0 +1,38 @@
+[
+  {
+    "country": "Netherlands",
+    "iso2": "NL",
+    "year": 2011,
+    "value": 3000,
+    "unit": "jobs",
+    "period": "2011 employment stock",
+    "series_id": "NL_domestic_broad_legacy_vintage",
+    "url": "https://drive.google.com/file/d/1S78-Bjqu71hewnHVnI08ShLVP1HADvkc/view?usp=sharing",
+    "source_locator": "Games Monitor '12, printed p. 28 / PDF p. 28, Appendix 1 Methodological accountability, Banen; corroborating headline printed p. 7 / PDF p. 7",
+    "definition": "Dutch establishments of companies and self-employed persons whose core activity is electronic-game development, production, publishing, facilitation or distribution; includes applied and entertainment games and qualifying specialist services; excludes clients, education, government, retail, physical games and online gambling. LISA jobs are paid jobs of at least 12 hours per week, supplemented by website/survey estimates. Foreign establishments are excluded.",
+    "status": "accepted_primary_verified",
+    "trend_eligible": false,
+    "chart_eligible": true,
+    "marker_only": true,
+    "trend_review": "Isolated legacy and interim estimates. Appendix Banen explicitly dates 3,000 jobs to 2011, supplemented by summer-2012 survey/web data and imputation; no precise synchronized census date. 2020 is approximately 4,000 from a limited interim survey."
+  },
+  {
+    "country": "Netherlands",
+    "iso2": "NL",
+    "year": 2020,
+    "value": 4000,
+    "unit": "people",
+    "period": "2020 interim estimate; exact stock date unspecified",
+    "series_id": "NL_domestic_broad_covid_update",
+    "url": "https://drive.google.com/file/d/1fXRIKtclZrateBHpLYh7UEZgS_g-r0mP/view?usp=share_link",
+    "source_locator": "Games Monitor 2020 Update - COVID Impact, printed/PDF p. 6, Revenue Development / Employee Development; corroborating printed/PDF p. 8, Summary",
+    "definition": "Limited-survey interim estimate for the Dutch video-game industry using the same criteria as earlier Games Monitor editions. The report says the database was updated and a November 2020 survey sent to around 500 people, with a little over 100 responses; websites, LinkedIn profiles and directory updates support the approximate employee total. Includes applied and entertainment companies, but the report does not publish a full headcount methodology or an exact all-worker census.",
+    "status": "accepted_primary_verified",
+    "trend_eligible": false,
+    "approximate": true,
+    "display_value": "approximately 4,000",
+    "chart_eligible": true,
+    "marker_only": true,
+    "trend_review": "Isolated legacy and interim estimates. Appendix Banen explicitly dates 3,000 jobs to 2011, supplemented by summer-2012 survey/web data and imputation; no precise synchronized census date. 2020 is approximately 4,000 from a limited interim survey."
+  }
+]

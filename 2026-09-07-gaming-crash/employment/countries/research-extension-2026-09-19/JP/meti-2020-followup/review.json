@@ -1,0 +1,34 @@
+{
+  "date": "2026-09-19",
+  "observation": {
+    "survey_edition": 2020,
+    "candidate_reference_year": 2019,
+    "value": 12050,
+    "unit": "people",
+    "responding_enterprises": 68,
+    "series_id": "JP_METI_development_production_respondents",
+    "url": "https://www.e-stat.go.jp/stat-search/file-download?fileKind=0&statInfId=000032089816",
+    "source_locator": "2020-5 Chapter 5, sheet 7表: J4 game-software enterprise header, J6 68 responding companies, J7 12050 regular workers; A1 development/production division.",
+    "period_status": "Table flow rows refer to FY2019; stock field date not independently verified from questionnaire. Do not substitute survey year or publication year.",
+    "definition": "Development/production division workforce of responding game-software enterprises; not national game-industry headcount.",
+    "plot_decision": "Proposed only; withhold pending direct stock-date and instrument definition check."
+  },
+  "raw_sha256": "0f3bdcf4a40f750b397f48598df69b4c43c7b4ba3ecfe2d465ef92d48bc5c79f",
+  "subcategories": {
+    "regular_staff_excluding_outgoing_secondments": 9487,
+    "part_time_excluding_contract": 716,
+    "outgoing_secondments": 80,
+    "contract_including_freelancers": 1752,
+    "sum": 12035,
+    "published_total": 12050,
+    "unallocated_difference": 15
+  },
+  "separate_rows": {
+    "temporary": 221,
+    "incoming_dispatch": 799
+  },
+  "decision": "Preserve published total; do not force components to reconcile, assign residual to a worker category, add temporary/dispatch to total, or calculate national change.",
+  "FY2018_followup": "Official index confirms 2019 form5 and guide URLs; both fail with403. Previously proposed13343/74 remains proposed.",
+  "instrument_2020": "Official index links form5 and guide for2020; web retrieval failed in this pass.",
+  "next_step": "Recover2020 field5301 date and definition; then decide whether FY2019 respondent snapshot can enter context ledger."
+}

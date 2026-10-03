@@ -1,0 +1,24 @@
+[
+  {
+    "country": "Turkey",
+    "iso2": "TR",
+    "year": 2024,
+    "value": 14918,
+    "unit": "people, FTE-oriented questionnaire",
+    "source_url": "https://www.egdf.eu/wp-content/uploads/2026/08/VGE_EGDF-report2024_0821.pdf",
+    "source_locator": "PDF/printed p58; questionnaire p78",
+    "publisher": "EGDF / Video Games Europe; country data attributed to TOGED",
+    "status": "accepted verified source-native observation",
+    "definition": "Questionnaire requests FTE employees, entrepreneurs and in-house freelancers at game developer studios/publishers. Remote workers abroad assigned to employer registration country. Foreign subsidiaries and foreign subcontractor companies excluded.",
+    "limitations": "Turkey-specific sample, reference day, response rate and estimation method not supplied. Not a strict domestic-workplace total. 2020-2022 N/A; 2023 restated as10777. Do not connect to undated25000 claim.",
+    "evidence": "OriginalPDF and rendered country/method pages inspected",
+    "series_id": "TR_toged_2024_verified",
+    "observation_id": "TR_toged_2024_verified_2024",
+    "url": "https://www.egdf.eu/wp-content/uploads/2026/08/VGE_EGDF-report2024_0821.pdf",
+    "period": "2024; exact reference day unspecified",
+    "chart_eligible": true,
+    "trend_eligible": false,
+    "marker_only": true,
+    "trend_review": "Turkey-specific sample, reference day, response rate and estimation method not supplied. Not a strict domestic-workplace total. 2020-2022 N/A; 2023 restated as10777. Do not connect to undated25000 claim."
+  }
+]

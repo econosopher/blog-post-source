@@ -1,0 +1,62 @@
+[
+  {
+    "url": "https://mlp.startupnationcentral.org/rs/663-SRH-472/images/Israeli%20Video%20games%20industry%20report.pdf",
+    "title": "Israeli Video Games Industry Report",
+    "publisher": "Deloitte Israel and Start-Up Nation Central",
+    "years": [2017],
+    "methodology": "Primary Israeli-industry source: public Start-Up Nation Finder data; additional GameIS/affiliate information. Dataset intentionally includes companies with target markets beyond video games and supporting technology/services; Deloitte calls findings preliminary and says it did not independently verify inputs.",
+    "assessment": "Primary predecessor and source of approximately 4,000-worker headline. Retain as contextual Israeli-company ecosystem mapping, not domestic workers/FTEs. Its social-casino inclusion is stated to exclude monetary payouts.",
+    "access_status": "downloaded and text-extracted; primary excerpts retained in findings.md",
+    "next_step": "Locate underlying Finder snapshot or company-level Israel-site headcounts before using as domestic employment."
+  },
+  {
+    "url": "https://www.vccafe.com/wp-content/uploads/2022/12/GameIS-Report-2021-0722.pdf",
+    "title": "The Israeli Video Games Ecosystem: Converging Technologies, Emerging Opportunities",
+    "publisher": "Deloitte Israel and GameIS",
+    "years": [2017, 2021],
+    "methodology": "Employment total methodology is not stated. Selected-company source note cites Start-Up Nation, Crunchbase, Pitchbook and company websites. Market-size calculation is described, but it is not an employment method.",
+    "assessment": "Primary GameIS/Deloitte successor. Provides 4,000/14,000 comparison but mixes publishers/developers with supporting tech and profiles global companies/workforces; worker geography unresolved. Includes 888, so real-money scope is not clean.",
+    "access_status": "downloaded and text-extracted; primary excerpts retained in findings.md",
+    "next_step": "Request GameIS/Deloitte company roster, respondent frame, Israel-based worker counts and RMG flag."
+  },
+  {
+    "url": "https://wnconf.com/upload/sources/Israeli%20game%20companies%20survey%2022.pdf",
+    "title": "Israeli Game Companies Survey 2022",
+    "publisher": "WN Conference",
+    "years": [2022],
+    "methodology": "Partner-assisted directory/survey. It says 'Nobody knows the exact number' and gives rough company counts by type (170+ publishers/developers, 100+ marketing, about 90 other gaming-related).",
+    "assessment": "Useful forward-trace negative result: broad company universe, no total employment headcount and no domestic-worker measurement.",
+    "access_status": "downloaded and text-extracted",
+    "next_step": "Do not infer employment; use only if a named partner provides its underlying roster and worker-location fields."
+  },
+  {
+    "url": "https://www.cbs.gov.il/he/publications/DocLib/2015/economic_activities11/pdf/h_print.pdf",
+    "title": "Standard Classification of Economic Activities 2011",
+    "publisher": "Israel Central Bureau of Statistics",
+    "years": [2011],
+    "methodology": "Official industrial classification. Class 5820 software publishing includes computer games on all platforms, operating systems and business/other applications; excludes software development (6201) and hosting (6311).",
+    "assessment": "Official definitional evidence only. It proves an available broad classification, not a games-sector employment series, and would omit much development/support work in the GameIS/Deloitte ecosystem.",
+    "access_status": "web text retrieved",
+    "next_step": "Query CBS for a 5820 employment series only if it is explicitly labelled as broad software publishing, never as games employment."
+  },
+  {
+    "url": "https://www.cbs.gov.il/en/cbsNewBrand/Pages/api_interface.aspx",
+    "title": "CBS API Interface",
+    "publisher": "Israel Central Bureau of Statistics",
+    "years": [2026],
+    "methodology": "Official portal describes a central time-series database covering employment and business subjects; no games-specific headcount was found in the bounded search.",
+    "assessment": "Negative official-source result. Do not replace missing games data with CBS high-tech/ICT totals.",
+    "access_status": "web text retrieved",
+    "next_step": "Contact CBS or inspect table catalog for a released 5820 series and document coverage if found."
+  },
+  {
+    "url": "https://innovationisrael.org.il/en/report/part-a-israeli-high-tech-2022-situation-report/",
+    "title": "Innovation in Israel 2022: Situation Report, Part A",
+    "publisher": "Israel Innovation Authority",
+    "years": [2021, 2022],
+    "methodology": "Official high-tech situation report using broad CBS/high-tech categories.",
+    "assessment": "Negative official-source result for this archive: broad high-tech employment is not an explicit games-industry headcount and must not be used as a proxy.",
+    "access_status": "web text retrieved",
+    "next_step": "Exclude from games employment series; retain only as broad economy context if separately needed."
+  }
+]

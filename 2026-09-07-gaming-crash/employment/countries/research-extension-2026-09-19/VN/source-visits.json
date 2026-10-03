@@ -1,0 +1,75 @@
+[
+  {
+    "url": "https://mic.gov.vn/mang-xa-hoi-nao-duoc-nhieu-nguoi-dung-nhat-tai-viet-nam-197250107160615446.htm",
+    "title": "M\u1ea1ng x\u00e3 h\u1ed9i n\u00e0o \u0111\u01b0\u1ee3c nhi\u1ec1u ng\u01b0\u1eddi d\u00f9ng nh\u1ea5t t\u1ea1i Vi\u1ec7t Nam?",
+    "publisher": "Ministry of Information and Communications of Vietnam (MIC)",
+    "years": [
+      2024
+    ],
+    "methodology": "MIC news report of an ABEI 2024 activity-review meeting. It explicitly labels the game-employment total an ABEI estimate; no sample frame, establishment list, reference date, or calculation method is published.",
+    "assessment": "PRIMARY / ACCEPT. Direct government publication of the only located national game-industry employment level: approximately 4,100 workers in 2024, up 31% year on year. Scope is game industry, not precisely defined; preserve estimate and scope caveat.",
+    "access_status": "Visited via web index; full text retrieved",
+    "next_step": "Use as source of record. Seek the underlying ABEI meeting report or statistical release if a formal definition or historical levels are required."
+  },
+  {
+    "url": "https://game.gov.vn/tin-tuc/pho-bien-nghi-dinh-so-1472024nd-cp-ve-quan-ly-cung-cap-su-dung-dich-vu-internet-va-thong-tin-tren-mang-u6gk",
+    "title": "Ph\u1ed5 bi\u1ebfn Ngh\u1ecb \u0111\u1ecbnh s\u1ed1 147/2024/N\u0110-CP v\u1ec1 qu\u1ea3n l\u00fd, cung c\u1ea5p, s\u1eed d\u1ee5ng d\u1ecbch v\u1ee5 Internet v\u00e0 th\u00f4ng tin tr\u00ean m\u1ea1ng",
+    "publisher": "Official Online Game Information Portal, Authority of Broadcasting and Electronic Information",
+    "years": [
+      2024,
+      2026
+    ],
+    "methodology": "2026 republication of material from the 2024 electronic-information review meeting; repeats the ABEI estimate without a methodological annex.",
+    "assessment": "PRIMARY CORROBORATION / DO NOT DUPLICATE. Repeats approximately 4,100 workers and 31% growth. Later publication, so retain the MIC 2024 page as the preferred dated record.",
+    "access_status": "Visited via web index; full text retrieved",
+    "next_step": "Use only if the MIC page becomes unavailable; it does not improve definition or add a distinct data point."
+  },
+  {
+    "url": "https://vietnamnet.vn/en/vietnam-s-gaming-industry-reaching-high-score-in-entertainment-sector-2352946.html",
+    "title": "Vietnam's gaming industry reaching high score in entertainment sector",
+    "publisher": "VietnamNet",
+    "years": [
+      2024
+    ],
+    "methodology": "News coverage attributing sector employment and revenue estimates to the Ministry; no original survey method presented.",
+    "assessment": "SECONDARY CORROBORATION / DO NOT USE AS PRIMARY. Reports 4,100 workers and 31% growth, consistent with MIC. Useful for cross-checking attribution only.",
+    "access_status": "Visited via web index; article excerpt retrieved",
+    "next_step": "No further action unless the MIC original disappears."
+  },
+  {
+    "url": "https://www.nso.gov.vn/en/default/2025/03/report-on-labour-force-survey-2023/",
+    "title": "Report on labour force survey 2023",
+    "publisher": "National Statistics Office of Vietnam",
+    "years": [
+      2023
+    ],
+    "methodology": "National sample Labour Force Survey covering labour-market participation of residents aged 15+; produces national, regional and provincial labour indicators.",
+    "assessment": "PRIMARY BACKGROUND / EXCLUDED. Authoritative total-employment survey but the located publication does not supply a game-industry cross-tab. It cannot validate or replace the ABEI sector estimate.",
+    "access_status": "Visited via web index; full page summary retrieved",
+    "next_step": "Search NSO microdata/classification tables only if an industry-code series that cleanly maps to game development/publishing is released."
+  },
+  {
+    "url": "https://bctn2024.vng.com.vn/about/game",
+    "title": "VNG Annual Report 2024 - Game",
+    "publisher": "VNG Corporation",
+    "years": [
+      2024
+    ],
+    "methodology": "Company annual-report narrative; reports 1,200 employees alongside game-business metrics but does not provide a country-only game payroll definition.",
+    "assessment": "COMPANY CONTEXT / EXCLUDED. A single-company figure that may include non-game functions and international locations; not a national employment observation.",
+    "access_status": "Visited via web index; full page excerpt retrieved",
+    "next_step": "Do not aggregate company headcounts into a national series without a defined universe and de-duplication."
+  },
+  {
+    "url": "https://mst.gov.vn/thong-tin-dien-tu-nam-2024-nhung-con-so-an-tuong-197241225172105882.htm",
+    "title": "Th\u00f4ng tin \u0111i\u1ec7n t\u1eed n\u0103m 2024: Nh\u1eefng con s\u1ed1 \u1ea5n t\u01b0\u1ee3ng",
+    "publisher": "Ministry of Science and Technology, migrated ministry publication",
+    "years": [
+      2024
+    ],
+    "methodology": "Explicit end-2024 estimate; no statistical frame or worker-status definition.",
+    "assessment": "Main-agent readback confirms approximate 4,100 and end-year reference; pending baseline duplicate check.",
+    "access_status": "Full official page inspected",
+    "next_step": "Check against existing VN catalog; no implied 2023 observation."
+  }
+]

@@ -1,0 +1,54 @@
+{
+  "series_id": "AU_abs_historical_snapshots",
+  "decision": "isolated_markers_only",
+  "reason": "Both are ABS headcounts at the last pay period ending June, but the archive describes changing scope/coverage and expressly cautions historical comparison. The country catalogue likewise records AU_abs_headcount as chart_eligible but trend_eligible false and prohibits joining it to IGEA.",
+  "allowed_rendering": "Two unconnected dots: 2007 and 2012. Use the source-native unit 'people' and label each as ABS digital-game-development-business employment, last pay period ending June. A shared source-family legend is allowed; a line, arrow, or change label is not.",
+  "forbidden_joins": [
+    "2007 ABS to 2012 ABS as a trend line or growth calculation",
+    "either historical ABS dot to AU_abs_headcount 2016 or 2022 as an uninterrupted line",
+    "either ABS dot to any AU_igea_survey or AU_igea_augmented observation",
+    "any conversion of ABS people to IGEA full-time employment, FTEs, or contractor-inclusive employment"
+  ],
+  "observations": [
+    {
+      "year": 2007,
+      "value": 1431,
+      "plot_eligibility": "eligible_isolated_marker",
+      "unit": "people",
+      "reference_date": "last pay period ending June 2007",
+      "scope": "ABS census of known Australian businesses providing digital game development services; domestic business employment, all covered roles.",
+      "worker_treatment": "ABS people-employed headcount; not FTE.",
+      "decisive_original_urls": [
+        {
+          "url": "https://www.abs.gov.au/AUSSTATS/abs%40.nsf/mf/8515.0",
+          "locator": "Summary of findings > Employment"
+        },
+        {
+          "url": "https://www.abs.gov.au/AUSSTATS/abs%40.nsf/Lookup/8515.0Explanatory%20Notes12006-07?OpenDocument",
+          "locator": "Explanatory Notes > Reference Period; employment estimates paragraph"
+        }
+      ],
+      "uncertainty": "The accepted source says 1,431; source-native date and headcount are clear, but this is the first ABS games-development collection and not a demonstrated series baseline."
+    },
+    {
+      "year": 2012,
+      "value": 581,
+      "plot_eligibility": "eligible_isolated_marker",
+      "unit": "people",
+      "reference_date": "last pay period ending June 2012",
+      "scope": "ABS census of known Australian businesses primarily developing digital games, including own-title and fee-for-service development. Excludes support studios, gambling-machine businesses, and general software developers.",
+      "worker_treatment": "ABS people-employed headcount; not FTE.",
+      "decisive_original_urls": [
+        {
+          "url": "https://www.abs.gov.au/AUSSTATS/abs%40.nsf/Previousproducts/8679.0Main%20Features32011-12",
+          "locator": "Financial activity > Digital game developers"
+        },
+        {
+          "url": "https://www.abs.gov.au/AUSSTATS/abs%40.nsf/Lookup/8679.0Explanatory%20Notes12011-12",
+          "locator": "Explanatory Notes paragraphs 2-4, 16-19; reference period and digital-game-developer scope"
+        }
+      ],
+      "uncertainty": "2012 source scope is specific, but it is not shown to be identical to 2007. The ABS warns that historical comparisons require caution."
+    }
+  ]
+}

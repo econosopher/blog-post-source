@@ -1,0 +1,112 @@
+[
+  {
+    "url": "https://dataspelsbranschen.squarespace.com/game-developer-index",
+    "title": "Game Developer Index archive",
+    "publisher": "Dataspelsbranschen",
+    "years": "Reports2008–2025 listed",
+    "methodology": "Publisher archive; report numbering changes in2014 to publication year.",
+    "assessment": "Strong backward/forward discovery route. Latest listed edition2025 at check; no2026 edition located here.",
+    "access_status": "Full HTML inspected",
+    "next_step": "Trace reports2012 and earlier for pre2012 workforce, preserving publication/reference-year distinction."
+  },
+  {
+    "url": "https://dataspelsbranschen.se/s/GDI_2018_ENG.pdf",
+    "title": "GDI2018 old-domain download",
+    "publisher": "Dataspelsbranschen",
+    "years": "2012–2017",
+    "methodology": "",
+    "assessment": "Redirect returned404; recovered same report through publisher Squarespace archive.",
+    "access_status": "404",
+    "next_step": "Use archive-host PDF."
+  },
+  {
+    "url": "https://dataspelsbranschen.squarespace.com/s/GDI_2018_ENG.pdf",
+    "title": "GDI2018",
+    "publisher": "Dataspelsbranschen",
+    "years": "2012–2017",
+    "methodology": "Company annual accounts and selected December headcounts; group-account coverage.",
+    "assessment": "Historical headline totals are not all domestic. Later GDI2020 splits overseas for2016 onward; retain older vintage for audit.",
+    "access_status": "Full PDF downloaded; method and employment sections read",
+    "next_step": "Prefer explicit geographic split over old headline totals."
+  },
+  {
+    "url": "https://dataspelsbranschen.squarespace.com/s/15122020_GDI_EN_48p_digital_s_below20.pdf",
+    "title": "GDI2020",
+    "publisher": "Dataspelsbranschen",
+    "years": "2012–2019",
+    "methodology": "Annual accounts, with December employment where possible; separates Sweden and overseas.",
+    "assessment": "Accepted2012–2014 Sweden-labelled chart observations, distinct vintage with timing limits.",
+    "access_status": "Web parser size limit; successful direct download and visual chart verification",
+    "next_step": "Verify overlaps before splicing into latest-vintage series."
+  },
+  {
+    "url": "https://dataspelsbranschen.squarespace.com/s/spelutvecklarindex-2010-new.pdf",
+    "title": "Spelutvecklarindex 2010",
+    "publisher": "Dataspelsbranschen",
+    "years": "2010",
+    "methodology": "PDF p13: Swedish registered limited-company accounts; eight firms use previous-year figures. Excludes publishers, pure distributors, retail, non-limited companies and gambling.",
+    "assessment": "2010=1203 and 2011=1512 accepted as historical domestic markers. Do not silently splice vintages.",
+    "access_status": "Full PDF and extracted text read; 2021 employment chart visually checked",
+    "next_step": "Trace 2007-2009 original reports; resolve historical frame continuity."
+  },
+  {
+    "url": "https://dataspelsbranschen.squarespace.com/s/spelutvecklarindex-2011_sept2012.pdf",
+    "title": "Spelutvecklarindex 2011",
+    "publisher": "Dataspelsbranschen",
+    "years": "2011",
+    "methodology": "PDF p23 / printed p22: registry annual accounts; previous-year figures for Simbin, LS Entertainment and AE Interactive; excludes non-limited legal forms and foreign-registered operations.",
+    "assessment": "2010=1203 and 2011=1512 accepted as historical domestic markers. Do not silently splice vintages.",
+    "access_status": "Full PDF and extracted text read; 2021 employment chart visually checked",
+    "next_step": "Trace 2007-2009 original reports; resolve historical frame continuity."
+  },
+  {
+    "url": "https://dataspelsbranschen.squarespace.com/s/Spelutvecklarindex2021-SV-WEBB.pdf",
+    "title": "Spelutvecklarindex 2021",
+    "publisher": "Dataspelsbranschen",
+    "years": "2010-2020",
+    "methodology": "PDF p12: full-time annual-account averages, December substitutions where available; domestic history explicit. P48: registry methods and expanded SNI frame for 2020.",
+    "assessment": "2010=1203 and 2011=1512 accepted as historical domestic markers. Do not silently splice vintages.",
+    "access_status": "Full PDF and extracted text read; 2021 employment chart visually checked",
+    "next_step": "Trace 2007-2009 original reports; resolve historical frame continuity."
+  },
+  {
+    "url": "https://dataspelsbranschen.squarespace.com/s/dsb_utvecklarindex09-screen.pdf",
+    "title": "Spelutvecklarindex 2009",
+    "publisher": "Dataspelsbranschen",
+    "years": "2009",
+    "methodology": "Swedish-registered limited-company annual accounts; developers and specialist suppliers. Non-limited and foreign-registered operations omitted; latest available fiscal accounts, incomplete/new-company reporting.",
+    "assessment": "Useful company-account historical context. No explicit domestic/overseas employee split. First edition dates 715 and 812.5 to 2004/2005 and 2005/2006; later tables relabel 2005 and 2006. Preserve period conflict.",
+    "access_status": "Original PDF downloaded and text read; first-edition and 2009 tables visually verified",
+    "next_step": "Resolve period labels and geographical scope before integrating into domestic workforce chart."
+  },
+  {
+    "url": "https://dataspelsbranschen.squarespace.com/s/dsb_utvecklarindex08-screenview.pdf",
+    "title": "Spelutvecklarindex 2008",
+    "publisher": "Dataspelsbranschen",
+    "years": "2008",
+    "methodology": "Swedish-registered limited-company annual accounts; developers and specialist suppliers. Non-limited and foreign-registered operations omitted; latest available fiscal accounts, incomplete/new-company reporting.",
+    "assessment": "Useful company-account historical context. No explicit domestic/overseas employee split. First edition dates 715 and 812.5 to 2004/2005 and 2005/2006; later tables relabel 2005 and 2006. Preserve period conflict.",
+    "access_status": "Original PDF downloaded and text read; first-edition and 2009 tables visually verified",
+    "next_step": "Resolve period labels and geographical scope before integrating into domestic workforce chart."
+  },
+  {
+    "url": "https://dataspelsbranschen.squarespace.com/s/dsb_rapport_utvecklarindex-2007-screen.pdf",
+    "title": "Spelutvecklarindex 2007",
+    "publisher": "Dataspelsbranschen",
+    "years": "2007",
+    "methodology": "Swedish-registered limited-company annual accounts; developers and specialist suppliers. Non-limited and foreign-registered operations omitted; latest available fiscal accounts, incomplete/new-company reporting.",
+    "assessment": "Useful company-account historical context. No explicit domestic/overseas employee split. First edition dates 715 and 812.5 to 2004/2005 and 2005/2006; later tables relabel 2005 and 2006. Preserve period conflict.",
+    "access_status": "Original PDF downloaded and text read; first-edition and 2009 tables visually verified",
+    "next_step": "Resolve period labels and geographical scope before integrating into domestic workforce chart."
+  },
+  {
+    "url": "https://dataspelsbranschen.squarespace.com/s/dsb_rapport-01-07_utvecklarindex.pdf",
+    "title": "Spelutvecklarindex 2005 first edition",
+    "publisher": "Dataspelsbranschen",
+    "years": "2005 first edition",
+    "methodology": "Swedish-registered limited-company annual accounts; developers and specialist suppliers. Non-limited and foreign-registered operations omitted; latest available fiscal accounts, incomplete/new-company reporting.",
+    "assessment": "Useful company-account historical context. No explicit domestic/overseas employee split. First edition dates 715 and 812.5 to 2004/2005 and 2005/2006; later tables relabel 2005 and 2006. Preserve period conflict.",
+    "access_status": "Original PDF downloaded and text read; first-edition and 2009 tables visually verified",
+    "next_step": "Resolve period labels and geographical scope before integrating into domestic workforce chart."
+  }
+]

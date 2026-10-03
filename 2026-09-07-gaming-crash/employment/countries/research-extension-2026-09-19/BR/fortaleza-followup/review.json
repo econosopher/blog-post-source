@@ -1,0 +1,51 @@
+{
+  "checked_on": "2026-09-19",
+  "employment_observations_added": 0,
+  "sample_size": 101,
+  "all_zero_games_income": 61,
+  "five_role_subset_size": 89,
+  "five_role_subset_zero_games_income": 56,
+  "decision": "Regional sample context; not workforce stock",
+  "sources": [
+    {
+      "url": "https://cearajogos.com.br/files/2026/06/Censo-Fortaleza-Game-Dev-2024_pagenumber.pdf",
+      "title": "Censo Fortaleza Game Dev 2024",
+      "publisher": "Da Cidade à Tela / CCBJ research laboratory; Instituto Dragão do Mar support",
+      "years": "October2024 questionnaire distribution;2026 publication",
+      "methodology": "Voluntary online community survey with101 responses; channels and limitations documented onpp19-20. Regional sample includes interior residents.",
+      "assessment": "Working-conditions evidence only, not employment stock. Page31:61 zero-games-income respondents overall;56 in89-person five-role subset. No national extrapolation.",
+      "access_status": "Original70MB PDF downloaded; methodology/text reviewed; income chart rendered and inspected",
+      "next_step": "Keep regional context separate; no chart addition."
+    },
+    {
+      "url": "https://cearajogos.com.br/",
+      "title": "Ceará Jogos document archive",
+      "publisher": "Ceará Jogos ecosystem initiative",
+      "years": "2023 mapping and2024 census listed",
+      "methodology": "Archive links state and city plans, statewide MPJ mapping and city-focused census.",
+      "assessment": "Primary discovery route; no later census edition located in bounded check.",
+      "access_status": "Full web page read",
+      "next_step": "Do not interpret absence from this index as proof no successor exists."
+    },
+    {
+      "url": "https://cearajogos.com.br/mpj-ce-mapeamento-2023/",
+      "title": "MPJ-CE mapping2023 PDF route",
+      "publisher": "Ceará Jogos hosting Sebrae/sector mapping",
+      "years": "2023",
+      "methodology": "Web identifies36-page PDF but no extracted text; screenshots time out and local HTTP returns406.",
+      "assessment": "Report contents/numbers not verified; no observation accepted.",
+      "access_status": "PDF metadata only; original download failed",
+      "next_step": "Recover alternative public issuer PDF if regional analysis requires it."
+    },
+    {
+      "url": "https://sebrae.com.br/sites/PortalSebrae/ufs/ce/arquivos/mapeamento-de-profissionais-de-jogos-no-ceara,40c8a8ce8751b810VgnVCM1000001b00320aRCRD",
+      "title": "Mapeamento de Profissionais de Jogos no Ceará: issuer description",
+      "publisher": "Sebrae Ceará",
+      "years": "2023 mapping referenced by census/sector archive",
+      "methodology": "Public description covers businesses, professionals and education initiatives in digital and analog games across Ceará.",
+      "assessment": "Scope differs from Fortaleza digital-games community survey; no comparable employment time series established.",
+      "access_status": "Public landing description read; full report not recovered",
+      "next_step": "Require full methods, denominator and geography before comparing2023 and2024."
+    }
+  ]
+}

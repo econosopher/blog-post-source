@@ -1,0 +1,72 @@
+[
+  {
+    "series_id": "FI_domestic_explicit_fte",
+    "value": 3700,
+    "unit": "FTE",
+    "period": "end of 2022",
+    "locator": "Report 2022, printed p. 20, Developers & Diversity",
+    "definition": "Entire Finnish Game Industry: approximately 3,700 FTE staff in Finland. The surrounding paragraph says totals include entrepreneurs; 400 people in Finnish-owned studios abroad are reported separately.",
+    "url": "https://neogames.fi/wp-content/uploads/2023/05/FGIR2022report.pdf",
+    "status": "estimated national figure, explicit domestic"
+  },
+  {
+    "series_id": "FI_overseas_people",
+    "value": 400,
+    "unit": "people",
+    "period": "end of 2022",
+    "locator": "Report 2022, printed p. 20, Developers & Diversity; p. 21 historic chart footnote",
+    "definition": "People employed in Finnish-owned studios abroad. This is a workplace geography measure, not a foreign-nationality measure.",
+    "url": "https://neogames.fi/wp-content/uploads/2023/05/FGIR2022report.pdf",
+    "status": "estimated separate overseas component"
+  },
+  {
+    "series_id": "FI_studios_global",
+    "value": 4100,
+    "unit": "people",
+    "period": "end of 2022",
+    "locator": "Report 2022, printed p. 20-21, Developers & Diversity",
+    "definition": "People working in Finnish game studios both in Finland and abroad; figures include entrepreneurs.",
+    "url": "https://neogames.fi/wp-content/uploads/2023/05/FGIR2022report.pdf",
+    "status": "estimated worldwide Finnish-studio total"
+  },
+  {
+    "series_id": "FI_domestic_derived_fte",
+    "value": 3350,
+    "unit": "FTE",
+    "period": "end of 2020",
+    "locator": "Report 2020, printed p. 26-27, Developers & Diversity",
+    "definition": "Arithmetic remainder of 3,600 FTE total less approximately 250 persons employed abroad. The report does not independently state this domestic number, and the overseas component is approximate.",
+    "url": "https://neogames.fi/wp-content/uploads/2021/06/FGIR-2020-Report.pdf",
+    "status": "derived approximate; exclude from strict direct-observation series"
+  },
+  {
+    "series_id": "FI_domestic_explicit_fte",
+    "value": 3800,
+    "unit": "FTE",
+    "period": "end of 2024",
+    "locator": "Report 2024, printed p. 12, Developers & Diversity",
+    "definition": "Entire Finnish Game Industry: approximately 3,800 FTE staff in Finland. The surrounding paragraph says totals include entrepreneurs; 500 people in Finnish-owned studios abroad are reported separately.",
+    "url": "https://neogames.fi/wp-content/uploads/2025/08/FinnishGameIndustryReport2024.pdf",
+    "status": "estimated national figure, explicit domestic"
+  },
+  {
+    "series_id": "FI_overseas_people",
+    "value": 500,
+    "unit": "people",
+    "period": "end of 2024",
+    "locator": "Report 2024, printed pp. 12-13, Developers & Diversity",
+    "definition": "People employed in Finnish-owned studios abroad. This is a workplace geography measure, not a foreign-nationality measure.",
+    "url": "https://neogames.fi/wp-content/uploads/2025/08/FinnishGameIndustryReport2024.pdf",
+    "status": "estimated separate overseas component"
+  },
+  {
+    "series_id": "FI_studios_global",
+    "value": 4300,
+    "unit": "people",
+    "period": "end of 2024",
+    "locator": "Report 2024, printed pp. 12-13, Developers & Diversity",
+    "definition": "People working in Finnish game studios both in Finland and abroad; figures include entrepreneurs.",
+    "url": "https://neogames.fi/wp-content/uploads/2025/08/FinnishGameIndustryReport2024.pdf",
+    "status": "estimated worldwide Finnish-studio total"
+  }
+]

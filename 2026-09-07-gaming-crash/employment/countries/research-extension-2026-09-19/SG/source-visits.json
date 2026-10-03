@@ -1,0 +1,115 @@
+[
+  {
+    "url": "https://www.mddi.gov.sg/newsroom/infocomm-and-media-professionals-required/",
+    "title": "MCI response to PQ on Info Comm and Media Professionals Required to Support Games Sector",
+    "publisher": "MCI / MDDI Singapore",
+    "years": [
+      2019,
+      2021,
+      2022
+    ],
+    "methodology": "2021 near-2000 employed stated separately from 2019 survey indicative manpower demand of 2700.",
+    "assessment": "Official employment observation, pending duplicate check. Do not treat manpower expectations as stock.",
+    "access_status": "Full official page inspected",
+    "next_step": "Check original catalog, trace IMDA annual manpower survey games-only table."
+  },
+  {
+    "url": "https://www.imda.gov.sg/about-imda/research-and-statistics/tech-and-media-talent",
+    "title": "Tech and Media Talent",
+    "publisher": "IMDA",
+    "years": [
+      2026
+    ],
+    "methodology": "Current portal lists employed tech/media professionals and sector/sex breakdowns; tool text does not expose games-only values.",
+    "assessment": "Portal found; no verified additional games employment row.",
+    "access_status": "Page shell inspected; underlying series not retrieved",
+    "next_step": "Retrieve linked datasets and definitions; no figures accepted from shell."
+  },
+  {
+    "url": "https://www.imda.gov.sg/about-imda/research-and-statistics/tech-and-media-talent",
+    "title": "IMDA current talent statistics",
+    "years": "2020-2025",
+    "methodology": "Landing page and downloadable workbook inspection",
+    "access_status": "Official public page inspected; HTML downloaded",
+    "assessment": "Current longitudinal source exists but does not isolate games employment.",
+    "next_step": "Seek DOS/IMDA employment by SSIC58201 and62012 or a games-specific realized-employment disclosure."
+  },
+  {
+    "url": "https://www.imda.gov.sg/assets/b61fabe9-2170-4cdd-a456-f2e33a7e019c.xlsx",
+    "title": "IMDA Annual Survey on Infocomm Media Manpower data tables",
+    "years": "2020-2025",
+    "methodology": "Workbook MP Data Tables has tech/media totals, I&C/non-I&C shares, and sex shares only.",
+    "access_status": "Downloaded and all nonempty workbook rows inspected",
+    "assessment": "No games-only workforce, occupational breakdown or industry-class row. Cannot derive games from media total.",
+    "next_step": "Seek DOS/IMDA employment by SSIC58201 and62012 or a games-specific realized-employment disclosure."
+  },
+  {
+    "url": "https://www.imda.gov.sg/-/media/imda/files/inner/archive/news-and-events/news_and_events_level2/20110304144439/annexc.pdf",
+    "title": "Annual Infocomm Manpower Survey2010",
+    "years": "1 June2010",
+    "methodology": "Stratified Establishment Sampling Frame across sectors. Permanent/direct-contract full/part-time workers at Singapore organizations, including overseas stations. Contractors/subcontractors excluded.",
+    "access_status": "Official PDF text inspected pp1-2 and AnnexA",
+    "assessment": "Chart2 reports5.4 thousand for combined Digital Media & Animation, Games Design & Development. Exclude: mixed occupation and geography; not games-industry total.",
+    "next_step": "Seek DOS/IMDA employment by SSIC58201 and62012 or a games-specific realized-employment disclosure."
+  },
+  {
+    "url": "https://www.imda.gov.sg/-/media/imda/files/about/resources/corporate-publications/mda-html/2014/pdf/mda_ar_chap1.pdf",
+    "title": "MDA annual report2013/14 chapter1",
+    "years": "2012",
+    "methodology": "Interactive digital media sector aggregate;2008-2012 employment growth discussed.",
+    "access_status": "Indexed official PDF text, printedp23",
+    "assessment": "14,510 IDM jobs not a games-only measure. No games count inferred from growth.",
+    "next_step": "Seek DOS/IMDA employment by SSIC58201 and62012 or a games-specific realized-employment disclosure."
+  },
+  {
+    "url": "https://www.mti.gov.sg/-/media/MTI/Resources/Economic-Survey-of-Singapore/2017/Economic-Survey-of-Singapore-Third-Quarter-2017/fullreport_3q17.pdf",
+    "title": "Economic Survey of Singapore third-quarter2017",
+    "years": "2015",
+    "methodology": "DOS/EDB/MOM economic-sector employment; software and games combined.",
+    "access_status": "Indexed official PDF text, printedp20 Exhibit3B",
+    "assessment": "17 percent of approximately200,000 ICM jobs is broad software-and-games share. Do not convert this into an observed games total.",
+    "next_step": "Seek DOS/IMDA employment by SSIC58201 and62012 or a games-specific realized-employment disclosure."
+  },
+  {
+    "url": "https://www.mddi.gov.sg/newsroom/pq-on-dev-of-e-sports-and-gaming-industries-in-singapore/",
+    "title": "Parliamentary answer on game development and esports",
+    "years": "2020 answer; March2020 company stock",
+    "methodology": "190 development/publishing companies based on SSIC58201 and62012.2,700 is future manpower need from2019 survey.",
+    "access_status": "Official answer text inspected",
+    "assessment": "Company count and projected demand are not observed employment. SSIC58201+62012 is a precise future statistical-table search lead.",
+    "next_step": "Seek DOS/IMDA employment by SSIC58201 and62012 or a games-specific realized-employment disclosure."
+  },
+  {
+    "url": "https://www.mddi.gov.sg/newsroom/infocomm-and-media-professionals-required/",
+    "title": "MCI response to PQ on Info Comm and Media Professionals Required to Support Games Sector",
+    "publisher": "Singapore Ministry of Communications and Information, now MDDI",
+    "years": "2019 demand survey; 2021 employment; published 2022",
+    "methodology": "The parliamentary answer says the Annual Survey on Infocomm Media Manpower provides an indicative sense of demand based on companies' growth expectations. It does not publish the realised-employment method for the 2021 nearly-2,000 figure.",
+    "assessment": "Only located national games-sector employment stock: nearly 2,000 people in 2021. The text explicitly distinguishes it from the projected 2,700 demand, and discusses the sector with esports context; it is not a pure developer/publisher series.",
+    "access_status": "full official page",
+    "next_step": "Use only as the existing broad 2021 snapshot unless IMDA releases a games-only realised-employment table.",
+    "checked_date": "2026-09-20"
+  },
+  {
+    "url": "https://www.sgga.org.sg/",
+    "title": "Singapore Games Association home page",
+    "publisher": "Singapore Games Association",
+    "years": "current site claim, checked 2026-09-20",
+    "methodology": "The association says it issues annual data reports on the Singapore games industry, but its public sitemap exposes no report archive or downloadable data report.",
+    "assessment": "This establishes that SGGA is a relevant annual-report lead, but does not itself provide an employment count, methodology, or retrievable annual series.",
+    "access_status": "public home page and sitemap inspected; no public report URL located",
+    "next_step": "Do not infer data availability from the claim. Recheck only if SGGA publishes a report or public methodology/data link.",
+    "checked_date": "2026-09-20"
+  },
+  {
+    "url": "https://www.imda.gov.sg/about-imda/research-and-statistics/tech-and-media-talent",
+    "title": "Tech and Media Talent",
+    "publisher": "Infocomm Media Development Authority",
+    "years": "2020-2025 workbook series reviewed in prior archive pass",
+    "methodology": "IMDA public workbook has tech/media totals and sector/sex breakdowns, but no games-specific workforce row or industry-class series.",
+    "assessment": "Not usable for games employment. A broad technology/media total cannot be allocated to games.",
+    "access_status": "official public portal and linked workbook previously inspected",
+    "next_step": "Seek a released table for SSIC 58201 and 62012 or a games-specific realised-employment disclosure.",
+    "checked_date": "2026-09-20"
+  }
+]

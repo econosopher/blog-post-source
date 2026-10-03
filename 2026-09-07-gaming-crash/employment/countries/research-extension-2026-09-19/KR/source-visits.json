@@ -1,0 +1,152 @@
+[
+  {
+    "url": "https://www.kocca.kr/knowledge/publication/indu/__icsFiles/afieldfile/2013/11/11/uQ38hyWQZt2L.pdf",
+    "title": "2013 Content Industry Statistics Survey: Games extract",
+    "publisher": "Korea Creative Content Agency (KOCCA)",
+    "years": "2010-2012",
+    "methodology": "KOCCA content-industry statistical survey. Table 4 separates game production/distribution from PC cafes, arcade-game rooms and video-game venues; its values are headcounts in people.",
+    "assessment": "Decisive primary KOCCA source with a sector label matching KR_core. It recovers 2010 48,585; 2011 51,859; and 2012 52,466, but does not by itself prove survey-frame continuity with the later series.",
+    "access_status": "full_source",
+    "next_step": "Main may validate and add the five proposed pre-2015 observations as a vintage-separated history; preserve the existing post-2015 sources and the core-versus-venue split, and keep trend eligibility false pending methods."
+  },
+  {
+    "url": "https://m.korea.kr/expertWeb/resources/files/data/document_file/2016/2016%20%EC%A0%80%EC%9E%91%EA%B6%8C%20%EB%B3%B4%ED%98%B8%20%EC%97%B0%EC%B0%A8%EB%B3%B4%EA%B3%A0%EC%84%9C.pdf",
+    "title": "2016 Copyright Protection Annual Report",
+    "publisher": "Korea Copyright Protection Center; hosted on Korea government portal",
+    "years": "2012-2014",
+    "methodology": "Government report reproduces a three-year game-employment table and explicitly credits the KOCCA 2015 White Paper (2015-10). It separates game production/distribution from game distribution/consumption.",
+    "assessment": "Usable government-hosted reproduction for missing 2013 and 2014 core observations. The direct KOCCA 2015 White Paper file was not recovered in this bounded pass, so provenance is one step removed; the 2012 value matches the direct 2013 KOCCA table.",
+    "access_status": "full_source",
+    "next_step": "If stronger archival provenance is needed, locate the original 2015 KOCCA White Paper PDF. Do not replace the reproduced values unless the original conflicts."
+  },
+  {
+    "url": "https://welcon.kocca.kr/cmm/fms/CrawlingFileDown.do?atchFileId=FILE_3d4caf8b-17a4-4c87-8804-d2b91e83b471&fileSn=1",
+    "title": "2017 White Paper on Korean Games",
+    "publisher": "KOCCA / Ministry of Culture, Sports and Tourism",
+    "years": "2014-2016",
+    "methodology": "Annual White Paper table separately reports game development/distribution businesses and game circulation/consumption businesses (PC Bangs and arcade rooms).",
+    "assessment": "Decisive primary sector-match check. It confirms the existing 2015 (35,445) and 2016 (33,979) core values and independently supplies 2014 (39,221), already proposed from the government-hosted KOCCA reproduction. It does not prove survey-frame continuity across vintages.",
+    "access_status": "full_source",
+    "next_step": "No new rows from this source beyond proposed 2014 because 2015-2016 are already present in KR.json."
+  },
+  {
+    "url": "https://welcon.kocca.kr/",
+    "title": "KOCCA/WelCon publication portal, forward-edition search",
+    "publisher": "KOCCA",
+    "years": "2025 observation / prospective 2026 White Paper",
+    "methodology": "Portal and web-index queries for a 2026 White Paper on Korean Games were checked.",
+    "assessment": "No accessible 2026 edition or 2025 employment observation was recovered. The existing 2025 White Paper remains the newest recovered edition and covers 2024.",
+    "access_status": "no_new_edition_recovered",
+    "next_step": "Recheck KOCCA/WelCon after publication of the next White Paper; require its employment table and exact observation year before proposing a 2025 row."
+  },
+  {
+    "url": "https://www.kocca.kr/knowledge/publication/indu/__icsFiles/afieldfile/2013/11/11/uQ38hyWQZt2L.pdf",
+    "title": "2013 White Paper on Korean Games / Content Industry Statistics extract",
+    "methodology": "Table 4 reports annual people headcounts for 2010-2012 and separates game production/distribution from venue categories. No survey-frame continuity appendix was found in the recovered extract.",
+    "assessment": "Direct KOCCA evidence for 2010-2012 and the exact 2012 overlap value 52,466.",
+    "access_status": "full_source"
+  },
+  {
+    "url": "https://m.korea.kr/expertWeb/resources/files/data/document_file/2016/2016%20%EC%A0%80%EC%9E%91%EA%B6%8C%20%EB%B3%B4%ED%98%B8%20%EC%97%B0%EC%B0%A8%EB%B3%B4%EA%B3%A0%EC%84%9C.pdf",
+    "title": "2016 Copyright Protection Annual Report",
+    "methodology": "Table II-8 reproduces the KOCCA 2015 White Paper's 2012-2014 core-versus-venue employment table; it provides no survey design, frame or worker-status definitions.",
+    "assessment": "Government-hosted source-native comparison that makes the 2012-2013 numerical step directly observable, but does not explain it.",
+    "access_status": "full_source"
+  },
+  {
+    "url": "https://welcon.kocca.kr/cmm/fms/CrawlingFileDown.do?atchFileId=FILE_3d4caf8b-17a4-4c87-8804-d2b91e83b471&fileSn=1",
+    "title": "2017 White Paper on Korean Games",
+    "methodology": "Table 5 gives the same core/venue split for 2014-2016; method appendix sufficient to prove unchanged frame was not located in the recovered English report.",
+    "assessment": "Direct KOCCA/MCST confirmation of 2014 39,221 and continuing sector labels, not a proof of longitudinal survey equivalence.",
+    "access_status": "full_source"
+  },
+  {
+    "url": "https://www.kocca.kr/knowledge/publication/indu/",
+    "title": "KOCCA publication archive / 2015 White Paper recovery lead",
+    "methodology": "Searched directly and through KOCCA/MCST-indexed results for the original 2015 White Paper and its methodology.",
+    "assessment": "The original 2015 methodology document was not recovered in this bounded pass. Search yielded later editions, not a decisive explanation for the 2012-2013 difference.",
+    "access_status": "original_method_not_recovered"
+  },
+  {
+    "url": "https://www.codil.or.kr/filebank/original/RK/OTKCRK170420/OTKCRK170420.pdf",
+    "title": "Government research repository reproduction points to2014 White Paper",
+    "years": "2013 employment",
+    "methodology": "Indexed passage cites2014 KOCCA White Paper for812 firms and40541 workers.",
+    "assessment": "Bibliographic lead to contemporaneous2014 edition only. Reproduction does not establish method continuity or cause of decline.",
+    "access_status": "Indexed passage inspected; original2014 methods not recovered",
+    "next_step": "Seek original2014 White Paper methodology as well as2015 retrospective table."
+  },
+  {
+    "url": "https://m.kocca.kr/knowledge/publication/indu/__icsFiles/afieldfile/2012/10/10/w0uw0G1FcfBw.pdf",
+    "title": "KOCCA 2012 White Paper summary, Table 4",
+    "years": "2009-2011",
+    "methodology": "People in game production/distribution; venue workers separately tabulated.",
+    "assessment": "2009=43,365 newly recovered; 2010=48,585 and 2011=51,859 match existing later table. Frame continuity unproved; marker-only proposal.",
+    "access_status": "Official PDF downloaded; text and page 8 image checked",
+    "next_step": "Trace 2011 and earlier white papers backward; recover worker-status definitions and estimation method."
+  },
+  {
+    "url": "https://www.newswire.co.kr/newsRead.php?no=771789",
+    "title": "KOCCA-issued 2014 White Paper launch release",
+    "years": "2013",
+    "methodology": "Release reports 40,541 production/distribution workers and 226 surveyed production/distribution firms; does not explain weighting or extrapolation.",
+    "assessment": "Direct issuer confirmation replaces reliance solely on later government reproduction for 2013. Sample size is not population or workforce count. No causal explanation for 2012-2013 decline.",
+    "access_status": "Full press release read; issuer identified as KOCCA",
+    "next_step": "Recover full 2014/2015 methodology; keep historical markers unconnected."
+  },
+  {
+    "url": "https://www.archives.go.kr/next/newsearch/viewDescClassContents.do?businessFunctionId=G00000000950&descClassDiv=G&descFullId=T00000000090%2FT00000000094%2FG00000000950&doctype=M&page=92&sitePage=&viewSel=archive",
+    "title": "National Archives catalog: 2015 White Paper upper volume DM00054095",
+    "years": "2015 publication",
+    "methodology": "Bibliographic inventory only.",
+    "assessment": "Specific original-volume retrieval lead; no document text or employment-method appendix inspected.",
+    "access_status": "Official indexed catalog listing located",
+    "next_step": "Retrieve upper volume DM00054095 and employment chapter; do not treat catalog metadata as methodology evidence."
+  },
+  {
+    "url": "https://tgsi.or.kr/?bmode=view&idx=158701002&q=YToyOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjtzOjQ6InBhZ2UiO2k6MjA7fQ%3D%3D&t=board",
+    "title": "Game Science Institute white-paper archive lead",
+    "years": "2015-2016 publications",
+    "methodology": "Archive link lead only.",
+    "assessment": "No source content recovered.",
+    "access_status": "Web fetch returned 403",
+    "next_step": "Prefer official KOCCA or National Archives retrieval."
+  },
+  {
+    "url": "https://www.kocca.kr/kocca/bbs/view/B0000138/1823385.do?menuNo=204106",
+    "title": "KOCCA 2014 White Paper launch: original HWP summary attachment",
+    "years": "2011-2013",
+    "methodology": "Original issuer attachment, production/distribution people, separate venue row; estimator and contractor treatment absent from summary.",
+    "assessment": "Original 2011=51,859, 2012=52,466, 2013=40,541 overlap confirmed. Narrative explicitly reports 22.7% decline; this is the source interpretation, not proof of unchanged frame.",
+    "access_status": "Official HTML and 147,968-byte HWP downloaded; body paragraph records decompressed and decoded",
+    "next_step": "Recover full employment methodology; retain isolated markers until frame review."
+  },
+  {
+    "url": "https://www.archives.go.kr/next/newsearch/showDetailPopup.do?rc_code=1310377&rc_rfile_no=201607142184&rc_ritem_no=000000000001&sitePage=0-0-0",
+    "title": "National Archives item record DM00054095, upper volume",
+    "years": "2015 publication",
+    "methodology": "Original-volume bibliographic record only.",
+    "assessment": "538 pages, publication 2015-10-01, Seongnam archive. Item page has empty PDF path and no exposed original-file link; no full text retrieved.",
+    "access_status": "Listing, volume detail and item HTML saved and inspected",
+    "next_step": "Do not repeat catalog lookup as if it yields full text; seek other official digital copy."
+  },
+  {
+    "url": "https://m.inven.co.kr/webzine/wznews.php?idx=121637&p=27&searchwhere=writer&svalue=%EA%B9%80%EC%A7%80%EC%97%B0",
+    "title": "Contemporaneous Inven coverage: frame lead only",
+    "years": "2013 survey in 2014 publication",
+    "methodology": "Secondary reporting says 812 registered firms at 2013-12-31, 226 valid respondents, visits/online/fax.",
+    "assessment": "Useful search terms, not accepted as original survey-method proof. Reference date must not be propagated to employment without original confirmation.",
+    "access_status": "Indexed article passage inspected",
+    "next_step": "Locate original Part 1 Chapter 3 and Chapter 4 using these terms."
+  },
+  {
+    "url": "https://www.kocca.kr/knowledge/publication/indu/__icsFiles/afieldfile/2011/10/14/zKKTQgQzXSMC.pdf",
+    "title": "2011 White Paper on Korean Games: summary, Table4",
+    "publisher": "KOCCA",
+    "years": "2008-2010 reference years;2011 edition",
+    "methodology": "Table4 separates production/distribution workers from distribution/consumption businesses. Historical production row42730,43365,48585; overlapping2009/2010 values match later summaries.",
+    "assessment": "New source-verified2008 candidate. Summary does not establish frame continuity. Narrative says distribution/consumption survey newly started in this edition despite earlier table values; do not infer matched methods.",
+    "access_status": "Original PDF downloaded; Table4 visually inspected and all component sums checked",
+    "next_step": "Review2008/2009 for isolated-marker acceptance under existing Korean historical policy; no new trend connections."
+  }
+]

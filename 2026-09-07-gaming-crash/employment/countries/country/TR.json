@@ -1,0 +1,199 @@
+{
+  "country": "Turkey",
+  "iso2": "TR",
+  "priority": "additional",
+  "coverage_status": "usable_snapshot",
+  "summary": "TOGED supplies a 2023 employment estimate of 10,777 in the EGDF report. The questionnaire requests FTEs including remote workers abroad, so this is not strictly domestic workplace employment. A much lower 2,500-3,000 secondary estimate cannot be verified in its cited original and remains unplotted context.",
+  "preferred_series_ids": [
+    "TR_toged"
+  ],
+  "search_log": [
+    {
+      "route": "statistical_agency",
+      "query": "TÜİK oyun geliştirme istihdam çalışan sayısı 58.21",
+      "url": "https://veriportali.tuik.gov.tr/tr/press/54059",
+      "outcome": "General labor-force statistics found; no games-specific national extraction verified. Invest Türkiye 2025 report downloaded and screened; studio size and investment data do not give a national total."
+    },
+    {
+      "route": "industry_association",
+      "query": "TOGED oyun sektörü çalışan istihdam rapor EGDF",
+      "url": "https://toged.org/",
+      "outcome": "Association website checked; TOGED submission located in original EGDF report and employment bar visually inspected."
+    },
+    {
+      "route": "local_language",
+      "query": "Türkiye oyun sektörü raporu çalışan 2500 3000 2023 2025",
+      "url": "https://www.turkiyeoyunsektoruraporu.com/tr/turkiye-oyun-sektoru-raporlari/",
+      "outcome": "Local archive and 2023/2025 reports checked; thesis range retained as unverifiable secondary attribution."
+    }
+  ],
+  "sources": [
+    {
+      "source_id": "TR_egdf2023",
+      "title": "2023 European Video Games Industry Insight Report: Turkey",
+      "publisher": "EGDF / TOGED; supported by Video Games Europe",
+      "url": "https://www.egdf.eu/wp-content/uploads/2025/08/2023-European-video-games-industry-insight-report.pdf",
+      "publication_date": null,
+      "retrieved_date": "2026-09-09",
+      "source_type": "industry_association",
+      "local_file": "raw/TR/egdf2023.pdf",
+      "locator": "p57 Turkey chart; pp74-76 questionnaire",
+      "access_status": "full_source",
+      "notes": "Published August 2025; exact day not verified on original release. National-association data compiled by EGDF."
+    },
+    {
+      "source_id": "TR_invest2025",
+      "title": "The State of Turkish Gaming Ecosystem 2025",
+      "publisher": "Investment and Finance Office of the Presidency of Türkiye; startups.watch",
+      "url": "https://www.invest.gov.tr/en/library/publications/lists/investpublications/the-state-of-turkish-gaming-ecosystem-2025.pdf?download=",
+      "publication_date": null,
+      "retrieved_date": "2026-09-09",
+      "source_type": "government",
+      "local_file": "raw/TR/invest2025.pdf",
+      "locator": "p12 studio size; whole report screened",
+      "access_status": "full_source",
+      "notes": "2025 edition with 2026 references; no total workforce recovered. Original file download requires download query. Scope figures concern companies and investments, not a workforce census."
+    },
+    {
+      "source_id": "TR_market2023",
+      "title": "Türkiye Game Market Report 2023",
+      "publisher": "Gaming in Türkiye",
+      "url": "https://investgame.net/wp-content/uploads/2024/07/turkiye-game-market-report-2023_compressed.pdf",
+      "publication_date": null,
+      "retrieved_date": "2026-09-09",
+      "source_type": "research_partner",
+      "local_file": "raw/TR/market2023.pdf",
+      "locator": "Full report searched for employment; studio and venue tables",
+      "access_status": "full_source",
+      "notes": "2023 report on public mirror; no verification of the 2500-3000 workforce attribution made by the thesis."
+    },
+    {
+      "source_id": "TR_market2025",
+      "title": "Türkiye Game Market Report 2025",
+      "publisher": "Gaming in Türkiye",
+      "url": "https://investgame.net/wp-content/uploads/2026/02/2026-02-17-trkiye_game_market_report_2025-compressed_wp.pdf",
+      "publication_date": "2026-02-17",
+      "retrieved_date": "2026-09-09",
+      "source_type": "research_partner",
+      "local_file": "raw/TR/market2025.pdf",
+      "locator": "Full report screened; company/industry sections",
+      "access_status": "full_source",
+      "notes": "365-page original report on public mirror; includes market size and ecosystem commentary, no verified total national workforce in inspected text. Publisher archive confirms release date."
+    },
+    {
+      "source_id": "TR_thesis2025",
+      "title": "Rethinking Auteur and Authority on Creative Actors in Turkish Video Game Industry",
+      "publisher": "Yiğit Tarlabölen, Başkent University",
+      "url": "https://acikerisim.baskent.edu.tr/server/api/core/bitstreams/ecfd58a7-4c0f-4e93-a1a3-7449f29ea70a/content",
+      "publication_date": null,
+      "retrieved_date": "2026-09-09",
+      "source_type": "secondary",
+      "local_file": "raw/TR/thesis2025.pdf",
+      "locator": "printed p4 / PDF p14",
+      "access_status": "secondary_only",
+      "notes": "2025 thesis; exact publication date unresolved. Its population estimate is attributed to Gaming in Türkiye 2023, not measured by the thesis interviews."
+    }
+  ],
+  "series": [
+    {
+      "series_id": "TR_toged",
+      "label": "TOGED developer/publisher workforce estimate",
+      "measure": "employment_stock",
+      "unit": "FTE",
+      "industry_scope": "Game development and publishing; excludes non-development specialist services, pure asset suppliers, retail and distribution in EGDF questionnaire. Hardware, venues, gambling and esports boundaries not individually specified for Turkey.",
+      "occupation_scope": "All roles in covered businesses, including creative, technical and business functions.",
+      "geography_basis": "mixed",
+      "geography_note": "Includes direct remote employees in third countries under EGDF rules. Excludes staff of foreign subsidiaries and subcontractor companies abroad. Foreign-owned local subsidiaries are reported independently; nationality is not an exclusion.",
+      "worker_status": "EGDF FTE definition includes employees, entrepreneurs and in-house freelancers. Agency staff, apprentices and interns not separately specified; Turkey-specific implementation not documented.",
+      "contractor_treatment": "In-house freelancers in requested FTE measure; foreign subcontractor companies excluded. No separate contractor count.",
+      "nationality_definition": "Not reported.",
+      "method": "TOGED national submission to EGDF. Questionnaire requests full-time equivalent employees, entrepreneurs and in-house freelancers; country-specific sampling details not published.",
+      "population_basis": "national_estimate",
+      "sample_size": "See observations.",
+      "comparability_group": "TR_toged",
+      "chart_eligible": true,
+      "trend_eligible": false,
+      "index_2019_eligible": false,
+      "comparison_note": "Usable association snapshot only; mixed remote geography and missing local method prevent strict domestic comparison or a trend. No 2019 observation.",
+      "source_native_term": "Number of people working in the industry",
+      "term_translation": "The chart calls this people; questionnaire p76 specifies FTE. Turkey-specific conversion is not independently documented."
+    },
+    {
+      "series_id": "TR_secondary_range",
+      "label": "Unverified secondary workforce range",
+      "measure": "employment_stock",
+      "unit": "people",
+      "industry_scope": "Claimed game developers and indie teams; industry exclusions unresolved.",
+      "occupation_scope": "All roles in covered businesses, including creative, technical and business functions.",
+      "geography_basis": "unknown",
+      "geography_note": "Domestic workers irrespective of citizenship or employer ownership are the comparison target; exact source rules below.",
+      "worker_status": "Employees; other statuses unknown unless specified.",
+      "contractor_treatment": "unknown",
+      "nationality_definition": "Not reported.",
+      "method": "Thesis repeats attributed population estimate; original calculation not recovered.",
+      "population_basis": "unknown",
+      "sample_size": "See observations.",
+      "comparability_group": "TR_secondary_range",
+      "chart_eligible": false,
+      "trend_eligible": false,
+      "index_2019_eligible": false,
+      "comparison_note": "Retained separately as secondary context. Conflicts with TOGED estimate; insufficient evidence to reconcile scope or date.",
+      "source_native_term": "Unverified secondary workforce range",
+      "term_translation": "Unverified secondary workforce range"
+    }
+  ],
+  "observations": [
+    {
+      "observation_id": "TR_toged_2023_TR_egdf2023_0",
+      "series_id": "TR_toged",
+      "source_id": "TR_egdf2023",
+      "observation_period": "2023; precise reference date not stated",
+      "year": 2023,
+      "value": 10777,
+      "value_low": null,
+      "value_high": null,
+      "status": "estimated",
+      "preferred": true,
+      "subgroup": "all",
+      "denominator": "All employment covered by this series.",
+      "source_locator": "p57 employment column, 2023 bar",
+      "publication_vintage": "TR_egdf2023",
+      "method_break": false,
+      "break_note": "",
+      "derivation": "",
+      "notes": "The nearby 3,300 is turnover in million euros, not 2019 employment. All 2019-2022 employment bars are N/A."
+    },
+    {
+      "observation_id": "TR_secondary_range_2023_TR_thesis2025_1",
+      "series_id": "TR_secondary_range",
+      "source_id": "TR_thesis2025",
+      "observation_period": "Claimed 2023 national figure",
+      "year": 2023,
+      "value": null,
+      "value_low": 2500,
+      "value_high": 3000,
+      "status": "estimated",
+      "preferred": false,
+      "subgroup": "all",
+      "denominator": "All employment covered by this series.",
+      "source_locator": "printed p4 / PDF p14",
+      "publication_vintage": "TR_thesis2025",
+      "method_break": false,
+      "break_note": "",
+      "derivation": "",
+      "notes": "Claimed original source is Gaming in Türkiye 2023, but inspection did not verify this range. No midpoint or gap-filling."
+    }
+  ],
+  "limitations": [
+    "No verified employment observations for 2015-2022 or later than 2023; later market reports do not establish later workforce counts.",
+    "EGDF requests FTEs but the country chart says people; unit implementation and national estimation method are not exposed.",
+    "Remote workers abroad remain within TOGED/EGDF measure; it is not a residents-only or workplace-only total.",
+    "Secondary estimate 2500-3000 is unresolved, not an alternative preferred national total."
+  ],
+  "review_checks": [
+    "PDF p57 rendered and visually checked, preventing revenue3300 from being misread as workers.",
+    "EGDF p76 employment definition inspected for FTE, founders, freelancers and remote workers.",
+    "2023 and 2025 market report text searched; secondary claim not verified in original."
+  ],
+  "research_complete": true
+}

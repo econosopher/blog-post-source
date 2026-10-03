@@ -1,0 +1,82 @@
+[
+  {
+    "url": "https://www.dost.gov.ph/knowledge-resources/news/33-2013-news/137-ready-set-game-get-to-know-the-game-development-industry-at-the-s-t-week.html",
+    "title": "READY SET GAME,8July2013",
+    "publisher": "DOST-ICTO",
+    "years": "2013",
+    "methodology": "Official current estimate attributed to deputy executive director; collection method absent",
+    "assessment": "4000 qualifies as approximate snapshot only;10000/15000 targets excluded",
+    "access_status": "Inspected",
+    "next_step": ""
+  },
+  {
+    "url": "https://storage.googleapis.com/request-attachments/Vtf5Zx0ehCcI73gYyAN5f6G0HvdxTMNyMpRMguzsrwJUXjeOTaKPhANb2fBetzeIgfazNYhp0BYPVAO4bAynhu3No8EW1l3dnaFZ/Industry%20Profile%20-%20Philippine%20Animation%20and%20Game%20Development.pdf",
+    "title": "Industry Profile: Philippine Game Development and Animation",
+    "publisher": "Board of Investments / IBPAP",
+    "years": "2016,2021,2022E,2028F",
+    "methodology": "Government-hosted FOI attachment, original embedded Roadmap2028 chart",
+    "assessment": "2016=3.0k/2021=4.7kFTE historical;2022E varies by scenario and is not an observed stock",
+    "access_status": "PDF downloaded and p1 chart visually inspected",
+    "next_step": "Compare against existing baseline and recover roadmap methods"
+  },
+  {
+    "url": "https://www.slideshare.net/slideshow/philippine-game-development-industry-2011/8619924",
+    "title": "Philippine Game Development Industry Situationer2011",
+    "publisher": "GDAP-attributed presentation; uploader provenance unresolved",
+    "years": "2009/2010 conflicting",
+    "methodology": "Slide19 says1200 at end2010; slide20 says same at end2009; chart includes projection labels",
+    "assessment": "Do not accept ambiguous1200 as annual observation;1600 is forecast",
+    "access_status": "Full indexed slide text inspected",
+    "next_step": "Recover authoritative original and resolve date conflict"
+  },
+  {
+    "url": "https://www.foi.gov.ph/requests/latest-labor-market-intelligence-on-game-development-sector-in-the-philippines-dti-106599663800/",
+    "title": "FOI workforce request2022",
+    "publisher": "DTI",
+    "years": "2019-2022 requested",
+    "methodology": "Public FOI reply11May2022",
+    "assessment": "Office says it does not hold requested information and refers to BOI; portal success label does not establish data supplied",
+    "access_status": "Inspected",
+    "next_step": ""
+  },
+  {
+    "url": "https://www.foi.gov.ph/requests/latest-labor-market-intelligence-on-game-development-sector-in-the-philippines-psa-879032637828/",
+    "title": "FOI game-development workforce request",
+    "publisher": "Philippine Statistics Authority",
+    "years": "historical",
+    "methodology": "Reply lists general ICT/programming/consultancy datasets",
+    "assessment": "Broad categories cannot be substituted for games",
+    "access_status": "Indexed original reply inspected",
+    "next_step": "Check game-only detailed classification availability"
+  },
+  {
+    "url": "https://boi.gov.ph/boi-approves-micro-enterprise-game-development-project/",
+    "title": "BOI microenterprise approval18Jan2018",
+    "publisher": "Board of Investments",
+    "years": "2022 target",
+    "methodology": "Report of forecast from2016-2022 industry roadmap",
+    "assessment": "Over4000 by2022 is projected; do not chart as observed",
+    "access_status": "Inspected",
+    "next_step": ""
+  },
+  {
+    "url": "https://boi.gov.ph/wp-content/uploads/2018/02/Game-Development-December-2017.pdf",
+    "title": "Game Development December2017 roadmap",
+    "publisher": "Board of Investments",
+    "years": "2016-2022",
+    "methodology": "Original cited in TESDA skills framework",
+    "assessment": "No values accepted from inaccessible PDF",
+    "access_status": "Web inaccessible and direct requests403",
+    "next_step": "Recover official mirror before extracting"
+  },
+  {
+    "url": "https://admin.ibpap.org/storage/hub-resources/1fntWJGQKvZg4CfwP4yfXs0Jr1n85DVR1vYXJvSn.pdf",
+    "title": "Philippine IT-BPM Roadmap2028 executive summary",
+    "publisher": "IBPAP",
+    "years": "2016,2021 historical;2022E/2028F scenarios",
+    "methodology": "Game-development services headcount, FTE thousands; method detail not established",
+    "assessment": "Original association PDF confirms BOI reproduction; preserve source-vintage and forecast boundaries",
+    "access_status": "Downloaded PDF and p34 text inspected",
+    "next_step": "Check existing baseline before adding observations"
+  }
+]

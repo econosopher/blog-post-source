@@ -1,0 +1,56 @@
+{
+  "scope": "Bounded primary-source method review: METI Information and Communications Industry Basic Survey, Table 7, game-software enterprises, development/production division. This does not assess national employment or other industries.",
+  "decision": {
+    "FY2017_FY2018_FY2020": "Treat as the same reported measure in changing-respondent survey snapshots: the Table 7 total 常時従業者数 (regular workers, excluding temporary employees), for the development/production division. Do not describe the levels or changes as a national trend.",
+    "FY2010_vs_post2018": "Do not treat as definition-identical without a bridge. The FY2010 source uses a different eligibility test for regular employees: employment exceeding one month OR employment on 18 or more days in each of the two months before FY end/nearest accounting period. The post-2018 guide defines the total as paid directors and workers hired indefinitely or for one month or more. The apparent category change is not proof that the FY2010 total is irreconcilable, but the two eligibility rules differ and METI provides no game-software-specific overlap/recast here.",
+    "permitted_use": "FY2017, FY2018, and FY2020 can be retained as individually labelled, same-measure respondent snapshots. FY2010 remains a proposed historical observation with a definition-break caveat, not a point for direct level-change calculation against FY2017 onward."
+  },
+  "observed": [
+    {
+      "claim": "FY2010 definition of 常時従業者 includes paid directors and regularly employed persons regardless of title; it covers contracts exceeding one month and persons employed 18+ days in each of the two preceding months. Temporary/daily workers are excluded; incoming dispatched workers are not in the recipient enterprise total.",
+      "source": "METI/Soumu, 平成23年情報通信業基本調査速報, pp. 8 and 40; local extracted text 2011.txt lines 745-758 and 3223-3245.",
+      "url": "https://www.meti.go.jp/statistics/tyo/joho/result-2/h23sokugaikyo.pdf"
+    },
+    {
+      "claim": "The FY2017 Table 7 total is labelled 常時従業者数（臨時雇用者を除く） and its displayed breakdown is regular employees, part-time/albaito excluding contract employees, transferees, and contract employees including freelancers. The table reports 73 respondents and 14,094 for game-software enterprises.",
+      "source": "H30-5 Chapter 5, Table 7, local converted workbook: rows 222-229, game-software column.",
+      "url": "https://www.e-stat.go.jp/stat-search/file-download?fileKind=0&statInfId=000031813847"
+    },
+    {
+      "claim": "The FY2018 Table 7 preserves the same total and four displayed subcategories, and reports 74 respondents and 13,343 for game-software enterprises.",
+      "source": "2019-5 Chapter 5, Table 7, local converted workbook: rows 222-229, game-software column.",
+      "url": "https://www.e-stat.go.jp/stat-search/file-download?fileKind=0&statInfId=000031925314"
+    },
+    {
+      "claim": "The FY2020 questionnaire field 5301 says the development/production employee counts are at FY2020 end. The total contains paid directors and regularly employed workers; temporary employees and incoming dispatched workers are separate. Contract employees include freelancers.",
+      "source": "Official questionnaire 5, section (3), field 5301. Its text was recovered from the official PDF search index; direct PDF retrieval returned HTTP 403.",
+      "url": "https://www.meti.go.jp/statistics/tyo/joho/result-5/2021/2021joho_chosa_5.pdf"
+    },
+    {
+      "claim": "METI's 2021 overview warns that the definition of 正社員・正職員以外（パート・アルバイトなど） changed beginning with the 2018 (H30) survey, FY2017 results, and says to take care when comparing with FY2016 and earlier. It does not say that 常時従業者数 changed.",
+      "source": "2021 overview, p. 23, note 1; indexed official PDF text at lines 1938-1949.",
+      "url": "https://www.meti.go.jp/statistics/tyo/joho/result-2/r03/2021kakugaiyo.pdf"
+    },
+    {
+      "claim": "The H30 survey guide defines the post-change total as paid directors and regular employees hired indefinitely or for one month or more, excluding temporary employees and incoming dispatched workers. It assigns contract employees, including freelancers, to a separate displayed subset; this is a breakdown instruction within the total.",
+      "source": "H30 Information and Communications Industry Basic Survey guide, employment section, indexed official PDF text. The retrieved form is questionnaire 4; the survey-wide worker definition is corroborative of the Table 7 labels, not a direct game-software-form readback.",
+      "url": "https://www.meti.go.jp/statistics/tyo/joho/result-5/h30/30joho_kinyutebiki_4.pdf"
+    },
+    {
+      "claim": "2018 form5 printed p5 explicitly labels development/production workforce at FY2017 end and defines regular workers as paid directors and indefinitely employed or at-least-one-month employees. Temporary and incoming dispatched workers separate. Cover allows nearest accounting period.",
+      "url": "https://www.meti.go.jp/statistics/tyo/joho/result-5/h30/30joho_chosa_5.pdf",
+      "source": "Web PDF text lines260-299 and31-34, directly inspected 19 September2026; no local PDF download claimed."
+    }
+  ],
+  "inferences": [
+    "FY2017, FY2018, and FY2020 share the post-2018 total definition. The instrument change rearranged or refined non-regular subsets: contract employees/freelancers are separately identified and excluded from the part-time/albaito subset. It does not, on this evidence, alter the Table 7 total's inclusion of paid directors and regular employees or its exclusion of temporary/incoming-dispatched workers.",
+    "FY2010's total may be close in practical coverage, but it is not safely labelled the same definition because its regular-employment eligibility rule differs. A total-level bridge cannot be inferred from the published category warning alone."
+  ],
+  "unresolved": [
+    "FY2017 industry-specific form5 was directly recovered in the later follow-up. FY2018 form5 cover was recovered, but the workforce-field page remains unresolved; see form5-followup.md.",
+    "No METI recast, overlap count, or game-software-specific estimate was found quantifying the effect of replacing FY2010's 18-days-in-each-of-two-months test with the post-2018 one-month-or-more test.",
+    "Changing response counts (46, 73, 74, 70) remain a separate reason not to calculate a national time trend."
+  ],
+  "parent_review": "Accept as bounded evidence of matching table labels and likely common post2018 total definition. Direct industry-form5 for FY2017/FY2018 remains unverified; do not turn the inference into unconditional trend eligibility. No new numeric acceptance in this pass.",
+  "parent_followup": "Direct 2018 survey form5 recovered via web PDF text, printed p5: FY2017 date and total definition confirmed. FY2017 numerical observation accepted as respondent-only context. FY2018 form5 cover recovered, field5301 page still not retrieved; remains proposed. FY2010 preliminary remains proposed."
+}

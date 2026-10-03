@@ -1,0 +1,62 @@
+[
+  {
+    "url": "https://www.miti.gov.my/miti/resources/MITI%2520Report/MITI_Report_2018.pdf",
+    "title": "MITI Report 2018",
+    "publisher": "Ministry of International Trade and Industry (MITI), Malaysia",
+    "years": [2018],
+    "methodology": "Annual ministry report; p. 71 groups animation, games and interactive media, film/TV VFX, and new media/platforms as Digital Content & Creative Technology Industry.",
+    "assessment": "Authoritative but unusable for games employment: reports 11,590 jobs created for the combined sector in 2018, not a games-only workforce stock.",
+    "access_status": "downloaded",
+    "next_step": "Do not series-code. Seek a DOSM establishment/occupation table that explicitly isolates game development."
+  },
+  {
+    "url": "https://www.mdec.my/static/pdf/digitalcontent/SEA-game-industry-report-2021.pdf",
+    "title": "Southeast Asia Game Industry Report 2021",
+    "publisher": "Malaysia Digital Economy Corporation (MDEC)",
+    "years": [2015, 2016, 2021],
+    "methodology": "Three-phase regional study. Phase 1 was a 67-question survey of 151 gaming-industry players in six countries; Malaysia was 61% of respondents. Includes benchmarking and synthesis.",
+    "assessment": "Games-specific but a voluntary regional survey, not a Malaysian employment census. Contains company-size bands and response distributions, no national stock.",
+    "access_status": "downloaded",
+    "next_step": "Use only to document survey scope; do not extrapolate to a workforce count. Earlier 2015 and 2016 editions were identified but no official file recovered in this pass."
+  },
+  {
+    "url": "https://www.mdec.my/static/pdf/digitalcontent/SEA-digital-content-industry-report-2022.pdf",
+    "title": "Southeast Asia Digital Content Industry Talent Report 2022",
+    "publisher": "Malaysia Digital Economy Corporation (MDEC)",
+    "years": [2022],
+    "methodology": "Regional online survey/interviews across six countries; sample mixes animation and game-development participants (reported 56% animation and 44% game development).",
+    "assessment": "Not games-only and not a national census; useful only as an exclusion record.",
+    "access_status": "downloaded",
+    "next_step": "Do not series-code."
+  },
+  {
+    "url": "https://www.mdec.my/static/pdf/digitalcontent/SEA-Game-Talent-Economics-Report%202024_FINAL.pdf",
+    "title": "Southeast Asia Game Development Industry Talent Economics Report 2024",
+    "publisher": "Malaysia Digital Economy Corporation (MDEC)",
+    "years": [2024],
+    "methodology": "Two regional online surveys across Indonesia, Malaysia, Philippines, Singapore, Thailand and Vietnam: 295 individual respondents and 48 studios. Focuses on pay, experience, qualifications, studio growth and talent requirements.",
+    "assessment": "Games-specific but survey evidence, not a Malaysia population count. No annual workforce-stock series.",
+    "access_status": "downloaded",
+    "next_step": "Do not series-code; retain for qualitative methodology context only."
+  },
+  {
+    "url": "https://www.digital.gov.my/api/file/file/30012026_PRESS%20RELEASE_ADVANCING%20MALAYSIA%E2%80%99S%20DIGITAL%20CREATIVE%20INDUSTRY%20TOWARDS%20AI%20NATION%202030.pdf",
+    "title": "Advancing Malaysia's Digital Creative Industry Towards AI Nation 2030",
+    "publisher": "Ministry of Digital, Malaysia",
+    "years": [2026],
+    "methodology": "Press release; no employment methodology or sector allocation published.",
+    "assessment": "Authoritative government communication but reports 'over 11,000 high-value jobs' for the whole digital creative industry and says jobs were created to date. Not games-only and not stock.",
+    "access_status": "downloaded",
+    "next_step": "Do not series-code. Request underlying MDEC administrative series only if it supplies games-only annual headcount and definitions."
+  },
+  {
+    "url": "https://www.dosm.gov.my/portal-main/release-content/cultural-and-creative-satellite-account-2024",
+    "title": "Cultural and Creative Satellite Account 2024",
+    "publisher": "Department of Statistics Malaysia (DOSM)",
+    "years": [2024],
+    "methodology": "National cultural-and-creative satellite account; publishes aggregate employment for the cultural and creative industry.",
+    "assessment": "Official national employment source, but its published headline is 763.1 thousand across the cultural and creative industry, not games. It cannot isolate game development from the headline material reviewed.",
+    "access_status": "landing page reviewed",
+    "next_step": "Inspect detailed satellite-account tables only if a games-specific activity/product cell is documented."
+  }
+]

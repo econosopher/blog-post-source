@@ -1,0 +1,42 @@
+{
+  "checked_on": "2026-09-19",
+  "publisher": "Korea Creative Content Agency (KOCCA)",
+  "source_url": "https://www.kocca.kr/knowledge/publication/indu/__icsFiles/afieldfile/2011/10/14/zKKTQgQzXSMC.pdf",
+  "edition": 2011,
+  "locator": "Summary PDF page8 / printed page22 / Table4",
+  "rows": [
+    {
+      "year": 2008,
+      "production_distribution_workers": 42730,
+      "distribution_consumption_workers": 52562,
+      "combined": 95292
+    },
+    {
+      "year": 2009,
+      "production_distribution_workers": 43365,
+      "distribution_consumption_workers": 49168,
+      "combined": 92533
+    },
+    {
+      "year": 2010,
+      "production_distribution_workers": 48585,
+      "distribution_consumption_workers": 46388,
+      "combined": 94973
+    }
+  ],
+  "new_candidate": {
+    "year": 2008,
+    "value": 42730,
+    "unit": "people",
+    "scope": "game production and distribution; excludes separate distribution/consumption row",
+    "status": "source-verified candidate, pending catalog deduplication and acceptance review",
+    "line_decision": "no new connections until frame comparability reviewed"
+  },
+  "methodology_notes": [
+    "Narrative says distribution/consumption businesses newly surveyed in this edition while Table4 prints earlier figures. Do not infer matched methods for that row.",
+    "Company counts discuss excluding suspended/closed businesses; counts of operating firms and survey frame need full methods before trends can be certified.",
+    "Source reports growth but causal explanation is source interpretation, not independent evidence.",
+    "Original summary and rendered Table4 retained; values visually verified and component sums checked."
+  ],
+  "integration_status": "Saved to country evidence;2008 candidate added to proposed ledger, not accepted or plotted"
+}

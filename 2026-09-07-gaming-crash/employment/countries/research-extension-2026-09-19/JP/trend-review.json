@@ -1,0 +1,42 @@
+{
+  "iso2": "JP",
+  "decision": "Approve a separate two-point, source-native Economic Census series for JSIC 3914 Game software industry establishment persons engaged.",
+  "series_id": "JP_census_3914_required_items",
+  "series_definition": "National establishment-industry tabulation for JSIC 3914 Game software industry. It covers establishments creating game software, including component programs, for home-TV consoles, portable electronic games and PCs, plus related research, analysis and advice. It excludes game-cassette and game-optical-disc manufacturing. It is neither all staff of diversified game publishers/hardware companies nor an occupation, contractor, or FTE series.",
+  "chart_eligible": true,
+  "within_series_trend_eligible": true,
+  "trend_conditions": "Use only the two dated required-items establishment-tabulation points, label the exact reference dates and persons-engaged unit, and describe the change as a two-point classified-establishment comparison. Do not interpolate a yearly path or imply a post-2016 continuation.",
+  "accepted_observations": [
+    {
+      "observation_id": "JP_economic_census_3914_2012_workers",
+      "reference_date": "2012-02-01",
+      "value": 9452,
+      "unit": "persons engaged",
+      "establishments": 246,
+      "primary_evidence": {
+        "url": "https://www.stat.go.jp/data/e-census/2012/kakuho/pdf/service.pdf",
+        "locator": "PDF p. 2 / printed p. 1, Table I-1, row 3914 ゲームソフトウェア業",
+        "direct_evidence": "The row reports 246 establishments and 9,452 workers; its table note says establishments, workers and sales are tabulated only for establishments with values for required items."
+      }
+    },
+    {
+      "observation_id": "JP_economic_census_3914_2016_workers",
+      "reference_date": "2016-06-01",
+      "value": 18216,
+      "unit": "persons engaged",
+      "establishments": 256,
+      "primary_evidence": {
+        "url": "https://www.e-stat.go.jp/stat-search/file-download?statInfId=000031674378&fileKind=1",
+        "locator": "Table 1 national row 3914 ゲームソフトウェア業",
+        "direct_evidence": "The official download row reports 256 establishments and 18,216 persons engaged. The official results overview, https://www.stat.go.jp/data/e-census/2016/kekka/pdf/r_serviceb.pdf, p. 2 notes the 1 June 2016 reference date and excludes management/support-only establishments and establishments without industry-specific-item values."
+      }
+    }
+  ],
+  "permissible_join": "country/JP.json contains no existing JP_census_3914_required_items record. Add this new series definition and only these two observations as a separate series; do not attach either value to an existing JP series or use it as the preferred CESA observation.",
+  "forbidden_joins": [
+    "Do not join to JP_core_range or JP_broad. CESA's public estimates are undated, include console hardware in the core range, and broaden further to peripherals, distribution, retail, amusement, toys and media.",
+    "Do not join to JP_status_2024, JP_status_2025, JP_freelancers_2024, or JP_freelancers_2025. CEDEC values are voluntary respondent shares, not national workforce stocks.",
+    "Do not fill unobserved annual or post-2016 gaps, substitute a 2021 middle-classification/software/service table, or portray the 2016 value as a 2021 count.",
+    "Do not join to METI Information and Communications Industry Basic Survey values. That enterprise survey is main-industry based and has a distinct enterprise universe and worker-status treatment; it is outside this review."
+  ]
+}

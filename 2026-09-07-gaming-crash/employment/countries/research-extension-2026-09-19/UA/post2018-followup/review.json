@@ -1,0 +1,93 @@
+{
+  "country": "Ukraine",
+  "scope": "Official State Statistics Service KVED 58.21 'Publishing of computer games' persons-employed table after 2018.",
+  "research_date": "2026-09-19",
+  "result": "Recovered the official 2010-2024 workbook. It supplies exact 2019, 2020, 2021, 2022 and 2024 KVED 58.21 persons-employed totals; the 2023 total is confidentially suppressed. These remain publishing-only contextual observations, not all game development.",
+  "primary_sources": [
+    {
+      "url": "https://www.ukrstat.gov.ua/operativ/menu/menu_u/sze_20.htm",
+      "title": "State Statistics Service business-activity menu",
+      "locator": "Entry 'Кількість зайнятих працівників у суб’єктів господарювання за видами економічної діяльності (2010-2024)' and linked workbook",
+      "retrieval": "Downloaded directly from official server with TLS validation disabled because the server certificate is expired."
+    },
+    {
+      "url": "https://www.ukrstat.gov.ua/operativ/operativ2022/fin/pssg/kzpsg_ek_2010_2021.xlsx",
+      "title": "Number of persons employed of business entities by type of economic activity in 2010-2024",
+      "locator": "Worksheet '2024'; title A1:A2; header B4:I6; KVED 58.21 rows 10537:10551; coverage footnote A14543 / English A14547; confidentiality note A14544 / English A14548.",
+      "retrieval": "Downloaded and parsed locally. The filename ends in 2021, but the current official workbook title, worksheet and rows explicitly cover 2010-2024."
+    },
+    {
+      "url": "https://www.ukrstat.gov.ua/norm_doc/2021/250/250.pdf",
+      "title": "State Statistics methodological provisions for business-entity indicators",
+      "locator": "pp. 16 and 20-22: annual output, enterprise/FOP arithmetic summation and KVED-class publication; pp. 5-8: listed employed-person fields.",
+      "retrieval": "Previously recovered official methodology; used only to assess continuity of the same State Statistics indicator family."
+    }
+  ],
+  "table_definition": {
+    "source_native_measure": "Number of persons employed of business entities",
+    "unit": "persons",
+    "entity_scope": "Business entities: enterprises and individual entrepreneurs (FOPs). The workbook exposes an FOP subset alongside total persons employed.",
+    "not_this_measure": ["FTE", "employee-only payroll headcount", "all game-development employment", "a date-specified annual average or year-end stock"],
+    "timing": "Annual reporting product; current workbook does not state a within-year reference date or averaging convention."
+  },
+  "proposed_observations": [
+    {
+      "year": 2019,
+      "value": 1196,
+      "unit": "persons employed",
+      "fop_subset": 845,
+      "table_coordinates": "2024!C10546:I10546; total D10546; FOP E10546; excluding-bank total G10546",
+      "geographic_coverage": "Excludes budget institutions and occupied Crimea, Sevastopol, and part of Donetsk/Luhansk, under the 2014-2021 footnote.",
+      "status": "proposed_primary_verified"
+    },
+    {
+      "year": 2020,
+      "value": 1183,
+      "unit": "persons employed",
+      "fop_subset": 931,
+      "table_coordinates": "2024!C10547:I10547; total D10547; FOP E10547; excluding-bank total G10547",
+      "geographic_coverage": "Excludes budget institutions and occupied Crimea, Sevastopol, and part of Donetsk/Luhansk, under the 2014-2021 footnote.",
+      "status": "proposed_primary_verified"
+    },
+    {
+      "year": 2021,
+      "value": 1382,
+      "unit": "persons employed",
+      "fop_subset": 1048,
+      "table_coordinates": "2024!C10548:I10548; total D10548; FOP E10548; excluding-bank total G10548",
+      "geographic_coverage": "Excludes budget institutions and occupied Crimea, Sevastopol, and part of Donetsk/Luhansk, under the 2014-2021 footnote.",
+      "status": "proposed_primary_verified"
+    },
+    {
+      "year": 2022,
+      "value": 1399,
+      "unit": "persons employed",
+      "fop_subset": 1056,
+      "table_coordinates": "2024!C10549:I10549; total D10549; FOP E10549; excluding-bank total G10549",
+      "geographic_coverage": "Excludes territories temporarily occupied by the Russian Federation and part of territories where military actions are/were conducted, under the 2022-2024 footnote.",
+      "status": "proposed_primary_verified"
+    },
+    {
+      "year": 2024,
+      "value": 1391,
+      "unit": "persons employed",
+      "fop_subset": 917,
+      "table_coordinates": "2024!C10551:I10551; total D10551; FOP E10551; excluding-bank total G10551",
+      "geographic_coverage": "Excludes territories temporarily occupied by the Russian Federation and part of territories where military actions are/were conducted, under the 2022-2024 footnote.",
+      "status": "proposed_primary_verified"
+    }
+  ],
+  "withheld": [
+    {
+      "year": 2023,
+      "reason": "Total and percentage cells are suppressed as confidential ('к/с' / 'с'); only the FOP subset 1,050 is displayed. A total must not be reconstructed from this partial cell.",
+      "table_coordinates": "2024!C10550:I10550; confidentiality footnote A14544 / A14548"
+    }
+  ],
+  "compatibility_decision": {
+    "2019_2021_vs_2014_2018": "Same official table family, KVED 58.21, persons-employed definition, FOP subset and territorial wording. They are method-compatible contextual annual observations under the shared 2014-2021 territory exclusion. Their within-year timing remains unstated; retain the historical no-continuous-trend rule unless the main review intentionally permits this exact source-native segment.",
+    "2022_2024_vs_pre2022": "Same workbook, class and person/FOP fields, but not geography-compatible without qualification. The coverage note changes in 2022 from named occupation exclusions to all Russian-occupied territories plus parts of current/former combat territories. Show a territorial break before 2022; do not portray 2021-2022 as an unqualified national change.",
+    "vs_ministry_uccr_2021_2024_workers_table": "Do not replace or reconcile these totals with the Ministry/UCCR report's 1,015; 1,601; 1,236; 1,025 'workers' values. The directly recovered State Statistics table has a named persons-employed/FOP measure, whereas the later report lacks a matching table-specific definition and cautions about wartime reporting gaps.",
+    "chart_scope": "KVED 58.21 computer-game publishing only. It cannot support a national all-games-development workforce line."
+  }
+}

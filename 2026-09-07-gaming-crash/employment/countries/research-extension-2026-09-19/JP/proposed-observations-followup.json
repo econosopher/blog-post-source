@@ -1,0 +1,28 @@
+{
+  "country": "Japan",
+  "research_date": "2026-09-19",
+  "supplement_to": "proposed-observations.json",
+  "observations": [
+    {
+      "proposed_id": "JP_economic_census_3914_2016_workers",
+      "value_people": 18216,
+      "period": "2016 Economic Census activity survey",
+      "reference_date": "2016-06-01",
+      "series_label": "Game software industry (JSIC 3914) establishment persons engaged",
+      "definition": "National persons engaged in privately owned establishments classified as 3914 Game software industry. JSIC 3914 covers creation of game software, including components, for home-TV consoles, portable electronic games and PCs, plus related research, analysis and advice; it excludes game-cassette and game-optical-disc manufacturing.",
+      "methodology": "2016 Economic Census Activity Survey, establishment industry tabulation, Service Industries B detailed class. The official results note says industry tabulations exclude management/support-activity establishments and establishments for which industry-specific-item values were not obtained. This matches the restriction wording in the accepted 2012 establishment tabulation.",
+      "scope_limits": "Domestic establishment-industry classification. It is not all employment at diversified game publishers or console-hardware companies, not a developer occupation count, and not an FTE or contractor total.",
+      "source_locator": "Official e-Stat download, Table 1, row '3914 ゲームソフトウェア業': establishment count 256; persons engaged 18,216. Official results overview p. 2, item 4: same industry-tabulation exclusion rule.",
+      "url": "https://www.e-stat.go.jp/stat-search/file-download?statInfId=000031674378&fileKind=1",
+      "catalogue_url": "https://www.e-stat.go.jp/stat-search/files?layout=datalist&tstat=000001095895&toukei=00200553&cycle=0&tclass1=000001106235&tclass2=000001106255&tclass3=000001107055&tclass4=000001107435&page=1&tclass5val=0",
+      "assessment": "primary official source; exact dated detailed-class observation. It can extend the accepted 2012 census series, subject to the existing integration review."
+    }
+  ],
+  "unresolved": [
+    {
+      "item": "2021 Economic Census JSIC 3914 worker total",
+      "reason": "The official final-results catalogue inspected publishes cross-industry worker tables at middle classification, while its service-industry worker table excludes G Information and Communications. No official detailed-class 3914 worker row was located. Do not substitute 391 Software industry, game-centre employment, enterprise sales, or total Information and Communications employment.",
+      "evidence_url": "https://www.stat.go.jp/data/e-census/2021/kekka/zuhyou/s_searchtable.xlsx"
+    }
+  ]
+}

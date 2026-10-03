@@ -1,0 +1,60 @@
+[
+  {
+    "country": "Canada",
+    "iso2": "CA",
+    "series_id": "CA_statcan_ilu",
+    "year": 2013,
+    "value": 27612,
+    "unit": "ILU",
+    "source_id": "CA_statcan2025",
+    "url": "https://www150.statcan.gc.ca/n1/pub/36-28-0001/2025008/article/00001-eng.htm",
+    "source_locator": "Table 3, Total row",
+    "status": "accepted",
+    "definition": "Annual T4-based individual labour units allocated by wages across employers; provinces excluding territories.",
+    "period": "2013 calendar-year ILUs",
+    "chart_eligible": true,
+    "trend_eligible": true,
+    "allowed_trend_years": [
+      2013,
+      2014,
+      2015,
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022
+    ],
+    "trend_review": "Do not merge the ILUs with CA_esac_legacy, CA_esac_revised, or CA_esac_2015_undated as one employment trend or index. Do not convert, relabel, or compare the ILU totals as FTEs or point-in-time headcount. Do not combine the values with CA_contract_share or CA_immigration_share to estimate national contractor or citizenship counts."
+  },
+  {
+    "country": "Canada",
+    "iso2": "CA",
+    "series_id": "CA_statcan_ilu",
+    "year": 2014,
+    "value": 28616,
+    "unit": "ILU",
+    "source_id": "CA_statcan2025",
+    "url": "https://www150.statcan.gc.ca/n1/pub/36-28-0001/2025008/article/00001-eng.htm",
+    "source_locator": "Table 3, Total row",
+    "status": "accepted",
+    "definition": "Annual T4-based individual labour units allocated by wages across employers; provinces excluding territories.",
+    "period": "2014 calendar-year ILUs",
+    "chart_eligible": true,
+    "trend_eligible": true,
+    "allowed_trend_years": [
+      2013,
+      2014,
+      2015,
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022
+    ],
+    "trend_review": "Do not merge the ILUs with CA_esac_legacy, CA_esac_revised, or CA_esac_2015_undated as one employment trend or index. Do not convert, relabel, or compare the ILU totals as FTEs or point-in-time headcount. Do not combine the values with CA_contract_share or CA_immigration_share to estimate national contractor or citizenship counts."
+  }
+]

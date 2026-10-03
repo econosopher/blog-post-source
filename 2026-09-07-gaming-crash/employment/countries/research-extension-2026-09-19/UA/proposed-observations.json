@@ -1,0 +1,54 @@
+[
+  {
+    "country": "Ukraine",
+    "iso2": "UA",
+    "year": 2021,
+    "value": 1015,
+    "unit": "reported workers",
+    "period": "2021; annual counting convention unresolved",
+    "series_id": "UA_kved5821_workers_2025_report",
+    "url": "https://mincult.gov.ua/wp-content/uploads/2025/11/kreatyvni2025-1.pdf",
+    "source_locator": "PDF/printed p39 KVED58.21 row; pp6-7 methods; pp36-39 employment",
+    "definition": "Government-hosted administrative compilation, publishing-only. Worker status, deduplication, timing and wartime coverage require clarification before comparison.",
+    "status": "proposed_method_review"
+  },
+  {
+    "country": "Ukraine",
+    "iso2": "UA",
+    "year": 2022,
+    "value": 1601,
+    "unit": "reported workers",
+    "period": "2022; annual counting convention unresolved",
+    "series_id": "UA_kved5821_workers_2025_report",
+    "url": "https://mincult.gov.ua/wp-content/uploads/2025/11/kreatyvni2025-1.pdf",
+    "source_locator": "PDF/printed p39 KVED58.21 row; pp6-7 methods; pp36-39 employment",
+    "definition": "Government-hosted administrative compilation, publishing-only. Worker status, deduplication, timing and wartime coverage require clarification before comparison.",
+    "status": "proposed_method_review"
+  },
+  {
+    "country": "Ukraine",
+    "iso2": "UA",
+    "year": 2023,
+    "value": 1236,
+    "unit": "reported workers",
+    "period": "2023; annual counting convention unresolved",
+    "series_id": "UA_kved5821_workers_2025_report",
+    "url": "https://mincult.gov.ua/wp-content/uploads/2025/11/kreatyvni2025-1.pdf",
+    "source_locator": "PDF/printed p39 KVED58.21 row; pp6-7 methods; pp36-39 employment",
+    "definition": "Government-hosted administrative compilation, publishing-only. Worker status, deduplication, timing and wartime coverage require clarification before comparison.",
+    "status": "proposed_method_review"
+  },
+  {
+    "country": "Ukraine",
+    "iso2": "UA",
+    "year": 2024,
+    "value": 1025,
+    "unit": "reported workers",
+    "period": "2024; annual counting convention unresolved",
+    "series_id": "UA_kved5821_workers_2025_report",
+    "url": "https://mincult.gov.ua/wp-content/uploads/2025/11/kreatyvni2025-1.pdf",
+    "source_locator": "PDF/printed p39 KVED58.21 row; pp6-7 methods; pp36-39 employment",
+    "definition": "Government-hosted administrative compilation, publishing-only. Worker status, deduplication, timing and wartime coverage require clarification before comparison.",
+    "status": "proposed_method_review"
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "country": "Netherlands",
+    "iso2": "NL",
+    "year": 2011,
+    "value": 3000,
+    "unit": "jobs",
+    "period": "2011 employment stock",
+    "series_id": "NL_domestic_broad_legacy_vintage",
+    "url": "https://drive.google.com/file/d/1S78-Bjqu71hewnHVnI08ShLVP1HADvkc/view?usp=sharing",
+    "source_locator": "Games Monitor '12, printed p. 28 / PDF p. 28, Appendix 1 Methodological accountability, Banen; corroborating headline printed p. 7 / PDF p. 7",
+    "definition": "Dutch establishments of companies and self-employed persons whose core activity is electronic-game development, production, publishing, facilitation or distribution; includes applied and entertainment games and qualifying specialist services; excludes clients, education, government, retail, physical games and online gambling. LISA jobs are paid jobs of at least 12 hours per week, supplemented by website/survey estimates. Foreign establishments are excluded."
+  },
+  {
+    "country": "Netherlands",
+    "iso2": "NL",
+    "year": 2018,
+    "value": 3850,
+    "unit": "jobs",
+    "period": "end of 2018",
+    "series_id": "NL_domestic_broad_2018_original_vintage",
+    "url": "https://drive.google.com/file/d/12sq08-IC0H1mCsbaG-LOpAkDFBP_1QX7/view?usp=sharing",
+    "source_locator": "Games Monitor 2018, printed p. 10 / PDF p. 10, section 1.1 Facts and figures; corroborating management summary printed p. 4 / PDF p. 4",
+    "definition": "Dutch games-industry jobs in companies whose core activities cover development, production, publication, facilitation and/or electronic distribution of electronic games. Includes entertainment and applied games and many self-employed/small companies; excludes clients, educational institutions and research institutes where game development is not core business. Original report vintage, superseded for the accepted 2018 row by the later Games Monitor 2024 retrospective value of 3,834."
+  },
+  {
+    "country": "Netherlands",
+    "iso2": "NL",
+    "year": 2020,
+    "value": 4000,
+    "unit": "employees (approximate)",
+    "period": "end of 2020 estimate",
+    "series_id": "NL_domestic_broad_covid_update",
+    "url": "https://drive.google.com/file/d/1fXRIKtclZrateBHpLYh7UEZgS_g-r0mP/view?usp=share_link",
+    "source_locator": "Games Monitor 2020 Update - COVID Impact, printed/PDF p. 6, Revenue Development / Employee Development; corroborating printed/PDF p. 8, Summary",
+    "definition": "Limited-survey interim estimate for the Dutch video-game industry using the same criteria as earlier Games Monitor editions. The report says the database was updated and a November 2020 survey sent to around 500 people, with a little over 100 responses; websites, LinkedIn profiles and directory updates support the approximate employee total. Includes applied and entertainment companies, but the report does not publish a full headcount methodology or an exact all-worker census."
+  }
+]

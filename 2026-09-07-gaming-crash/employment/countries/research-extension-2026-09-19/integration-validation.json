@@ -1,0 +1,11 @@
+{
+  "accepted_new_US_observations": 4,
+  "US_companion_observations": 9,
+  "earliest_year": 2009,
+  "series_splicing": false,
+  "source_tables_independently_viewed": [
+    "ESA2014 D-2",
+    "ESA2017 E-2"
+  ],
+  "result": "PASS"
+}

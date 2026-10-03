@@ -1,0 +1,88 @@
+"Cube Title","Product Id","CANSIM Id",URL,"Cube Notes","Archive Status",Frequency,"Start Reference Period","End Reference Period","Total number of dimensions"
+"National culture and sport indicators by domain and sub-domain","36100652",,"https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=3610065201",,"CURRENT - a cube available to the public and that is current","Quarterly","2012-01-01","2026-01-01","3",
+
+"Dimension ID","Dimension name","Dimension Notes","Dimension Definitions"
+"1","Geography",,""
+"2","Indicators",,""
+"3","Domain",,""
+
+"Dimension ID","Member Name","Classification Code","Member ID","Parent Member ID",Terminated,"Member Notes","Member Definitions"
+"1","Canada","[11124]","1","","",,
+"2","Gross domestic product","","1","","",,
+"2","Output","","2","","",,
+"2","Jobs","","3","","",,
+"2","Real gross domestic product, 2017 constant price","","4","","",,
+"2","Real gross domestic product, 2012 constant price","","5","","t",7,
+"3","Culture total","","1","","",,
+"3","Heritage and libraries","","2","1","",1,
+"3","Archives","","3","2","",1,
+"3","Libraries","","4","2","",1,
+"3","Culture heritage","","5","2","",1,
+"3","Natural heritage","","6","2","",1,
+"3","Live performance","","7","1","",,
+"3","Performing arts","","8","7","",,
+"3","Festivals and celebrations","","9","7","",,
+"3","Visual and applied arts","","10","1","",,
+"3","Original visual art","","11","10","",,
+"3","Art reproductions","","12","10","",,
+"3","Photography","","13","10","",,
+"3","Crafts","","14","10","",,
+"3","Advertising","","15","10","",,
+"3","Architecture","","16","10","",,
+"3","Design","","17","10","",,
+"3","Written and published works","","18","1","",,
+"3","Books","","19","18","",,
+"3","Periodicals","","20","18","",,
+"3","Newspapers","","21","18","",,
+"3","Other published works","","22","18","",,
+"3","Collected information","","23","18","",,
+"3","Multi sub-domain","","24","18","",,
+"3","Audio-visual and interactive media","","25","1","",,
+"3","Film and video","","26","25","",2,
+"3","Broadcasting","","27","25","",,
+"3","Interactive media","","28","25","",,
+"3","Sound recording","","29","1","",,
+"3","Music publishing","","30","29","",,
+"3","Sound recording","","31","29","",3,
+"3","Education and training (culture)","","32","1","",,
+"3","Governance, funding and professional support (culture)","","33","1","",4,
+"3","Multi domain","","34","1","",5,
+"3","Sport total","","35","","",,
+"3","Organized sport","","36","35","",,
+"3","Informal sport","","37","35","",,
+"3","Education and training (sport)","","38","35","",,
+"3","Governance, funding and professional support (sport)","","39","35","",6,
+
+Symbol Legend
+Description,Symbol
+"not available for a specific reference period","..",
+"less than the limit of detection","<LOD",
+"value rounded to 0 (zero) where there is a meaningful distinction between true zero and the value that was rounded","0s",
+"data quality: excellent","A",
+"data quality: very good","B",
+"data quality: good","C",
+"data quality: acceptable","D",
+"use with caution","E",
+"too unreliable to be published","F",
+"not applicable","...",
+"preliminary","p",
+"revised","r",
+"suppressed to meet the confidentiality requirements of the Statistics Act","x",
+"terminated","t",
+
+"Survey Code","Survey Name"
+"1901","National Gross Domestic Product by Income and by Expenditure Accounts"
+
+"Subject Code","Subject Name"
+"36","Economic accounts"
+
+"Note ID",Note
+1,"The Heritage and libraries domain includes only private institutions. All government owned/operated institutions (federal, provincial or municipal) are included within the Governance, funding and professional support (culture) domain."
+2,"Improvements to the measurement of  the Film and Video sub-domain were introduced starting with the 2015 reference year. These improvements stem from major enhancements to the sources and methods used to estimate North American Industrial Classification System (NAICS) 512110 Motion picture and video production within the Supply and Use Tables and the Film, Television and Video Production survey. These improvements represent a statistical break in the Film and Video sub-domain and therefore estimates for 2015 forward should not be compared with historical estimates."
+3,"Sound recording sub-domain."
+4,"Government owned or operated institutions (except schools, colleges and universities) are found within the governance, support and funding domain even if their activity falls within the scope of one of the other sub-domains. For example, a government operated library would be included under the governance, support and funding (culture) domain and not under the Libraries sub-domain."
+5,"The Multi domain includes culture industries that are associated with more than one culture domain: the culture portion of convention and trade show organizers; manufacturing and reproducing unrecorded media; lessors of non-financial intangible assets (except copyrighted works); and internet broadcasting, and web search portal industries. These culture industries all affect more than one culture domain but cannot be easily allocated to a single domain, so they have been aggregated together. Prior to 2017, Internet publishing activities was included as part of the Multi domain. However; as of 2017, this activity was moved from the Multi domain to their associated subdomain within Written and published works."
+6,"Government owned or operated institutions (except schools, colleges and universities) are found within the governance, support and funding domain even if their activity falls within the scope of one of the other domains. For example, a government operated pool would be included under the governance, support and funding (sport) domain and not under the informal sport domain."
+7,"This series is no longer in use and was last updated in April 2024 using data benchmarked to the 2019 Culture Satellite Account. "
+
+"Correction ID","Correction Date","Correction Note"

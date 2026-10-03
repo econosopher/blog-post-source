@@ -1,0 +1,102 @@
+{
+  "country": "Philippines",
+  "iso2": "PH",
+  "priority": "additional",
+  "coverage_status": "context_only",
+  "summary": "BOI reports more than 2,000 game-industry workers in an article postedJanuary 2018, but references to last year alongside Gamescom 2016 make the actual observation year ambiguous. The 2022 target of 4,000 is a forecast. More recent creative-economy/digital-interactive totals include other industries and are not a clean games workforce.",
+  "preferred_series_ids": [],
+  "search_log": [
+    {
+      "route": "statistical_agency",
+      "query": "site.psa.gov.ph games development employment creative economy digital interactive",
+      "url": "https://psa.gov.ph/",
+      "outcome": "Creative-economy satellite statistics found, but creative/digital-interactive employment is broader than core game studios."
+    },
+    {
+      "route": "industry_association",
+      "query": "GDAP Philippines game industry workforce employees 2023 2024 2025",
+      "url": "https://gdap.org.ph/news/",
+      "outcome": "Current GDAP news checked; no national annual stock or documented freelancer/nationality ratio retrieved."
+    },
+    {
+      "route": "local_language",
+      "query": "Pilipinas industriya laro game development manggagawa empleyado GDAP",
+      "url": "https://boi.gov.ph/boi-approves-micro-enterprise-game-development-project/",
+      "outcome": "Filipino/local-market search found BOI games-development source; no verified newer comparable national figure."
+    }
+  ],
+  "sources": [
+    {
+      "source_id": "PH_boi2018",
+      "title": "BOI approves micro enterprise game development project",
+      "publisher": "Philippine Board of Investments",
+      "url": "https://boi.gov.ph/boi-approves-micro-enterprise-game-development-project/",
+      "publication_date": "2018-01-18",
+      "retrieved_date": "2026-09-09",
+      "source_type": "government",
+      "local_file": "raw/PH/boi2018-extract.txt",
+      "locator": "Video Game Industry Roadmap 2016–2022 paragraph; final Gamescom paragraph",
+      "access_status": "public_summary",
+      "notes": "Official page text inspected; direct archive download returned 403. Inconsistent relative-date references retained as an observation-date limitation."
+    }
+  ],
+  "series": [
+    {
+      "series_id": "PH_boi2000",
+      "label": "Game-development and related-services employment",
+      "measure": "employment_stock",
+      "unit": "people",
+      "industry_scope": "Game development, offshore production, game management support, customer support/moderation and community management",
+      "occupation_scope": "All occupations within covered businesses",
+      "geography_basis": "domestic_workplace",
+      "geography_note": "People working in the country; nationality not implied.",
+      "worker_status": "Source-reported workers; detailed status treatment not specified",
+      "contractor_treatment": "Unknown; not assumed to include independent contractors",
+      "nationality_definition": "Not reported",
+      "method": "Source estimate; detailed methodology not publicly specified",
+      "population_basis": "national_estimate",
+      "sample_size": "unknown",
+      "comparability_group": "PH_boi2000",
+      "chart_eligible": true,
+      "trend_eligible": false,
+      "index_2019_eligible": false,
+      "comparison_note": "Lower-bound snapshot with ambiguous observation year and specialist-services scope. Not suitable for annual core trend. Eligible only for a clearly labelled source-native snapshot, sample or context chart; not a comparable domestic core trend.",
+      "source_native_term": "Game-development and related-services employment",
+      "term_translation": "Game-development and related-services employment"
+    }
+  ],
+  "observations": [
+    {
+      "observation_id": "PH_boi2000_None_PH_boi2018_0",
+      "series_id": "PH_boi2000",
+      "source_id": "PH_boi2018",
+      "observation_period": "Observation year unstated",
+      "year": null,
+      "value": null,
+      "value_low": 2000,
+      "value_high": null,
+      "status": "reported",
+      "preferred": true,
+      "subgroup": "all",
+      "denominator": "Covered industry workforce",
+      "source_locator": "Roadmap paragraph",
+      "publication_vintage": "PH_boi2018",
+      "method_break": false,
+      "break_note": "",
+      "derivation": "",
+      "notes": "More than 2,000; observation called last year but exact year unresolved. 4,000 by 2022 is a projection and excluded.",
+      "value_qualifier": "more than"
+    }
+  ],
+  "limitations": [
+    "No dated comparable national core series verified.",
+    "Old official source has inconsistent relative-date language.",
+    "PSA creative-economy and digital-interactive jobs cover broader activity, including animation.",
+    "Contractor and foreign-national shares not verified."
+  ],
+  "review_checks": [
+    "Distinguished observed lower bound from future 2022 employment target.",
+    "Read full BOI article to detect date inconsistency and related-services scope."
+  ],
+  "research_complete": true
+}

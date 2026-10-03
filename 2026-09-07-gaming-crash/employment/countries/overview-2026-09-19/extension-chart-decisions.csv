@@ -1,0 +1,85 @@
+﻿iso2,series_id,year,value,decision,source
+SE,SE_domestic_gdi2020_vintage,2012,1967,plotted,https://dataspelsbranschen.squarespace.com/s/15122020_GDI_EN_48p_digital_s_below20.pdf
+SE,SE_domestic_gdi2020_vintage,2013,2534,plotted,https://dataspelsbranschen.squarespace.com/s/15122020_GDI_EN_48p_digital_s_below20.pdf
+SE,SE_domestic_gdi2020_vintage,2014,3117,plotted,https://dataspelsbranschen.squarespace.com/s/15122020_GDI_EN_48p_digital_s_below20.pdf
+SE,SE_domestic_gdi2021_early,2010,1203,plotted,https://dataspelsbranschen.squarespace.com/s/Spelutvecklarindex2021-SV-WEBB.pdf
+SE,SE_domestic_gdi2021_early,2011,1512,plotted,https://dataspelsbranschen.squarespace.com/s/Spelutvecklarindex2021-SV-WEBB.pdf
+SE,SE_registered_companies_gdi2009,2007,1153.33,withheld by explicit scope decision,https://dataspelsbranschen.squarespace.com/s/dsb_utvecklarindex09-screen.pdf
+SE,SE_registered_companies_gdi2009,2008,1353.4,withheld by explicit scope decision,https://dataspelsbranschen.squarespace.com/s/dsb_utvecklarindex09-screen.pdf
+SE,SE_registered_companies_gdi2009,2009,1102,withheld by explicit scope decision,https://dataspelsbranschen.squarespace.com/s/dsb_utvecklarindex09-screen.pdf
+PL,PL_core_workforce,2020,9710,plotted,https://gic.gd/d/The_Game_Industry_of_Poland_report_2020.pdf
+PL,PL_gic_magazine2022,2022,14200,plotted,https://drive.google.com/file/d/1MQ8HMbRiFoX5phR5PqvzmrIN2M0MhSW6/view
+US,US_legacy_siwek_all_establishments,2009,33140,plotted,https://www.igea.net/wp-content/uploads/2014/11/VideoGames21stCentury_2014.pdf
+US,US_legacy_siwek_all_establishments,2012,42975,plotted,https://www.igea.net/wp-content/uploads/2014/11/VideoGames21stCentury_2014.pdf
+US,US_mapping_2017,2013,56712,plotted,https://www.theesa.com/wp-content/uploads/2024/02/2017-EIR-National-Report.pdf
+US,US_mapping_2017,2014,58963,plotted,https://www.theesa.com/wp-content/uploads/2024/02/2017-EIR-National-Report.pdf
+UA,UA_kved5821_employed_2010_2012,2010,1862,withheld by explicit scope decision,https://www.ukrstat.gov.ua/operativ/operativ2018/fin/pssg/pssg_u/kzpsg_ek_2010_2018_u.xlsx
+UA,UA_kved5821_employed_2010_2012,2011,2059,withheld by explicit scope decision,https://www.ukrstat.gov.ua/operativ/operativ2018/fin/pssg/pssg_u/kzpsg_ek_2010_2018_u.xlsx
+UA,UA_kved5821_employed_2010_2012,2012,1232,withheld by explicit scope decision,https://www.ukrstat.gov.ua/operativ/operativ2018/fin/pssg/pssg_u/kzpsg_ek_2010_2018_u.xlsx
+UA,UA_kved5821_employed_2013_2018,2013,887,withheld by explicit scope decision,https://drive.google.com/file/d/1XVeC3ZrkRMCHzzHzOZMtGWdNWHfMONjp/view
+UA,UA_kved5821_employed_2013_2018,2014,841,withheld by explicit scope decision,https://drive.google.com/file/d/1XVeC3ZrkRMCHzzHzOZMtGWdNWHfMONjp/view
+UA,UA_kved5821_employed_2013_2018,2015,708,withheld by explicit scope decision,https://drive.google.com/file/d/1XVeC3ZrkRMCHzzHzOZMtGWdNWHfMONjp/view
+UA,UA_kved5821_employed_2013_2018,2016,897,withheld by explicit scope decision,https://drive.google.com/file/d/1XVeC3ZrkRMCHzzHzOZMtGWdNWHfMONjp/view
+UA,UA_kved5821_employed_2013_2018,2017,953,withheld by explicit scope decision,https://drive.google.com/file/d/1XVeC3ZrkRMCHzzHzOZMtGWdNWHfMONjp/view
+UA,UA_kved5821_employed_2013_2018,2018,1072,withheld by explicit scope decision,https://drive.google.com/file/d/1XVeC3ZrkRMCHzzHzOZMtGWdNWHfMONjp/view
+UA,UA_kved5821_employed_2019_2021,2019,1196,withheld by explicit scope decision,https://www.ukrstat.gov.ua/operativ/operativ2022/fin/pssg/kzpsg_ek_2010_2021.xlsx
+UA,UA_kved5821_employed_2019_2021,2020,1183,withheld by explicit scope decision,https://www.ukrstat.gov.ua/operativ/operativ2022/fin/pssg/kzpsg_ek_2010_2021.xlsx
+UA,UA_kved5821_employed_2019_2021,2021,1382,withheld by explicit scope decision,https://www.ukrstat.gov.ua/operativ/operativ2022/fin/pssg/kzpsg_ek_2010_2021.xlsx
+UA,UA_kved5821_employed_wartime_2022_2024,2022,1399,withheld by explicit scope decision,https://www.ukrstat.gov.ua/operativ/operativ2022/fin/pssg/kzpsg_ek_2010_2021.xlsx
+UA,UA_kved5821_employed_wartime_2022_2024,2024,1391,withheld by explicit scope decision,https://www.ukrstat.gov.ua/operativ/operativ2022/fin/pssg/kzpsg_ek_2010_2021.xlsx
+NZ,NZ_nzgda_historical_snapshots,2011,359,plotted,https://www.nzgda.com/blog/news/new-zealand-made-video-games-industry-grew-46-this-year
+NZ,NZ_nzgda_historical_snapshots,2012,380,plotted,https://www.nzgda.com/blog/news/nz-video-games-industry-continues-to-grow
+NZ,NZ_nzgda_historical_snapshots,2013,448,plotted,https://www.nzgda.com/blog/news/nz-made-video-games-industry-grew-86-in-2012
+NZ,NZ_nzgda_historical_snapshots,2014,450,plotted,https://www.nzgda.com/blog/news/nz-video-games-industry-doubles-exports
+NO,NO_2019vintage_sample_permanent,2017,227,hidden country with two or fewer dated points by user request,https://www.virke.no/globalassets/3.bransjer/service-og-kultur/produsentforeningen/virke-spillrapporten-2019.pdf
+NO,NO_2019vintage_sample_temporary,2017,24,hidden country with two or fewer dated points by user request,https://www.virke.no/globalassets/3.bransjer/service-og-kultur/produsentforeningen/virke-spillrapporten-2019.pdf
+NO,NO_2019vintage_sample_permanent,2018,259,hidden country with two or fewer dated points by user request,https://www.virke.no/globalassets/3.bransjer/service-og-kultur/produsentforeningen/virke-spillrapporten-2019.pdf
+NO,NO_2019vintage_sample_temporary,2018,26,hidden country with two or fewer dated points by user request,https://www.virke.no/globalassets/3.bransjer/service-og-kultur/produsentforeningen/virke-spillrapporten-2019.pdf
+IN,IN_ey_2023_online_gaming_direct_indirect,2023,100000,withheld by explicit scope decision,https://www.ey.com/content/dam/ey-unified-site/ey-com/en-in/insights/media-entertainment/documents/ey-new-frontier-online-gaming-report.pdf
+CA,CA_statcan_ilu,2013,27612,plotted,https://www150.statcan.gc.ca/n1/pub/36-28-0001/2025008/article/00001-eng.htm
+CA,CA_statcan_ilu,2014,28616,plotted,https://www150.statcan.gc.ca/n1/pub/36-28-0001/2025008/article/00001-eng.htm
+RS,RS_national_estimate_historical,2021,2200,plotted,https://drive.google.com/file/d/1I6azl-z3xSWhEEbiLKmyGvkBPbLBzQaZ/view
+RS,RS_national_estimate_historical,2022,2500,plotted,https://drive.google.com/file/d/1iu6B8M8s30mV3boam1xAD5x68heI6bPc/view
+RS,RS_national_estimate_historical,2023,4300,plotted,https://drive.google.com/file/d/1xQujc0aNvveXoqVrkks8G5nFFedM4kMe/view
+RO,RO_earlier_benchmark,2020,6000,plotted,https://rgda.ro/wp-content/uploads/2021/10/RGDA-Report-2020_ffinal.pdf
+RO,RO_employees_collaborators,2021,6700,plotted,https://rgda.ro/wp-content/uploads/2023/01/RGDAs-General-Assembly.pdf
+PH,PH_dost_2013_current_estimate,2013,4000,withheld by explicit scope decision,https://www.dost.gov.ph/knowledge-resources/news/33-2013-news/137-ready-set-game-get-to-know-the-game-development-industry-at-the-s-t-week.html
+PH,PH_boi_ibpap_roadmap2028_historical,2016,3000,withheld by explicit scope decision,https://admin.ibpap.org/storage/hub-resources/1fntWJGQKvZg4CfwP4yfXs0Jr1n85DVR1vYXJvSn.pdf
+PH,PH_boi_ibpap_roadmap2028_historical,2021,4700,withheld by explicit scope decision,https://admin.ibpap.org/storage/hub-resources/1fntWJGQKvZg4CfwP4yfXs0Jr1n85DVR1vYXJvSn.pdf
+KR,KR_core_archive_2008_2009,2008,42730,plotted,https://www.kocca.kr/knowledge/publication/indu/__icsFiles/afieldfile/2011/10/14/zKKTQgQzXSMC.pdf
+KR,KR_core_archive_2008_2009,2009,43365,plotted,https://m.kocca.kr/knowledge/publication/indu/__icsFiles/afieldfile/2012/10/10/w0uw0G1FcfBw.pdf
+KR,KR_core_archive_2010_2014,2010,48585,plotted,https://www.kocca.kr/knowledge/publication/indu/__icsFiles/afieldfile/2013/11/11/uQ38hyWQZt2L.pdf
+KR,KR_core_archive_2010_2014,2011,51859,plotted,https://www.kocca.kr/knowledge/publication/indu/__icsFiles/afieldfile/2013/11/11/uQ38hyWQZt2L.pdf
+KR,KR_core_archive_2010_2014,2012,52466,plotted,https://www.kocca.kr/knowledge/publication/indu/__icsFiles/afieldfile/2013/11/11/uQ38hyWQZt2L.pdf
+KR,KR_core_archive_2010_2014,2013,40541,plotted,https://m.korea.kr/expertWeb/resources/files/data/document_file/2016/2016%20%EC%A0%80%EC%9E%91%EA%B6%8C%20%EB%B3%B4%ED%98%B8%20%EC%97%B0%EC%B0%A8%EB%B3%B4%EA%B3%A0%EC%84%9C.pdf
+KR,KR_core_archive_2010_2014,2014,39221,plotted,https://welcon.kocca.kr/cmm/fms/CrawlingFileDown.do?atchFileId=FILE_3d4caf8b-17a4-4c87-8804-d2b91e83b471&fileSn=1
+GB,GB_tiga_fte,2017,13277,reviewed alternative; omitted to avoid duplicate measure,https://tiga.org/news/the-uk-video-games-development-sector-surges-forward
+GB,GB_tiga_people,2017,15851,plotted,https://tiga.org/news/the-uk-video-games-development-sector-surges-forward
+AU,AU_abs_historical_snapshots,2007,1431,plotted,https://www.abs.gov.au/AUSSTATS/abs%40.nsf/mf/8515.0
+AU,AU_abs_historical_snapshots,2012,581,plotted,https://www.abs.gov.au/AUSSTATS/abs%40.nsf/Previousproducts/8679.0Main%20Features32011-12
+NL,NL_domestic_broad_legacy_vintage,2011,3000,plotted,https://drive.google.com/file/d/1S78-Bjqu71hewnHVnI08ShLVP1HADvkc/view?usp=sharing
+NL,NL_domestic_broad_covid_update,2020,4000,plotted,https://drive.google.com/file/d/1fXRIKtclZrateBHpLYh7UEZgS_g-r0mP/view?usp=share_link
+DE,DE_core_revised2026,2025,12659,plotted,https://www.gamecampus.de/arbeiten/daten-fakten
+DE,DE_core_revised2026,2026,12235,plotted,https://www.gamecampus.de/arbeiten/daten-fakten
+DK,DK_core_game_producers_v2009,2008,486,plotted,https://pro-f.dk/sites/default/files/2021-10/Danske%20Indholdsproducenter%202009_1_1.pdf
+DK,DK_core_game_producers_v2009,2009,552,plotted,https://pro-f.dk/sites/default/files/2021-10/Danske%20Indholdsproducenter%202009_1_1.pdf
+BR,BR_developer_employees_reported_2008,2008,560,withheld by explicit scope decision,https://www.abragames.org/uploads/5/6/8/0/56805537/pesquisa_2008_-_a_industria_brasileira_de_jogos_eletronicos.pdf
+BR,BR_developer_people_sample_2014,2014,1133,withheld by explicit scope decision,https://www.abragames.org/uploads/5/6/8/0/56805537/i_censo_da_industria_brasileira_de_jogos_digitais_2.pdf
+FI,FI_domestic_explicit_fte,2022,3700,hidden country with two or fewer dated points by user request,https://neogames.fi/wp-content/uploads/2023/05/FGIR2022report.pdf
+ID,ID_kominfo2020_survey_game_developers_all,2019,1286,withheld by explicit scope decision,https://www.researchgate.net/publication/394347887_Peta_Ekosistem_Industri_Game_2020
+FR,FR_dge_pwc_broad_industry_persons,2010,6201,plotted,https://www.entreprises.gouv.fr/files/files/Publications/2021/Dossiers-dge/industrie-du-jeu-video-tissu-economique-et-competitivite-mars-2021.pdf
+FR,FR_dge_pwc_broad_industry_persons,2011,6718,plotted,https://www.entreprises.gouv.fr/files/files/Publications/2021/Dossiers-dge/industrie-du-jeu-video-tissu-economique-et-competitivite-mars-2021.pdf
+FR,FR_dge_pwc_broad_industry_persons,2012,7178,plotted,https://www.entreprises.gouv.fr/files/files/Publications/2021/Dossiers-dge/industrie-du-jeu-video-tissu-economique-et-competitivite-mars-2021.pdf
+FR,FR_dge_pwc_broad_industry_persons,2013,8279,plotted,https://www.entreprises.gouv.fr/files/files/Publications/2021/Dossiers-dge/industrie-du-jeu-video-tissu-economique-et-competitivite-mars-2021.pdf
+FR,FR_dge_pwc_broad_industry_persons,2014,8863,plotted,https://www.entreprises.gouv.fr/files/files/Publications/2021/Dossiers-dge/industrie-du-jeu-video-tissu-economique-et-competitivite-mars-2021.pdf
+FR,FR_dge_pwc_broad_industry_persons,2015,9465,plotted,https://www.entreprises.gouv.fr/files/files/Publications/2021/Dossiers-dge/industrie-du-jeu-video-tissu-economique-et-competitivite-mars-2021.pdf
+FR,FR_dge_pwc_broad_industry_persons,2016,9900,plotted,https://www.entreprises.gouv.fr/files/files/Publications/2021/Dossiers-dge/industrie-du-jeu-video-tissu-economique-et-competitivite-mars-2021.pdf
+FR,FR_dge_pwc_broad_industry_persons,2017,11060,plotted,https://www.entreprises.gouv.fr/files/files/Publications/2021/Dossiers-dge/industrie-du-jeu-video-tissu-economique-et-competitivite-mars-2021.pdf
+FR,FR_dge_pwc_broad_industry_persons,2018,11936,plotted,https://www.entreprises.gouv.fr/files/files/Publications/2021/Dossiers-dge/industrie-du-jeu-video-tissu-economique-et-competitivite-mars-2021.pdf
+ES,ES_direct,2013,2630,plotted,https://www.oficinamediaespana.eu/images/media_europa/2023_libro_blanco_dev_digital_media.pdf
+ES,ES_direct,2014,3376,plotted,https://www.oficinamediaespana.eu/images/media_europa/2023_libro_blanco_dev_digital_media.pdf
+JP,JP_census_3914_required_items,2012,9452,hidden country with two or fewer dated points by user request,https://www.stat.go.jp/data/e-census/2012/kakuho/pdf/service.pdf
+JP,JP_census_3914_required_items,2016,18216,hidden country with two or fewer dated points by user request,https://www.e-stat.go.jp/stat-search/file-download?statInfId=000031674378&fileKind=1
+JP,JP_meti_game_enterprises_development_regular,2020,14519,hidden country with two or fewer dated points by user request,https://www.e-stat.go.jp/stat-search/file-download?fileKind=0&statInfId=000032181020
+JP,JP_meti_game_enterprises_development_regular,2017,14094,hidden country with two or fewer dated points by user request,https://www.e-stat.go.jp/stat-search/file-download?fileKind=0&statInfId=000031813847
+TR,TR_toged_2024_verified,2024,14918,hidden country with two or fewer dated points by user request,https://www.egdf.eu/wp-content/uploads/2026/08/VGE_EGDF-report2024_0821.pdf

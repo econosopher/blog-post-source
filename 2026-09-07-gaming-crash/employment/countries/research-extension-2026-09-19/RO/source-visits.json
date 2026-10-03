@@ -1,0 +1,82 @@
+[
+  {
+    "url": "https://rgda.ro/despre-dev-play-si-sprijinul-industriei-locale-de-game-development/",
+    "title": "Despre Dev.Play si sprijinul industriei locale de game development",
+    "publisher": "Romanian Game Developers Association (RGDA)",
+    "years": "2017 public statement; reference year unstated",
+    "methodology": "Association public statement; no method, company frame, or worker-status definition supplied.",
+    "assessment": "Primary association evidence for an approximate early benchmark of around 6,000 employees. Keep separate from later collaborator-inclusive snapshots.",
+    "access_status": "full_source",
+    "next_step": "No exact annual source-native headcount located for 2015-2017; do not convert the approximation to a precise series point."
+  },
+  {
+    "url": "https://rgda.ro/wp-content/uploads/2019/11/RGDA_2019-report.pdf",
+    "title": "The Romanian Game Development Industry",
+    "publisher": "RGDA",
+    "years": "2018",
+    "methodology": "Report states it used publicly available material, discussions, and forms filled in by industry members; it disclaims audit.",
+    "assessment": "Confirms the existing 2018 '6000+' lower bound and says the industry had more than 103 studios and more than 6,000 employees. No collaborator treatment in the headline.",
+    "access_status": "full_source",
+    "next_step": "Retain existing lower-bound observation only; no revision found."
+  },
+  {
+    "url": "https://rgda.ro/wp-content/uploads/2021/10/RGDA-Report-2020_ffinal.pdf",
+    "title": "The Industry and the Labor Market / Romanian Industry Report 2021",
+    "publisher": "RGDA",
+    "years": "2020 observation; report page dated 29 October 2021; worker survey conducted at the beginning of 2021",
+    "methodology": "Headline report based on public material, discussions, and industry-member forms; not audited. A separate Employee/Collaborator Survey was completed by 37 companies.",
+    "assessment": "Primary evidence for '6000+ employees' in 2020. The survey reports 94.7% full-time employees or collaborators, 3.9% project-based collaborators, and 1.71% part-time collaborators or employees; these are composition shares, not a national headcount. Revenue is stated as data reported to tax authorities, but the report does not say that the headcount is drawn from, or reconciled to, company financial filings.",
+    "access_status": "full_source; downloaded original retained in raw/",
+    "next_step": "Keep 2020 as a strict lower bound and do not splice it to 2021+ collaborator-inclusive points."
+  },
+  {
+    "url": "https://rgda.ro/wp-content/uploads/2023/01/RGDAs-General-Assembly.pdf",
+    "title": "RGDA's General Assembly",
+    "publisher": "RGDA",
+    "years": "2021 observation; snapshot dated October 2022",
+    "methodology": "Association snapshot; the slide gives no company frame, sampling method, or employee/collaborator split.",
+    "assessment": "Primary source for 6,700 employees and collaborators, +12% versus 2020. It establishes a new explicitly collaborator-inclusive label, so 2020's employee-only wording remains non-comparable.",
+    "access_status": "full_source; image-first PDF, search-indexed text verified; downloaded original retained in raw/",
+    "next_step": "Add as collaborator-inclusive series point only."
+  },
+  {
+    "url": "https://rgda.ro/wp-content/uploads/2023/10/2023-10-05-RGDA-Infografic-industrie-2022-EN.pdf",
+    "title": "Romanian video-games industry development 2022",
+    "publisher": "RGDA",
+    "years": "2022",
+    "methodology": "Association infographic; method not stated on the recorded headline.",
+    "assessment": "Existing 6,800 employees/collaborators point. No retrospective revision found in later primary material.",
+    "access_status": "full_source (pre-existing packet)",
+    "next_step": "Leave accepted source unchanged."
+  },
+  {
+    "url": "https://rgda.ro/wp-content/uploads/2024/11/RGDA_2024_snapshot_07_EN.pdf",
+    "title": "Romanian video-games industry development 2023",
+    "publisher": "RGDA",
+    "years": "2023",
+    "methodology": "Association infographic; headline labels the measure 'Employees/collabs'.",
+    "assessment": "Existing rounded 6,600 employees/collaborators point. Its reported EUR317m turnover and EUR48,154 turnover per employee imply an unreported denominator near 6,583, showing that the displayed 6,600 is rounded.",
+    "access_status": "full_source",
+    "next_step": "Do not replace 6,600 with an implied denominator."
+  },
+  {
+    "url": "https://rgda.ro/wp-content/uploads/2025/09/2025-09-12-RGDA-Romania-game-development-industry-in-2024-EN-BT.pdf",
+    "title": "Romania game development industry in 2024",
+    "publisher": "RGDA and Banca Transilvania",
+    "years": "2024",
+    "methodology": "Association/bank industry report; headcount headline says '6,100 employees' and publication does not disclose employee/contractor split or a revision table.",
+    "assessment": "Existing employee-wording 2024 point. The reported -7.4% is compatible with a 2023 denominator around 6,588 and therefore with the prior rounded 6,600 display, but does not publish a revised 2023 count. The new wording alone does not prove collaborators were excluded.",
+    "access_status": "full_source",
+    "next_step": "Keep 2024 as its own employee-wording series; do not derive an exact prior-year count from -7.4%."
+  },
+  {
+    "url": "https://insse.ro/",
+    "title": "Institutul National de Statistica",
+    "publisher": "National Institute of Statistics, Romania",
+    "years": "Checked for 2015-2024 dedicated national game-development employment series",
+    "methodology": "Official statistical portal; no dedicated game-development workforce series identified in the bounded search.",
+    "assessment": "No source-native government headcount found. Broad industry classifications would not isolate game development and would have a different population from RGDA's studio compilation.",
+    "access_status": "portal reachable; no relevant dedicated series located",
+    "next_step": "Do not substitute a broad CAEN/IT series for RGDA's game-industry headcount without an explicit concordance and extract."
+  }
+]

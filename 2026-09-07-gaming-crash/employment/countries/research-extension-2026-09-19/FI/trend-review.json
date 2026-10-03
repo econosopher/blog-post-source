@@ -1,0 +1,24 @@
+{
+  "review_date": "2026-09-19",
+  "series_ids": [
+    "FI_domestic_explicit_fte",
+    "FI_domestic_2024_fte"
+  ],
+  "decision": "Eligible two-point domestic FTE comparison with method caveat",
+  "years": [
+    2022,
+    2024
+  ],
+  "values": [
+    3700,
+    3800
+  ],
+  "qualifier": "both approximately",
+  "source_locators": [
+    "2022 report printedp20",
+    "2024 report printedp12"
+  ],
+  "population": "Game studios in Finland; entrepreneurs included; overseas staff separate",
+  "method": "Interviews plus other sources to estimate entire industry.134 studios interviewed2022;71 interviewed2024 plus public-source coverage. Not a constant respondent panel.",
+  "limits": "Rounded estimates; do not infer precise percentage growth, interpolate missing2023, or combine worldwide staff with domestic FTE."
+}

@@ -1,0 +1,159 @@
+{
+  "country": "India",
+  "iso2": "IN",
+  "priority": "additional",
+  "coverage_status": "context_only",
+  "summary": "Government-hosted EY report estimates around 66,000 gaming professionals, while a 2025 Primus report says 130,000 in more than 1,900 gaming companies. Their observation dates and gaming/RMG boundaries are not sufficiently defined for a national core comparison; no synthetic trend is created.",
+  "preferred_series_ids": [],
+  "search_log": [
+    {
+      "route": "statistical_agency",
+      "query": "site.pib.gov.in game industry employment developers AVGC 2025",
+      "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2096169&lang=1&reg=3",
+      "outcome": "Government AVGC policy figures found but too broad; government-hosted EY gaming estimate inspected."
+    },
+    {
+      "route": "industry_association",
+      "query": "site.gdai.in employment annual report 2025 India game developers",
+      "url": "https://gdai.in/about/",
+      "outcome": "GDAI membership and future jobs vision are not a measured stock. Current 2026 academic survey is still a collection initiative."
+    },
+    {
+      "route": "local_language",
+      "query": "भारत गेमिंग उद्योग कर्मचारी रोजगार 2025 डेवलपर",
+      "url": "https://static.pib.gov.in/WriteReadData/specificdocs/documents/2026/feb/doc2026217794401.pdf",
+      "outcome": "Hindi policy and employment reporting checked; many job totals refer to RMG-ban exposure or future opportunities, not a core workforce count."
+    }
+  ],
+  "sources": [
+    {
+      "source_id": "IN_mibey2025",
+      "title": "A studio called India",
+      "publisher": "Ministry of Information and Broadcasting / EY",
+      "url": "https://www.mib.gov.in/sites/default/files/2025-06/a-studio-called-india_0.pdf",
+      "publication_date": null,
+      "retrieved_date": "2026-09-09",
+      "source_type": "research_partner",
+      "local_file": "raw/IN/mib2025-studio.pdf",
+      "locator": "pp 11,89,92,122",
+      "access_status": "full_source",
+      "notes": "Government-hosted primary research report. 2025 edition; exact publication day not verified. Methodology warns that significant assumptions underlie employment estimates."
+    },
+    {
+      "source_id": "IN_primus2025",
+      "title": "India’s $9.2 B Gaming Boom: Powered by 591 M Players and AI",
+      "publisher": "Primus Partners",
+      "url": "https://primuspartners.in/docs/documents/India%E2%80%99s%209.2B%20Dollar%20Gaming%20Boom_Powered%20by%20591M%20Players%20and%20AI.pdf",
+      "publication_date": null,
+      "retrieved_date": "2026-09-09",
+      "source_type": "research_partner",
+      "local_file": "raw/IN/primus2025.pdf",
+      "locator": "PDF pp 5,23",
+      "access_status": "full_source",
+      "notes": ""
+    }
+  ],
+  "series": [
+    {
+      "series_id": "IN_ey2025",
+      "label": "Gaming-sector estimated employment",
+      "measure": "employment_stock",
+      "unit": "people",
+      "industry_scope": "Game development/services and online gaming; examples include real-money/fantasy-related businesses",
+      "occupation_scope": "All occupations within covered businesses",
+      "geography_basis": "domestic_workplace",
+      "geography_note": "People working in the country; nationality not implied.",
+      "worker_status": "Source-reported workers; detailed status treatment not specified",
+      "contractor_treatment": "Unknown; not assumed to include independent contractors",
+      "nationality_definition": "Not reported",
+      "method": "EY/MESC estimates combining industry discussions, associations, secondary research and assumptions; p 122.",
+      "population_basis": "national_estimate",
+      "sample_size": "unknown",
+      "comparability_group": "IN_ey2025",
+      "chart_eligible": false,
+      "trend_eligible": false,
+      "index_2019_eligible": false,
+      "comparison_note": "Undated current estimate and unresolved online-gaming/RMG boundary; excluded from dated domestic core comparison.",
+      "source_native_term": "Gaming-sector estimated employment",
+      "term_translation": "Gaming-sector estimated employment"
+    },
+    {
+      "series_id": "IN_primus2025",
+      "label": "Gaming-company employment estimate",
+      "measure": "employment_stock",
+      "unit": "people",
+      "industry_scope": "Over 1,900 gaming companies; scope not isolated to core video-game development",
+      "occupation_scope": "All occupations within covered businesses",
+      "geography_basis": "domestic_workplace",
+      "geography_note": "People working in the country; nationality not implied.",
+      "worker_status": "Source-reported workers; detailed status treatment not specified",
+      "contractor_treatment": "Unknown; not assumed to include independent contractors",
+      "nationality_definition": "Not reported",
+      "method": "Report summary claim; reproducible employment estimation method not supplied alongside claim.",
+      "population_basis": "unknown",
+      "sample_size": "unknown",
+      "comparability_group": "IN_primus2025",
+      "chart_eligible": false,
+      "trend_eligible": false,
+      "index_2019_eligible": false,
+      "comparison_note": "130,000 claim is separate from EY 66,000 estimate, not a subsequent observation proving growth.",
+      "source_native_term": "Gaming-company employment estimate",
+      "term_translation": "Gaming-company employment estimate"
+    }
+  ],
+  "observations": [
+    {
+      "observation_id": "IN_ey2025_None_IN_mibey2025_0",
+      "series_id": "IN_ey2025",
+      "source_id": "IN_mibey2025",
+      "observation_period": "Observation year unstated",
+      "year": null,
+      "value": 66000,
+      "value_low": null,
+      "value_high": null,
+      "status": "estimated",
+      "preferred": true,
+      "subgroup": "all",
+      "denominator": "Covered industry workforce",
+      "source_locator": "pp 11 and 92",
+      "publication_vintage": "IN_mibey2025",
+      "method_break": false,
+      "break_note": "",
+      "derivation": "",
+      "notes": "Report calls this current employment; adjacent 2024 gamer statistic does not establish employment observation year.",
+      "value_qualifier": "approximately"
+    },
+    {
+      "observation_id": "IN_primus2025_None_IN_primus2025_1",
+      "series_id": "IN_primus2025",
+      "source_id": "IN_primus2025",
+      "observation_period": "Observation year unstated",
+      "year": null,
+      "value": 130000,
+      "value_low": null,
+      "value_high": null,
+      "status": "estimated",
+      "preferred": true,
+      "subgroup": "all",
+      "denominator": "Covered industry workforce",
+      "source_locator": "PDF p 5",
+      "publication_vintage": "IN_primus2025",
+      "method_break": false,
+      "break_note": "",
+      "derivation": "",
+      "notes": "1.3 lakh converted to 130,000; observation date unstated.",
+      "value_qualifier": "approximately"
+    }
+  ],
+  "limitations": [
+    "India reporting often combines video games, online real-money gaming, esports and wider AVGC.",
+    "66,000 and 130,000 estimates conflict; dates and worker definitions do not allow reconciliation.",
+    "Forecasts of 250,000 jobs and association vision of 500,000+ jobs are not employment observations.",
+    "No verified national contractor or foreign-national proportion."
+  ],
+  "review_checks": [
+    "Read both full PDFs and EY employment methodology.",
+    "Undated workforce estimates were not assigned adjacent player-market observation dates."
+  ],
+  "research_complete": true
+}

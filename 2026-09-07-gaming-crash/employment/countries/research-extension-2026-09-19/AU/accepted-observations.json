@@ -1,0 +1,38 @@
+[
+  {
+    "country": "Australia",
+    "iso2": "AU",
+    "series_id": "AU_abs_historical_snapshots",
+    "year": 2007,
+    "value": 1431,
+    "unit": "people",
+    "period": "Last pay period ending June 2007",
+    "url": "https://www.abs.gov.au/AUSSTATS/abs%40.nsf/mf/8515.0",
+    "source_locator": "Summary of findings: Employment",
+    "status": "accepted_primary_verified",
+    "definition": "Businesses primarily developing digital games; census headcount, not FTE. ABS cautions historical change estimates; retain as snapshots, separate from IGEA.",
+    "trend_eligible": false,
+    "chart_eligible": true,
+    "marker_only": true,
+    "trend_review": "Both are ABS headcounts at the last pay period ending June, but the archive describes changing scope/coverage and expressly cautions historical comparison. The country catalogue likewise records AU_abs_headcount as chart_eligible but trend_eligible false and prohibits joining it to IGEA. Isolated markers only; no connecting lines.",
+    "observation_period": "last pay period ending June 2007"
+  },
+  {
+    "country": "Australia",
+    "iso2": "AU",
+    "series_id": "AU_abs_historical_snapshots",
+    "year": 2012,
+    "value": 581,
+    "unit": "people",
+    "period": "Last pay period ending June 2012",
+    "url": "https://www.abs.gov.au/AUSSTATS/abs%40.nsf/Previousproducts/8679.0Main%20Features32011-12",
+    "source_locator": "Financial activity: Digital game developers",
+    "status": "accepted_primary_verified",
+    "definition": "Businesses primarily developing digital games; census headcount, not FTE. ABS cautions historical change estimates; retain as snapshots, separate from IGEA.",
+    "trend_eligible": false,
+    "chart_eligible": true,
+    "marker_only": true,
+    "trend_review": "Both are ABS headcounts at the last pay period ending June, but the archive describes changing scope/coverage and expressly cautions historical comparison. The country catalogue likewise records AU_abs_headcount as chart_eligible but trend_eligible false and prohibits joining it to IGEA. Isolated markers only; no connecting lines.",
+    "observation_period": "last pay period ending June 2012"
+  }
+]

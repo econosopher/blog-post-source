@@ -1,0 +1,21 @@
+{
+  "review_date": "2026-09-19",
+  "decision": "2021 employees and collaborators extends the 2022-2023 collaborator-inclusive series only. 2020 6,000+ is an isolated qualified headline; no employee-only 2024 join.",
+  "original_packets_modified": false,
+  "observations": [
+    {
+      "year": 2020,
+      "series_id": "RO_earlier_benchmark",
+      "chart_eligible": true,
+      "trend_eligible": false,
+      "marker_only": true
+    },
+    {
+      "year": 2021,
+      "series_id": "RO_employees_collaborators",
+      "chart_eligible": true,
+      "trend_eligible": true,
+      "marker_only": false
+    }
+  ]
+}

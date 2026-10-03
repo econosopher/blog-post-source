@@ -1,0 +1,57 @@
+{
+  "checked_on": "2026-09-19",
+  "new_observations": 0,
+  "decision": "No valid games-only historical workforce series from these broad industry codes",
+  "sources": [
+    {
+      "url": "https://ftp.ibge.gov.br/Informacoes_Gerais_e_Referencia/Classificacoes/CNAE/cnae2_2/cnae2_2_subclasses_20150609.pdf",
+      "title": "CNAE subclasses 2.2: official explanatory notes",
+      "publisher": "IBGE",
+      "years": "Historical CNAE 2.2 documentation, 2015 file",
+      "methodology": "PDF page429 places computer games for all platforms in 6203-1/00 alongside operating systems and general applications. Pages285-286 classify electronic game manufacturing separately and exclude videogame apparatus to2640-0/00.",
+      "assessment": "Do not use total6203-1/00 employment as games employment. Manufacturing label3240-0/01 is not a game-software developer category.",
+      "access_status": "Full original PDF downloaded and relevant pages extracted",
+      "next_step": "Historical code coverage verified; a separate company roster would be needed to isolate software games."
+    },
+    {
+      "url": "https://cnae.ibge.gov.br/?subclasse=6203100&tipo=cnae&versao=&view=subclasse",
+      "title": "IBGE online lookup: 6203-1/00",
+      "publisher": "IBGE/CONCLA",
+      "years": "Current indexed lookup checked 19 September 2026",
+      "methodology": "Games and virtual game items appear among descriptors of a broader non-customizable software subclass.",
+      "assessment": "Descriptors are not separate statistical subclasses; cannot extract a national games workforce from the overall code.",
+      "access_status": "Official search-index text reviewed; direct web and HTTP both failed (403/internal error)",
+      "next_step": "Retain index/full-PDF access distinction; do not claim all current classification revisions audited."
+    },
+    {
+      "url": "https://agenciadenoticias.ibge.gov.br/en/agencia-news/2184-news-agency/news/47252-ibge-e-fiesp-reforcam-parceria-em-seminario-pelos-90-anos-do-instituto-3",
+      "title": "IBGE and Fiesp seminar: CNAE 3.0 implementation timetable",
+      "publisher": "IBGE News Agency",
+      "years": "2026 announcement; implementation planned for2027",
+      "methodology": "Indexed official report quotes IBGE classification coordinator on planned CNAE3.0 implementation in2027.",
+      "assessment": "Planning evidence only: not implemented games-specific codes, historical crosswalk, or employment data.",
+      "access_status": "Official indexed text reviewed; full page returns403",
+      "next_step": "Check final adopted structure and crosswalk when available; do not treat an old strategic target as implementation proof."
+    },
+    {
+      "url": "https://www.gov.br/trabalho-e-emprego/pt-br/noticias-e-conteudo/2026/marco/mte-atualiza-classificacao-brasileira-de-ocupacoes-e-inclui-seis-novas-atividades",
+      "title": "MTE announcement of six new occupations",
+      "publisher": "Ministério do Trabalho e Emprego",
+      "years": "March2026 URL",
+      "methodology": "Original announcement linked by Abragames. Direct access redirects to restricted-content login.",
+      "assessment": "Unverified original instrument; no code, date or employment count accepted from this page.",
+      "access_status": "Restricted-content redirect confirmed",
+      "next_step": "Find public official CBO structure and effective dates; no login required for current research."
+    },
+    {
+      "url": "https://www.linkedin.com/posts/abragames---brazilian-association-of-game-development-companies_gamesdev-jogoseletr%C3%B4nicos-mercadodetrabalho-activity-7442246581761781761-zrHD",
+      "title": "Abragames announcement: three games occupations recognized",
+      "publisher": "Abragames",
+      "years": "2026 announcement; exact date not verified",
+      "methodology": "Association reports recognition of visual game artist, game designer and game narrative designer in CBO; links MTE announcement.",
+      "assessment": "Useful primary association lead. Occupations differ from industry; three roles do not capture whole games workforce or provide historical coverage.",
+      "access_status": "Association post text available in search index; underlying MTE page restricted",
+      "next_step": "Verify CBO codes/effective dates and reporting uptake before considering a separate occupation series."
+    }
+  ]
+}
